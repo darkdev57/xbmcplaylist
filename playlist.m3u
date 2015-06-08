@@ -1078,7 +1078,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=889&flavour=sd
 #EXTINF:-1 tvg-id="" tvg-logo="pinkmusic.png" tvg-name="pinkmusic" group-title="SD",Pink Music (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=890&flavour=sd
 #EXTINF:-1 tvg-id="TF1.kazer.org" tvg-name="TF1" tvg-logo="tf1.png" group-title="WebTV",TF1
-http://medias.streaming-hub.com:8090/hls/tf1.m3u8
+http://streaming-hub.com/tv/i/tf1_1@97468/index_1300_av-p.m3u8
 #EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-name="France 2" tvg-logo="france2.png" group-title="WebTV",France 2
 http://live.francetv.fr/simulcast/France_2/hls_v1/index.m3u8
 #EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-name="France 3" tvg-logo="france3.png" group-title="WebTV",France 3
@@ -1107,8 +1107,10 @@ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_
 http://stream-l3-4.vty.dmcdn.net/17/dm/1/x13p3qi/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="FRA1.kazer.org" tvg-name="France O" tvg-logo="franceo.png" group-title="WebTV",France O
 http://live.francetv.fr/simulcast/France_O/hls_v1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="I Télé" tvg-logo="itele.png" group-title="WebTV",I Télé
+#EXTINF:-1 tvg-id="" tvg-name="itele" tvg-logo="itele.png" group-title="WebTV",I Télé
 http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="euronews.png" group-title="WebTV",Euronews
+http://176.31.228.230/origin01/amlst:euronews/chunklist_w1909056669_b800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="bfmtv.png" group-title="WebTV",BFM TV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="france24.png" group-title="WebTV",France 24
@@ -1124,7 +1126,7 @@ http://medias2.francetv.fr/playlists/zouzous/zouzous_tablettes.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDF1" tvg-logo="idf1.png" group-title="WebTV",IDF1
 http://stream7.idf1.yacast.net/iphone/idf1/live01/idf1_live01hd.m3u8
 #EXTINF:-1 tvg-id="RMC2.kazer.org" tvg-name="RMC Découverte" tvg-logo="rmcdecouverte.png" group-title="WebTV",RMC Découverte
-rtmp://vipwowza.yacast.net/rmc_decouverte_rtmp//live
+http://188.165.101.226/mobile2/_definst_/amlst:rmc-decouverte-hd_ptvb/chunklist_w492708805_b298000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LaTélé" tvg-logo="latele.png" group-title="WebTV",LaTélé
 http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MenUpTv" tvg-logo="menuptv.png" group-title="WebTV",MenUpTv
