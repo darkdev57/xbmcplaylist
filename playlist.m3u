@@ -1154,7 +1154,7 @@ rtmp://109.163.232.58:1935/live/nickcc.stream
 #EXTINF:-1 tvg-id="" tvg-name="disneychannel" tvg-logo="disneychannel.png" group-title="WebTV-DE",Disney Channel
 rtmp://192.16.11.39/1935/live/disney_channel.stream
 #EXTINF:-1 tvg-id="" tvg-name="dmax" tvg-logo="dmax.png" group-title="WebTV-DE",DMAX
-rtmp://109.163.232.58:1935/live/dmax.stream
+rtmp://82.150.152.241:1935/live/dmax.stream
 #EXTINF:-1 tvg-id="" tvg-name="eurosport" tvg-logo="eurosport.png" group-title="WebTV-DE",Eurosport
 rtmp://82.150.152.241:1935/live/eurosport.stream
 #EXTINF:-1 tvg-id="" tvg-name="joiz" tvg-logo="joiz.png" group-title="WebTV-DE",Joiz
