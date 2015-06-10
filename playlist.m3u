@@ -1144,29 +1144,33 @@ rtmp://str81.creacast.com:80/weo/high
 #EXTINF:-1 tvg-id="" tvg-name="3plus" tvg-logo="3plus.png" group-title="WebTV-DE",3+
 rtmp://82.150.152.241:1935/live/3plus.stream
 #EXTINF:-1 tvg-id="" tvg-name="3sat" tvg-logo="3sat.png" group-title="WebTV-DE",3Sat
-rtmp://192.16.11.39:1935/live/3sat.stream
+rtmp://82.150.152.241:1935/live/3sat.stream
 #EXTINF:-1 tvg-id="" tvg-name="ard" tvg-logo="ard.png" group-title="WebTV-DE",ARD
 rtmp://109.163.232.58:1935/live/ard.stream
 #EXTINF:-1 tvg-id="" tvg-name="arte" tvg-logo="arte.png" group-title="WebTV-DE",Arte
-rtmp://192.16.11.39:1935/live/arte.stream
+rtmp://109.163.232.58:1935/live/arte.stream
 #EXTINF:-1 tvg-id="" tvg-name="nickcc" tvg-logo="nickcc.png" group-title="WebTV-DE",NickCC
-rtmp://192.16.11.39:1935/live/nickcc.stream
+rtmp://109.163.232.58:1935/live/nickcc.stream
+#EXTINF:-1 tvg-id="" tvg-name="disneychannel" tvg-logo="disneychannel.png" group-title="WebTV-DE",Disney Channel
+rtmp://192.16.11.39/1935/live/disney_channel.stream
 #EXTINF:-1 tvg-id="" tvg-name="dmax" tvg-logo="dmax.png" group-title="WebTV-DE",DMAX
-rtmp://82.150.152.241:1935/live/dmax.stream
+rtmp://109.163.232.58:1935/live/dmax.stream
 #EXTINF:-1 tvg-id="" tvg-name="eurosport" tvg-logo="eurosport.png" group-title="WebTV-DE",Eurosport
-rtmp://109.163.232.58:1935/live/eurosport.stream
+rtmp://82.150.152.241:1935/live/eurosport.stream
 #EXTINF:-1 tvg-id="" tvg-name="joiz" tvg-logo="joiz.png" group-title="WebTV-DE",Joiz
 rtmp://82.150.152.241:1935/live/joiz.stream
 #EXTINF:-1 tvg-id="" tvg-name="kabel1" tvg-logo="kabel1.png" group-title="WebTV-DE",Kabel1
 rtmp://82.150.152.241:1935/live/kabel1.stream
 #EXTINF:-1 tvg-id="" tvg-name="kika" tvg-logo="kika.png" group-title="WebTV-DE",KiKa
-rtmp://192.16.11.39:1935/live/kika.stream
+rtmp://82.150.152.241:1935/live/kika.stream
 #EXTINF:-1 tvg-id="" tvg-name="ltv" tvg-logo="ltv.png" group-title="WebTV-DE",LTV
 rtmp://62.113.210.105/ltv-live/livestream
 #EXTINF:-1 tvg-id="" tvg-name="mdr" tvg-logo="mdr.png" group-title="WebTV-DE",mdr
-rtmp://82.150.152.241:1935/live/mdr.stream
+rtmp://192.16.11.39:1935/live/mdr.stream
 #EXTINF:-1 tvg-id="" tvg-name="n24" tvg-logo="n24.png" group-title="WebTV-DE",N24
 rtmp://192.16.11.39:1935/live/n24.stream
+#EXTINF:-1 tvg-id="" tvg-name="ntv" tvg-logo="ntv.png" group-title="WebTV-DE",N-TV
+rtmp://192.16.11.39:1935/live/ntv.stream
 #EXTINF:-1 tvg-id="" tvg-name="ndr" tvg-logo="ndr.png" group-title="WebTV-DE",ndr
 rtmp://109.163.232.58:1935/live/ndr.stream
 #EXTINF:-1 tvg-id="" tvg-name="orf1" tvg-logo="orf1.png" group-title="WebTV-DE",ORF1
@@ -1174,7 +1178,7 @@ rtmp://192.16.11.39:1935/live/orf1.stream
 #EXTINF:-1 tvg-id="" tvg-name="orf2" tvg-logo="orf2.png" group-title="WebTV-DE",ORF2
 rtmp://192.16.11.39:1935/live/orf2.stream
 #EXTINF:-1 tvg-id="" tvg-name="phoenix" tvg-logo="phoenix.png" group-title="WebTV-DE",Phoenix
-rtmp://109.163.232.58:1935/live/phoenix.stream
+rtmp://192.16.11.39:1935/live/phoenix.stream
 #EXTINF:-1 tvg-id="" tvg-name="pro7" tvg-logo="pro7.png" group-title="WebTV-DE",Pro7
 rtmp://192.16.11.39:1935/live/pro7.stream
 #EXTINF:-1 tvg-id="" tvg-name="rbb" tvg-logo="rbb.png" group-title="WebTV-DE",rbb
@@ -1182,19 +1186,19 @@ rtmp://192.16.11.39:1935/live/rbb.stream
 #EXTINF:-1 tvg-id="" tvg-name="rfh" tvg-logo="rfh.png" group-title="WebTV-DE",rfh
 rtmp://62.113.210.250/medienasa-live/RFH_high
 #EXTINF:-1 tvg-id="" tvg-name="rtl" tvg-logo="rtl.png" group-title="WebTV-DE",RTL
-rtmp://82.150.152.241:1935/live/rtl.stream
-#EXTINF:-1 tvg-id="" tvg-name="rtlii" tvg-logo="rtlii.png" group-title="WebTV-DE",RTL II
-rtmp://109.163.232.58:1935/live/rtl2.stream
+rtmp://109.163.232.58:1935/live/rtl.stream
+#EXTINF:-1 tvg-id="" tvg-name="rtl2" tvg-logo="rtl2.png" group-title="WebTV-DE",RTL II
+rtmp://192.16.11.39:1935/live/rtl2.stream
 #EXTINF:-1 tvg-id="" tvg-name="rtlnitro" tvg-logo="rtlnitro.png" group-title="WebTV-DE",RTL nitro
-rtmp://109.163.232.58:1935/live/rtlnitro.stream
+rtmp://82.150.152.241:1935/live/rtlnitro.stream
 #EXTINF:-1 tvg-id="" tvg-name="sat1" tvg-logo="sat1.png" group-title="WebTV-DE",Sat1
 rtmp://82.150.152.241:1935/live/sat1.stream
 #EXTINF:-1 tvg-id="" tvg-name="servustv" tvg-logo="servustv.png" group-title="WebTV-DE",ServusTV
-rtmp://82.150.152.241:1935/live/servustv.stream
+rtmp://109.163.232.58:1935/live/servustv.stream
 #EXTINF:-1 tvg-id="" tvg-name="sf1" tvg-logo="sf1.png" group-title="WebTV-DE",SF1
-rtmp://192.16.11.39:1935/live/sf1.stream
+rtmp://109.163.232.58:1935/live/sf1.stream
 #EXTINF:-1 tvg-id="" tvg-name="sf2" tvg-logo="sf2.png" group-title="WebTV-DE",SF2
-rtmp://109.163.232.58:1935/live/sf2.stream
+rtmp://192.16.11.39:1935/live/sf2.stream
 #EXTINF:-1 tvg-id="" tvg-name="sixx" tvg-logo="sixx.png" group-title="WebTV-DE",SIXX
 rtmp://109.163.232.58:1935/live/sixx.stream
 #EXTINF:-1 tvg-id="" tvg-name="sport1" tvg-logo="sport1.png" group-title="WebTV-DE",Sport1
@@ -1202,11 +1206,11 @@ rtmp://192.16.11.39:1935/live/sport1.stream
 #EXTINF:-1 tvg-id="" tvg-name="superrtl" tvg-logo="superrtl.png" group-title="WebTV-DE",Super RTL
 rtmp://82.150.152.241:1935/live/superrtl.stream
 #EXTINF:-1 tvg-id="" tvg-name="tele5" tvg-logo="tele5.png" group-title="WebTV-DE",TELE 5
-rtmp://82.150.152.241:1935/live/tele5.stream
+rtmp://109.163.232.58:1935/live/tele5.stream
 #EXTINF:-1 tvg-id="" tvg-name="viva" tvg-logo="viva.png" group-title="WebTV-DE",VIVA
 rtmp://109.163.232.58:1935/live/viva.stream
 #EXTINF:-1 tvg-id="" tvg-name="vox" tvg-logo="vox.png" group-title="WebTV-DE",VOX
-rtmp://109.163.232.58:1935/live/vox.stream
+rtmp://82.150.152.241:1935/live/vox.stream
 #EXTINF:-1 tvg-id="" tvg-name="wdr" tvg-logo="wdr.png" group-title="WebTV-DE",WDR
 rtmp://82.150.152.241:1935/live/wdr.stream
 #EXTINF:-1 tvg-id="" tvg-name="zdf" tvg-logo="zdf.png" group-title="WebTV-DE",ZDF
@@ -1216,7 +1220,7 @@ rtmp://94.20.21.226:1935/live/zdfinfo.stream
 #EXTINF:-1 tvg-id="" tvg-name="zdfkultur" tvg-logo="zdfkultur.png" group-title="WebTV-DE",ZDF kultur
 rtmp://94.20.21.226:1935/live/zdfkultur.stream
 #EXTINF:-1 tvg-id="" tvg-name="zdfneo" tvg-logo="zdfneo.png" group-title="WebTV-DE",ZDF neo
-rtmp://82.150.152.241:1935/live/zdfneo.stream
+rtmp://192.16.11.39:1935/live/zdfneo.stream
 #EXTINF:-1 tvg-id="" tvg-logo="europe1" tvg-name="europe1" group-title="Radio",Europe 1
 #EXTVLCOPT:ts-es-id-pid
 #EXTVLCOPT:no-video
