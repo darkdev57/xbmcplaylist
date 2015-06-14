@@ -1110,11 +1110,11 @@ http://live.francetv.fr/simulcast/France_O/hls_v1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="itele" tvg-logo="itele.png" group-title="WebTV",I Télé
 http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="euronews.png" group-title="WebTV",Euronews
-http://176.31.228.230/origin01/amlst:euronews/chunklist_w1909056669_b800000.m3u8
+http://streaming-hub.com/stream/euronews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="bfmtv.png" group-title="WebTV",BFM TV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="france24.png" group-title="WebTV",France 24
-http://tv.flux.france24.com/4684/02.m3u8
+http://streaming-hub.com/stream/france-24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LCP" tvg-logo="lcp.png" group-title="WebTV",LCP
 http://vipwowza.yacast.net/lcplive/_definst_/mp4:lcplive_HVGA/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="kto.png" group-title="WebTV",KTO
@@ -1141,58 +1141,62 @@ http://chkg.tdf-cdn.com/5687/index.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Weo" tvg-logo="weo.png" group-title="WebTV",Weo
 rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1 tvg-id="" tvg-name="chasseetpeche" tvg-logo="chasseetpeche.png" group-title="WebTV",Chasse et pêche
+rtmp://87.248.160.8:80/edge/mp4:chassepeche.stream_720p
+#EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="animaux.png" group-title="WebTV",Animaux
+rtmp://87.248.160.8:80/edge/mp4:animaux.stream_720p
 #EXTINF:-1 tvg-id="" tvg-name="3plus" tvg-logo="3plus.png" group-title="WebTV-DE",3+
 rtmp://82.150.152.241:1935/live/3plus.stream
 #EXTINF:-1 tvg-id="" tvg-name="3sat" tvg-logo="3sat.png" group-title="WebTV-DE",3Sat
 rtmp://82.150.152.241:1935/live/3sat.stream
-#EXTINF:-1 tvg-id="" tvg-name="ard" tvg-logo="ard.png" group-title="WebTV-DE",ARD
-rtmp://109.163.232.58:1935/live/ard.stream
-#EXTINF:-1 tvg-id="" tvg-name="arte" tvg-logo="arte.png" group-title="WebTV-DE",Arte
+#EXTINF:-1 tvg-id="" tvg-name="ARD" tvg-logo="ard.png" group-title="WebTV-DE",ARD
+http://streaming-hub.com/tv/i/daserste_1@97481/index_900_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV-DE",Arte
 rtmp://109.163.232.58:1935/live/arte.stream
-#EXTINF:-1 tvg-id="" tvg-name="nickcc" tvg-logo="nickcc.png" group-title="WebTV-DE",NickCC
+#EXTINF:-1 tvg-id="" tvg-name="NickCC" tvg-logo="nickcc.png" group-title="WebTV-DE",NickCC
 rtmp://109.163.232.58:1935/live/nickcc.stream
-#EXTINF:-1 tvg-id="" tvg-name="disneychannel" tvg-logo="disneychannel.png" group-title="WebTV-DE",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="disneychannel.png" group-title="WebTV-DE",Disney Channel
 rtmp://192.16.11.39/1935/live/disney_channel.stream
-#EXTINF:-1 tvg-id="" tvg-name="dmax" tvg-logo="dmax.png" group-title="WebTV-DE",DMAX
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="dmax.png" group-title="WebTV-DE",DMAX
 rtmp://82.150.152.241:1935/live/dmax.stream
-#EXTINF:-1 tvg-id="" tvg-name="eurosport" tvg-logo="eurosport.png" group-title="WebTV-DE",Eurosport
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="eurosport.png" group-title="WebTV-DE",Eurosport
 rtmp://82.150.152.241:1935/live/eurosport.stream
-#EXTINF:-1 tvg-id="" tvg-name="joiz" tvg-logo="joiz.png" group-title="WebTV-DE",Joiz
+#EXTINF:-1 tvg-id="" tvg-name="Joiz" tvg-logo="joiz.png" group-title="WebTV-DE",Joiz
 rtmp://82.150.152.241:1935/live/joiz.stream
-#EXTINF:-1 tvg-id="" tvg-name="kabel1" tvg-logo="kabel1.png" group-title="WebTV-DE",Kabel1
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1" tvg-logo="kabel1.png" group-title="WebTV-DE",Kabel 1
 rtmp://82.150.152.241:1935/live/kabel1.stream
-#EXTINF:-1 tvg-id="" tvg-name="kika" tvg-logo="kika.png" group-title="WebTV-DE",KiKa
+#EXTINF:-1 tvg-id="" tvg-name="KiKa" tvg-logo="kika.png" group-title="WebTV-DE",KiKa
 rtmp://82.150.152.241:1935/live/kika.stream
-#EXTINF:-1 tvg-id="" tvg-name="ltv" tvg-logo="ltv.png" group-title="WebTV-DE",LTV
+#EXTINF:-1 tvg-id="" tvg-name="LTV" tvg-logo="ltv.png" group-title="WebTV-DE",LTV
 rtmp://62.113.210.105/ltv-live/livestream
 #EXTINF:-1 tvg-id="" tvg-name="mdr" tvg-logo="mdr.png" group-title="WebTV-DE",mdr
 rtmp://192.16.11.39:1935/live/mdr.stream
-#EXTINF:-1 tvg-id="" tvg-name="n24" tvg-logo="n24.png" group-title="WebTV-DE",N24
+#EXTINF:-1 tvg-id="" tvg-name="N24" tvg-logo="n24.png" group-title="WebTV-DE",N24
 rtmp://192.16.11.39:1935/live/n24.stream
-#EXTINF:-1 tvg-id="" tvg-name="ntv" tvg-logo="ntv.png" group-title="WebTV-DE",N-TV
+#EXTINF:-1 tvg-id="" tvg-name="N-tv" tvg-logo="ntv.png" group-title="WebTV-DE",N-TV
 rtmp://192.16.11.39:1935/live/ntv.stream
 #EXTINF:-1 tvg-id="" tvg-name="ndr" tvg-logo="ndr.png" group-title="WebTV-DE",ndr
 rtmp://109.163.232.58:1935/live/ndr.stream
-#EXTINF:-1 tvg-id="" tvg-name="orf1" tvg-logo="orf1.png" group-title="WebTV-DE",ORF1
+#EXTINF:-1 tvg-id="" tvg-name="ORF1" tvg-logo="orf1.png" group-title="WebTV-DE",ORF1
 rtmp://192.16.11.39:1935/live/orf1.stream
-#EXTINF:-1 tvg-id="" tvg-name="orf2" tvg-logo="orf2.png" group-title="WebTV-DE",ORF2
+#EXTINF:-1 tvg-id="" tvg-name="ORF2" tvg-logo="orf2.png" group-title="WebTV-DE",ORF2
 rtmp://192.16.11.39:1935/live/orf2.stream
-#EXTINF:-1 tvg-id="" tvg-name="phoenix" tvg-logo="phoenix.png" group-title="WebTV-DE",Phoenix
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="phoenix.png" group-title="WebTV-DE",Phoenix
 rtmp://192.16.11.39:1935/live/phoenix.stream
-#EXTINF:-1 tvg-id="" tvg-name="pro7" tvg-logo="pro7.png" group-title="WebTV-DE",Pro7
-rtmp://192.16.11.39:1935/live/pro7.stream
+#EXTINF:-1 tvg-id="" tvg-name="Pro7" tvg-logo="pro7.png" group-title="WebTV-DE",Pro7
+http://streaming-hub.com/tv/i/prosieben_1@97456/index_900_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="rbb" tvg-logo="rbb.png" group-title="WebTV-DE",rbb
 rtmp://192.16.11.39:1935/live/rbb.stream
 #EXTINF:-1 tvg-id="" tvg-name="rfh" tvg-logo="rfh.png" group-title="WebTV-DE",rfh
 rtmp://62.113.210.250/medienasa-live/RFH_high
-#EXTINF:-1 tvg-id="" tvg-name="rtl" tvg-logo="rtl.png" group-title="WebTV-DE",RTL
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="rtl.png" group-title="WebTV-DE",RTL
 rtmp://109.163.232.58:1935/live/rtl.stream
-#EXTINF:-1 tvg-id="" tvg-name="rtl2" tvg-logo="rtl2.png" group-title="WebTV-DE",RTL II
-rtmp://192.16.11.39:1935/live/rtl2.stream
-#EXTINF:-1 tvg-id="" tvg-name="rtlnitro" tvg-logo="rtlnitro.png" group-title="WebTV-DE",RTL nitro
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="rtl2.png" group-title="WebTV-DE",RTL II
+http://streaming-hub.com/tv/i/rtl2_1@97460/index_900_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL Nitro" tvg-logo="rtlnitro.png" group-title="WebTV-DE",RTL nitro
 rtmp://82.150.152.241:1935/live/rtlnitro.stream
-#EXTINF:-1 tvg-id="" tvg-name="sat1" tvg-logo="sat1.png" group-title="WebTV-DE",Sat1
-rtmp://82.150.152.241:1935/live/sat1.stream
+#EXTINF:-1 tvg-id="" tvg-name="Sat1" tvg-logo="sat1.png" group-title="WebTV-DE",Sat1
+http://streaming-hub.com/tv/i/sat1_1@97461/index_900_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="servustv" tvg-logo="servustv.png" group-title="WebTV-DE",ServusTV
 rtmp://109.163.232.58:1935/live/servustv.stream
 #EXTINF:-1 tvg-id="" tvg-name="sf1" tvg-logo="sf1.png" group-title="WebTV-DE",SF1
@@ -1212,9 +1216,9 @@ rtmp://109.163.232.58:1935/live/viva.stream
 #EXTINF:-1 tvg-id="" tvg-name="vox" tvg-logo="vox.png" group-title="WebTV-DE",VOX
 rtmp://82.150.152.241:1935/live/vox.stream
 #EXTINF:-1 tvg-id="" tvg-name="wdr" tvg-logo="wdr.png" group-title="WebTV-DE",WDR
-rtmp://82.150.152.241:1935/live/wdr.stream
+http://streaming-hub.com/tv/i/wdr_1@97490/index_900_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="zdf" tvg-logo="zdf.png" group-title="WebTV-DE",ZDF
-rtmp://109.163.232.58:1935/live/zdf.stream
+http://streaming-hub.com/tv/i/zdf_1@97483/index_900_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="zdfinfo" tvg-logo="zdfinfo.png" group-title="WebTV-DE",ZDF info
 rtmp://94.20.21.226:1935/live/zdfinfo.stream
 #EXTINF:-1 tvg-id="" tvg-name="zdfkultur" tvg-logo="zdfkultur.png" group-title="WebTV-DE",ZDF kultur
