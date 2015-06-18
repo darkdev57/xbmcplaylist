@@ -1077,81 +1077,81 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=440&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=889&flavour=sd
 #EXTINF:-1 tvg-id="" tvg-logo="pinkmusic.png" tvg-name="pinkmusic" group-title="SD",Pink Music (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=890&flavour=sd
-#EXTINF:-1 tvg-id="TF1.kazer.org" tvg-name="TF1" tvg-logo="tf1.png" group-title="WebTV",TF1
+#EXTINF:-1 tvg-id="TF1.kazer.org" tvg-name="TF1" tvg-logo="tf1.png" group-title="WebTV-FR",TF1
 http://streaming-hub.com/tv/i/tf1_1@97468/index_1300_av-p.m3u8
-#EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-name="France 2" tvg-logo="france2.png" group-title="WebTV",France 2
+#EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-name="France 2" tvg-logo="france2.png" group-title="WebTV-FR",France 2
 http://live.francetv.fr/simulcast/France_2/hls_v1/index.m3u8
-#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-name="France 3" tvg-logo="france3.png" group-title="WebTV",France 3
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-name="France 3" tvg-logo="france3.png" group-title="WebTV-FR",France 3
 http://live.francetv.fr/simulcast/France_3/hls_v1/index.m3u8
-#EXTINF:-1 tvg-id="FRA4.kazer.org" tvg-name="France 4" tvg-logo="france4.png" group-title="WebTV",France 4
+#EXTINF:-1 tvg-id="FRA4.kazer.org" tvg-name="France 4" tvg-logo="france4.png" group-title="WebTV-FR",France 4
 http://live.francetv.fr/simulcast/France_4/hls_v1/index.m3u8
-#EXTINF:-1 tvg-id="FRA5.kazer.org" tvg-name="France 5" tvg-logo="france5.png" group-title="WebTV",France 5
+#EXTINF:-1 tvg-id="FRA5.kazer.org" tvg-name="France 5" tvg-logo="france5.png" group-title="WebTV-FR",France 5
 http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8
-#EXTINF:-1 tvg-id="ART1.kazer.org" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV",Arte
+#EXTINF:-1 tvg-id="ART1.kazer.org" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV-FR",Arte
 http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1 tvg-id="M61.kazer.org" tvg-name="M6" tvg-logo="m6.png" group-title="WebTV",M6
+#EXTINF:-1 tvg-id="M61.kazer.org" tvg-name="M6" tvg-logo="m6.png" group-title="WebTV-FR",M6
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="m6music.png" group-title="WebTV",M6 Music
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="m6music.png" group-title="WebTV-FR",M6 Music
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1 tvg-id="DIR1.kazer.org" tvg-name="D8" tvg-logo="d8.png" group-title="WebTV",D8
+#EXTINF:-1 tvg-id="DIR1.kazer.org" tvg-name="D8" tvg-logo="d8.png" group-title="WebTV-FR",D8
 http://hls-live-m1-l3.canal-plus.com/live/hls/d8-clair-v3-sd-andr7/and-sd-clair/index.m3u8
-#EXTINF:-1 tvg-id="W91.kazer.org" tvg-name="W9" tvg-logo="w9.png" group-title="WebTV",W9
+#EXTINF:-1 tvg-id="W91.kazer.org" tvg-name="W9" tvg-logo="w9.png" group-title="WebTV-FR",W9
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-#EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-name="NRJ12" tvg-logo="nrj12.png" group-title="WebTV",NRJ 12
+#EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-name="NRJ12" tvg-logo="nrj12.png" group-title="WebTV-FR",NRJ 12
 http://nrj-apple-live.adaptive.level3.net/apple/nrj/nrj/nrj12hi.m3u8
-#EXTINF:-1 tvg-id="EUR2.kazer.org" tvg-name="D17" tvg-logo="d17.png" group-title="WebTV",D17
+#EXTINF:-1 tvg-id="EUR2.kazer.org" tvg-name="D17" tvg-logo="d17.png" group-title="WebTV-FR",D17
 http://hls-live-m1-l3.canal-plus.com/live/hls/d17-clair-v3-sd-andr7/and-sd-clair/index.m3u8
-#EXTINF:-1 tvg-id="6TER.kazer.org" tvg-name="6TER" tvg-logo="6ter.png" group-title="WebTV",6Ter
+#EXTINF:-1 tvg-id="6TER.kazer.org" tvg-name="6TER" tvg-logo="6ter.png" group-title="WebTV-FR",6Ter
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
-#EXTINF:-1 tvg-id="NU23.kazer.org" tvg-name="Numéro 23" tvg-logo="n23.png" group-title="WebTV",Numéro 23
+#EXTINF:-1 tvg-id="NU23.kazer.org" tvg-name="Numéro 23" tvg-logo="n23.png" group-title="WebTV-FR",Numéro 23
 http://stream-l3-4.vty.dmcdn.net/17/dm/1/x13p3qi/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="FRA1.kazer.org" tvg-name="France O" tvg-logo="franceo.png" group-title="WebTV",France O
+#EXTINF:-1 tvg-id="FRA1.kazer.org" tvg-name="France O" tvg-logo="franceo.png" group-title="WebTV-FR",France O
 http://live.francetv.fr/simulcast/France_O/hls_v1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="rtsun.png" group-title="WebTV",RTS Un
+#EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="rtsun.png" group-title="WebTV-FR",RTS Un
 http://medias.streaming-hub.com:8090/hls/rtsun.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="rtsdeux.png" group-title="WebTV",RTS Deux
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="rtsdeux.png" group-title="WebTV-FR",RTS Deux
 http://streaming-hub.com/tv/i/rts2_1@97470/index_900_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="itele" tvg-logo="itele.png" group-title="WebTV",I Télé
+#EXTINF:-1 tvg-id="" tvg-name="itele" tvg-logo="itele.png" group-title="WebTV-FR",I Télé
 http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="euronews.png" group-title="WebTV",Euronews
+#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="euronews.png" group-title="WebTV-FR",Euronews
 http://streaming-hub.com/stream/euronews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="bfmtv.png" group-title="WebTV",BFM TV
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="bfmtv.png" group-title="WebTV-FR",BFM TV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="france24.png" group-title="WebTV",France 24
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="france24.png" group-title="WebTV-FR",France 24
 http://streaming-hub.com/stream/france-24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LCP" tvg-logo="lcp.png" group-title="WebTV",LCP
+#EXTINF:-1 tvg-id="" tvg-name="LCP" tvg-logo="lcp.png" group-title="WebTV-FR",LCP
 http://vipwowza.yacast.net/lcplive/_definst_/mp4:lcplive_HVGA/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="kto.png" group-title="WebTV",KTO
+#EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="kto.png" group-title="WebTV-FR",KTO
 http://mobile.ktotv.com/live/KTO_Layer1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFM Business" tvg-logo="bfmbus.png" group-title="WebTV",BFM Business
+#EXTINF:-1 tvg-id="" tvg-name="BFM Business" tvg-logo="bfmbus.png" group-title="WebTV-FR",BFM Business
 http://bfmlive-i.akamaihd.net/hls/live/214272/bfmbusiness/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zouzous" tvg-logo="zouzous.png" group-title="WebTV",Zouzous
+#EXTINF:-1 tvg-id="" tvg-name="Zouzous" tvg-logo="zouzous.png" group-title="WebTV-FR",Zouzous
 http://medias2.francetv.fr/playlists/zouzous/zouzous_tablettes.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="gulli.png" group-title="WebTV",Gulli
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="gulli.png" group-title="WebTV-FR",Gulli
 http://streaming-hub.com/stream/gulli.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IDF1" tvg-logo="idf1.png" group-title="WebTV",IDF1
+#EXTINF:-1 tvg-id="" tvg-name="IDF1" tvg-logo="idf1.png" group-title="WebTV-FR",IDF1
 http://stream7.idf1.yacast.net/iphone/idf1/live01/idf1_live01hd.m3u8
-#EXTINF:-1 tvg-id="RMC2.kazer.org" tvg-name="RMC Découverte" tvg-logo="rmcdecouverte.png" group-title="WebTV",RMC Découverte
+#EXTINF:-1 tvg-id="RMC2.kazer.org" tvg-name="RMC Découverte" tvg-logo="rmcdecouverte.png" group-title="WebTV-FR",RMC Découverte
 http://streaming-hub.com/stream/rmc-decouverte.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LaTélé" tvg-logo="latele.png" group-title="WebTV",LaTélé
+#EXTINF:-1 tvg-id="" tvg-name="LaTélé" tvg-logo="latele.png" group-title="WebTV-FR",LaTélé
 http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MenUpTv" tvg-logo="menuptv.png" group-title="WebTV",MenUpTv
+#EXTINF:-1 tvg-id="" tvg-name="MenUpTv" tvg-logo="menuptv.png" group-title="WebTV-FR",MenUpTv
 http://videos.mensup.fr/mensuptv/live/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Oui tv" tvg-logo="ouitv.png" group-title="WebTV",Oui Tv
+#EXTINF:-1 tvg-id="" tvg-name="Oui tv" tvg-logo="ouitv.png" group-title="WebTV-FR",Oui Tv
 http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rouge Tv" tvg-logo="rougetv.png" group-title="WebTV",Rouge Tv
+#EXTINF:-1 tvg-id="" tvg-name="Rouge Tv" tvg-logo="rougetv.png" group-title="WebTV-FR",Rouge Tv
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Equipe 21" tvg-logo="equipe21.png" group-title="WebTV",Equipe21
+#EXTINF:-1 tvg-id="" tvg-name="Equipe 21" tvg-logo="equipe21.png" group-title="WebTV-FR",Equipe21
 http://chkg.tdf-cdn.com/5687/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="I24" tvg-logo="i24.png" group-title="WebTV",I24
+#EXTINF:-1 tvg-id="" tvg-name="I24" tvg-logo="i24.png" group-title="WebTV-FR",I24
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Weo" tvg-logo="weo.png" group-title="WebTV",Weo
+#EXTINF:-1 tvg-id="" tvg-name="Weo" tvg-logo="weo.png" group-title="WebTV-FR",Weo
 rtmp://str81.creacast.com:80/weo/high
-#EXTINF:-1 tvg-id="" tvg-name="chasseetpeche" tvg-logo="chasseetpeche.png" group-title="WebTV",Chasse et pêche
+#EXTINF:-1 tvg-id="" tvg-name="chasseetpeche" tvg-logo="chasseetpeche.png" group-title="WebTV-FR",Chasse et pêche
 rtmp://87.248.160.8:80/edge/mp4:chassepeche.stream_720p
-#EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="animaux.png" group-title="WebTV",Animaux
+#EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="animaux.png" group-title="WebTV-FR",Animaux
 rtmp://87.248.160.8:80/edge/mp4:animaux.stream_720p
-#EXTINF:-1 tvg-id="" tvg-name="Mirabelle TV" tvg-logo="mirabelletv.png" group-title="WebTV",Mirabelle TV
+#EXTINF:-1 tvg-id="" tvg-name="Mirabelle TV" tvg-logo="mirabelletv.png" group-title="WebTV-FR",Mirabelle TV
 rtsp://str81.creacast.com/mirabelletv_bal/high
 #EXTINF:-1 tvg-id="" tvg-name="ARD" tvg-logo="ard.png" group-title="WebTV-DE",ARD
 http://streaming-hub.com/tv/i/daserste_1@97481/index_900_av-p.m3u8
@@ -1207,6 +1207,8 @@ rtmp://109.163.232.58:1935/live/orf1.stream
 rtmp://192.16.11.39:1935/live/orf2.stream
 #EXTINF:-1 tvg-id="" tvg-name="ORF2" tvg-logo="orf2.png" group-title="WebTV-DE",ORF2
 rtmp://109.163.232.58:1935/live/orf2.stream
+#EXTINF:-1 tvg-id="" tvg-name="ORF2" tvg-logo="orf2.png" group-title="WebTV-DE",ORF2
+rtmp://82.150.152.241:1935/live/orf2.stream
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="eurosport.png" group-title="WebTV-DE",Eurosport
 http://streaming-hub.com/tv/i/eurosportde_1@97452/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SportTimeTV1" tvg-logo="sporttimetv1.png" group-title="WebTV-DE",SportTimeTV1
@@ -1215,6 +1217,14 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
 #EXTINF:-1 tvg-id="" tvg-name="SportTimeTV3" tvg-logo="sporttimetv3.png" group-title="WebTV-DE",SportTimeTV3
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1 tvg-id="" tvg-name="SportTimeTV4" tvg-logo="sporttimetv4.png" group-title="WebTV-DE",SportTimeTV4
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1 tvg-id="" tvg-name="SportTimeTV5" tvg-logo="sporttimetv5.png" group-title="WebTV-DE",SportTimeTV5
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1 tvg-id="" tvg-name="SportTimeTV6" tvg-logo="sporttimetv6.png" group-title="WebTV-DE",SportTimeTV6
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:-1 tvg-id="" tvg-name="SportTimeTV7" tvg-logo="sporttimetv7.png" group-title="WebTV-DE",SportTimeTV7
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
 #EXTINF:-1 tvg-id="" tvg-name="NickCC" tvg-logo="nickcc.png" group-title="WebTV-DE",NickCC
 rtmp://109.163.232.58:1935/live/nickcc.stream
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="disneychannel.png" group-title="WebTV-DE",Disney Channel
@@ -1253,6 +1263,48 @@ rtmp://109.163.232.58:1935/live/tele5.stream
 rtmp://109.163.232.58:1935/live/viva.stream
 #EXTINF:-1 tvg-id="" tvg-name="wdr" tvg-logo="wdr.png" group-title="WebTV-DE",WDR
 http://streaming-hub.com/tv/i/wdr_1@97490/index_900_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRJ" tvg-logo="nrj.png" group-title="WebTV-FR-Radio",NRJ
+#EXTVLCOPT:no-video
+http://adwzg3.tdf-cdn.com/8470/nrj_165631.mp3
+#EXTINF:-1 tvg-id="" tvg-name="FUN Radio" tvg-logo="funradio.png" group-title="WebTV-FR-Radio",FUN Radio
+#EXTVLCOPT:no-video
+http://streaming.radio.funradio.fr:80/fun-1-44-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Rires et chansons" tvg-logo="riresetchansons.png" group-title="WebTV-FR-Radio",Rires et chansons
+#EXTVLCOPT:no-video
+http://adwzg3.tdf-cdn.com/8474/nrj_177978.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Nostalgie" tvg-logo="nostalgie.png" group-title="WebTV-FR-Radio",Nostalgie
+#EXTVLCOPT:no-video
+http://adwzg3.tdf-cdn.com/8472/nrj_172793.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Europe 1" tvg-logo="europe1.png" group-title="WebTV-FR-Radio",Europe 1
+#EXTVLCOPT:no-video
+http://mp3lg3.scdn.arkena.com/10489/europe1.mp3
+#EXTINF:-1 tvg-id="" tvg-name="RMC" tvg-logo="rmc.png" group-title="WebTV-FR-Radio",RMC
+#EXTVLCOPT:no-video
+http://mp3lg4.tdf-cdn.com/10160/rmc.mp3
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="rtl.png" group-title="WebTV-FR-Radio",RTL
+#EXTVLCOPT:no-video
+http://streaming.radio.rtl.fr/rtl-1-44-128
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="rtl2.png" group-title="WebTV-FR-Radio",RTL 2
+#EXTVLCOPT:no-video
+http://streaming.radio.rtl2.fr:80/rtl2-1-44-128
+#EXTINF:-1 tvg-id="" tvg-name="France Inter" tvg-logo="franceinter.png" group-title="WebTV-FR-Radio",France Inter
+#EXTVLCOPT:no-video
+http://mp3.live.tv-radio.com/franceinter/all/franceinterhautdebit.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Ouï FM" tvg-logo="ouifm.png" group-title="WebTV-FR-Radio",Ouï FM
+#EXTVLCOPT:no-video
+http://ouifm.ice.infomaniak.ch/ouifm-high.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Skyrock" tvg-logo="skyrock.png" group-title="WebTV-FR-Radio",Skyrock
+#EXTVLCOPT:no-video
+http://www.skyrock.fm/stream.php/webmaster-gratuit_64mp3.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Radio" tvg-logo="virginradio.png" group-title="WebTV-FR-Radio",Virgin Radio
+#EXTVLCOPT:no-video
+http://mp3lg4.tdf-cdn.com/9243/lag_164753.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Chérie FM" tvg-logo="cheriefm.png" group-title="WebTV-FR-Radio",Chérie FM
+#EXTVLCOPT:no-video
+http://adwzg3.tdf-cdn.com/8473/nrj_178499.mp3
+#EXTINF:-1 tvg-id="" tvg-name="RFM" tvg-logo="rfm.png" group-title="WebTV-FR-Radio",RFM
+#EXTVLCOPT:no-video
+http://mp3lg4.tdf-cdn.com/8376/goo_091150.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="europe1" tvg-name="europe1" group-title="Radio",Europe 1
 #EXTVLCOPT:ts-es-id-pid
 #EXTVLCOPT:no-video
