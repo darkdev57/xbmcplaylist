@@ -1094,7 +1094,7 @@ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_ae
 #EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="m6music.png" group-title="WebTV-FR",M6 Music
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:-1 tvg-id="DIR1.kazer.org" tvg-name="D8" tvg-logo="d8.png" group-title="WebTV-FR",D8
-http://hls-live-m1-l3.canal-plus.com/live/hls/d8-clair-v3-sd-andr7/and-sd-clair/index.m3u8
+http://stream.live-tv-direct.com:9180/live/hls/d8-clair-hd-and/and-hd-clair/index.m3u8
 #EXTINF:-1 tvg-id="W91.kazer.org" tvg-name="W9" tvg-logo="w9.png" group-title="WebTV-FR",W9
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
 #EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-name="NRJ12" tvg-logo="nrj12.png" group-title="WebTV-FR",NRJ 12
@@ -1231,6 +1231,8 @@ rtmp://109.163.232.58:1935/live/nickcc.stream
 rtmp://192.16.11.39/1935/live/disney_channel.stream
 #EXTINF:-1 tvg-id="" tvg-name="KiKa" tvg-logo="kika.png" group-title="WebTV-DE",KiKa
 rtmp://82.150.152.241:1935/live/kika.stream
+#EXTINF:-1 tvg-id="" tvg-name="KiKa" tvg-logo="kika.png" group-title="WebTV-DE",KiKa
+rtmp://109.163.232.58:1935/live/kika.stream
 #EXTINF:-1 tvg-id="" tvg-name="Ric TV" tvg-logo="rictv.png" group-title="WebTV-DE",Ric TV
 http://lb.hd-livestream.de:88/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Joiz" tvg-logo="joiz.png" group-title="WebTV-DE",Joiz
