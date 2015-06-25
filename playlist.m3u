@@ -1295,10 +1295,18 @@ http://streaming.radio.rtl.fr/rtl-1-44-128
 #EXTVLCOPT:ts-es-id-pid
 #EXTVLCOPT:no-video
 http://streaming.radio.rtl2.fr:80/rtl2-1-44-128
+#EXTINF:-1 tvg-id="" tvg-name="LOR'FM" tvg-logo="lorfm.png" group-title="WebTV-FR-Radio",LOR'FM
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+http://lorfm.ice.infomaniak.ch/lorfm-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="France Inter" tvg-logo="franceinter.png" group-title="WebTV-FR-Radio",France Inter
 #EXTVLCOPT:ts-es-id-pid
 #EXTVLCOPT:no-video
 http://mp3.live.tv-radio.com/franceinter/all/franceinterhautdebit.mp3
+#EXTINF:-1 tvg-id="" tvg-name="France Bleu" tvg-logo="francebleu.png" group-title="WebTV-FR-Radio",France Bleu
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+http://audio.scdn.arkena.com/11719/fb1071-midfi128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Ouï FM" tvg-logo="ouifm.png" group-title="WebTV-FR-Radio",Ouï FM
 #EXTVLCOPT:ts-es-id-pid
 #EXTVLCOPT:no-video
