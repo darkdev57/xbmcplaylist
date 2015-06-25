@@ -1143,9 +1143,9 @@ http://bfmlive-i.akamaihd.net/hls/live/214272/bfmbusiness/01.m3u8
 http://medias2.francetv.fr/playlists/zouzous/zouzous_tablettes.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="gulli.png" group-title="WebTV-FR",Gulli
 http://streaming-hub.com/stream/gulli.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="animania" tvg-logo="animania.png" group-title="WebTV",AniMania
+#EXTINF:-1 tvg-id="" tvg-name="animania" tvg-logo="animania.png" group-title="WebTV-FR",AniMania
 http://teleclub.fr/animania.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Minimax" tvg-logo="minimax.png" group-title="WebTV",Minimax
+#EXTINF:-1 tvg-id="" tvg-name="Minimax" tvg-logo="minimax.png" group-title="WebTV-FR",Minimax
 http://teleclub.fr/minimax.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IDF1" tvg-logo="idf1.png" group-title="WebTV-FR",IDF1
 http://stream7.idf1.yacast.net/iphone/idf1/live01/idf1_live01hd.m3u8
