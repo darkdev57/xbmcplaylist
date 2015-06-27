@@ -1115,6 +1115,12 @@ http://nrj-apple-live.adaptive.level3.net/apple/nrj/nrj/nrj12hi.m3u8
 http://stream.live-tv-direct.com:9180/live/hls/d8-clair-hd-and/and-hd-clair/index.m3u8
 #EXTINF:-1 tvg-id="EUR2.kazer.org" tvg-name="D17" tvg-logo="d17.png" group-title="WebTV-FR",D17
 http://stream.live-tv-direct.com:9180/live/hls/d17-clair-hd-and/and-hd-clair/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Numéro 23" tvg-logo="n23.png" group-title="WebTV-FR",Numéro 23
+http://178.250.208.141/23/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NT1" tvg-logo="nt1.png" group-title="WebTV-FR",NT1
+http://178.250.208.141/11/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD1" tvg-logo="hd1.png" group-title="WebTV-FR",HD1
+http://178.250.208.141/20/play.m3u8
 #EXTINF:-1 tvg-id="RTL2.kazer.org" tvg-name="RTL9" tvg-logo="rtl9.png" group-title="WebTV-FR",RTL9
 http://streaming-hub.com/tv/i/rtl9_1@97354/index_1300_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="FRA1.kazer.org" tvg-name="France O" tvg-logo="franceo.png" group-title="WebTV-FR",France O
