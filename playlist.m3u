@@ -1090,9 +1090,9 @@ http://streaming-hub.com/tv/i/france5_1@97351/master.m3u8
 #EXTINF:-1 tvg-id="ART1.kazer.org" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV-FR",Arte
 http://streaming-hub.com/tv/i/artefr_1@97346/master.m3u8
 #EXTINF:-1 tvg-id="M61.kazer.org" tvg-name="M6" tvg-logo="m6.png" group-title="WebTV-FR",M6
-http://streaming-hub.com/tv/i/m6_1@97467/master.m3u8
+https://sslhls.m6tv.cdn.sfr.net/m6_hls_aes.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="m6music.png" group-title="WebTV-FR",M6 Music
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+https://sslhls.m6tv.cdn.sfr.net/m6_music_hits_hls_aes.m3u8
 #EXTINF:-1 tvg-id="W91.kazer.org" tvg-name="W9" tvg-logo="w9.png" group-title="WebTV-FR",W9
 https://sslhls.m6tv.cdn.sfr.net/w9_hls_aes.m3u8
 #EXTINF:-1 tvg-id="6TER.kazer.org" tvg-name="6TER" tvg-logo="6ter.png" group-title="WebTV-FR",6Ter
