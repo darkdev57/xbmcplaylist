@@ -1176,9 +1176,9 @@ http://streaming-hub.com/tv/i/daserste_1@97481/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="zdf" tvg-logo="zdf.png" group-title="WebTV-DE",ZDF
 http://streaming-hub.com/tv/i/zdf_1@97483/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="zdfneo" tvg-logo="zdfneo.png" group-title="WebTV-DE",ZDF neo
-http://pebbles109-lh.akamaihd.net/i/zdfneohd_1@97434/master.m3u8|X-Forwarded-For=85.4.148.38
+http://pebbles111-lh.akamaihd.net/i/zdfneo_1@97479/master.m3u8|X-Forwarded-For=85.4.148.38
 #EXTINF:-1 tvg-id="" tvg-name="zdfkultur" tvg-logo="zdfkultur.png" group-title="WebTV-DE",ZDF Kultur
-http://pebbles108-lh.akamaihd.net/i/zdfkulturhd_1@97433/master.m3u8|X-Forwarded-For=85.4.148.42
+http://pebbles111-lh.akamaihd.net/i/zdfkultur_1@97478/master.m3u8|X-Forwarded-For=85.4.148.42
 #EXTINF:-1 tvg-id="" tvg-name="3plus" tvg-logo="3plus.png" group-title="WebTV-DE",3+
 http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/master.m3u8|X-Forwarded-For=85.4.148.44
 #EXTINF:-1 tvg-id="" tvg-name="das4" tvg-logo="dasvierte.png" group-title="WebTV-DE",das4
@@ -1232,7 +1232,7 @@ http://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1 tvg-id="" tvg-name="NickCC" tvg-logo="nickcc.png" group-title="WebTV-DE",NickCC
 http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=85.4.18.78
 #EXTINF:-1 tvg-id="" tvg-name="KiKa" tvg-logo="kika.png" group-title="WebTV-DE",KiKa
-http://pebbles105-lh.akamaihd.net/i/kikahd_1@97423/master.m3u8|X-Forwarded-For=85.4.55.49
+http://pebbles113-lh.akamaihd.net/i/kika_1@97487/master.m3u8|X-Forwarded-For=85.4.55.49
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="disneychannel.png" group-title="WebTV-DE",Disney Channel
 http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/master.m3u8|X-Forwarded-For=85.6.232.12
 #EXTINF:-1 tvg-id="" tvg-name="Ric TV" tvg-logo="rictv.png" group-title="WebTV-DE",Ric TV
