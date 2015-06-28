@@ -1104,11 +1104,11 @@ http://stream.live-tv-direct.com:9180/live/hls/d8-clair-hd-and/and-hd-clair/inde
 #EXTINF:-1 tvg-id="EUR2.kazer.org" tvg-name="D17" tvg-logo="d17.png" group-title="WebTV-FR",D17
 http://stream.live-tv-direct.com:9180/live/hls/d17-clair-hd-and/and-hd-clair/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Numéro 23" tvg-logo="n23.png" group-title="WebTV-FR",Numéro 23
-http://178.250.208.141/23/play.m3u8
+http://pebbles112-lh.akamaihd.net/i/n23hd_1@97444/master.m3u8|X-Forwarded-For=85.4.148.32
 #EXTINF:-1 tvg-id="" tvg-name="NT1" tvg-logo="nt1.png" group-title="WebTV-FR",NT1
-http://178.250.208.141/11/play.m3u8
+http://pebbles108-lh.akamaihd.net/i/nt1_1@97528/master.m3u8|X-Forwarded-For=85.4.148.34
 #EXTINF:-1 tvg-id="" tvg-name="HD1" tvg-logo="hd1.png" group-title="WebTV-FR",HD1
-http://178.250.208.141/20/play.m3u8
+http://pebbles110-lh.akamaihd.net/i/hd1hd_1@97437/master.m3u8|X-Forwarded-For=85.4.148.36
 #EXTINF:-1 tvg-id="RTL2.kazer.org" tvg-name="RTL9" tvg-logo="rtl9.png" group-title="WebTV-FR",RTL9
 http://streaming-hub.com/tv/i/rtl9_1@97354/master.m3u8
 #EXTINF:-1 tvg-id="FRA1.kazer.org" tvg-name="France O" tvg-logo="franceo.png" group-title="WebTV-FR",France O
@@ -1176,35 +1176,43 @@ http://streaming-hub.com/tv/i/daserste_1@97481/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="zdf" tvg-logo="zdf.png" group-title="WebTV-DE",ZDF
 http://streaming-hub.com/tv/i/zdf_1@97483/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="zdfneo" tvg-logo="zdfneo.png" group-title="WebTV-DE",ZDF neo
-http://5.254.114.224:1935/live/zdfneo.stream/playlist.m3u8
+http://pebbles109-lh.akamaihd.net/i/zdfneohd_1@97434/master.m3u8|X-Forwarded-For=85.4.148.38
+#EXTINF:-1 tvg-id="" tvg-name="zdfkultur" tvg-logo="zdfkultur.png" group-title="WebTV-DE",ZDF Kultur
+http://pebbles108-lh.akamaihd.net/i/zdfkulturhd_1@97433/master.m3u8|X-Forwarded-For=85.4.148.42
 #EXTINF:-1 tvg-id="" tvg-name="3plus" tvg-logo="3plus.png" group-title="WebTV-DE",3+
-http://68.232.37.6:1935/live/3plus.stream/playlist.m3u8
+http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/master.m3u8|X-Forwarded-For=85.4.148.44
+#EXTINF:-1 tvg-id="" tvg-name="das4" tvg-logo="dasvierte.png" group-title="WebTV-DE",das4
+http://pebbles104-lh.akamaihd.net/i/dasvierte_1@97396/master.m3u8|X-Forwarded-For=85.4.148.46
 #EXTINF:-1 tvg-id="" tvg-name="3sat" tvg-logo="3sat.png" group-title="WebTV-DE",3Sat
-http://5.254.114.224:1935/live/3sat.stream/playlist.m3u8
+http://pebbles112-lh.akamaihd.net/i/3sat_1@97480/master.m3u8|X-Forwarded-For=85.4.148.48
 #EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV-DE",Arte
-http://72.21.94.140:1935/live/arte.stream/playlist.m3u8
+http://pebbles107-lh.akamaihd.net/i/artede_1@97463/master.m3u8|X-Forwarded-For=85.4.148.47
 #EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="rtl.png" group-title="WebTV-DE",RTL
 http://streaming-hub.com/tv/i/rtl_1@97459/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="rtl2.png" group-title="WebTV-DE",RTL II
 http://streaming-hub.com/tv/i/rtl2_1@97460/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTL Nitro" tvg-logo="rtlnitro.png" group-title="WebTV-DE",RTL nitro
-http://5.254.114.224:1935/live/rtlnitro.stream/playlist.m3u8
+http://pebbles106-lh.akamaihd.net/i/rtlnitro_1@97458/master.m3u8|X-Forwarded-For=85.1.148.32
 #EXTINF:-1 tvg-id="" tvg-name="superrtl" tvg-logo="superrtl.png" group-title="WebTV-DE",Super RTL
-http://72.21.94.140:1935/live/superrtl.stream/playlist.m3u8
+http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/master.m3u8|X-Forwarded-For=85.4.13.32
 #EXTINF:-1 tvg-id="" tvg-name="Sat1" tvg-logo="sat1.png" group-title="WebTV-DE",Sat1
 http://streaming-hub.com/tv/i/sat1_1@97461/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pro7" tvg-logo="pro7.png" group-title="WebTV-DE",Pro7
 http://streaming-hub.com/tv/i/prosieben_1@97456/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pro7 Maxx" tvg-logo="pro7maxx.png" group-title="WebTV-DE",Pro7 Maxx
+http://pebbles107-lh.akamaihd.net/i/pro7maxx_1@97522/master.m3u8|X-Forwarded-For=85.4.175.32
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="dmax.png" group-title="WebTV-DE",DMAX
-http://68.232.37.6:1935/live/dmax.stream/playlist.m3u8
+http://pebbles104-lh.akamaihd.net/i/dmax_1@97398/master.m3u8|X-Forwarded-For=85.4.18.32
 #EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="phoenix.png" group-title="WebTV-DE",Phoenix
-http://5.254.114.224:1935/live/phoenix.stream/playlist.m3u8
+http://pebbles111-lh.akamaihd.net/i/phoenix_1@97476/master.m3u8|X-Forwarded-For=85.4.48.32
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1" tvg-logo="kabel1.png" group-title="WebTV-DE",Kabel 1
+http://pebbles105-lh.akamaihd.net/i/kabeleins_1@97453/master.m3u8|X-Forwarded-For=85.4.148.42
 #EXTINF:-1 tvg-id="" tvg-name="vox" tvg-logo="vox.png" group-title="WebTV-DE",VOX
-http://93.115.84.226:1935/live/vox.stream/playlist.m3u8
+http://pebbles108-lh.akamaihd.net/i/vox_1@97466/master.m3u8|X-Forwarded-For=85.4.148.100
 #EXTINF:-1 tvg-id="" tvg-name="ORF1" tvg-logo="orf1.png" group-title="WebTV-DE",ORF1
-http://68.232.37.6:1935/live/orf1.stream/playlist.m3u8
+http://pebbles113-lh.akamaihd.net/i/orf1_1@97573/master.m3u8|X-Forwarded-For=85.4.148.105
 #EXTINF:-1 tvg-id="" tvg-name="ORF2" tvg-logo="orf2.png" group-title="WebTV-DE",ORF2
-http://5.254.114.224:1935/live/orf2.stream/playlist.m3u8
+http://pebbles113-lh.akamaihd.net/i/orf2_1@97574/master.m3u8|X-Forwarded-For=85.4.148.107
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="eurosport.png" group-title="WebTV-DE",Eurosport
 http://streaming-hub.com/tv/i/eurosportde_1@97452/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SportTimeTV1" tvg-logo="sporttimetv1.png" group-title="WebTV-DE",SportTimeTV1
@@ -1222,23 +1230,31 @@ http://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1 tvg-id="" tvg-name="SportTimeTV7" tvg-logo="sporttimetv7.png" group-title="WebTV-DE",SportTimeTV7
 http://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NickCC" tvg-logo="nickcc.png" group-title="WebTV-DE",NickCC
-http://93.115.84.226:1935/live/nickcc.stream/playlist.m3u8
+http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=85.4.18.78
 #EXTINF:-1 tvg-id="" tvg-name="KiKa" tvg-logo="kika.png" group-title="WebTV-DE",KiKa
-http://93.115.84.226:1935/live/kika.stream/playlist.m3u8
+http://pebbles105-lh.akamaihd.net/i/kikahd_1@97423/master.m3u8|X-Forwarded-For=85.4.55.49
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="disneychannel.png" group-title="WebTV-DE",Disney Channel
+http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/master.m3u8|X-Forwarded-For=85.6.232.12
 #EXTINF:-1 tvg-id="" tvg-name="Ric TV" tvg-logo="rictv.png" group-title="WebTV-DE",Ric TV
 http://lb.hd-livestream.de:88/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="N24" tvg-logo="n24.png" group-title="WebTV-DE",N24
-http://5.254.114.224:1935/live/n24.stream/playlist.m3u8
+http://pebbles104-lh.akamaihd.net/i/n24_1@97406/master.m3u8|X-Forwarded-For=85.5.32.79
 #EXTINF:-1 tvg-id="" tvg-name="N-tv" tvg-logo="ntv.png" group-title="WebTV-DE",N-TV
-http://93.115.84.226:1935/live/ntv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="srf1" tvg-logo="srf1.png" group-title="WebTV-DE",SF1
-http://5.254.114.224:1935/live/sf1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sf2" tvg-logo="sf2.png" group-title="WebTV-DE",SF2
+http://pebbles104-lh.akamaihd.net/i/ntv_1@97405/master.m3u8|X-Forwarded-For=85.1.28.99
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="euronews.png" group-title="WebTV-DE",Euronews
+http://pebbles104-lh.akamaihd.net/i/euronewsde_1@97402/master.m3u8|X-Forwarded-For=85.2.87.167
+#EXTINF:-1 tvg-id="" tvg-name="SRF 1" tvg-logo="srf1.png" group-title="WebTV-DE",SRF 1
+http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/master.m3u8|X-Forwarded-For=85.6.77.22
+#EXTINF:-1 tvg-id="" tvg-name="SRF 2" tvg-logo="sf2.png" group-title="WebTV-DE",SRF 2
 http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="SF Info" tvg-logo="sfinfo.png" group-title="WebTV-DE",SF Info
+http://pebbles104-lh.akamaihd.net/i/sfinfo_1@97408/master.m3u8|X-Forwarded-For=85.3.57.159
 #EXTINF:-1 tvg-id="" tvg-name="sixx" tvg-logo="sixx.png" group-title="WebTV-DE",SIXX
-http://72.21.94.140:1935/live/sixx.stream/playlist.m3u8
+http://pebbles107-lh.akamaihd.net/i/sixx_1@97462/master.m3u8|X-Forwarded-For=85.1.180.2
 #EXTINF:-1 tvg-id="" tvg-name="viva" tvg-logo="viva.png" group-title="WebTV-DE",VIVA
-http://5.254.114.224:1935/live/viva.stream/playlist.m3u8
+http://pebbles105-lh.akamaihd.net/i/viva_1@97493/master.m3u8|X-Forwarded-For=85.3.90.52
+#EXTINF:-1 tvg-id="" tvg-name="JOIZ" tvg-logo="joiz.png" group-title="WebTV-DE",JOIZ
+http://pebbles118-lh.akamaihd.net/i/joiz_1@135266/master.m3u8|X-Forwarded-For=85.7.186.31
 #EXTINF:-1 tvg-id="" tvg-name="wdr" tvg-logo="wdr.png" group-title="WebTV-DE",WDR
 http://streaming-hub.com/tv/i/wdr_1@97490/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NRJ" tvg-logo="nrj.png" group-title="WebTV-FR-Radio",NRJ
