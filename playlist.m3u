@@ -1164,7 +1164,7 @@ http://str81.creacast.com:80/weo/high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTL Télé Lux" tvg-logo="rtltelelux.png" group-title="WebTV-FR",RTL Télé Lux
 http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARD" tvg-logo="ard.png" group-title="WebTV-DE",ARD
-http://streaming-hub.com/tv/i/daserste_1@97481/master.m3u8
+http://pebbles104-lh.akamaihd.net/i/daserstehd_1@97395/master.m3u8|X-Forwarded-For=85.4.72.108
 #EXTINF:-1 tvg-id="" tvg-name="Eins Plus" tvg-logo="einsplus.png" group-title="WebTV-DE",Eins Plus
 http://pebbles123-lh.akamaihd.net/i/einsplus_1@137775/master.m3u8|X-Forwarded-For=85.3.131.73
 #EXTINF:-1 tvg-id="" tvg-name="Eins Festival" tvg-logo="einsfestival.png" group-title="WebTV-DE",Eins Festival
@@ -1175,6 +1175,8 @@ http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/master.m3u8|X-Forwarded-For=85.4
 http://pebbles111-lh.akamaihd.net/i/zdfneo_1@97479/master.m3u8|X-Forwarded-For=85.4.148.38
 #EXTINF:-1 tvg-id="" tvg-name="zdfkultur" tvg-logo="zdfkultur.png" group-title="WebTV-DE",ZDF Kultur
 http://pebbles111-lh.akamaihd.net/i/zdfkultur_1@97478/master.m3u8|X-Forwarded-For=85.4.149.42
+#EXTINF:-1 tvg-id="" tvg-name="ZDF Info" tvg-logo="zdfinfo.png" group-title="WebTV-DE",ZDF Info
+http://pebbles111-lh.akamaihd.net/i/zdfinfo_1@97477/master.m3u8|X-Forwarded-For=85.4.148.32
 #EXTINF:-1 tvg-id="" tvg-name="3plus" tvg-logo="3plus.png" group-title="WebTV-DE",3+
 http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/master.m3u8|X-Forwarded-For=85.2.198.44
 #EXTINF:-1 tvg-id="" tvg-name="das4" tvg-logo="dasvierte.png" group-title="WebTV-DE",das4
@@ -1246,7 +1248,7 @@ http://pebbles123-lh.akamaihd.net/i/tagesschau24_1@137781/master.m3u8|X-Forwarde
 #EXTINF:-1 tvg-id="" tvg-name="SRF 1" tvg-logo="srf1.png" group-title="WebTV-DE",SRF 1
 http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/master.m3u8|X-Forwarded-For=85.6.77.22
 #EXTINF:-1 tvg-id="" tvg-name="SRF 2" tvg-logo="sf2.png" group-title="WebTV-DE",SRF 2
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/master.m3u8|X-Forwarded-For=85.6.84.169
 #EXTINF:-1 tvg-id="" tvg-name="SF Info" tvg-logo="sfinfo.png" group-title="WebTV-DE",SF Info
 http://pebbles104-lh.akamaihd.net/i/sfinfo_1@97408/master.m3u8|X-Forwarded-For=85.3.57.159
 #EXTINF:-1 tvg-id="" tvg-name="sixx" tvg-logo="sixx.png" group-title="WebTV-DE",SIXX
