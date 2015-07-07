@@ -1118,9 +1118,9 @@ http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/master.m3u8|X-Forwarded-For=85.
 #EXTINF:-1 tvg-id="" tvg-name="Chérie 25" tvg-logo="cherie25.png" group-title="WebTV-FR",Chérie 25
 http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/master.m3u8|X-Forwarded-For=85.5.120.35
 #EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="rtsun.png" group-title="WebTV-FR",RTS Un
-http://pebbles126-lh.akamaihd.net/i/rts1hd_1@114347/master.m3u8|X-Forwarded-For=85.4.53.199
+http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/master.m3u8|X-Forwarded-For=85.4.53.199
 #EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="rtsdeux.png" group-title="WebTV-FR",RTS Deux
-http://pebbles102-lh.akamaihd.net/i/rts2hd_1@97415/master.m3u8|X-Forwarded-For=85.5.127.80
+http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/master.m3u8|X-Forwarded-For=85.5.127.80
 #EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="tmc.png" group-title="WebTV-FR",TMC
 http://pebbles103-lh.akamaihd.net/i/tmc_1@97379/master.m3u8|X-Forwarded-For=85.4.148.32
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="tv5.png" group-title="WebTV-FR",TV5 Monde
@@ -1163,8 +1163,34 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 http://str81.creacast.com:80/weo/high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTL Télé Lux" tvg-logo="rtltelelux.png" group-title="WebTV-FR",RTL Télé Lux
 http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="TF1.kazer.org" tvg-name="TF1" tvg-logo="tf1.png" group-title="WebTV-FR HD",TF1 HD
+http://pebbles102-lh.akamaihd.net/i/tf1hd_1@97413/master.m3u8|X-Forwarded-For=85.7.152.240
+#EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-name="France 2" tvg-logo="france2.png" group-title="WebTV-FR HD",France 2 HD
+http://pebbles100-lh.akamaihd.net/i/france2hd_1@97420/master.m3u8|X-Forwarded-For=85.2.94.154
+#EXTINF:-1 tvg-id="ART1.kazer.org" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV-FR HD",Arte HD
+http://pebbles100-lh.akamaihd.net/i/artefrhd_1@97419/master.m3u8|X-Forwarded-For=85.1.1.243
+#EXTINF:-1 tvg-id="M61.kazer.org" tvg-name="M6" tvg-logo="m6.png" group-title="WebTV-FR HD",M6 HD
+http://pebbles100-lh.akamaihd.net/i/m6hd_1@97421/master.m3u8|X-Forwarded-For=85.6.190.45
+#EXTINF:-1 tvg-id="6TER.kazer.org" tvg-name="6TER" tvg-logo="6ter.png" group-title="WebTV-FR HD",6Ter HD
+http://pebbles112-lh.akamaihd.net/i/6terhd_1@97443/master.m3u8|X-Forwarded-For=85.3.72.214
+#EXTINF:-1 tvg-id="" tvg-name="Numéro 23" tvg-logo="n23.png" group-title="WebTV-FR HD",Numéro 23 HD
+http://pebbles112-lh.akamaihd.net/i/n23hd_1@97444/master.m3u8|X-Forwarded-For=85.4.148.32
+#EXTINF:-1 tvg-id="" tvg-name="HD1" tvg-logo="hd1.png" group-title="WebTV-FR HD",HD1 HD
+http://pebbles110-lh.akamaihd.net/i/hd1hd_1@97437/master.m3u8|X-Forwarded-For=85.4.148.36
+#EXTINF:-1 tvg-id="" tvg-name="Chérie 25" tvg-logo="cherie25.png" group-title="WebTV-FR HD",Chérie 25 HD
+http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/master.m3u8|X-Forwarded-For=85.5.120.35
+#EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="rtsun.png" group-title="WebTV-FR HD",RTS Un HD
+http://pebbles126-lh.akamaihd.net/i/rts1hd_1@114347/master.m3u8|X-Forwarded-For=85.4.53.199
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="rtsdeux.png" group-title="WebTV-FR HD",RTS Deux HD
+http://pebbles102-lh.akamaihd.net/i/rts2hd_1@97415/master.m3u8|X-Forwarded-For=85.5.127.80
+#EXTINF:-1 tvg-id="RMC2.kazer.org" tvg-name="RMC Découverte" tvg-logo="rmcdecouverte.png" group-title="WebTV-FR HD",RMC Découverte HD
+http://pebbles112-lh.akamaihd.net/i/rmchd_1@97445/master.m3u8|X-Forwarded-For=85.3.98.42
+#EXTINF:-1 tvg-id="" tvg-name="Equipe 21" tvg-logo="equipe21.png" group-title="WebTV-FR HD",Equipe21 HD
+http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/master.m3u8|X-Forwarded-For=85.5.76.56
+#EXTINF:-1 tvg-id="" tvg-name="Weo" tvg-logo="weo.png" group-title="WebTV-FR HD",Weo HD
+http://str81.creacast.com:80/weo/high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARD" tvg-logo="ard.png" group-title="WebTV-DE",ARD
-http://pebbles104-lh.akamaihd.net/i/daserstehd_1@97395/master.m3u8|X-Forwarded-For=85.4.72.108
+http://pebbles112-lh.akamaihd.net/i/daserste_1@97481/master.m3u8|X-Forwarded-For=85.4.72.108
 #EXTINF:-1 tvg-id="" tvg-name="Eins Plus" tvg-logo="einsplus.png" group-title="WebTV-DE",Eins Plus
 http://pebbles123-lh.akamaihd.net/i/einsplus_1@137775/master.m3u8|X-Forwarded-For=85.3.131.73
 #EXTINF:-1 tvg-id="" tvg-name="Eins Festival" tvg-logo="einsfestival.png" group-title="WebTV-DE",Eins Festival
@@ -1211,6 +1237,8 @@ http://pebbles108-lh.akamaihd.net/i/vox_1@97466/master.m3u8|X-Forwarded-For=85.4
 http://pebbles113-lh.akamaihd.net/i/orf1_1@97573/master.m3u8|X-Forwarded-For=85.4.148.105
 #EXTINF:-1 tvg-id="" tvg-name="ORF2" tvg-logo="orf2.png" group-title="WebTV-DE",ORF2
 http://pebbles113-lh.akamaihd.net/i/orf2_1@97574/master.m3u8|X-Forwarded-For=85.4.148.107
+#EXTINF:-1 tvg-id="" tvg-name="atv" tvg-logo="atv.png" group-title="WebTV-DE",ATV
+http://pebbles114-lh.akamaihd.net/i/atv_1@97491/master.m3u8|X-Forwarded-For=85.3.73.58
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="eurosport.png" group-title="WebTV-DE",Eurosport
 http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/master.m3u8|X-Forwarded-For=85.4.54.106
 #EXTINF:-1 tvg-id="" tvg-name="SportTimeTV1" tvg-logo="sporttimetv1.png" group-title="WebTV-DE",SportTimeTV1
@@ -1235,6 +1263,8 @@ http://pebbles113-lh.akamaihd.net/i/ndr_1@97484/master.m3u8|X-Forwarded-For=85.1
 http://pebbles123-lh.akamaihd.net/i/mdr_1@137782/master.m3u8|X-Forwarded-For=85.7.142.4
 #EXTINF:-1 tvg-id="" tvg-name="HR" tvg-logo="hr.png" group-title="WebTV-DE",HR
 http://pebbles123-lh.akamaihd.net/i/hr_1@137778/master.m3u8|X-Forwarded-For=85.1.51.68
+#EXTINF:-1 tvg-id="" tvg-name="ServusTV" tvg-logo="servustv.png" group-title="WebTV-DE",ServusTV
+http://pebbles114-lh.akamaihd.net/i/servus_1@97488/master.m3u8|X-Forwarded-For=85.5.30.192
 #EXTINF:-1 tvg-id="" tvg-name="RBB" tvg-logo="rbb.png" group-title="WebTV-DE",RBB
 http://pebbles106-lh.akamaihd.net/i/rbb_1@97457/master.m3u8|X-Forwarded-For=85.5.27.253
 #EXTINF:-1 tvg-id="" tvg-name="N24" tvg-logo="n24.png" group-title="WebTV-DE",N24
@@ -1259,6 +1289,52 @@ http://pebbles105-lh.akamaihd.net/i/viva_1@97493/master.m3u8|X-Forwarded-For=85.
 http://pebbles123-lh.akamaihd.net/i/deluxemusic_1@137777/master.m3u8|X-Forwarded-For=85.4.148.32
 #EXTINF:-1 tvg-id="" tvg-name="JOIZ" tvg-logo="joiz.png" group-title="WebTV-DE",JOIZ
 http://pebbles118-lh.akamaihd.net/i/joiz_1@135266/master.m3u8|X-Forwarded-For=85.7.186.31
+#EXTINF:-1 tvg-id="" tvg-name="ARD" tvg-logo="ard.png" group-title="WebTV-DE HD",ARD HD
+http://pebbles104-lh.akamaihd.net/i/daserstehd_1@97395/master.m3u8|X-Forwarded-For=85.4.72.108
+#EXTINF:-1 tvg-id="" tvg-name="Eins Plus" tvg-logo="einsplus.png" group-title="WebTV-DE HD",Eins Plus HD
+http://pebbles113-lh.akamaihd.net/i/einsplus_hd_1@97446/master.m3u8|X-Forwarded-For=85.3.131.73
+#EXTINF:-1 tvg-id="" tvg-name="Eins Festival" tvg-logo="einsfestival.png" group-title="WebTV-DE HD",Eins Festival HD
+http://pebbles105-lh.akamaihd.net/i/einsfestivalhd_1@97422/master.m3u8|X-Forwarded-For=85.4.148.32
+#EXTINF:-1 tvg-id="" tvg-name="zdf" tvg-logo="zdf.png" group-title="WebTV-DE HD",ZDF HD
+http://pebbles108-lh.akamaihd.net/i/zdfhd_1@97431/master.m3u8|X-Forwarded-For=85.4.41.62
+#EXTINF:-1 tvg-id="" tvg-name="3sat" tvg-logo="3sat.png" group-title="WebTV-DE HD",3Sat HD
+http://pebbles104-lh.akamaihd.net/i/3sathd_1@97393/master.m3u8|X-Forwarded-For=85.3.87.48
+#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV-DE HD",Arte HD
+http://pebbles104-lh.akamaihd.net/i/artedehd_1@97394/master.m3u8|X-Forwarded-For=85.4.12.107
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="phoenix.png" group-title="WebTV-DE HD",Phoenix HD
+http://pebbles107-lh.akamaihd.net/i/phoenixhd_1@97428/master.m3u8|X-Forwarded-For=85.4.48.32
+#EXTINF:-1 tvg-id="" tvg-name="ORF1" tvg-logo="orf1.png" group-title="WebTV-DE HD",ORF1 HD
+http://pebbles101-lh.akamaihd.net/i/orf1hd_1@97416/master.m3u8|X-Forwarded-For=85.4.148.105
+#EXTINF:-1 tvg-id="" tvg-name="ORF2" tvg-logo="orf2.png" group-title="WebTV-DE HD",ORF2 HD
+http://pebbles101-lh.akamaihd.net/i/orf2hd_1@97417/master.m3u8|X-Forwarded-For=85.4.148.107
+#EXTINF:-1 tvg-id="" tvg-name="Anixe" tvg-logo="anixe.png" group-title="WebTV-DE HD",Anixe HD
+http://pebbles111-lh.akamaihd.net/i/anixehd_1@97440/master.m3u8|X-Forwarded-For=85.4.148.32
+#EXTINF:-1 tvg-id="" tvg-name="KiKa" tvg-logo="kika.png" group-title="WebTV-DE HD",KiKa HD
+http://pebbles105-lh.akamaihd.net/i/kikahd_1@97423/master.m3u8|X-Forwarded-For=85.4.55.49
+#EXTINF:-1 tvg-id="" tvg-name="SWR" tvg-logo="swr.png" group-title="WebTV-DE HD",SWR HD
+http://pebbles107-lh.akamaihd.net/i/swrhd_1@97429/master.m3u8|X-Forwarded-For=85.4.108.37
+#EXTINF:-1 tvg-id="" tvg-name="BR3" tvg-logo="br3.png" group-title="WebTV-DE HD",BR3 HD
+http://pebbles101-lh.akamaihd.net/i/br3_hd_1@97418/master.m3u8|X-Forwarded-For=85.4.85.1
+#EXTINF:-1 tvg-id="" tvg-name="NDR" tvg-logo="ndr.png" group-title="WebTV-DE HD",NDR HD
+http://pebbles105-lh.akamaihd.net/i/ndrhd_1@97424/master.m3u8|X-Forwarded-For=85.1.100.47
+#EXTINF:-1 tvg-id="" tvg-name="MDR" tvg-logo="mdr.png" group-title="WebTV-DE HD",MDR HD
+http://pebbles127-lh.akamaihd.net/i/mdrhd_1@180319/master.m3u8|X-Forwarded-For=85.7.142.4
+#EXTINF:-1 tvg-id="" tvg-name="HR" tvg-logo="hr.png" group-title="WebTV-DE HD",HR HD
+http://pebbles113-lh.akamaihd.net/i/hr_hd_1@97447/master.m3u8|X-Forwarded-For=85.1.51.68
+#EXTINF:-1 tvg-id="" tvg-name="WDR" tvg-logo="wdr.png" group-title="WebTV-DE HD",WDR HD
+http://pebbles107-lh.akamaihd.net/i/wdrhd_1@97430/master.m3u8|X-Forwarded-For=85.2.41.101
+#EXTINF:-1 tvg-id="" tvg-name="ServusTV" tvg-logo="servustv.png" group-title="WebTV-DE HD",ServusTV HD
+http://pebbles106-lh.akamaihd.net/i/servushd_1@97425/master.m3u8|X-Forwarded-For=85.5.30.192
+#EXTINF:-1 tvg-id="" tvg-name="RBB" tvg-logo="rbb.png" group-title="WebTV-DE HD",RBB HD
+http://pebbles114-lh.akamaihd.net/i/rbb_hd_1@97449/master.m3u8|X-Forwarded-For=85.5.27.253
+#EXTINF:-1 tvg-id="" tvg-name="N24" tvg-logo="n24.png" group-title="WebTV-DE HD",N24 HD
+http://pebbles109-lh.akamaihd.net/i/n24hd_1@97436/master.m3u8|X-Forwarded-For=85.5.32.79
+#EXTINF:-1 tvg-id="" tvg-name="Tagesschau24" tvg-logo="tagesschau24.png" group-title="WebTV-DE HD",Tagesschau24 HD
+http://pebbles114-lh.akamaihd.net/i/tagesschau24_hd_1@97450/master.m3u8|X-Forwarded-For=85.4.118.84
+#EXTINF:-1 tvg-id="" tvg-name="SRF 1" tvg-logo="srf1.png" group-title="WebTV-DE HD",SRF 1 HD
+http://pebbles106-lh.akamaihd.net/i/sf1hd_1@97426/master.m3u8|X-Forwarded-For=85.6.77.22
+#EXTINF:-1 tvg-id="" tvg-name="SRF 2" tvg-logo="sf2.png" group-title="WebTV-DE HD",SRF 2 HD
+http://pebbles106-lh.akamaihd.net/i/sf2hd_1@97427/master.m3u8|X-Forwarded-For=85.6.84.169
 #EXTINF:-1 tvg-id="" tvg-name="NRJ" tvg-logo="nrj.png" group-title="WebTV-FR-Radio",NRJ
 #EXTVLCOPT:ts-es-id-pid
 #EXTVLCOPT:no-video
