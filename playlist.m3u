@@ -58,13 +58,11 @@ http://pebbles121-lh.akamaihd.net/i/france24_1@137754/master.m3u8|X-Forwarded-Fo
 #EXTINF:-1 tvg-id="" tvg-name="BFM Business" tvg-logo="bfmbus.png" group-title="WebTV-FR",BFM Business
 http://pebbles121-lh.akamaihd.net/i/bfmb_1@137749/master.m3u8|X-Forwarded-For=85.2.178.94
 #EXTINF:-1 tvg-id="" tvg-name="Zouzous" tvg-logo="zouzous.png" group-title="WebTV-FR",Zouzous
-http://medias2.francetv.fr/playlists/zouzous/zouzous_tablettes.m3u8
+http://medias2.francetv.fr/playlists/zouzous/zouzous_tablettes.m3u8|X-Forwarded-For=2.1.109.65
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="gulli.png" group-title="WebTV-FR",Gulli
 http://pebbles102-lh.akamaihd.net/i/gulli_1@97352/master.m3u8|X-Forwarded-For=85.2.83.49
 #EXTINF:-1 tvg-id="" tvg-name="Minimax" tvg-logo="minimax.png" group-title="WebTV-FR",Minimax
 http://teleclub.fr/minimax.mp4|X-Forwarded-For=2.7.118.16
-#EXTINF:-1 tvg-id="" tvg-name="IDF1" tvg-logo="idf1.png" group-title="WebTV-FR",IDF1
-http://stream7.idf1.yacast.net/iphone/idf1/live01/idf1_live01hd.m3u8
 #EXTINF:-1 tvg-id="RMC2.kazer.org" tvg-name="RMC Découverte" tvg-logo="rmcdecouverte.png" group-title="WebTV-FR",RMC Découverte
 http://pebbles112-lh.akamaihd.net/i/rmchd_1@97445/master.m3u8|X-Forwarded-For=85.3.98.42
 #EXTINF:-1 tvg-id="" tvg-name="Montagne TV" tvg-logo="montagnetv.png" group-title="WebTV-FR",Montagne TV
@@ -78,11 +76,11 @@ http://pebbles102-lh.akamaihd.net/i/rouge_1@97359/master.m3u8|X-Forwarded-For=85
 #EXTINF:-1 tvg-id="" tvg-name="Equipe 21" tvg-logo="equipe21.png" group-title="WebTV-FR",Equipe21
 http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/master.m3u8|X-Forwarded-For=85.5.76.56
 #EXTINF:-1 tvg-id="" tvg-name="I24" tvg-logo="i24.png" group-title="WebTV-FR",I24
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8|X-Forwarded-For=2.13.88.54
 #EXTINF:-1 tvg-id="" tvg-name="Weo" tvg-logo="weo.png" group-title="WebTV-FR",Weo
-http://str81.creacast.com:80/weo/high/playlist.m3u8
+http://str81.creacast.com:80/weo/high/playlist.m3u8|X-Forwarded-For=2.7.49.178
 #EXTINF:-1 tvg-id="" tvg-name="RTL Télé Lux" tvg-logo="rtltelelux.png" group-title="WebTV-FR",RTL Télé Lux
-http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
+http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8|X-Forwarded-For=2.14.105.12
 #EXTINF:-1 tvg-id="" tvg-name="ARD" tvg-logo="ard.png" group-title="WebTV-DE",ARD
 http://pebbles112-lh.akamaihd.net/i/daserste_1@97481/master.m3u8|X-Forwarded-For=85.4.72.108
 #EXTINF:-1 tvg-id="" tvg-name="Eins Plus" tvg-logo="einsplus.png" group-title="WebTV-DE",Eins Plus
