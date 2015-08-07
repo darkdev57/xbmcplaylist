@@ -49,7 +49,7 @@ http://pebbles103-lh.akamaihd.net/i/tmc_1@97379/master.m3u8|X-Forwarded-For=85.4
 http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=cinefx&type=.m3u8|X-Forwarded-For=2.2.36.159
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="action.png" group-title="WebTV-FR",Action
 http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=action&type=.m3u8|X-Forwarded-For=2.1.95.121
-#EXTINF:-1 tvg-id="" tvg-name="Polar" tvg-logo="Polar.png" group-title="WebTV-FR",Polar
+#EXTINF:-1 tvg-id="" tvg-name="Polar" tvg-logo="polar.png" group-title="WebTV-FR",Polar
 http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=polar&type=.m3u8|X-Forwarded-For=2.7.15.3
 #EXTINF:-1 tvg-id="" tvg-name="Toute l'Histoire" tvg-logo="toutelhistoire.png" group-title="WebTV-FR",Toute l’Histoire
 http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=toutelhistoire&type=.m3u8|X-Forwarded-For=2.6.54.108
