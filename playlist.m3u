@@ -45,32 +45,6 @@ http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/master.m3u8|X-Forwarded-For=85.
 http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/master.m3u8|X-Forwarded-For=85.5.127.80
 #EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="tmc.png" group-title="WebTV-FR",TMC
 http://pebbles103-lh.akamaihd.net/i/tmc_1@97379/master.m3u8|X-Forwarded-For=85.4.148.32
-#EXTINF:-1 tvg-id="" tvg-name="Cine FX" tvg-logo="cinefx.png" group-title="WebTV-FR",Cine FX
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=cinefx&type=.m3u8|X-Forwarded-For=2.2.36.159
-#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="action.png" group-title="WebTV-FR",Action
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=action&type=.m3u8|X-Forwarded-For=2.1.95.121
-#EXTINF:-1 tvg-id="" tvg-name="Polar" tvg-logo="polar.png" group-title="WebTV-FR",Polar
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=polar&type=.m3u8|X-Forwarded-For=2.7.15.3
-#EXTINF:-1 tvg-id="" tvg-name="Toute l'Histoire" tvg-logo="toutelhistoire.png" group-title="WebTV-FR",Toute l’Histoire
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=toutelhistoire&type=.m3u8|X-Forwarded-For=2.6.54.108
-#EXTINF:-1 tvg-id="" tvg-name="AB 1" tvg-logo="ab1.png" group-title="WebTV-FR",AB 1
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=ab1&type=.m3u8|X-Forwarded-For=2.9.12.174
-#EXTINF:-1 tvg-id="" tvg-name="Chasse & Peche" tvg-logo="chasseetpeche.png" group-title="WebTV-FR",Chasse & Peche
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=chasseetpeche&type=.m3u8|X-Forwarded-For=2.3.45.12
-#EXTINF:-1 tvg-id="" tvg-name="AB Moteurs" tvg-logo="abmoteurs.png" group-title="WebTV-FR",AB Moteurs
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=abmoteurs&type=.m3u8|X-Forwarded-For=2.2.59.162
-#EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="mangas.png" group-title="WebTV-FR",Mangas
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=mangas&type=.m3u8|X-Forwarded-For=2.3.51.185
-#EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="animaux.png" group-title="WebTV-FR",Animaux
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=animaux&type=.m3u8|X-Forwarded-For=2.10.2.36
-#EXTINF:-1 tvg-id="" tvg-name="Trek" tvg-logo="trek.png" group-title="WebTV-FR",Trek
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=trek&type=.m3u8|X-Forwarded-For=2.10.29.134
-#EXTINF:-1 tvg-id="" tvg-name="Lucky Jack" tvg-logo="luckyjack.png" group-title="WebTV-FR",Lucky Jack
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=luckyjack&type=.m3u8|X-Forwarded-For=2.11.43.78
-#EXTINF:-1 tvg-id="" tvg-name="Clubbing" tvg-logo="clubbing.png" group-title="WebTV-FR",Clubbing
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=clubbingtv&type=.m3u8|X-Forwarded-For=2.11.81.191
-#EXTINF:-1 tvg-id="" tvg-name="Golf" tvg-logo="golf.png" group-title="WebTV-FR",Golf
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=golfchannel&type=.m3u8|X-Forwarded-For=2.4.58.207
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="tv5.png" group-title="WebTV-FR",TV5 Monde
 http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/master.m3u8|X-Forwarded-For=85.4.108.67
 #EXTINF:-1 tvg-id="" tvg-name="itele" tvg-logo="itele.png" group-title="WebTV-FR",I Télé
