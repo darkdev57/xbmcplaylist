@@ -40,7 +40,7 @@ http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/master.m3u8|X-Forwarded-For=85.
 #EXTINF:-1 tvg-id="" tvg-name="Chérie 25" tvg-logo="cherie25.png" group-title="WebTV-FR",Chérie 25
 http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/master.m3u8|X-Forwarded-For=85.5.120.35
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="eurosport.png" group-title="WebTV-FR",Eurosport
-rtp://239.186.66.20:10000
+rtp://239.186.66.20:10000|X-Forwarded-For=85.5.126.37
 #EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="rtsun.png" group-title="WebTV-FR",RTS Un
 http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/master.m3u8|X-Forwarded-For=85.4.53.199
 #EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="rtsdeux.png" group-title="WebTV-FR",RTS Deux
