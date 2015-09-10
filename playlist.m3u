@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.kazer.org" tvg-name="TF1" tvg-logo="tf1.png" group-title="WebTV-FR",TF1
 http://medias.streaming-hub.com:8090/hls/test.m3u8
+#EXTINF:-1 tvg-id="TF1.kazer.org" tvg-name="TF1" tvg-logo="tf1.png" group-title="WebTV-FR",TF1
+http://iphone.wilmaa.com/iphone_channel/m3u8/tf1.m3u8|X-Forwarded-For=85.3.57.175
 #EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-name="France 2" tvg-logo="france2.png" group-title="WebTV-FR",France 2
 http://stream.streaming-hub.com:8080/simulcast/France_2/hls_v1/index.m3u8|X-Forwarded-For=85.2.94.154
 #EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-name="France 3" tvg-logo="france3.png" group-title="WebTV-FR",France 3
@@ -36,7 +38,7 @@ http://pebbles108-lh.akamaihd.net/i/nt1_1@97528/master.m3u8|X-Forwarded-For=85.4
 #EXTINF:-1 tvg-id="" tvg-name="HD1" tvg-logo="hd1.png" group-title="WebTV-FR",HD1
 http://pebbles110-lh.akamaihd.net/i/hd1hd_1@97437/master.m3u8|X-Forwarded-For=85.4.148.36
 #EXTINF:-1 tvg-id="RTL2.kazer.org" tvg-name="RTL9" tvg-logo="rtl9.png" group-title="WebTV-FR",RTL9
-http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/master.m3u8|X-Forwarded-For=85.3.87.109
+http://iphone.wilmaa.com/iphone_channel/m3u8/rtl9.m3u8|X-Forwarded-For=85.3.87.109
 #EXTINF:-1 tvg-id="" tvg-name="Chérie 25" tvg-logo="cherie25.png" group-title="WebTV-FR",Chérie 25
 http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/master.m3u8|X-Forwarded-For=85.5.120.35
 #EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="rtsun.png" group-title="WebTV-FR",RTS Un
@@ -180,7 +182,7 @@ http://pebbles104-lh.akamaihd.net/i/euronewsde_1@97402/master.m3u8|X-Forwarded-F
 #EXTINF:-1 tvg-id="" tvg-name="Tagesschau24" tvg-logo="tagesschau24.png" group-title="WebTV-DE",Tagesschau24
 http://pebbles123-lh.akamaihd.net/i/tagesschau24_1@137781/master.m3u8|X-Forwarded-For=85.4.118.84
 #EXTINF:-1 tvg-id="" tvg-name="SRF 1" tvg-logo="srf1.png" group-title="WebTV-DE",SRF 1
-http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/master.m3u8|X-Forwarded-For=85.6.77.22
+http://streaming-hub.com/tv/i/sf1_1@97474/index_1300_av-p.m3u8|X-Forwarded-For=85.6.77.22
 #EXTINF:-1 tvg-id="" tvg-name="SRF 2" tvg-logo="sf2.png" group-title="WebTV-DE",SRF 2
 http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/master.m3u8|X-Forwarded-For=85.6.84.169
 #EXTINF:-1 tvg-id="" tvg-name="SF Info" tvg-logo="sfinfo.png" group-title="WebTV-DE",SF Info
