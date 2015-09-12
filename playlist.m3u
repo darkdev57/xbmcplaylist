@@ -27,48 +27,40 @@ http://stream.live-tv-direct.com:8009/apple/nrj/nrj/nrj12.m3u8|X-Forwarded-For=8
 http://hlstv-g3.swisscom.com/iphone/smil:1736_iPhone.smil/playlist.m3u8?NHM=vyqqqqqtwuu&NHM6=y&N6=MLKP5E6&J=yvvxzvvsuwquu&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-vMzxsOLPszqMtrrtPyPqqwvvPzOyrNrz&MSK=true
 #EXTINF:-1 tvg-id="EUR2.kazer.org" tvg-name="D17" tvg-logo="d17.png" group-title="WebTV-FR",D17
 http://stream.live-tv-direct.com:9180/live/hls/d17-clair-hd-and/and-hd-clair/index.m3u8|X-Forwarded-For=85.6.55.11
-#EXTINF:-1 tvg-id="" tvg-name="Numéro 23" tvg-logo="n23.png" group-title="WebTV-FR",Numéro 23
-http://pebbles112-lh.akamaihd.net/i/n23hd_1@97444/master.m3u8|X-Forwarded-For=85.4.148.32
 #EXTINF:-1 tvg-id="" tvg-name="NT1" tvg-logo="nt1.png" group-title="WebTV-FR",NT1
 http://hlstv-g3.swisscom.com/iphone/smil:1731_iPhone.smil/playlist.m3u8?NHM=vyqqqqquzzy&NHM6=y&N6=MLKP5E6&J=yvvxzvuzxxrqq&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=vyKwLzOyztrsKxuxqOyPMxLPtqNOLLKr&MSK=true
-#EXTINF:-1 tvg-id="" tvg-name="HD1" tvg-logo="hd1.png" group-title="WebTV-FR",HD1
-http://pebbles110-lh.akamaihd.net/i/hd1hd_1@97437/master.m3u8|X-Forwarded-For=85.4.148.36
 #EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="ab1.png" group-title="WebTV-FR",AB1
 http://82.135.224.134:88/udp/239.255.1.208:1234
 #EXTINF:-1 tvg-id="RTL2.kazer.org" tvg-name="RTL9" tvg-logo="rtl9.png" group-title="WebTV-FR",RTL9
 http://hlstv-g3.swisscom.com/iphone/smil:1713_iPhone.smil/playlist.m3u8?NHM=vyqqqqqwzur&NHM6=y&N6=MLKP5E6&J=yvvxzvuztvwtw&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-tOrLOLvOqMrvuyswrtOvtutzrvMqNLqu&MSK=true
-#EXTINF:-1 tvg-id="" tvg-name="Chérie 25" tvg-logo="cherie25.png" group-title="WebTV-FR",Chérie 25
-http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/master.m3u8|X-Forwarded-For=85.5.120.35
 #EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="rtsun.png" group-title="WebTV-FR",RTS Un
 http://hlstv-g1.swisscom.com/iphone/smil:1004_iPhone.smil/playlist.m3u8?NHM=vyqqqqqtrrw&NHM6=y&N6=MLKP5E6&J=yvvxzvuyxtzyu&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=vKyMvKqqyMwwOuswPPMMPKqvNzqvPxuv&MSK=true
 #EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="rtsdeux.png" group-title="WebTV-FR",RTS Deux
 http://hlstv-g1.swisscom.com/iphone/smil:1005_iPhone.smil/playlist.m3u8?NHM=vyqqqqqxwvt&NHM6=y&N6=MLKP5E6&J=yvvxzvuytuxzx&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=utzNxtzNKzMKOyqLNLvMwvLLquOsLvts&MSK=true
 #EXTINF:-1 tvg-id="" tvg-name="Planet+ Thalassa" tvg-logo="planetplusthalassa.png" group-title="WebTV-FR",Planet+ Thalassa
 http://178.33.88.129:888/udp/239.102.0.92:1234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="tmc.png" group-title="WebTV-FR",TMC
-http://pebbles103-lh.akamaihd.net/i/tmc_1@97379/master.m3u8|X-Forwarded-For=85.4.148.32
+#EXTINF:-1 tvg-id="" tvg-name="Planet+" tvg-logo="planetplus.png" group-title="WebTV-FR",Planet+
+http://82.135.224.134:88/udp/239.255.1.180:1234
+#EXTINF:-1 tvg-id="" tvg-name="UshuaiaTV" tvg-logo="ushuaiatv.png" group-title="WebTV-FR",UshuaiaTV
+http://178.33.88.129:888/udp/239.102.0.91:1234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="nationalgeographic.png" group-title="WebTV-FR",National Geographic
+http://82.135.224.134:88/udp/239.255.1.191:1234
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="tv5.png" group-title="WebTV-FR",TV5 Monde
-http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/master.m3u8|X-Forwarded-For=85.4.108.67
+http://hlstv-g3.swisscom.com/iphone/smil:1740_iPhone.smil/playlist.m3u8?NHM=vyqqqqqwutt&NHM6=y&N6=MLKP5E6&J=yvvxzvsxwurux&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-suqNrxtKxOzxOttvvxONzrNtwrsPLqNq&MSK=true
 #EXTINF:-1 tvg-id="" tvg-name="itele" tvg-logo="itele.png" group-title="WebTV-FR",I Télé
 http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8|X-Forwarded-For=85.1.184.231
 #EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="euronews.png" group-title="WebTV-FR",Euronews
 http://streaming-hub.com/stream/euronews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="bfmtv.png" group-title="WebTV-FR",BFM TV
-http://pebbles121-lh.akamaihd.net/i/bfmtv_1@137750/master.m3u8|X-Forwarded-For=85.6.98.168
 #EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="france24.png" group-title="WebTV-FR",France 24
 http://streaming-hub.com/stream/france-24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFM Business" tvg-logo="bfmbus.png" group-title="WebTV-FR",BFM Business
-http://pebbles121-lh.akamaihd.net/i/bfmb_1@137749/master.m3u8|X-Forwarded-For=85.2.178.94
 #EXTINF:-1 tvg-id="" tvg-name="Zouzous" tvg-logo="zouzous.png" group-title="WebTV-FR",Zouzous
 http://medias2.francetv.fr/playlists/zouzous/zouzous_tablettes.m3u8|X-Forwarded-For=2.1.109.65
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="gulli.png" group-title="WebTV-FR",Gulli
 http://streaming-hub.com/stream/gulli.m3u8|X-Forwarded-For=85.2.194.16
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="cartoonnetwork.png" group-title="WebTV-FR",Cartoon Network
+http://178.33.88.129:888/udp/239.102.0.89:1234
 #EXTINF:-1 tvg-id="RMC2.kazer.org" tvg-name="RMC Découverte" tvg-logo="rmcdecouverte.png" group-title="WebTV-FR",RMC Découverte
 http://streaming-hub.com/stream/rmc.m3u8|X-Forwarded-For=85.4.161.88
-#EXTINF:-1 tvg-id="" tvg-name="Montagne TV" tvg-logo="montagnetv.png" group-title="WebTV-FR",Montagne TV
-http://pebbles121-lh.akamaihd.net/i/montagne_1@137758/master.m3u8|X-Forwarded-For=85.4.148.32
-#EXTINF:-1 tvg-id="" tvg-name="LaTélé" tvg-logo="latele.png" group-title="WebTV-FR",LaTélé
-http://pebbles100-lh.akamaihd.net/i/latele_1@97375/master.m3u8|X-Forwarded-For=85.6.221.40
 #EXTINF:-1 tvg-id="" tvg-name="Oui tv" tvg-logo="ouitv.png" group-title="WebTV-FR",Oui Tv
 http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8|X-Forwarded-For=85.6.190.45
 #EXTINF:-1 tvg-id="" tvg-name="Rouge Tv" tvg-logo="rougetv.png" group-title="WebTV-FR",Rouge Tv
