@@ -86,7 +86,7 @@ http://str81.creacast.com:80/weo/high/playlist.m3u8|X-Forwarded-For=2.7.49.178
 #EXTINF:-1 tvg-id="" tvg-name="RTL Télé Lux" tvg-logo="rtltelelux.png" group-title="WebTV-FR",RTL Télé Lux
 http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8|X-Forwarded-For=2.14.105.12
 #EXTINF:-1 tvg-id="" tvg-name="ARD" tvg-logo="ard.png" group-title="WebTV-DE",ARD
-http://streaming-hub.com/ss/i/daserste_1@97481/index_900_av-b.m3u8?sd=10&rebase=on
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8|X-Forwarded-For=5.28.199.58
 #EXTINF:-1 tvg-id="" tvg-name="Alpha" tvg-logo="alpha.png" group-title="WebTV-DE",Alpha
 http://pebbles123-lh.akamaihd.net/i/bralpha_1@137776/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eins Plus" tvg-logo="einsplus.png" group-title="WebTV-DE",Eins Plus
@@ -94,13 +94,13 @@ http://pebbles123-lh.akamaihd.net/i/einsplus_1@137775/master.m3u8|X-Forwarded-Fo
 #EXTINF:-1 tvg-id="" tvg-name="Eins Festival" tvg-logo="einsfestival.png" group-title="WebTV-DE",Eins Festival
 http://pebbles112-lh.akamaihd.net/i/einsfestival_1@97482/master.m3u8|X-Forwarded-For=85.4.148.32
 #EXTINF:-1 tvg-id="" tvg-name="zdf" tvg-logo="zdf.png" group-title="WebTV-DE",ZDF
-http://streaming-hub.com/ss/i/zdf_1@97483/index_900_av-p.m3u8?sd=10&rebase=on
+http://zdf_hds_de-f.akamaihd.net/i/de14_v1@147090/master.m3u8|X-Forwarded-For=5.28.199.58
 #EXTINF:-1 tvg-id="" tvg-name="zdfneo" tvg-logo="zdfneo.png" group-title="WebTV-DE",ZDF neo
-http://pebbles111-lh.akamaihd.net/i/zdfneo_1@97479/master.m3u8|X-Forwarded-For=85.4.148.38
+http://zdf_hds_de-f.akamaihd.net/i/de13_v1@147090/master.m3u8|X-Forwarded-For=5.28.199.58
 #EXTINF:-1 tvg-id="" tvg-name="zdfkultur" tvg-logo="zdfkultur.png" group-title="WebTV-DE",ZDF Kultur
-http://pebbles111-lh.akamaihd.net/i/zdfkultur_1@97478/master.m3u8|X-Forwarded-For=85.4.149.42
+http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8|X-Forwarded-For=5.28.199.58
 #EXTINF:-1 tvg-id="" tvg-name="ZDF Info" tvg-logo="zdfinfo.png" group-title="WebTV-DE",ZDF Info
-http://pebbles111-lh.akamaihd.net/i/zdfinfo_1@97477/master.m3u8|X-Forwarded-For=85.4.148.32
+http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/master.m3u8|X-Forwarded-For=5.28.199.58
 #EXTINF:-1 tvg-id="" tvg-name="3plus" tvg-logo="3plus.png" group-title="WebTV-DE",3+
 http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/master.m3u8|X-Forwarded-For=85.2.198.44
 #EXTINF:-1 tvg-id="" tvg-name="3sat" tvg-logo="3sat.png" group-title="WebTV-DE",3Sat
@@ -162,7 +162,7 @@ http://pebbles107-lh.akamaihd.net/i/br3_1@97517/master.m3u8|X-Forwarded-For=85.4
 #EXTINF:-1 tvg-id="" tvg-name="NDR" tvg-logo="ndr.png" group-title="WebTV-DE",NDR
 http://pebbles113-lh.akamaihd.net/i/ndr_1@97484/master.m3u8|X-Forwarded-For=85.1.100.47
 #EXTINF:-1 tvg-id="" tvg-name="MDR" tvg-logo="mdr.png" group-title="WebTV-DE",MDR
-http://pebbles123-lh.akamaihd.net/i/mdr_1@137782/master.m3u8|X-Forwarded-For=85.7.142.4
+http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8|X-Forwarded-For=2.165.47.101
 #EXTINF:-1 tvg-id="" tvg-name="HR" tvg-logo="hr.png" group-title="WebTV-DE",HR
 http://pebbles123-lh.akamaihd.net/i/hr_1@137778/master.m3u8|X-Forwarded-For=85.1.51.68
 #EXTINF:-1 tvg-id="" tvg-name="ServusTV" tvg-logo="servustv.png" group-title="WebTV-DE",ServusTV
@@ -172,7 +172,7 @@ http://pebbles106-lh.akamaihd.net/i/rbb_1@97457/master.m3u8|X-Forwarded-For=85.5
 #EXTINF:-1 tvg-id="" tvg-name="Tele 5" tvg-logo="tele5.png" group-title="WebTV-DE",Tele5
 http://pebbles108-lh.akamaihd.net/i/tele5_1@97465/master.m3u8|X-Forwarded-For=85.5.27.176
 #EXTINF:-1 tvg-id="" tvg-name="N24" tvg-logo="n24.png" group-title="WebTV-DE",N24
-http://pebbles104-lh.akamaihd.net/i/n24_1@97406/master.m3u8|X-Forwarded-For=85.5.32.79
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8|X-Forwarded-For=5.28.199.58
 #EXTINF:-1 tvg-id="" tvg-name="N-tv" tvg-logo="ntv.png" group-title="WebTV-DE",N-TV
 http://pebbles104-lh.akamaihd.net/i/ntv_1@97405/master.m3u8|X-Forwarded-For=85.1.28.99
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="euronews.png" group-title="WebTV-DE",Euronews
