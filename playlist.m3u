@@ -268,13 +268,19 @@ http://c001.p124.edgesuite.net/i/c001/more4_1@137795/master.m3u8|X-Forwarded-For
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="fashiontv.png" group-title="WebTV-UK",Fashion TV
 http://c001.p106.edgesuite.net/i/c001/fashiontv_1@97512/master.m3u8|X-Forwarded-For=85.2.76.211
 #EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="travelchannel.png" group-title="WebTV-UK",Travel Channel
-http://pebbles113-lh.akamaihd.net/i/travelchannel_1@97576/master.m3u8|X-Forwarded-For=85.2.76.39
+http://c001.p113.edgesuite.net/i/c001/travelchannel_1@97576/master.m3u8|X-Forwarded-For=85.2.76.39
 #EXTINF:-1 tvg-id="" tvg-name="CCTV News Channel" tvg-logo="cctvnews.png" group-title="WebTV-UK",CCTV News
-http://pebbles101-lh.akamaihd.net/i/cctvnews_1@97342/master.m3u8|X-Forwarded-For=85.2.41.29
+http://c001.p101.edgesuite.net/i/c001/cctvnews_1@97342/master.m3u8|X-Forwarded-For=85.2.41.29
 #EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="cnbc.png" group-title="WebTV-UK",CNBC
-http://pebbles124-lh.akamaihd.net/i/cnbc_1@137788/master.m3u8|X-Forwarded-For=85.2.41.29
+http://c001.p124.edgesuite.net/i/c001/cnbc_1@137788/master.m3u8|X-Forwarded-For=85.2.41.29
 #EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="skynews.png" group-title="WebTV-UK",Sky News
-http://pebbles106-lh.akamaihd.net/i/skynews_1@97511/master.m3u8|X-Forwarded-For=85.2.49.145
+http://c001.p106.edgesuite.net/i/c001/skynews_1@97511/master.m3u8|X-Forwarded-For=85.2.49.145
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="nhkworld.png" group-title="WebTV-Other",NHK World
+http://c001.p124.edgesuite.net/i/c001/nhkw_1@137796/master.m3u8|X-Forwarded-For=85.3.95.32
+#EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="e4.png" group-title="WebTV-UK",E4
+http://c001.p124.edgesuite.net/i/c001/e4_1@137789/master.m3u8|X-Forwarded-For=85.1.241.80
+#EXTINF:-1 tvg-id="" tvg-name="Film4" tvg-logo="film4.png" group-title="WebTV-UK",Film4
+http://c001.p124.edgesuite.net/i/c001/film4_1@137790/master.m3u8|X-Forwarded-For=85.3.61.170
 #EXTINF:-1 tvg-id="" tvg-name="Sports Night SD" tvg-logo="sportsnight.png" group-title="WebTV-UK",Sports Night SD
 http://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports Night HD" tvg-logo="sportsnight.png" group-title="WebTV-UK",Sports Night HD
@@ -288,35 +294,33 @@ http://c001.p110.edgesuite.net/i/c001/rsila2_1@97473/master.m3u8|X-Forwarded-For
 #EXTINF:-1 tvg-id="" tvg-name="RAI 1" tvg-logo="rai1.png" group-title="WebTV-IT",RAI 1
 http://c001.p103.edgesuite.net/i/c001/rai1_1@97382/master.m3u8|X-Forwarded-For=85.1.93.70
 #EXTINF:-1 tvg-id="" tvg-name="RAI 2" tvg-logo="rai2.png" group-title="WebTV-IT",RAI 2
-http://pebbles122-lh.akamaihd.net/i/rai2_1@137763/master.m3u8|X-Forwarded-For=85.4.119.52
+http://c001.p122.edgesuite.net/i/c001/rai2_1@137763/master.m3u8|X-Forwarded-For=85.4.119.52
 #EXTINF:-1 tvg-id="" tvg-name="RAI 3" tvg-logo="rai3.png" group-title="WebTV-IT",RAI 3
-http://pebbles122-lh.akamaihd.net/i/rai3_1@137764/master.m3u8|X-Forwarded-For=85.4.147.11
+http://c001.p122.edgesuite.net/i/c001/rai3_1@137764/master.m3u8|X-Forwarded-For=85.4.147.11
 #EXTINF:-1 tvg-id="" tvg-name="RAI Gulp" tvg-logo="raigulp.png" group-title="WebTV-IT",RAI Gulp
-http://pebbles122-lh.akamaihd.net/i/raigulp_1@137765/master.m3u8|X-Forwarded-For=85.4.143.252
+http://c001.p122.edgesuite.net/i/c001/raigulp_1@137765/master.m3u8|X-Forwarded-For=85.4.143.252
 #EXTINF:-1 tvg-id="" tvg-name="RAI Scuola" tvg-logo="raiscuola.png" group-title="WebTV-IT",RAI Scuola
-http://pebbles122-lh.akamaihd.net/i/raiscuola_1@137768/master.m3u8|X-Forwarded-For=85.4.148.32
+http://c001.p122.edgesuite.net/i/c001/raiscuola_1@137768/master.m3u8|X-Forwarded-For=85.4.148.32
 #EXTINF:-1 tvg-id="" tvg-name="RAI Storia" tvg-logo="raistoria.png" group-title="WebTV-IT",RAI Storia
-http://pebbles103-lh.akamaihd.net/i/raistoria_1@97389/master.m3u8|X-Forwarded-For=85.4.148.37
+http://c001.p103.edgesuite.net/i/c001/raistoria_1@97389/master.m3u8|X-Forwarded-For=85.4.148.37
 #EXTINF:-1 tvg-id="" tvg-name="RAI Stort 1" tvg-logo="raisport1.png" group-title="WebTV-IT",RAI Sport 1
-http://pebbles103-lh.akamaihd.net/i/raisport1_1@97387/master.m3u8|X-Forwarded-For=85.4.148.31
+http://c001.p103.edgesuite.net/i/c001/raisport1_1@97387/master.m3u8|X-Forwarded-For=85.4.148.31
 #EXTINF:-1 tvg-id="" tvg-name="RAI Stort 2" tvg-logo="raisport2.png" group-title="WebTV-IT",RAI Sport 2
-http://pebbles122-lh.akamaihd.net/i/raisport2_1@137769/master.m3u8|X-Forwarded-For=85.4.144.56
+http://c001.p122.edgesuite.net/i/c001/raisport2_1@137769/master.m3u8|X-Forwarded-For=85.4.144.56
 #EXTINF:-1 tvg-id="" tvg-name="RAI News 24" tvg-logo="rainews24.png" group-title="WebTV-IT",RAI News 24
-http://pebbles122-lh.akamaihd.net/i/rainews_1@137767/master.m3u8|X-Forwarded-For=85.5.28.164
+http://c001.p122.edgesuite.net/i/c001/rainews_1@137767/master.m3u8|X-Forwarded-For=85.5.28.164
 #EXTINF:-1 tvg-id="" tvg-name="I5" tvg-logo="i5.png" group-title="WebTV-IT",I5
-http://pebbles121-lh.akamaihd.net/i/canale5_1@137760/master.m3u8|X-Forwarded-For=85.1.52.247
+http://c001.p121.edgesuite.net/i/c001/canale5_1@137760/master.m3u8|X-Forwarded-For=85.1.52.247
 #EXTINF:-1 tvg-id="" tvg-name="TV Moda" tvg-logo="tvmoda.png" group-title="WebTV-IT",TV Moda
-http://pebbles103-lh.akamaihd.net/i/tvmoda_1@97383/master.m3u8|X-Forwarded-For=85.3.88.48
+http://c001.p103.edgesuite.net/i/c001/tvmoda_1@97383/master.m3u8|X-Forwarded-For=85.3.88.48
 #EXTINF:-1 tvg-id="" tvg-name="La 7" tvg-logo="la7.png" group-title="WebTV-IT",La 7
-http://pebbles122-lh.akamaihd.net/i/la7_1@137762/master.m3u8|X-Forwarded-For=85.2.66.217
+http://c001.p122.edgesuite.net/i/c001/la7_1@137762/master.m3u8|X-Forwarded-For=85.2.66.217
 #EXTINF:-1 tvg-id="" tvg-name="Tele Ticino" tvg-logo="teleticino.png" group-title="WebTV-IT",Tele Ticino
-http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For=85.4.59.106
+http://c001.p117.edgesuite.net/i/c001/tticino_1@135255/master.m3u8|X-Forwarded-For=85.4.59.106
 #EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="italia1.png" group-title="WebTV-IT",Italia 1
 http://c001.p103.edgesuite.net/i/c001/italia1_1@97381/master.m3u8|X-Forwarded-For=85.3.82.94
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="nhkworld.png" group-title="WebTV-Other",NHK World
-http://pebbles124-lh.akamaihd.net/i/nhkw_1@137796/master.m3u8|X-Forwarded-For=85.3.95.32
 #EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="rt.png" group-title="WebTV-Other",RT
-http://pebbles125-lh.akamaihd.net/i/russia_1@137797/master.m3u8|X-Forwarded-For=85.4.243.94
+http://c001.p125.edgesuite.net/i/c001/russia_1@137797/master.m3u8|X-Forwarded-For=85.4.243.94
 #EXTINF:-1 tvg-id="" tvg-name="NRJ" tvg-logo="nrj.png" group-title="WebTV-FR-Radio",NRJ
 #EXTVLCOPT:ts-es-id-pid
 #EXTVLCOPT:no-video
