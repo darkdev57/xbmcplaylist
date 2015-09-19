@@ -43,8 +43,10 @@ http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/master.m3u8|X-Forwarded-For
 http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/master.m3u8|X-Forwarded-For=85.4.53.199
 #EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="rtsdeux.png" group-title="WebTV-FR",RTS Deux
 http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/master.m3u8|X-Forwarded-For=85.5.127.80
-#EXTINF:-1 tvg-id="" tvg-name="Planet+ Thalassa" tvg-logo="planetplusthalassa.png" group-title="WebTV-FR",Planet+ Thalassa
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="tmc.png" group-title="WebTV-FR",TMC
 http://pebbles103-lh.akamaihd.net/i/tmc_1@97379/master.m3u8|X-Forwarded-For=85.4.148.32
+#EXTINF:-1 tvg-id="" tvg-name="Planet+ Thalassa" tvg-logo="planetplusthalassa.png" group-title="WebTV-FR",Planet+ Thalassa
+http://178.33.88.129:888/udp/239.102.0.92:1234.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Planet+" tvg-logo="planetplus.png" group-title="WebTV-FR",Planet+
 http://82.135.224.134:88/udp/239.255.1.180:1234
 #EXTINF:-1 tvg-id="" tvg-name="UshuaiaTV" tvg-logo="ushuaiatv.png" group-title="WebTV-FR",UshuaiaTV
