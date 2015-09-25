@@ -140,7 +140,7 @@ http://c001.p114.edgesuite.net/i/c001/3plus_1@97489/master.m3u8|X-Forwarded-For=
 #EXTINF:-1 tvg-id="" tvg-name="3sat" tvg-logo="3sat.png" group-title="WebTV-DE",3Sat
 http://c001.p112.edgesuite.net/i/c001/3sat_1@97480/master.m3u8|X-Forwarded-For=85.3.87.48
 #EXTINF:-1 tvg-id="" tvg-name="Deutsche Welle" tvg-logo="deutschewelle.png" group-title="WebTV-DE",Deutsche Welle
-http://dwschiene6-i.akamaihd.net/hls/live/221763/dwschiene6/x6x/playlist6x.m3u8|X-Forwarded-For=2.165.47.101
+http://dwschiene6-i.akamaihd.net/hls/live/221763/dwschiene6/x6x/playlist6x.m3u8|X-Forwarded-For=37.88.47.101
 #EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV-DE",Arte
 http://c001.p107.edgesuite.net/i/c001/artede_1@97463/master.m3u8|X-Forwarded-For=85.4.12.107
 #EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="rtl.png" group-title="WebTV-DE",RTL
