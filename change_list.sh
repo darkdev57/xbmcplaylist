@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 for i in {1..100}; do ping -c1 www.google.com &> /dev/null && break; done
 curl -s https://raw.githubusercontent.com/darkdev57/xbmcplaylist/master/playlist.m3u > /storage/playlist_new.m3u
 chmod 744 /storage/playlist_new.m3u
