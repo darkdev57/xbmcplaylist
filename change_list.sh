@@ -32,8 +32,8 @@ case $iprange in
 		myrange="8+192"
 	;;
 	7)
-		startStr="188"
-		myrange="4+60"
+		startStr="217"
+		myrange="2+192"
 	;;
 esac
 #replace all old ips with new one
@@ -43,7 +43,7 @@ sed -r -e "s/83\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStr\.$((RANDOM%$myra
 -e "s/138\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStr\.$((RANDOM%$myrange))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" \
 -e "s/166\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStr\.$((RANDOM%$myrange))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" \
 -e "s/178\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStr\.$((RANDOM%$myrange))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" \
--e "s/188\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStr\.$((RANDOM%$myrange))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" /storage/playlist_new.m3u > /storage/playlist_ch.m3u
+-e "s/217\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStr\.$((RANDOM%$myrange))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" /storage/playlist_new.m3u > /storage/playlist_ch.m3u
 
 #choose FR ip range
 iprangefr=$((RANDOM%7+1))
@@ -116,8 +116,8 @@ case $iprangede in
 		myrangeDe="31+128"
 	;;
 	7)
-		startStrDe="178"
-		myrangeDe="16+0"
+		startStrDe="188"
+		myrangeDe="16+96"
 	;;
 esac
 #replace all old ips with new one
@@ -127,7 +127,7 @@ sed -r -e "s/46\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStrDe\.$((RANDOM%$my
 -e "s/79\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStrDe\.$((RANDOM%$myrangeDe))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" \
 -e "s/80\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStrDe\.$((RANDOM%$myrangeDe))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" \
 -e "s/87\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStrDe\.$((RANDOM%$myrangeDe))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" \
--e "s/178\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStrDe\.$((RANDOM%$myrangeDe))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" /storage/playlist_fr.m3u > /storage/playlist.m3u
+-e "s/188\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/$startStrDe\.$((RANDOM%$myrangeDe))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" /storage/playlist_fr.m3u > /storage/playlist.m3u
 
 rm /storage/playlist_new.m3u
 rm /storage/playlist_ch.m3u
