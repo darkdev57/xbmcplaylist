@@ -1,201 +1,1062 @@
 #EXTM3U
-#EXTINF:0,3+HD
-http://62.65.140.214:80/session/efc70a24-a006-11e5-9af4-005056bc06d1/nvnv5a/1/1013/index.m3u8?token=651a4f5383441a59d423be23eaf2ba16_1449925135_1449925135&p=127
-#EXTINF:0,3satHD
-http://62.65.140.151:80/session/effc0472-a006-11e5-ba79-005056bc1a52/nvnv5a/1/1117/index.m3u8?token=e861fc6548c1844e355f8258195dc193_1449925135_1449925135&p=127
-#EXTINF:0,4+HD
-http://62.65.140.152:80/session/f03bc788-a006-11e5-9571-005056bc1a52/nvnv5a/1/1031/index.m3u8?token=5ace54a25d18b680d0b87cf4c85af91f_1449925136_1449925136&p=127
-#EXTINF:0,5+
-http://62.65.140.216:80/session/f0798708-a006-11e5-9b95-005056bc06d1/nvnv5a/1/1047/index.m3u8?token=c83626bd2a4fb971aa1ccb3e3ebbc58b_1449925136_1449925136&p=127
-#EXTINF:0,AlJazeeraEn
-http://62.65.140.151:80/session/f0d846bc-a006-11e5-b98b-005056bc49ac/nvnv5a/2/4013/index.m3u8?token=a3c2155c85dbb5b8435c56744ea35d1b_1449925137_1449925137&p=127
-#EXTINF:0,AnixeHD
-http://62.65.140.215:80/session/f1186396-a006-11e5-8dea-005056bc49ac/nvnv5a/1/1134/index.m3u8?token=fbfb90eb9582500938b7b97fbf41d900_1449925137_1449925137&p=127
-#EXTINF:0,ARDHD
-http://62.65.140.215:80/session/f14bc628-a006-11e5-8681-005056bc06d1/nvnv5a/2/1165/index.m3u8?token=3743481f448f47bd6e517fdc655be607_1449925138_1449925138&p=127
-#EXTINF:0,ArteFrHD
-http://62.65.140.215:80/session/f18d1c0e-a006-11e5-9006-005056bc1a52/nvnv5a/2/2029/index.m3u8?token=7c3da7b7d5903370ee612f0790e60d8b_1449925138_1449925138&p=127
-#EXTINF:0,ArteHD
-http://62.65.140.215:80/session/f1cd2e16-a006-11e5-8177-005056bc1a52/nvnv5a/1/1150/index.m3u8?token=fc404c271477d08c9628acbbca97aac8_1449925138_1449925138&p=127
-#EXTINF:0,BBC1HD
-http://62.65.140.215:80/session/f22aacbc-a006-11e5-a14e-005056bc49ac/nvnv5a/2/4017/index.m3u8?token=eb846def088e5a9283822f798c518c13_1449925139_1449925139&p=127
-#EXTINF:0,BBC2HD
-http://62.65.140.215:80/session/f29332c8-a006-11e5-a95f-005056bc49ac/nvnv5a/2/4012/index.m3u8?token=a0265b9a5f4f5bae419f8d68f489a80e_1449925139_1449925139&p=127
-#EXTINF:0,BBC3
-http://62.65.140.148:80/session/f2efc6d2-a006-11e5-b977-005056bc06d1/nvnv5a/2/4008/index.m3u8?token=a0c44c2aa3697b6ac686f3190049e68d_1449925140_1449925140&p=127
-#EXTINF:0,BBCwn
-http://62.65.140.217:80/session/f35313b8-a006-11e5-b20c-005056bc49ac/nvnv5a/2/4003/index.m3u8?token=5502a9f1454064de32142ab8cabf8fc7_1449925141_1449925141&p=127
-#EXTINF:0,BRHD
-http://62.65.140.150:80/session/f38cb122-a006-11e5-9555-005056bc49ac/nvnv5a/1/1112/index.m3u8?token=7d0e7f2b562d9f095a27a7d5515af036_1449925141_1449925141&p=127
-#EXTINF:0,Canal9
-http://62.65.140.216:80/session/f3e69e9e-a006-11e5-98fe-005056bc1a52/nvnv5a/2/2041/index.m3u8?token=290bdfd3e0f7368286ec497a7fdb18ba_1449925142_1449925142&p=127
-#EXTINF:0,CanalAlpha
-http://62.65.140.155:80/session/f4458b8e-a006-11e5-9a48-005056bc06d1/nvnv5a/2/2045/index.m3u8?token=16fffacb21bc2772109e7436f539e0d4_1449925142_1449925142&p=127
-#EXTINF:0,Canale5HD
-http://62.65.140.151:80/session/f49080da-a006-11e5-860b-005056bc1a52/nvnv5a/2/3026/index.m3u8?token=05358566cfb77f25a625f46a612edc8b_1449925143_1449925143&p=127
-#EXTINF:0,Chan4
-http://62.65.140.149:80/session/f4efdae4-a006-11e5-bd74-005056bc06d1/nvnv5a/2/4022/index.m3u8?token=46e69ac122d226954a865c88c8d6020c_1449925143_1449925143&p=127
-#EXTINF:0,CHTVHD
-http://62.65.140.216:80/session/f546bada-a006-11e5-951d-005056bc06d1/nvnv5a/1/1032/index.m3u8?token=46d9e9f366ee321fc4c8a6d9ab32bcb3_1449925144_1449925144&p=127
-#EXTINF:0,Cielo
-http://62.65.140.215:80/session/f58cfaea-a006-11e5-8576-005056bc06d1/nvnv5a/2/3041/index.m3u8?token=1c4fcd83349e1ee670f260f5b2be7978_1449925145_1449925145&p=127
-#EXTINF:0,CNBC
-http://62.65.140.215:80/session/f5d7216a-a006-11e5-9256-005056bc49ac/nvnv5a/2/4001/index.m3u8?token=840495b3bb354876c66c7c7b10a08306_1449925145_1449925145&p=127
-#EXTINF:0,CNN
-http://62.65.140.215:80/session/f61b7de2-a006-11e5-bda8-005056bc1a52/nvnv5a/2/4002/index.m3u8?token=b3df75edb1f85bbe8bd70185a27acec6_1449925146_1449925146&p=127
-#EXTINF:0,D8
-http://62.65.140.215:80/session/f678db90-a006-11e5-a066-005056bc1a52/nvnv5a/2/2018/index.m3u8?token=bb63cb0f4f17ae32a4b82f5a5e52edac_1449925146_1449925146&p=127
-#EXTINF:0,DeluxeMusic
-http://62.65.140.151:80/session/f6c3a698-a006-11e5-9b29-005056bc1a52/nvnv5a/1/1153/index.m3u8?token=7b01e52fdf8e8e2d632894053ea1b03b_1449925147_1449925147&p=127
-#EXTINF:0,DisneyChannel
-http://62.65.140.214:80/session/f6fde268-a006-11e5-967d-005056bc49ac/nvnv5a/1/1124/index.m3u8?token=144117a5eb9be075ac31a21c23dfc2d1_1449925147_1449925147&p=127
-#EXTINF:0,DMAX
-http://62.65.140.212:80/session/f73a7c46-a006-11e5-8a1f-005056bc06d1/nvnv5a/1/1018/index.m3u8?token=b5aa9199f6968c30ff0b454cc398357c_1449925148_1449925148&p=127
-#EXTINF:0,EuNews-e
-http://62.65.140.214:80/session/f792bc58-a006-11e5-819c-005056bc1a52/nvnv5a/1/104903/index.m3u8?token=0a00d6ec206b0e0db536c8ac723b3747_1449925148_1449925148&p=127
-#EXTINF:0,EuNews-f
-http://62.65.140.217:80/session/f7f42dd0-a006-11e5-ba95-005056bc49ac/nvnv5a/1/104901/index.m3u8?token=8504758446833d3436e09aa3c4e93d7c_1449925149_1449925149&p=127
-#EXTINF:0,EuNews-i
-http://62.65.140.151:80/session/f838e5ce-a006-11e5-a85b-005056bc1a52/nvnv5a/1/104902/index.m3u8?token=ec30b497be573d151993f4d3821d66f7_1449925149_1449925149&p=127
-#EXTINF:0,EuNews
-http://62.65.140.148:80/session/f890ad86-a006-11e5-8916-005056bc49ac/nvnv5a/1/1049/index.m3u8?token=a9c5549fabe9878f88a125809db93c13_1449925150_1449925150&p=127
-#EXTINF:0,EuSp
-http://62.65.140.151:80/session/f8d475e8-a006-11e5-9cc1-005056bc49ac/nvnv5a/1/1051/index.m3u8?token=d49e683b176fc18e44f33f961886869c_1449925150_1449925150&p=127
-#EXTINF:0,Film4
-http://62.65.140.155:80/session/f92eb882-a006-11e5-947e-005056bc49ac/nvnv5a/2/4023/index.m3u8?token=f8b802f44e195dd8644a902ed2bca3dd_1449925151_1449925151&p=127
-#EXTINF:0,Fr2HD
-http://62.65.140.148:80/session/f96cd59a-a006-11e5-8377-005056bc06d1/nvnv5a/2/2028/index.m3u8?token=6e357d62225dddfcb243bb50293896e5_1449925151_1449925151&p=127
-#EXTINF:0,Fr3
-http://62.65.140.214:80/session/f9aee9b2-a006-11e5-a935-005056bc06d1/nvnv5a/2/2008/index.m3u8?token=eec465badb63a0b8cbd08994ae9c1882_1449925152_1449925152&p=127
-#EXTINF:0,Fr4
-http://62.65.140.152:80/session/fa110bc4-a006-11e5-a9d8-005056bc49ac/nvnv5a/2/2009/index.m3u8?token=9636f335f569d2d1199d5cde84792ca8_1449925152_1449925152&p=127
-#EXTINF:0,Fr5
-http://62.65.140.151:80/session/fa59889a-a006-11e5-8ab6-005056bc1a52/nvnv5a/2/2010/index.m3u8?token=d226b3045fb11c28745b42d1f2d5f72e_1449925153_1449925153&p=127
-#EXTINF:0,Fr24
-http://62.65.140.151:80/session/faaf41ea-a006-11e5-bc66-005056bc49ac/nvnv5a/2/2007/index.m3u8?token=4f2f788847e69e1968f81f121e3e7feb_1449925153_1449925153&p=127
-#EXTINF:0,FrO
-http://62.65.140.150:80/session/faee858a-a006-11e5-9b45-005056bc06d1/nvnv5a/2/2015/index.m3u8?token=0466b47d8fc2de3860f0b0917531bc74_1449925154_1449925154&p=127
-#EXTINF:0,Gulli
-http://62.65.140.151:80/session/fb29f93a-a006-11e5-b16e-005056bc1a52/nvnv5a/2/2011/index.m3u8?token=af5424d5180955098edc73a01924be0f_1449925154_1449925154&p=127
-#EXTINF:0,Italia1HD
-http://62.65.140.217:80/session/fb63f25c-a006-11e5-a42f-005056bc49ac/nvnv5a/2/3028/index.m3u8?token=9ca0f449ecd3246fae00326568abef3a_1449925155_1449925155&p=127
-#EXTINF:0,ITV1HD
-http://62.65.140.215:80/session/fbb0b7c2-a006-11e5-8055-005056bc06d1/nvnv5a/2/4018/index.m3u8?token=b6f42a53a1488d0425c8f125a7969c9d_1449925155_1449925155&p=127
-#EXTINF:0,ITV2
-http://62.65.140.151:80/session/fc129852-a006-11e5-89a4-005056bc1a52/nvnv5a/2/4005/index.m3u8?token=1827d57a95d1ff8ac829db2a6771f0e9_1449925155_1449925155&p=127
-#EXTINF:0,ITV3
-http://62.65.140.214:80/session/fc677e44-a006-11e5-a62a-005056bc1a52/nvnv5a/2/4025/index.m3u8?token=5ef9d7ca4f0a4cfe238edc76677d5811_1449925156_1449925156&p=127
-#EXTINF:0,Joiz
-http://62.65.140.215:80/session/fca79da8-a006-11e5-94d2-005056bc49ac/nvnv5a/2/1172/index.m3u8?token=abd6a22eac7cc8e6d04ba606a21489f3_1449925157_1449925157&p=127
-#EXTINF:0,Kabel1chHD
-http://62.65.140.148:80/session/fcdc9fee-a006-11e5-a314-005056bc06d1/nvnv5a/1/1039/index.m3u8?token=e47eef37f753d5e81d617374e6176127_1449925157_1449925157&p=127
-#EXTINF:0,KiKaHD
-http://62.65.140.215:80/session/fd153c82-a006-11e5-8536-005056bc49ac/nvnv5a/1/1116/index.m3u8?token=2fe6e1b02a9211cbf880d35600350fe5_1449925157_1449925157&p=127
-#EXTINF:0,LA7
-http://62.65.140.151:80/session/fd59931e-a006-11e5-b8e8-005056bc49ac/nvnv5a/2/3027/index.m3u8?token=ca85ff8d5e864267cd7052299140a804_1449925158_1449925158&p=127
-#EXTINF:0,LaTele
-http://62.65.140.148:80/session/fdae7366-a006-11e5-bb1e-005056bc1a52/nvnv5a/2/2043/index.m3u8?token=4f9a9c65600d7e8f128ba8d07bd61e33_1449925158_1449925158&p=127
-#EXTINF:0,LemanBleu
-http://62.65.140.151:80/session/fe0680ec-a006-11e5-8549-005056bc06d1/nvnv5a/2/2044/index.m3u8?token=e6998d8176d215b07912144453bf692c_1449925159_1449925159&p=127
-#EXTINF:0,M6HD
-http://62.65.140.214:80/session/fe464182-a006-11e5-961b-005056bc1a52/nvnv5a/2/2026/index.m3u8?token=dc2db4a572de74d0b676265efdfc0990_1449925159_1449925159&p=127
-#EXTINF:0,MDR
-http://62.65.140.213:80/session/fe862162-a006-11e5-b5b7-005056bc06d1/nvnv5a/1/1069/index.m3u8?token=07ef64c1891021160659ce691f1298ef_1449925160_1449925160&p=127
-#EXTINF:0,MTVit
-http://62.65.140.216:80/session/fec77ec8-a006-11e5-8010-005056bc1a52/nvnv5a/2/3009/index.m3u8?token=6cdda50571294d1393b08184abae562c_1449925160_1449925160&p=127
-#EXTINF:0,MTV
-http://62.65.140.213:80/session/ff0873c4-a006-11e5-981c-005056bc1a52/nvnv5a/1/1033/index.m3u8?token=36e7d3dc021ff0fd98e793a249beb9ae_1449925161_1449925161&p=127
-#EXTINF:0,n-tv
-http://62.65.140.213:80/session/ff481d62-a006-11e5-983d-005056bc49ac/nvnv5a/1/1025/index.m3u8?token=0066ddebb2bd3a7acd269838ed524861_1449925161_1449925161&p=127
-#EXTINF:0,NDRHD
-http://62.65.140.219:80/session/ff831aa2-a006-11e5-9f07-005056bc1a52/nvnv5a/1/1115/index.m3u8?token=8b432cbc5773ac69321978696dd80443_1449925161_1449925161&p=127
-#EXTINF:0,Nick
-http://62.65.140.148:80/session/ffbc7b12-a006-11e5-94d7-005056bc06d1/nvnv5a/1/1004/index.m3u8?token=d7d44a539d16f9e4d96aae31b2c83f52_1449925162_1449925162&p=127
-#EXTINF:0,Nick
-http://62.65.140.149:80/session/0000ec16-a007-11e5-bf2f-005056bc06d1/nvnv5a/1/1034/index.m3u8?token=26bea67ca1fd885d06b0a6b2bc1c634d_1449925162_1449925162&p=127
-#EXTINF:0,ORF1HD
-http://62.65.140.216:80/session/003b0a7c-a007-11e5-b2c2-005056bc06d1/nvnv5a/1/1010/index.m3u8?token=eebaf12476c0de5b6fd57d993eb84fd3_1449925163_1449925163&p=127
-#EXTINF:0,ORF2HD
-http://62.65.140.155:80/session/007723ea-a007-11e5-b894-005056bc06d1/nvnv5a/1/1011/index.m3u8?token=3bc73761cd42e21c42071a7027a6270f_1449925163_1449925163&p=127
-#EXTINF:0,PHOENIXHD
-http://62.65.140.151:80/session/00a93128-a007-11e5-84c7-005056bc06d1/nvnv5a/1/1122/index.m3u8?token=1ca55e8b140a74d710685d6c84ba02b5_1449925163_1449925163&p=127
-#EXTINF:0,Pro7chHD
-http://62.65.140.212:80/session/00deb35c-a007-11e5-baec-005056bc1a52/nvnv5a/1/1037/index.m3u8?token=2fa9881da8bd783d43f91465113fe87c_1449925164_1449925164&p=127
-#EXTINF:0,Pro7Maxx
-http://62.65.140.155:80/session/01152d38-a007-11e5-9d01-005056bc06d1/nvnv5a/1/1041/index.m3u8?token=dd6d676d7c304c992099b12e1a34be9e_1449925164_1449925164&p=127
-#EXTINF:0,Puls8
-http://62.65.140.219:80/session/0148326e-a007-11e5-b3b0-005056bc49ac/nvnv5a/2/1053/index.m3u8?token=d99631c1d637850aa0ecc4cec81a06c3_1449925164_1449925164&p=127
-#EXTINF:0,Rai1
-http://62.65.140.216:80/session/017b0a0e-a007-11e5-a23f-005056bc1a52/nvnv5a/2/3003/index.m3u8?token=fddab540925f58bd4df950919da19616_1449925165_1449925165&p=127
-#EXTINF:0,Rai2
-http://62.65.140.155:80/session/01d2af5c-a007-11e5-9301-005056bc06d1/nvnv5a/2/3004/index.m3u8?token=60fe2f51de2fa723507294c31ce8a53f_1449925165_1449925165&p=127
-#EXTINF:0,Rai3
-http://62.65.140.215:80/session/021cad00-a007-11e5-b7f7-005056bc06d1/nvnv5a/2/3005/index.m3u8?token=8ab041c37b88da3204b8bb4cf8b4d9bd_1449925166_1449925166&p=127
-#EXTINF:0,RaiNews24
-http://62.65.140.212:80/session/026eec96-a007-11e5-8c7c-005056bc06d1/nvnv5a/2/3018/index.m3u8?token=3a70a9f2df1970d2c73fa86a8f82e9c5_1449925166_1449925166&p=127
-#EXTINF:0,RaiSport1
-http://62.65.140.148:80/session/02c91ed2-a007-11e5-a245-005056bc1a52/nvnv5a/2/3021/index.m3u8?token=2c9e7d3eb9bbf8cac98efe99ad0ebad8_1449925167_1449925167&p=127
-#EXTINF:0,Rete4HD
-http://62.65.140.216:80/session/0323f406-a007-11e5-a3d6-005056bc1a52/nvnv5a/2/3032/index.m3u8?token=fa02f94bcec239a10b293dc01f9ad97b_1449925167_1449925167&p=127
-#EXTINF:0,RSILA1HD
-http://62.65.140.151:80/session/03626cf4-a007-11e5-a469-005056bc06d1/nvnv5a/2/3045/index.m3u8?token=6318765c82940e67666d612c29871f4f_1449925168_1449925168&p=127
-#EXTINF:0,RSILA2HD
-http://62.65.140.215:80/session/03ad5b7e-a007-11e5-913d-005056bc49ac/nvnv5a/2/3046/index.m3u8?token=16ab505485e459046e256950718a428b_1449925168_1449925168&p=127
-#EXTINF:0,RTL2chHD
-http://62.65.140.215:80/session/03e68e80-a007-11e5-8b2d-005056bc06d1/nvnv5a/1/1024/index.m3u8?token=f202acf8046038bd2204b9200139b930_1449925169_1449925169&p=127
-#EXTINF:0,RTL1025
-http://62.65.140.217:80/session/04494570-a007-11e5-8537-005056bc06d1/nvnv5a/2/3010/index.m3u8?token=2ee4b79377a526ac0f07a07d67d431e1_1449925169_1449925169&p=127
-#EXTINF:0,RTLchHD
-http://62.65.140.215:80/session/0479e78e-a007-11e5-b661-005056bc06d1/nvnv5a/1/1020/index.m3u8?token=2d90427f4d23c6a1e16331ab9c920e47_1449925170_1449925170&p=127
-#EXTINF:0,RTLNitroHD
-http://62.65.140.216:80/session/04baa062-a007-11e5-ad02-005056bc06d1/nvnv5a/1/1027/index.m3u8?token=ab6c7d433e581bba45ef79e5c016d23a_1449925170_1449925170&p=127
-#EXTINF:0,RTPi
-http://62.65.140.215:80/session/04fe1284-a007-11e5-adb8-005056bc06d1/nvnv5a/2/5001/index.m3u8?token=85acc6a66d2bc9ad0af688a92332e135_1449925171_1449925171&p=127
-#EXTINF:0,RTS1HD
-http://62.65.140.152:80/session/0535c3c8-a007-11e5-98d9-005056bc49ac/nvnv5a/2/2034/index.m3u8?token=c1d8f735f39772a292da529749100045_1449925171_1449925171&p=127
-#EXTINF:0,RTS2HD
-http://62.65.140.152:80/session/0573e0f4-a007-11e5-8896-005056bc06d1/nvnv5a/2/2035/index.m3u8?token=71f0619965da67be4d2cb7f26ba7f7ee_1449925171_1449925171&p=127
-#EXTINF:0,S-RTLchHD
-http://62.65.140.215:80/session/07780e34-a007-11e5-8c8a-005056bc06d1/nvnv5a/1/1023/index.m3u8?token=14ab6be6ba1d3cf0a14c5099421539b8_1449925172_1449925172&p=127
-#EXTINF:0,S1
-http://62.65.140.215:80/session/07c266b4-a007-11e5-914b-005056bc49ac/nvnv5a/1/1035/index.m3u8?token=7262b184120b4a3fdfbfce29f11aa117_1449925175_1449925175&p=127
-#EXTINF:0,Sat.1chHD
-http://62.65.140.148:80/session/07fc4bb8-a007-11e5-912f-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=c8b78567503e8669fefe647c3df748f3_1449925176_1449925176&p=127
-#EXTINF:0,ServusTVHD
-http://62.65.140.215:80/session/083c9d6c-a007-11e5-ad9c-005056bc1a52/nvnv5a/1/1012/index.m3u8?token=af98bf3675d1f4d3e2e64e46eab90e4f_1449925176_1449925176&p=127
-#EXTINF:0,sixxHD
-http://62.65.140.155:80/session/08704180-a007-11e5-a4b1-005056bc06d1/nvnv5a/1/1040/index.m3u8?token=87dd3c07321802e135e6959ef4b6e379_1449925176_1449925176&p=127
-#EXTINF:0,Sport1
-http://62.65.140.217:80/session/08acbe9e-a007-11e5-bbee-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=e3a3facd37d42d5d37f9ec2ce13c2429_1449925177_1449925177&p=127
-#EXTINF:0,SRF1HD
-http://62.65.140.150:80/session/08e3ac92-a007-11e5-9a66-005056bc06d1/nvnv5a/1/1008/index.m3u8?token=e53bbc4d6409874b336b9d4c476e3384_1449925177_1449925177&p=127
-#EXTINF:0,SRF2HD
-http://62.65.140.215:80/session/0915c290-a007-11e5-81d8-005056bc1a52/nvnv5a/1/1009/index.m3u8?token=385e5437084adf4683ed76711de46ef5_1449925178_1449925178&p=127
-#EXTINF:0,SRFi
-http://62.65.140.213:80/session/095fb9b8-a007-11e5-ae56-005056bc06d1/nvnv5a/1/1003/index.m3u8?token=78f5cbc385027793fc8997b76f656d9b_1449925178_1449925178&p=127
-#EXTINF:0,StarTV
-http://62.65.140.148:80/session/09bcd2a6-a007-11e5-bb8c-005056bc1a52/nvnv5a/1/1107/index.m3u8?token=1e15c2160d6b0146175d5d7cfc5f8e7a_1449925178_1449925178&p=127
-#EXTINF:0,SWR-BW-HD
-http://62.65.140.215:80/session/09fb98a6-a007-11e5-bd63-005056bc06d1/nvnv5a/1/1114/index.m3u8?token=3a0c896a7e71d13f7fed898c8efe0ebb_1449925179_1449925179&p=127
-#EXTINF:0,TBasel
-http://62.65.140.151:80/session/0a51bdbc-a007-11e5-bb05-005056bc06d1/nvnv5a/1/1135/index.m3u8?token=2c6ea3c90b0170d98a314dad6306f995_1449925179_1449925179&p=127
-#EXTINF:0,TBärn
-http://62.65.140.155:80/session/0c8009cc-a007-11e5-8482-005056bc06d1/nvnv5a/1/1137/index.m3u8?token=7bc630279ca3fee99cb5220f2ea45ebd_1449925180_1449925180&p=127
-#EXTINF:0,Tele1
-http://62.65.140.214:80/session/0cd2e656-a007-11e5-8367-005056bc49ac/nvnv5a/1/1128/index.m3u8?token=3f3948034fca39ae334926a0ed6aea00_1449925184_1449925184&p=127
-#EXTINF:0,Tele5
-http://62.65.140.213:80/session/0d146932-a007-11e5-b6fd-005056bc06d1/nvnv5a/1/1090/index.m3u8?token=fcf77f5c65fdbf1b7d66bf6945f94d32_1449925184_1449925184&p=127
-#EXTINF:0,TeleBielingue
-http://62.65.140.149:80/session/0d99ac14-a007-11e5-9fb8-005056bc49ac/nvnv5a/2/2040/index.m3u8?token=5cf4f7da1266fca48607272dec9b8674_1449925185_1449925185&p=127
-#EXTINF:0,TeleM1
-http://62.65.140.151:80/session/0dea2554-a007-11e5-b0b8-005056bc06d1/nvnv5a/1/1132/index.m3u8?token=594e3844828e2ce547bcb55a1885b8d9_1449925185_1449925185&p=127
-#EXTINF:0,TeleTicino
-http://62.65.140.216:80/session/0e4cea2c-a007-11e5-af4a-005056bc49ac/nvnv5a/2/3036/index.m3u8?token=85371c433f3eb776ed0d7836b2ffd78f_1449925186_1449925186&p=127
-#EXTINF:0,TeleTop
-http://62.65.140.155:80/session/0eb27edc-a007-11e5-bb50-005056bc06d1/nvnv5a/1/1129/index.m3u8?token=881d48f510ab4de5bc4ced6fc6d8c241_1449925187_1449925187&p=127
-#EXTINF:0,TF1HD
-http://62.65.140.149:80/session/0ee3279e-a007-11e5-ac0a-005056bc1a52/nvnv5a/2/2027/index.m3u8?token=ed31bd836f5e6f31b6a2de7fb3d60a3b_1449925187_1449925187&p=127
-#EXTINF:0,TRT1
-http://62.65.140.151:80/session/0f3db664-a007-11e5-9856-005056bc1a52/nvnv5a/2/5030/index.m3u8?token=9fa25a639d2b375324619f08a613e27c_1449925188_1449925188&p=127
-#EXTINF:0,TSO
-http://62.65.140.215:80/session/0f9f8326-a007-11e5-8ad3-005056bc1a52/nvnv5a/1/1130/index.m3u8?token=90ff4195eac36952d83aa3bc43ce39be_1449925188_1449925188&p=127
+#EXTINF:-1,[COLOR blue][I][B]---22-12-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 22-12-2015--[/COLOR]
+
+
+#EXTINF:-1,[I][B][COLOR red] ------------------ REMARQUE IMPORTANTE ------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[I][B][COLOR white]Toutes les streams peuvent etre trouves gratuitement sur internet.[/COLOR][/B][/I]
+
+#EXTINF:-1,[I][B][COLOR white]Nous ne avons pas aucune serveur ou diffuse aucun type de signal.[/COLOR][/B][/I]
+
+#EXTINF:-1,[I][B][COLOR white]Tous ces streams sont le resultat de nombreuses heures[/COLOR][/B][/I]
+
+#EXTINF:-1,[I][B][COLOR white] de recherche sur Internet.[/COLOR][/B][/I]
+
+#EXTINF:-1,[I][B][COLOR white]Nous tenons egalement a remercier tous les utilisateurs qui ont contribue[/COLOR][/B][/I]
+
+#EXTINF:-1,[I][B][COLOR white]avec un petit don. Ce sont les petits gestes qui font la difference.[/COLOR][/B][/I]
+
+#EXTINF:-1,[I][B][COLOR orange]------------------- WE ONLY SHARE! --------------------[/COLOR][/B][/I]
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[I][B][COLOR yellow]---? Chaines Temporaires ?---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1,French: Weo
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1392.m3u8
+#EXTINF:-1,French: W9
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1378.m3u8
+#EXTINF:-1,French: TVA (Canada)
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1393.m3u8
+#EXTINF:-1,French: TV M3 (Switzerland)
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1394.m3u8
+#EXTINF:-1,French: tf1
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1357.m3u8
+#EXTINF:-1,French: Teva HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1395.m3u8
+#EXTINF:-1,French: TELETOON
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1396.m3u8
+#EXTINF:-1,French: SYFY
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1358.m3u8
+#EXTINF:-1,French: Sport
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1379.m3u8
+#EXTINF:-1,French: Serie Club
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1380.m3u8
+#EXTINF:-1,French: SCIENCES & VIE
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1397.m3u8
+#EXTINF:-1,French: Science et Vie TV
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1398.m3u8
+#EXTINF:-1,French: RTS Un
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1399.m3u8
+#EXTINF:-1,French: RTS Deux
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1400.m3u8
+#EXTINF:-1,French: RTL 9 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1381.m3u8
+#EXTINF:-1,French: ROUGE TV
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1401.m3u8
+#EXTINF:-1,French: PLANETE  CI
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1402.m3u8
+#EXTINF:-1,French: planet hd a&e
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1359.m3u8
+#EXTINF:-1,French: Paris Premiere
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1403.m3u8
+#EXTINF:-1,French: OLTV
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1404.m3u8
+#EXTINF:-1,French: OCS City HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1405.m3u8
+#EXTINF:-1,French: NRJ TV
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1406.m3u8
+#EXTINF:-1,French: NRJ 12
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1407.m3u8
+#EXTINF:-1,French: Notélé (belgique)
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1408.m3u8
+#EXTINF:-1,French: nat geo wild
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1360.m3u8
+#EXTINF:-1,French: Monaco Info
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1409.m3u8
+#EXTINF:-1,French: ma chaine sport
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1361.m3u8
+#EXTINF:-1,French: M6
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1362.m3u8
+#EXTINF:-1,French: LCP
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1410.m3u8
+#EXTINF:-1,French: LA TELE
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1411.m3u8
+#EXTINF:-1,French: Infosport
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1382.m3u8
+#EXTINF:-1,French: gulli
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1383.m3u8
+#EXTINF:-1,French: France5
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1363.m3u8
+#EXTINF:-1,French: France4
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1364.m3u8
+#EXTINF:-1,French: france3
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1365.m3u8
+#EXTINF:-1,French: france2
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1366.m3u8
+#EXTINF:-1,French: France O HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1412.m3u8
+#EXTINF:-1,French: France 24 en Francais
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1413.m3u8
+#EXTINF:-1,French: FOOT PLUS
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1367.m3u8
+#EXTINF:-1,French: EUROSPORT
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1368.m3u8
+#EXTINF:-1,French: Euronews
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1414.m3u8
+#EXTINF:-1,French: Enorme TV
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1415.m3u8
+#EXTINF:-1,French: E! entertainment
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1384.m3u8
+#EXTINF:-1,French: Disney Cinemagic
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1416.m3u8
+#EXTINF:-1,French: DISNEY CHANNEL
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1417.m3u8
+#EXTINF:-1,French: d8
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1369.m3u8
+#EXTINF:-1,French: d17
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1370.m3u8
+#EXTINF:-1,French: Cusine tv HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1418.m3u8
+#EXTINF:-1,French: COMEDIE
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1419.m3u8
+#EXTINF:-1,French: Cine Premier
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1385.m3u8
+#EXTINF:-1,French: CINE PLUS PREMIERE
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1371.m3u8
+#EXTINF:-1,French: Cine Famiz
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1386.m3u8
+#EXTINF:-1,French: Cine Emotion
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1387.m3u8
+#EXTINF:-1,French: Cine Club
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1388.m3u8
+#EXTINF:-1,French: CINE CLASSIC
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1420.m3u8
+#EXTINF:-1,French: CINE  FRISSON
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1431.m3u8
+#EXTINF:-1,French: CHASSE & PÊCHE
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1421.m3u8
+#EXTINF:-1,French: cartoon network
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1372.m3u8
+#EXTINF:-1,French: Canal plus sport
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1389.m3u8
+#EXTINF:-1,French: CANAL PLUS DECALE
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1373.m3u8
+#EXTINF:-1,French: canal plus cinema
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1374.m3u8
+#EXTINF:-1,French: CANAL PLUS
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1375.m3u8
+#EXTINF:-1,French: Canal 9 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1422.m3u8
+#EXTINF:-1,French: Canal   Series
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1423.m3u8
+#EXTINF:-1,French: Boomerang
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1424.m3u8
+#EXTINF:-1,French: BFM TV
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1425.m3u8
+#EXTINF:-1,French: BFM Buisness
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1426.m3u8
+#EXTINF:-1,French: bein sport2
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1376.m3u8
+#EXTINF:-1,French: bein sport1
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1377.m3u8
+#EXTINF:-1,French: ARTE (France)
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1427.m3u8
+#EXTINF:-1,French: Animaux HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1428.m3u8
+#EXTINF:-1,French: Action
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1390.m3u8
+#EXTINF:-1,French: AB1
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1429.m3u8
+#EXTINF:-1,French: 13 eme Rue HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1430.m3u8
+#EXTINF:-1,French: XXL
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1391.m3u8
+
+
+ 
+#EXTINF:-1,[COLOR yellow][I][B]FR/GE/UK/IT[/B][/I][/COLOR] [COLOR white][I][B] - Copiez et collez le [COLOR yellow]Playlist URL[/COLOR] dans PVR Simple Client ou Playlist Loader.[/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[COLOR white][I][B]Les deux autres liens contient le Logos et EPG des chaines,[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]et doivent etre places dans PVR Simple Client.[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]Les chaines sont de nationalites differentes et sont classes par ordre alphabetique.[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]Malheureusement, il est la seule facon de voir les chaines.[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR orange][I][B]Tous ces streams peuvent être trouvés gratuitement sur Internet....[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR yellow]XBMC/KODI M3U Playlist URL:[/COLOR] [COLOR white]http://tiny.cc/xv3h3x[/COLOR]
+
+#EXTINF:-1,[COLOR yellow]XBMC/KODI CHANNELS LOGOS:[/COLOR] [COLOR white]http://logo.tvip.ga[/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+ 
+#EXTINF:-1,[COLOR pink][I][B]CHAINES - TV CLUB[/B][/I][/COLOR] [B] - Creer un compte sur le site (www.teleclub.fr) d avoir acces a toutes les chaines[/B]
+http://0.0.0.0:1234
+ 
+#EXTINF:-1 tvg-id="MOSAIQUE.ut.cx" tvg-name="Mosaique" tvg-logo="0.png" group-title="tel" ,[COLOR orange]0[/COLOR] Mosaique
+http://tvclub.fr/ch00.ts
+ 
+#EXTINF:-1 tvg-id="CLUB1.ut.cx" tvg-name="Club1" tvg-logo="1.png" group-title="tel" ,[COLOR orange]1[/COLOR] Club1
+http://tvclub.fr/ch01.ts
+ 
+#EXTINF:-1 tvg-id="PREMIERE.ut.cx" tvg-name="Premiere" tvg-logo="2.png" group-title="tel" ,[COLOR orange]2[/COLOR] Premiere
+http://tvclub.fr/ch02.ts
+ 
+#EXTINF:-1 tvg-id="CINEFIL.ut.cx" tvg-name="Cinefil" tvg-logo="3.png" group-title="tel" ,[COLOR orange]3[/COLOR] Patrimoine TV
+http://tvclub.fr/ch03.ts
+ 
+#EXTINF:-1 tvg-id="DOCUMANIA.ut.cx" tvg-name="Documania" tvg-logo="4.png" group-title="tel" ,[COLOR orange]4[/COLOR] Documania
+http://tvclub.fr/ch04.ts
+ 
+#EXTINF:-1 tvg-id="CINQPLUS.ut.cx" tvg-name="Cinq+" tvg-logo="5.png" group-title="tel" ,[COLOR orange]5[/COLOR] Cinq+
+http://tvclub.fr/ch05.ts
+ 
+#EXTINF:-1 tvg-id="GLOUBI.ut.cx" tvg-name="Gloubi" tvg-logo="6.png" group-title="tel" ,[COLOR orange]6[/COLOR] Gloubi
+http://tvclub.fr/ch06.ts
+ 
+#EXTINF:-1 tvg-id="MUSICBOX.ut.cx" tvg-name="MusicBox" tvg-logo="7.png" group-title="tel" ,[COLOR orange]7[/COLOR] MusicBox
+http://tvclub.fr/ch07.ts
+ 
+#EXTINF:-1 tvg-id="WEST.ut.cx" tvg-name="West" tvg-logo="8.png" group-title="tel" ,[COLOR orange]8[/COLOR] West
+http://tvclub.fr/ch08.ts
+ 
+#EXTINF:-1 tvg-id="PATRIMOINETV.ut.cx" tvg-name="PatrimoineTV" tvg-logo="9.png" group-title="tel" ,[COLOR orange]9[/COLOR] CineFil
+http://tvclub.fr/ch09.ts
+ 
+#EXTINF:-1 tvg-id="SPEED.ut.cx" tvg-name="SpeedTV" tvg-logo="10.png" group-title="tel" ,[COLOR orange]10[/COLOR] SpeedTV
+http://tvclub.fr/ch10.ts
+ 
+#EXTINF:-1 tvg-id="RIRE.ut.cx" tvg-name="Rire" tvg-logo="11.png" group-title="tel" ,[COLOR orange]11[/COLOR] Rire
+http://tvclub.fr/ch11.ts
+ 
+#EXTINF:-1 tvg-id="MYSTERES.ut.cx" tvg-name="MysteresTV" tvg-logo="12.png" group-title="tel" ,[COLOR orange]12[/COLOR] MysteresTV
+http://tvclub.fr/ch12.ts
+ 
+#EXTINF:-1 tvg-id="CARREBLANC.ut.cx" tvg-name="Carre Blanc" tvg-logo="13.png" group-title="tel" ,[COLOR orange]13[/COLOR] Carre Blanc (18+)
+http://tvclub.fr/ch13.ts
+ 
+#EXTINF:-1 tvg-id="LRS.ut.cx" tvg-name="LRS" tvg-logo="14.png" group-title="tel" ,[COLOR orange]14[/COLOR] Club de Noel
+http://tvclub.fr/ch17.ts
+ 
+#EXTINF:-1 tvg-id="SPORTCLUB.ut.cx" tvg-name="SPORTCLUB" tvg-logo="15.png" group-title="tel" ,[COLOR orange]15[/COLOR] SportClub (Reserve)
+http://tvclub.fr/ch15.ts
+ 
+#EXTINF:-1 tvg-id="FXTV.ut.cx" tvg-name="FXTV" tvg-logo="16.png" group-title="tel" ,[COLOR orange]16[/COLOR] SFX (Reserve)
+http://tvclub.fr/ch16.ts
+ 
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+ 
+#EXTINF:-1,[I][B][COLOR yellow]--- Generalistes ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1, M6
+http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
+
+#EXTINF:-1, TebeSud
+rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
+ 
+#EXTINF:-1, LA CHAINE NORMANDIE
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+ 
+#EXTINF:-1, TV Rennes
+http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
+ 
+#EXTINF:-1 , Mirabelle TV
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+ 
+#EXTINF:-1, Yvelines Premiere
+http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8
+ 
+ 
+#EXTINF:-1,[I][B][COLOR yellow]--- Enfants ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[I][B][COLOR red]OFF[/COLOR][/B][/I]
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- Serie et Cinema ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[I][B][COLOR red]OFF[/COLOR][/B][/I]
+
+ 
+#EXTINF:-1,[I][B][COLOR yellow]--- Sport ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+ 
+#EXTINF:-1, Eurosport 1 (opt2)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+
+
+ 
+#EXTINF:-1,[I][B][COLOR yellow]---Documentaires ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1, Weo
+rtmp://str82.creacast.com:80/weo/high
+ 
+ 
+#EXTINF:-1,[I][B][COLOR yellow]--- Divertissement ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+ 
+#EXTINF:0, Enorme TV
+http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
+ 
+#EXTINF:0, GONG
+rtsp://ec.playmedia.fr:1935/gong-base/live
+
+#EXTINF:-1, HITBOX (jeux video)
+http://api.hitbox.tv/player/hls/ectvlol.m3u8
+ 
+ 
+#EXTINF:-1,[I][B][COLOR yellow]--- Musique ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+ 
+#EXTINF:-1,Trace Urban
+http://stream01.yamgo.com/iPhone/broadcast/trace_tv_urban-tablet.3gp.m3u8
+ 
+#EXTINF:-1,NRJ12
+rtmp://frtvonline.no-ip.be/live/nrj12b
+ 
+#EXTINF:-1,RADIO 105 TV
+rtmp://fms.105.net:1935/live/105Test1
+ 
+#EXTINF:-1,RADIO MONTE CARLO TV
+rtmp://fms.105.net:1935/live/rmc1
+ 
+#EXTINF:-1,RADIO VIRGIN TV
+rtmp://fms.105.net:1935/live/virgin1
+ 
+#EXTINF:0,MFM TV
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+ 
+#EXTINF:-1,Best Music HD
+rtmp://stream.smcloud.net/live2/best/best_720p
+ 
+#EXTINF:0,Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
+ 
+#EXTINF:0,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:0,M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+ 
+#EXTINF:0,Vevo Music TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+ 
+#EXTINF:0,Vevo Hip Hop TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+ 
+#EXTINF:-1,ROUGE TV CH
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+ 
+#EXTINF:-1,OUI TV
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
+ 
+#EXTINF:0,Vevo ROCK TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+ 
+#EXTINF:0, NOW Music.
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1,RADIO Q MUSIC TV
+rtmp://vmmaeventlivefs.fplive.net/vmmaeventlive-live/vmma.radio-sdh
+ 
+#EXTINF:0,D17
+http://stream.streaming-hub.com:8180/live/hls/d17-clair-v3-sd-and/and-sd-clair/d17-clair-v3-sd-audio_AACL_fra_56000_121=56000-video=1500000.m3u8
+ 
+#EXTINF:0,NRJ TV
+rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
+ 
+#EXTINF:0,Music Box 80
+http://tv.ut.cx/musicbox80.mp4
+ 
+#EXTINF:0,Music Box
+http://tv.ut.cx/musicbox.mp4
+ 
+ 
+#EXTINF:-1,[I][B][COLOR yellow]---- Infos ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1, BFM-TV
+http://clinetiptv.ddns.net:8000/live/alger/alger/81.m3u8
+#EXTINF:0, TV5 Monde
+http://178.33.88.129:888/udp/239.102.0.104:1234
+#EXTINF:0,BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:0,BFM Business
+http://bfmlive-i.akamaihd.net/hls/live/214272/bfmbusiness/04.m3u8
+#EXTINF:0,Africa 24
+http://afr24-p.cdn.hexaglobe.net/streaming/africa24_af24/playlist4.m3u8
+#EXTINF:0,Afrique Media Tv
+rtmp://afm.streamakaci.com/afm/afm.stream
+#EXTINF:0,Afrique Media Tv
+http://188.40.139.8:1935/live/afmedia.stream/playlist.m3u8
+#EXTINF:0,France 24
+rtmp://myafricanmega4.tulix.tv:1935/map-france24/map-france24roku.stream
+#EXTINF:0,I TELE
+http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/itele-clair-v3-sd-audio_fra_56000_121=56000-video=1500000.m3u8
+#EXTINF:-1,TELE (stream 2)
+http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8
+#EXTINF:0,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+#EXTINF:0,I24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
+#EXTINF:-1,PTC
+http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8
+#EXTINF:0,RTC
+http://media.webtvlive.eu/rtc/_definst_/mp4:live_720p.stream/playlist.m3u8
+#EXTINF:0,Equipe 21
+http://94.23.33.220:8280/5687/02.m3u8
+#EXTINF:-1,MONACO INFOS
+rtmp://46.105.34.238/livepkgr/livestream2.flv
+#EXTINF:-1,Notele
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+#EXTINF:-1,Assemblée Nationale
+http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+ 
+ 
+#EXTINF:-1,[I][B][COLOR yellow]--- Africaines (FR) ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+ 
+ 
+#EXTINF:0,AfricaBox Series
+http://chkg.tdf-cdn.com/8037/index.m3u8
+#EXTINF:0,Crtv (CMR)
+rtmp://188.40.139.8/live//mycrtv.stream
+#EXTINF:0,Vox Africa
+rtmp://208.75.224.165:1935/map-voxafrica/myStream.sdp
+#EXTINF:0,Canal 2 International (CMR)
+rtmp://188.40.139.8/live//c2.stream
+#EXTINF:0,Canal 2 Info (CMR)
+http://canal2-p.cdn.hexaglobe.net/streaming/canal2_c2info/canal2info_fre_480p.sdp.m3u8
+#EXTINF:0,Canal 2 Music (CMR)
+rtmp://188.40.139.8/live//c2music.stream
+#EXTINF:0,Canal 2 Movies (CMR)
+rtmp://188.40.139.8/live//c2movie.stream
+#EXTINF:0,Equinoxe Television (CMR)
+rtmp://myafricanmega3.tulix.tv:1935/map-equinoxe/map-equinoxe
+#EXTINF:0,STV
+rtmp://188.40.139.8/live//stv2.stream
+#EXTINF:0,VISION 4 (CMR)
+rtmp://83.167.34.11:1935/live playpath=VISION4
+#EXTINF:0,Boom tv(CMR)
+rtmp://83.167.34.11:1935/live playpath=BOOMTV
+#EXTINF:0,Nollywood FR
+rtmp://myafricanmega.tulix.tv:1935/map-nollywood/map-nollywood
+#EXTINF:0,RTI1 (CIV)
+http://178.248.214.76/rti_str-1911-4ad6f3631177846f952987a120241943/rti.stream/playlist.m3u8
+#EXTINF:0,RTI2(CIV)
+rtmp://188.40.139.8/live//rti2.stream
+#EXTINF:0,LC2 / NTV2
+http://strfla15.streamakaci.com/lc2/lc2.stream/playlist.m3u8
+#EXTINF:0,ORTB
+rtmp://188.40.139.8/live//ortb.stream
+#EXTINF:0,Gabon TV
+rtmp://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream
+#EXTINF:0,Digital Congo
+rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
+#EXTINF:0,Music Afrika
+rtmp://strfla13.streamakaci.com:1935/lc2new/ playpath=lc2 swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://www.ghanatvon.com/music-africa-tv.html
+#EXTINF:0,Africa Home TV
+rtsp://dimd-s.nsacdn.com/dimd_HomeTVRepeat/HomeTV_3
+#EXTINF:0,Ortm
+http://xmaliactux.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,Afric Nigeria TV
+http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?wowzasessionid=598321747
+#EXTINF:0,NTV 2 / LC2
+rtmpt://strfla13.streamakaci.com/lc2new/<playpath>lc2 swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf pageUrl=http://www.africawebtv.com/lc2-international-et-ntv2-benin/
+#EXTINF:0,RTS 1
+rtmp://85.25.43.91/livedvr/sn/?token=play@14064079580044/ playpath=rts1236.stream swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf pageUrl=http://www.africawebtv.com/tv/sen/rts1.html
+#EXTINF:-1,DBS TV
+http://41.219.187.10:3001/3
+#EXTINF:-1,AfricaBox Series
+http://chkg.tdf-cdn.com/8037/index.m3u8 timeout=10
+#EXTINF:-1,AfricaBox TV
+http://chkg.tdf-cdn.com/8038/index.m3u8
+#EXTINF:-1,Air TV
+rtmp://stream.air-tv.tv:1935/live/web2.stream
+ 
+#EXTINF:-1,[I][B][COLOR yellow]--- Autres Chaînes ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+ 
+#EXTINF:-1,KTO
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8
+#EXTINF:-1,Boardriders TV
+rtsp://live240.impek.com/brtvhd
+#EXTINF:-1,La Tele
+rtsp://rtmp.infomaniak.ch/livecast/latele
+#EXTINF:-1,Rouge TV
+rtsp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:-1,Grand Lille TV
+rtsp://str81.creacast.com/grandlilletv/high
+#EXTINF:-1,Antenne Centre TV
+http://vm109.imust.org:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,CNA
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:-1,Grand Lille TV
+rtsp://str81.creacast.com/grandlilletv/high
+#EXTINF:-1,IL TV
+rtmp://str81.creacast.com:80/iltv/high
+ 
+############################################################
+ 
+#EXTINF:-1,[I][B][COLOR red] Switzerland TV [/COLOR][/B][/I]
+ 
+############################################################
+ 
+#EXTINF:-1 ,RTS un
+http://streaming-hub.com/tv/i/rts1_1@97469/index_1300_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:,RTS Deux
+http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
+ 
+############################################################
+ 
+ #EXTINF:-1,[I][B][COLOR red]  Belgium  TV [/COLOR][/B][/I]
+ 
+############################################################
+ 
+ 
+#EXTINF:-1 ,TÈlÈ MB
+http://vm109.imust.org:1935/live/telemb-live/playlist.m3u8
+ 
+#EXTINF:-1 ,TÈlÈ Sambre
+http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
+ 
+#EXTINF:-1 ,TÈlÈ Bruxelles
+rtmp://37.187.156.238:1935/live/ playpath=live.sdp swfVfy=true live=true timeout=60
+ 
+#EXTINF:-1 ,TV Lux
+rtmp://wowza.tvlux.imust.org/live/tvlux-live
+#EXTINF:-1,[COLOR blue][I][B]--- 22-12-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green]--REDENEOBUX.COM 22-12-2015--[/COLOR]
+
+#EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR green]ATTENTION[/COLOR] --------------------------[/COLOR][/B][/I]
+ 
+#EXTINF:-1,[I][B][COLOR white]All these streams can be easily found over the internet.[/COLOR][/B][/I]
+ 
+#EXTINF:-1,[I][B][COLOR white]We do not have any server or broadcast any kind of signal.[/COLOR][/B][/I]
+ 
+#EXTINF:-1,[I][B][COLOR white]All these streams are the result of many hours of[/COLOR][/B][/I]
+ 
+#EXTINF:-1,[I][B][COLOR white]research over the Internet.[/COLOR][/B][/I]
+ 
+#EXTINF:-1,[I][B][COLOR white]We also want to thank all the users who contributed[/COLOR][/B][/I]
+ 
+#EXTINF:-1,[I][B][COLOR white]with a small donation. It's the small gestures that make a difference.[/COLOR][/B][/I]
+ 
+#EXTINF:-1,[I][B][COLOR white]This is not the best English, but I think you'll understand. :)[/COLOR][/B][/I]
+ 
+#EXTINF:-1,[I][B][COLOR orange]------------------- WE ONLY SHARE! --------------------[/COLOR][/B][/I]
+ 
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[I][B][COLOR yellow]---? Temporare Kanale ?---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1,Germany: Sky-Select HD1
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1496.m3u8
+#EXTINF:-1,Germany: Sky-Select HD2
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1495.m3u8
+#EXTINF:-1,Germany: Sky-Select HD3
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1494.m3u8
+#EXTINF:-1,Germany: Sky-Select HD4
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1493.m3u8
+#EXTINF:-1,Germany: Sky-Select HD5
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1492.m3u8
+#EXTINF:-1,Germany: Sky-Select HD6
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1491.m3u8
+#EXTINF:-1,Germany: Sky-Select HD7
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1490.m3u8
+#EXTINF:-1,Germany: Sky-Select HD8
+http://hyper.de1-eu.com:8000/live/assunta/assunta/1489.m3u8
+#EXTINF:-1,German: ZDF HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/828.m3u8
+#EXTINF:-1,German: VOX HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/829.m3u8
+#EXTINF:-1,German: TNT Film
+http://hyper.de1-eu.com:8000/live/assunta/assunta/830.m3u8
+#EXTINF:-1,German: Super RTL
+http://hyper.de1-eu.com:8000/live/assunta/assunta/831.m3u8
+#EXTINF:-1,German: sport1 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/819.m3u8
+#EXTINF:-1,German: Sport Time 7 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/832.m3u8
+#EXTINF:-1,German: Sport Time 6 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/833.m3u8
+#EXTINF:-1,German: Sport Time 5 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/834.m3u8
+#EXTINF:-1,German: Sport Time 4 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/835.m3u8
+#EXTINF:-1,German: Sport Time 3 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/836.m3u8
+#EXTINF:-1,German: Sport Time 2 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/837.m3u8
+#EXTINF:-1,German: Sport Time 1 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/838.m3u8
+#EXTINF:-1,German: SKY_SPORTS2
+http://hyper.de1-eu.com:8000/live/assunta/assunta/820.m3u8
+#EXTINF:-1,German: SKY_SPORTS1
+http://hyper.de1-eu.com:8000/live/assunta/assunta/821.m3u8
+#EXTINF:-1,German: SKY_COMEDY
+http://hyper.de1-eu.com:8000/live/assunta/assunta/822.m3u8
+#EXTINF:-1,German: sky_cinema_hd
+http://hyper.de1-eu.com:8000/live/assunta/assunta/823.m3u8
+#EXTINF:-1,German: SKY_BUNDESLIGA1
+http://hyper.de1-eu.com:8000/live/assunta/assunta/824.m3u8
+#EXTINF:-1,German: sky_action
+http://hyper.de1-eu.com:8000/live/assunta/assunta/825.m3u8
+#EXTINF:-1,German: SKY Krimi
+http://hyper.de1-eu.com:8000/live/assunta/assunta/840.m3u8
+#EXTINF:-1,German: Sky hits
+http://hyper.de1-eu.com:8000/live/assunta/assunta/841.m3u8
+#EXTINF:-1,German: Sky Emotion
+http://hyper.de1-eu.com:8000/live/assunta/assunta/861.m3u8
+#EXTINF:-1,German: Sky Cinema  24 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/842.m3u8
+#EXTINF:-1,German: Sky Cartoon Network
+http://hyper.de1-eu.com:8000/live/assunta/assunta/843.m3u8
+#EXTINF:-1,German: SKY ATLANTIC HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/844.m3u8
+#EXTINF:-1,German: Sat 1 HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/845.m3u8
+#EXTINF:-1,German: RTL Nitro
+http://hyper.de1-eu.com:8000/live/assunta/assunta/846.m3u8
+#EXTINF:-1,German: RTL HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/847.m3u8
+#EXTINF:-1,German: RTL 2
+http://hyper.de1-eu.com:8000/live/assunta/assunta/848.m3u8
+#EXTINF:-1,German: ORF 2
+http://hyper.de1-eu.com:8000/live/assunta/assunta/850.m3u8
+#EXTINF:-1,German: ORF 1
+http://hyper.de1-eu.com:8000/live/assunta/assunta/851.m3u8
+#EXTINF:-1,German: nat_geo_hd
+http://hyper.de1-eu.com:8000/live/assunta/assunta/826.m3u8
+#EXTINF:-1,German: natgeo_wild
+http://hyper.de1-eu.com:8000/live/assunta/assunta/827.m3u8
+#EXTINF:-1,German: N-TV
+http://hyper.de1-eu.com:8000/live/assunta/assunta/852.m3u8
+#EXTINF:-1,German: MGM
+http://hyper.de1-eu.com:8000/live/assunta/assunta/818.m3u8
+#EXTINF:-1,German: Kinowelt TV
+http://hyper.de1-eu.com:8000/live/assunta/assunta/853.m3u8
+#EXTINF:-1,German: Kika
+http://hyper.de1-eu.com:8000/live/assunta/assunta/854.m3u8
+#EXTINF:-1,German: KABEL 1
+http://hyper.de1-eu.com:8000/live/assunta/assunta/855.m3u8
+#EXTINF:-1,German: Eurosport HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/856.m3u8
+#EXTINF:-1,German: Discovery
+http://hyper.de1-eu.com:8000/live/assunta/assunta/857.m3u8
+#EXTINF:-1,German: Boomerang
+http://hyper.de1-eu.com:8000/live/assunta/assunta/858.m3u8
+#EXTINF:-1,German: AXN
+http://hyper.de1-eu.com:8000/live/assunta/assunta/859.m3u8
+#EXTINF:-1,German: 13th Street Germany HD
+http://hyper.de1-eu.com:8000/live/assunta/assunta/860.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR yellow][I][B]DE/FR/UK/IT [/B][/I][/COLOR] [COLOR white][I][B]- Kopieren und Einfugen der [COLOR yellow]Playlist URL[/COLOR] in PVR Simple Client oder Playlist Loader.[/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[COLOR white][I][B]Die beiden anderen Links enthalt die Logos und das EPG der Kanale,[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]und sollte in der PVR Simple Client platziert werden.[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]Die Kanale sind unterschiedlicher Nationalitaten und sind in alphabetischer Reihenfolge geordnet.[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]Leider ist es die einzige Moglichkeit, um die Kanale zu sehen.[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR orange][I][B]Alle diese Streams können frei über das Internet gefunden werden...[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR yellow]XBMC/KODI M3U Playlist URL:[/COLOR] [COLOR white]http://tiny.cc/xv3h3x[/COLOR]
+
+#EXTINF:-1,[COLOR yellow]XBMC/KODI CHANNELS LOGOS:[/COLOR] [COLOR white]http://logo.tvip.ga[/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - Alternative Liste ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:0002 tvg-id="daserste.de" group-title="DE Hauptsender" tvg-logo="609281.png", [COLOR gold]Das Erste[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=71565725
+#EXTINF:0003 tvg-id="zdf.de" group-title="DE Hauptsender" tvg-logo="520869.png", [COLOR gold]ZDF[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=89460817
+
+
+#EXTINF:0014 tvg-id="servustv.de" group-title="DE Hauptsender" tvg-logo="506777.png", [COLOR gold]ServusTV HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=91552152
+#EXTINF:0016 tvg-id="daf.de" group-title="DE Nachrichtensender" tvg-logo="133390.png", [COLOR gold]DAF[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=38226521
+#EXTINF:0017 tvg-id="ntv.de" group-title="DE Nachrichtensender" tvg-logo="323539.png", [COLOR gold]n-tv[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=36117276
+#EXTINF:0018 tvg-id="tagesschau24.de" group-title="DE Nachrichtensender" tvg-logo="420228.png", [COLOR gold]tagesschau24 HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=66943285
+#EXTINF:0019 tvg-id="n24.de" group-title="DE Nachrichtensender" tvg-logo="692106.png", [COLOR gold]N24[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=94565800
+#EXTINF:0023 tvg-id="ric.de" group-title="DE Kindersender" tvg-logo="548620.png", [COLOR gold]RIC[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=58895342
+#EXTINF:0028 tvg-id="joiz.de" group-title="DE Musik/Unterhaltung" tvg-logo="754941.png", [COLOR gold]Joiz HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=76444512
+#EXTINF:0029 tvg-id="ndrhh.de" group-title="DE Regionalsender" tvg-logo="345745.png", [COLOR gold]NDR Hamburg HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=97998370
+#EXTINF:0030 tvg-id="ndrmv.de" group-title="DE Regionalsender" tvg-logo="293767.png", [COLOR gold]NDR Meck.-Vorp. HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=37960481
+#EXTINF:0031 tvg-id="ndrns.de" group-title="DE Regionalsender" tvg-logo="686621.png", [COLOR gold]NDR Niedersachsen HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=66725953
+#EXTINF:0032 tvg-id="ndrsh.de" group-title="DE Regionalsender" tvg-logo="837900.png", [COLOR gold]NDR Schleswig-Hol. HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=68869115
+#EXTINF:0033 tvg-id="wdr.de" group-title="DE Regionalsender" tvg-logo="829753.png", [COLOR gold]WDR HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=86222576
+#EXTINF:0034 tvg-id="mdrsa.de" group-title="DE Regionalsender" tvg-logo="359097.png", [COLOR gold]mdr Sachsenanhalt[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=19246790
+#EXTINF:0035 tvg-id="mdrs.de" group-title="DE Regionalsender" tvg-logo="434439.png", [COLOR gold]mdr Sachsen[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=43846332
+#EXTINF:0036 tvg-id="mdrt.de" group-title="DE Regionalsender" tvg-logo="795294.png", [COLOR gold]mdr Thuringen[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=62127479
+#EXTINF:0038 tvg-id="br.de" group-title="DE Regionalsender" tvg-logo="282510.png", [COLOR gold]BR Nord HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=91032489
+#EXTINF:0038 tvg-id="br.de" group-title="DE Regionalsender" tvg-logo="282510.png", [COLOR gold]BR Sud HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=93405226
+#EXTINF:0039 tvg-id="swr.de" group-title="DE Regionalsender" tvg-logo="589366.png", [COLOR gold]SWR Rheinland-Pfalz HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=66994086
+#EXTINF:0039 tvg-id="swr.de" group-title="DE Regionalsender" tvg-logo="589366.png", [COLOR gold]SWR Baden-Wurt. HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=86487325
+#EXTINF:0040 tvg-id="hr.de" group-title="DE Regionalsender" tvg-logo="872109.png", [COLOR gold]hr HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=92038145
+#EXTINF:0042 tvg-id="sr.de" group-title="DE Regionalsender" tvg-logo="153584.png", [COLOR gold]SR[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=70352001
+#EXTINF:0043 tvg-id="munchen.de" group-title="DE Regionalsender" tvg-logo="465700.png", [COLOR gold]munchen.tv[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=87047525
+#EXTINF:0044 tvg-id="alexberlin.de" group-title="DE Regionalsender" tvg-logo="806954.png", [COLOR gold]Alex Berlin[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=65304965
+#EXTINF:0045 tvg-id="nrw.de" group-title="DE Regionalsender" tvg-logo="452899.png", [COLOR gold]NRW TV[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=23906919
+#EXTINF:0046 tvg-id="arte.de" group-title="DE Spartensender" tvg-logo="602298.png", [COLOR gold]arte[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=46301796
+#EXTINF:0047 tvg-id="3sat.de" group-title="DE Spartensender" tvg-logo="517353.png", [COLOR gold]3sat[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=20739466
+#EXTINF:0048 tvg-id="phoenix.de" group-title="DE Spartensender" tvg-logo="782023.png", [COLOR gold]Phoenix[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=86652639
+#EXTINF:0049 tvg-id="alpha.de" group-title="DE Spartensender" tvg-logo="535798.png", [COLOR gold]ARD Alpha HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=36929284
+#EXTINF:0051 tvg-id="blizz.de" group-title="DE Spartensender" tvg-logo="897815.png", [COLOR gold]blizz TV HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=72718361
+#EXTINF:0052 tvg-id="family.de" group-title="DE Spartensender" tvg-logo="693134.png", [COLOR gold]Family TV HD[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=12138379
+#EXTINF:0055 tvg-id="zdfneo.de" group-title="DE Spartensender" tvg-logo="698970.png", [COLOR gold]ZDFneo[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=83251092
+#EXTINF:0056 tvg-id="zdfkultur.de" group-title="DE Spartensender" tvg-logo="734448.png", [COLOR gold]ZDFkultur[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=70552908
+#EXTINF:0057 tvg-id="zdfinfo.de" group-title="DE Spartensender" tvg-logo="387164.png", [COLOR gold]ZDFinfo[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=46937073
+#EXTINF:0058 tvg-id="anixe.de" group-title="DE Spartensender" tvg-logo="581947.png", [COLOR gold]Anixe[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=70153119
+#EXTINF:0059 tvg-id="dw.de" group-title="DE Spartensender" tvg-logo="730024.png", [COLOR gold]Deutsche Welle[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=72519784
+#EXTINF:0061 tvg-id="weltderwunder.de" group-title="DE Spartensender" tvg-logo="729583.png", [COLOR gold]Welt der Wunder TV[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=84481021
+#EXTINF:0064 tvg-id="bibeltv.de" group-title="DE Religion" tvg-logo="206560.png", [COLOR gold]Bibel TV[/COLOR]
+http://api.iptv.ink/pl.m3u8?ch=40925356
+#EXTINF:0067 tvg-id="orf3.at" group-title="AT Spartensender" tvg-logo="510154.png", [COLOR orange]ORF III[/COLOR]
+http://hls.tv.iptv.ink/orf3at@510154.m3u8|X-Forwarded-For=93.82.18.55
+#EXTINF:0068 tvg-id="orfsportplus.at" group-title="AT Sport" tvg-logo="722628.png", [COLOR orange]ORF Sport+[/COLOR]
+http://hls.tv.iptv.ink/orfsportplusat@722628.m3u8|X-Forwarded-For=93.82.18.55
+
+
+#EXTINF:-1,[COLOR yellow]--- Andere deutsche Kanale ---[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:0002 tvg-id="daserste.de" tvg-logo="609281.png", Das Erste
+http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
+#EXTINF:0003 tvg-id="zdf.de" tvg-logo="520869.png", ZDF
+http://zdf-hds-de-f.zdf.de/i/de14_v1@147090/index_710_av-b.m3u8
+#EXTINF:0065 tvg-id="orfeins.at" tvg-logo="521494.png", ORF 1
+http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
+#EXTINF:0066 tvg-id="orf2.at" tvg-logo="103185.png", ORF 2
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png",Servus TV
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
+#EXTINF:0052 tvg-id="family.de" tvg-logo="693134.png", Family TV HD
+http://83.169.58.38:1935/live/Stream3/playlist.m3u8
+#EXTINF:0051 tvg-id="blizz.de" tvg-logo="897815.png", blizz TV HD
+http://lb.hd-livestream.de/live/DasneueTV/playlist.m3u8
+#EXTINF:0040 tvg-id="hr.de" tvg-logo="872109.png", hr fernsehen
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-b.m3u8
+#EXTINF:0057 tvg-id="zdfinfo.de" tvg-logo="387164.png", zdf info
+http://zdf_hds_de-f.akamaihd.net/i/de12_v1@87013/index_1456_av-b.m3u8
+#EXTINF:0018 tvg-id="tagesschau24.de" tvg-logo="420228.png", tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?b=400-4000
+#EXTINF:0046 tvg-id="arte.de" tvg-logo="602298.png", arte
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_925.m3u8 
+#EXTINF:0033 tvg-id="wdr.de" tvg-logo="829753.png", WDR HD
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8?b=400-4000
+#EXTINF:0029 tvg-id="ndrhh.de" tvg-logo="345745.png", NDR Hamburg HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-p.m3u8
+#EXTINF:0030 tvg-id="ndrmv.de" tvg-logo="293767.png", NDR MV HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
+#EXTINF:0032 tvg-id="ndrsh.de" tvg-logo="837900.png", NDR SH HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
+#EXTINF:0035 tvg-id="mdrs.de" tvg-logo="434439.png", mdr
+http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/index_1728_av-b.m3u8
+#EXTINF:0232 tvg-id="euronews.fr" group-title="FR Informations" tvg-logo="204281.png", euronews
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_de.m3u8
+#EXTINF:0059 tvg-id="dw.de" tvg-logo="730024.png", Deutsche Welle
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:0045 tvg-id="nrw.de" tvg-logo="452899.png", NRW TV
+http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
+#EXTINF:-1, Okto TV
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+#EXTINF:0042 tvg-id="sr.de" tvg-logo="153584.png", SR
+http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:0028 tvg-id="joiz.de" tvg-logo="754941.png", Joiz HD
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8
+#EXTINF:0019 tvg-id="n24.de" tvg-logo="692106.png", N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
+#EXTINF:0061 tvg-id="weltderwunder.de" tvg-logo="729583.png", Welt der Wunder TV
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/playlist.m3u8
+#EXTINF:0070 tvg-id="gotv.at" tvg-logo="157747.png", gotv Music
+http://stream1.gotv.at:1935/live/gotvlive_source/playlist.m3u8
+#EXTINF:0023 tvg-id="ric.de" tvg-logo="548620.png", RiC
+http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
+#EXTINF:0058 tvg-id="anixe.de" tvg-logo="581947.png", ANIXE
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+
+#EXTINF:-1,[COLOR yellow]--- Sports ----[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 1HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 2HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 3HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HD  GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+
+#EXTINF:-1,[COLOR yellow]--- Deutsch-Kanäle 2 ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0, ARTE 
+http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8 
+
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-logo="anixesd.png", ANIXE
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8|X-Forwarded-For=91.63.136.21
+
+#EXTINF:-1,ALEX TV 1024*576
+http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w629559966_b1200000_slGER.m3u8
+
+#EXTINF:0,Rfhv De
+rtmp://62.113.210.250/medienasa-live/RFH_high
+
+#EXTINF:0,Elbe Kanal De
+rtmp://62.113.210.250/medienasa-live/elbe_high
+
+#EXTINF:-1,Tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Wel der Wunder TV
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
+
+#EXTINF:-1,Das Neue TV
+http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
+
+#EXTINF:-1,Family TV
+http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
+
+#EXTINF:-1,Alex Berlin^
+http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w356398679_b540000_slGER.m3u8
+
+#EXTINF:-1, Das Neue TV
+http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
+
+#EXTINF:-1,Deutsches Anlegerfernsehen
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
+
+#EXTINF:-1,Muenchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/chunklist_w1585276943.m3u8
+
+#EXTINF:-1,ORF Zwei (Austria)
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1,ORF Drei (Austria)
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1,ORF Sport + (Austria)
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1, Telebarn
+http://rtmp.infomaniak.ch/livecast/barntele/media_w2076947800_2120.ts
+
+#EXTINF:-1,OKTO (Austria)
+http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-high.stream/chunklist_w2017128230.m3u8
+
+#EXTINF:-1,Austria 24 De
+rtmp://streaming.austria24.tv/live/stream_360p
+
+#EXTINF:-1,Euronews De
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+
+#EXTINF:-1,Juwelo De
+rtmp://85.214.72.27/juwelo_hd/live_DE1
+
+#EXTINF:-1,RAN 1 Dessau De
+rtmp://62.113.210.250/medienasa-live/ran1_high
+
+#EXTINF:-1,TV Aktuell De
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8
+
+#EXTINF:-1,TV Oberfranken De
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
+
+#EXTINF:-1,TV Touring Schweinfurt De
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8
+
+#EXTINF:-0,TV Touring Würzburg De
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
+
+#EXTINF:-1,Tva De
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
+
+#EXTINF:-1,Ok Stendal  De
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
+
+#EXTINF:-1,Ran 1 De
+rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
+
+#EXTINF:-1,Rwb De
+rtmp://62.113.210.250/medienasa-live/rbw_high
+
+#EXTINF:-1 group-title="BUSSINESS",BUSINESS TV GERMANY
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asfÃƒâ€š
+
+#EXTINF:-1 group-title="EUROPE",ALEX-BERLIN GERMANY
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/SAT_TOTAL.m3u8
+
+#EXTINF:-1 group-title="EUROPE",BADEN TV GERMANY
+rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp
+
+#EXTINF:-1 group-title="EUROPE",DRESDEN FEMSEHEN GERMANY
+rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+
+#EXTINF:-1 group-title="EUROPE",Filstalwelle GERMANY
+rtmp://62.113.210.27/filstalwelle-live/livestream
+
+#EXTINF:-1 group-title="EUROPE",HT1 GERMANY
+mms://wmsstream22.v4.mytv.ris.at/live/stream_149
+
+#EXTINF:-1 group-title="EUROPE",Juwelo TV GERMANY
+rtmp://85.214.107.68/juwelo_hd/live_DE1
+
+#EXTINF:-1 group-title="EUROPE",Kabbalah TV GERMANY
+mms://vod.kab.tv/ger
+
+#EXTINF:-1 group-title="EUROPE",Leipzig TV GERMANY
+rtmp://video61.kanal8.de/leipzigfernsehenlive/myStream.sdp
+
+#EXTINF:-1 group-title="EUROPE",Light Channel TV GERMANY
+rtsp://streamer1.streamhost.org:1935/salive/lctvde
+
+#EXTINF:-1 group-title="EUROPE",LT - TV Baden Wuerttemberg GERMANY
+rtmp://62.113.210.105/ltv-live/livestream
+
+#EXTINF:-1 group-title="EUROPE",München TV GERMANY
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
+
+#EXTINF:-1 group-title="EUROPE",Mühlviertel TV AU GERMANY
+mms://wmsstream22.v4.mytv.ris.at/live/stream_149
+
+#EXTINF:-1 group-title="EUROPE",N24 GERMANY
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
+
+#EXTINF:-1 group-title="EUROPE",NOA4 Hamburg GERMANY
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asf
+
+#EXTINF:-1 group-title="EUROPE",NOA4 Norderstedt GERMANY
+mmsh://wt-wm1.wtnet.de/noa4-stream-mid?MSWMExt=.asf
+
+#EXTINF:-1 group-title="EUROPE",OK Salzwedel GERMANY
+rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
+
+#EXTINF:-1 group-title="EUROPE",OKTO TV GERMANY
+http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-low.stream/sat_total.m3u8
+
+#EXTINF:-1 group-title="EUROPE",QVC GERMANY
+http://ios-stream.qvc.de/qvc.m3u8
+
+#EXTINF:-1 group-title="EUROPE",RAN 1 Dessau GERMANY
+rtmp://62.113.210.250/medienasa-live/ran1_high
+
+#EXTINF:-1 group-title="EUROPE",RBW GERMANY
+rtmp://62.113.210.250/medienasa-live/rbw_high
+
+#EXTINF:-1 group-title="EUROPE",RFH TV GERMANY
+rtmp://62.113.210.250/medienasa-live/RFH_high
+
+#EXTINF:-1 group-title="EUROPE",Swamiji TV GERMANY
+mms://streaming.swamiji.tv/YogaIP-TV-LQ
+
+#EXTINF:-1 group-title="EUROPE",TELE BASEL GERMANY
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
+
+#EXTINF:-1 group-title="EUROPE",TELEBARN GERMANY
+http://rtmp.infomaniak.ch/livecast/barntele/SAT_TOTAL.m3u8
+
+#EXTINF:-1 group-title="EUROPE",TV AKTUELL GERMANY
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8
+
+#EXTINF:-1 group-title="EUROPE",TVA OSTBAYERN GERMANY
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+
+#EXTINF:-1,Deutsche Welle (Asia)
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+
+#EXTINF:-1,Deutsche Welle (Europa)
+http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
+
+#EXTINF:-1,Deutsche Welle (L.A)
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:-1,Deutsche Welle (U.S.A)
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
