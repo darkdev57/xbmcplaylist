@@ -1,180 +1,200 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]---22-12-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 22-12-2015--[/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]---25-12-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 25-12-2015--[/COLOR]
 
 
 #EXTINF:-1,[I][B][COLOR red] ------------------ REMARQUE IMPORTANTE ------------------[/B][/I][/COLOR]
 
+
+
 #EXTINF:-1,[I][B][COLOR white]Toutes les streams peuvent etre trouves gratuitement sur internet.[/COLOR][/B][/I]
+
+
 
 #EXTINF:-1,[I][B][COLOR white]Nous ne avons pas aucune serveur ou diffuse aucun type de signal.[/COLOR][/B][/I]
 
+
+
 #EXTINF:-1,[I][B][COLOR white]Tous ces streams sont le resultat de nombreuses heures[/COLOR][/B][/I]
+
+
 
 #EXTINF:-1,[I][B][COLOR white] de recherche sur Internet.[/COLOR][/B][/I]
 
+
+
 #EXTINF:-1,[I][B][COLOR white]Nous tenons egalement a remercier tous les utilisateurs qui ont contribue[/COLOR][/B][/I]
+
+
 
 #EXTINF:-1,[I][B][COLOR white]avec un petit don. Ce sont les petits gestes qui font la difference.[/COLOR][/B][/I]
 
+
+
 #EXTINF:-1,[I][B][COLOR orange]------------------- WE ONLY SHARE! --------------------[/COLOR][/B][/I]
 
+
+
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
 
 #EXTINF:-1,[I][B][COLOR yellow]---? Chaines Temporaires ?---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
 
-#EXTINF:-1,French: Weo
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1392.m3u8
-#EXTINF:-1,French: W9
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1378.m3u8
-#EXTINF:-1,French: TVA (Canada)
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1393.m3u8
-#EXTINF:-1,French: TV M3 (Switzerland)
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1394.m3u8
-#EXTINF:-1,French: tf1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1357.m3u8
-#EXTINF:-1,French: Teva HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1395.m3u8
-#EXTINF:-1,French: TELETOON
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1396.m3u8
-#EXTINF:-1,French: SYFY
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1358.m3u8
-#EXTINF:-1,French: Sport
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1379.m3u8
-#EXTINF:-1,French: Serie Club
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1380.m3u8
-#EXTINF:-1,French: SCIENCES & VIE
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1397.m3u8
-#EXTINF:-1,French: Science et Vie TV
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1398.m3u8
-#EXTINF:-1,French: RTS Un
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1399.m3u8
-#EXTINF:-1,French: RTS Deux
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1400.m3u8
-#EXTINF:-1,French: RTL 9 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1381.m3u8
-#EXTINF:-1,French: ROUGE TV
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1401.m3u8
-#EXTINF:-1,French: PLANETE  CI
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1402.m3u8
-#EXTINF:-1,French: planet hd a&e
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1359.m3u8
-#EXTINF:-1,French: Paris Premiere
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1403.m3u8
-#EXTINF:-1,French: OLTV
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1404.m3u8
-#EXTINF:-1,French: OCS City HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1405.m3u8
-#EXTINF:-1,French: NRJ TV
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1406.m3u8
-#EXTINF:-1,French: NRJ 12
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1407.m3u8
-#EXTINF:-1,French: Notélé (belgique)
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1408.m3u8
-#EXTINF:-1,French: nat geo wild
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1360.m3u8
-#EXTINF:-1,French: Monaco Info
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1409.m3u8
-#EXTINF:-1,French: ma chaine sport
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1361.m3u8
-#EXTINF:-1,French: M6
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1362.m3u8
-#EXTINF:-1,French: LCP
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1410.m3u8
-#EXTINF:-1,French: LA TELE
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1411.m3u8
-#EXTINF:-1,French: Infosport
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1382.m3u8
-#EXTINF:-1,French: gulli
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1383.m3u8
-#EXTINF:-1,French: France5
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1363.m3u8
-#EXTINF:-1,French: France4
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1364.m3u8
-#EXTINF:-1,French: france3
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1365.m3u8
-#EXTINF:-1,French: france2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1366.m3u8
-#EXTINF:-1,French: France O HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1412.m3u8
-#EXTINF:-1,French: France 24 en Francais
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1413.m3u8
-#EXTINF:-1,French: FOOT PLUS
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1367.m3u8
-#EXTINF:-1,French: EUROSPORT
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1368.m3u8
-#EXTINF:-1,French: Euronews
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1414.m3u8
-#EXTINF:-1,French: Enorme TV
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1415.m3u8
-#EXTINF:-1,French: E! entertainment
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1384.m3u8
-#EXTINF:-1,French: Disney Cinemagic
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1416.m3u8
-#EXTINF:-1,French: DISNEY CHANNEL
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1417.m3u8
-#EXTINF:-1,French: d8
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1369.m3u8
-#EXTINF:-1,French: d17
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1370.m3u8
-#EXTINF:-1,French: Cusine tv HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1418.m3u8
-#EXTINF:-1,French: COMEDIE
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1419.m3u8
-#EXTINF:-1,French: Cine Premier
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1385.m3u8
-#EXTINF:-1,French: CINE PLUS PREMIERE
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1371.m3u8
-#EXTINF:-1,French: Cine Famiz
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1386.m3u8
-#EXTINF:-1,French: Cine Emotion
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1387.m3u8
-#EXTINF:-1,French: Cine Club
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1388.m3u8
-#EXTINF:-1,French: CINE CLASSIC
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1420.m3u8
-#EXTINF:-1,French: CINE  FRISSON
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1431.m3u8
-#EXTINF:-1,French: CHASSE & PÊCHE
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1421.m3u8
-#EXTINF:-1,French: cartoon network
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1372.m3u8
-#EXTINF:-1,French: Canal plus sport
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1389.m3u8
-#EXTINF:-1,French: CANAL PLUS DECALE
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1373.m3u8
-#EXTINF:-1,French: canal plus cinema
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1374.m3u8
-#EXTINF:-1,French: CANAL PLUS
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1375.m3u8
-#EXTINF:-1,French: Canal 9 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1422.m3u8
-#EXTINF:-1,French: Canal   Series
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1423.m3u8
-#EXTINF:-1,French: Boomerang
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1424.m3u8
-#EXTINF:-1,French: BFM TV
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1425.m3u8
-#EXTINF:-1,French: BFM Buisness
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1426.m3u8
-#EXTINF:-1,French: bein sport2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1376.m3u8
-#EXTINF:-1,French: bein sport1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1377.m3u8
-#EXTINF:-1,French: ARTE (France)
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1427.m3u8
-#EXTINF:-1,French: Animaux HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1428.m3u8
-#EXTINF:-1,French: Action
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1390.m3u8
-#EXTINF:-1,French: AB1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1429.m3u8
-#EXTINF:-1,French: 13 eme Rue HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1430.m3u8
-#EXTINF:-1,French: XXL
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1391.m3u8
+#EXTINF:-1,TF1
+http://iptv.sharing2all.net:80/live/sarah/sarah/1.ts
+#EXTINF:-1,France 2
+http://iptv.sharing2all.net:80/live/sarah/sarah/2.ts
+#EXTINF:-1,France 3
+http://iptv.sharing2all.net:80/live/sarah/sarah/3.ts
+#EXTINF:-1,France 4
+http://iptv.sharing2all.net:80/live/sarah/sarah/4.ts
+#EXTINF:-1,France 5
+http://iptv.sharing2all.net:80/live/sarah/sarah/5.ts
+#EXTINF:-1,FRANCE O
+http://iptv.sharing2all.net:80/live/sarah/sarah/15.ts
+#EXTINF:-1,arte
+http://iptv.sharing2all.net:80/live/sarah/sarah/24.ts
+#EXTINF:-1,M6
+http://iptv.sharing2all.net:80/live/sarah/sarah/6.ts
+#EXTINF:-1,Canal + Decale
+http://iptv.sharing2all.net:80/live/sarah/sarah/22.ts
+#EXTINF:-1,canal + cinema
+http://iptv.sharing2all.net:80/live/sarah/sarah/10.ts
+#EXTINF:-1,Canal + Sport
+http://iptv.sharing2all.net:80/live/sarah/sarah/7.ts
+#EXTINF:-1,Canal + Family
+http://iptv.sharing2all.net:80/live/sarah/sarah/150.ts
+#EXTINF:-1,Teva
+http://iptv.sharing2all.net:80/live/sarah/sarah/248.ts
+#EXTINF:-1,6TER
+http://iptv.sharing2all.net:80/live/sarah/sarah/95.ts
+#EXTINF:-1,D8
+http://iptv.sharing2all.net:80/live/sarah/sarah/40.ts
+#EXTINF:-1,D17
+http://iptv.sharing2all.net:80/live/sarah/sarah/27.ts
+#EXTINF:-1,W9
+http://iptv.sharing2all.net:80/live/sarah/sarah/57.ts
+#EXTINF:-1,NT1
+http://iptv.sharing2all.net:80/live/sarah/sarah/173.ts
+#EXTINF:-1,NUMERO 23
+http://iptv.sharing2all.net:80/live/sarah/sarah/154.ts
+#EXTINF:-1,nrj 12
+http://iptv.sharing2all.net:80/live/sarah/sarah/23.ts
+#EXTINF:-1,cherie 25
+http://iptv.sharing2all.net:80/live/sarah/sarah/8.ts
+#EXTINF:-1,NAT GEO FR
+http://iptv.sharing2all.net:80/live/sarah/sarah/223.ts
+#EXTINF:-1,Nat Geo Wild FR
+http://iptv.sharing2all.net:80/live/sarah/sarah/215.ts
+#EXTINF:-1,Discovery
+http://iptv.sharing2all.net:80/live/sarah/sarah/182.ts
+#EXTINF:-1,Discovery Science
+http://iptv.sharing2all.net:80/live/sarah/sarah/29.ts
+#EXTINF:-1,Planet +
+http://iptv.sharing2all.net:80/live/sarah/sarah/81.ts
+#EXTINF:-1,Planet Thalassa
+http://iptv.sharing2all.net:80/live/sarah/sarah/139.ts
+#EXTINF:-1,RMC DECOUVERTE
+http://iptv.sharing2all.net:80/live/sarah/sarah/83.ts
+#EXTINF:-1,Chasse & Peche
+http://iptv.sharing2all.net:80/live/sarah/sarah/51.ts
+#EXTINF:-1,science & vie tv
+http://iptv.sharing2all.net:80/live/sarah/sarah/28.ts
+#EXTINF:-1,TREK
+http://iptv.sharing2all.net:80/live/sarah/sarah/159.ts
+#EXTINF:-1,Animaux
+http://iptv.sharing2all.net:80/live/sarah/sarah/225.ts
+#EXTINF:-1,RTS un
+http://iptv.sharing2all.net:80/live/sarah/sarah/180.ts
+#EXTINF:-1,RTS deux
+http://iptv.sharing2all.net:80/live/sarah/sarah/181.ts
+#EXTINF:-1,RTL 9
+http://iptv.sharing2all.net:80/live/sarah/sarah/34.ts
+#EXTINF:-1,ab1
+http://iptv.sharing2all.net:80/live/sarah/sarah/179.ts
+#EXTINF:-1,GULLI
+http://iptv.sharing2all.net:80/live/sarah/sarah/48.ts
+#EXTINF:-1,Disney
+http://iptv.sharing2all.net:80/live/sarah/sarah/249.ts
+#EXTINF:-1,Manga
+http://iptv.sharing2all.net:80/live/sarah/sarah/250.ts
+#EXTINF:-1,Kztv
+http://iptv.sharing2all.net:80/live/sarah/sarah/147.ts
+#EXTINF:-1,TV5 monde
+http://iptv.sharing2all.net:80/live/sarah/sarah/160.ts
+#EXTINF:-1,France 24 fr
+http://iptv.sharing2all.net:80/live/sarah/sarah/142.ts
+#EXTINF:-1,BFM TV
+http://iptv.sharing2all.net:80/live/sarah/sarah/9.ts
+#EXTINF:-1,EuroNews
+http://iptv.sharing2all.net:80/live/sarah/sarah/74.ts
+#EXTINF:-1,I tele
+http://iptv.sharing2all.net:80/live/sarah/sarah/26.ts
+#EXTINF:-1,Cinq+
+http://iptv.sharing2all.net:80/live/sarah/sarah/45.ts
+#EXTINF:-1,Gloubi
+http://iptv.sharing2all.net:80/live/sarah/sarah/52.ts
+#EXTINF:-1,CLUB 1
+http://iptv.sharing2all.net:80/live/sarah/sarah/50.ts
+#EXTINF:-1,Ciné Polar
+http://iptv.sharing2all.net:80/live/sarah/sarah/36.ts
+#EXTINF:-1,Cinéfil
+http://iptv.sharing2all.net:80/live/sarah/sarah/47.ts
+#EXTINF:-1,TELE MB
+http://iptv.sharing2all.net:80/live/sarah/sarah/54.ts
+#EXTINF:-1,bel rtl
+http://iptv.sharing2all.net:80/live/sarah/sarah/31.ts
+#EXTINF:-1,Rouge
+http://iptv.sharing2all.net:80/live/sarah/sarah/30.ts
+#EXTINF:-1,enorme tv
+http://iptv.sharing2all.net:80/live/sarah/sarah/157.ts
+#EXTINF:-1,weo
+http://iptv.sharing2all.net:80/live/sarah/sarah/21.ts
+#EXTINF:-1,GRAND LILLE TV
+http://iptv.sharing2all.net:80/live/sarah/sarah/33.ts
+#EXTINF:-1,SyFy
+http://iptv.sharing2all.net:80/live/sarah/sarah/38.ts
+#EXTINF:-1,Cine Fx
+http://iptv.sharing2all.net:80/live/sarah/sarah/20.ts
+#EXTINF:-1,el heddaf tv
+http://iptv.sharing2all.net:80/live/sarah/sarah/166.ts
+#EXTINF:-1,Bein Sports hd1
+http://iptv.sharing2all.net:80/live/sarah/sarah/73.ts
+#EXTINF:-1,Bein Sports hd2
+http://iptv.sharing2all.net:80/live/sarah/sarah/85.ts
+#EXTINF:-1,Bein Sports hd3
+http://iptv.sharing2all.net:80/live/sarah/sarah/77.ts
+#EXTINF:-1,Bein Sports hd4
+http://iptv.sharing2all.net:80/live/sarah/sarah/86.ts
+#EXTINF:-1,Bein Sports hd5
+http://iptv.sharing2all.net:80/live/sarah/sarah/60.ts
+#EXTINF:-1,Bein Sports hd6
+http://iptv.sharing2all.net:80/live/sarah/sarah/59.ts
+#EXTINF:-1,Bein Sports hd7
+http://iptv.sharing2all.net:80/live/sarah/sarah/44.ts
+#EXTINF:-1,Bein Sports hd8
+http://iptv.sharing2all.net:80/live/sarah/sarah/92.ts
+#EXTINF:-1,Bein Sports hd9
+http://iptv.sharing2all.net:80/live/sarah/sarah/61.ts
+#EXTINF:-1,Bein Sports HD10
+http://iptv.sharing2all.net:80/live/sarah/sarah/43.ts
+#EXTINF:-1,Bein Sports 1 en
+http://iptv.sharing2all.net:80/live/sarah/sarah/49.ts
+#EXTINF:-1,Bein Sports 2 en
+http://iptv.sharing2all.net:80/live/sarah/sarah/110.ts
+#EXTINF:-1,Bein Sports 3 en
+http://iptv.sharing2all.net:80/live/sarah/sarah/108.ts
+#EXTINF:-1,Infosport+
+http://iptv.sharing2all.net:80/live/sarah/sarah/109.ts
+#EXTINF:-1,Bein Sport 1hd fr
+http://iptv.sharing2all.net:80/live/sarah/sarah/11.ts
+#EXTINF:-1,Bein Sport 2hd fr
+http://iptv.sharing2all.net:80/live/sarah/sarah/12.ts
+#EXTINF:-1,Bein Sport 3hd fr
+http://iptv.sharing2all.net:80/live/sarah/sarah/161.ts
 
 
  
