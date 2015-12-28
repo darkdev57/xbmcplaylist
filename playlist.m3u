@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]---25-12-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 25-12-2015--[/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]---26-12-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 26-12-2015--[/COLOR]
 #EXTINF:-1,[COLOR blue][I][B]---25-12-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --sat-lopta-emu.blogspot.fr 27-12-2015--[/COLOR
 #EXTINF:-1,MeGaBoX1
@@ -275,158 +275,108 @@ http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/757.ts
 http://0.0.0.0:1234
 
 
-#EXTINF:-1,TF1
-http://iptv.sharing2all.net:80/live/sarah/sarah/1.ts
+#EXTINF:-1,TV5-Monde
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1205.m3u8
 #EXTINF:-1,France 2
-http://iptv.sharing2all.net:80/live/sarah/sarah/2.ts
-#EXTINF:-1,France 3
-http://iptv.sharing2all.net:80/live/sarah/sarah/3.ts
-#EXTINF:-1,France 4
-http://iptv.sharing2all.net:80/live/sarah/sarah/4.ts
-#EXTINF:-1,France 5
-http://iptv.sharing2all.net:80/live/sarah/sarah/5.ts
-#EXTINF:-1,FRANCE O
-http://iptv.sharing2all.net:80/live/sarah/sarah/15.ts
-#EXTINF:-1,arte
-http://iptv.sharing2all.net:80/live/sarah/sarah/24.ts
-#EXTINF:-1,M6
-http://iptv.sharing2all.net:80/live/sarah/sarah/6.ts
-#EXTINF:-1,Canal + Decale
-http://iptv.sharing2all.net:80/live/sarah/sarah/22.ts
-#EXTINF:-1,canal + cinema
-http://iptv.sharing2all.net:80/live/sarah/sarah/10.ts
-#EXTINF:-1,Canal + Sport
-http://iptv.sharing2all.net:80/live/sarah/sarah/7.ts
-#EXTINF:-1,Canal + Family
-http://iptv.sharing2all.net:80/live/sarah/sarah/150.ts
-#EXTINF:-1,Teva
-http://iptv.sharing2all.net:80/live/sarah/sarah/248.ts
-#EXTINF:-1,6TER
-http://iptv.sharing2all.net:80/live/sarah/sarah/95.ts
-#EXTINF:-1,D8
-http://iptv.sharing2all.net:80/live/sarah/sarah/40.ts
-#EXTINF:-1,D17
-http://iptv.sharing2all.net:80/live/sarah/sarah/27.ts
-#EXTINF:-1,W9
-http://iptv.sharing2all.net:80/live/sarah/sarah/57.ts
-#EXTINF:-1,NT1
-http://iptv.sharing2all.net:80/live/sarah/sarah/173.ts
-#EXTINF:-1,NUMERO 23
-http://iptv.sharing2all.net:80/live/sarah/sarah/154.ts
-#EXTINF:-1,nrj 12
-http://iptv.sharing2all.net:80/live/sarah/sarah/23.ts
-#EXTINF:-1,cherie 25
-http://iptv.sharing2all.net:80/live/sarah/sarah/8.ts
-#EXTINF:-1,NAT GEO FR
-http://iptv.sharing2all.net:80/live/sarah/sarah/223.ts
-#EXTINF:-1,Nat Geo Wild FR
-http://iptv.sharing2all.net:80/live/sarah/sarah/215.ts
-#EXTINF:-1,Discovery
-http://iptv.sharing2all.net:80/live/sarah/sarah/182.ts
-#EXTINF:-1,Discovery Science
-http://iptv.sharing2all.net:80/live/sarah/sarah/29.ts
-#EXTINF:-1,Planet +
-http://iptv.sharing2all.net:80/live/sarah/sarah/81.ts
-#EXTINF:-1,Planet Thalassa
-http://iptv.sharing2all.net:80/live/sarah/sarah/139.ts
-#EXTINF:-1,RMC DECOUVERTE
-http://iptv.sharing2all.net:80/live/sarah/sarah/83.ts
-#EXTINF:-1,Chasse & Peche
-http://iptv.sharing2all.net:80/live/sarah/sarah/51.ts
-#EXTINF:-1,science & vie tv
-http://iptv.sharing2all.net:80/live/sarah/sarah/28.ts
-#EXTINF:-1,TREK
-http://iptv.sharing2all.net:80/live/sarah/sarah/159.ts
-#EXTINF:-1,Animaux
-http://iptv.sharing2all.net:80/live/sarah/sarah/225.ts
-#EXTINF:-1,RTS un
-http://iptv.sharing2all.net:80/live/sarah/sarah/180.ts
-#EXTINF:-1,RTS deux
-http://iptv.sharing2all.net:80/live/sarah/sarah/181.ts
-#EXTINF:-1,RTL 9
-http://iptv.sharing2all.net:80/live/sarah/sarah/34.ts
-#EXTINF:-1,ab1
-http://iptv.sharing2all.net:80/live/sarah/sarah/179.ts
-#EXTINF:-1,GULLI
-http://iptv.sharing2all.net:80/live/sarah/sarah/48.ts
-#EXTINF:-1,Disney
-http://iptv.sharing2all.net:80/live/sarah/sarah/249.ts
-#EXTINF:-1,Manga
-http://iptv.sharing2all.net:80/live/sarah/sarah/250.ts
-#EXTINF:-1,Kztv
-http://iptv.sharing2all.net:80/live/sarah/sarah/147.ts
-#EXTINF:-1,TV5 monde
-http://iptv.sharing2all.net:80/live/sarah/sarah/160.ts
-#EXTINF:-1,France 24 fr
-http://iptv.sharing2all.net:80/live/sarah/sarah/142.ts
-#EXTINF:-1,BFM TV
-http://iptv.sharing2all.net:80/live/sarah/sarah/9.ts
-#EXTINF:-1,EuroNews
-http://iptv.sharing2all.net:80/live/sarah/sarah/74.ts
-#EXTINF:-1,I tele
-http://iptv.sharing2all.net:80/live/sarah/sarah/26.ts
-#EXTINF:-1,Cinq+
-http://iptv.sharing2all.net:80/live/sarah/sarah/45.ts
-#EXTINF:-1,Gloubi
-http://iptv.sharing2all.net:80/live/sarah/sarah/52.ts
-#EXTINF:-1,CLUB 1
-http://iptv.sharing2all.net:80/live/sarah/sarah/50.ts
-#EXTINF:-1,Ciné Polar
-http://iptv.sharing2all.net:80/live/sarah/sarah/36.ts
-#EXTINF:-1,Cinéfil
-http://iptv.sharing2all.net:80/live/sarah/sarah/47.ts
-#EXTINF:-1,TELE MB
-http://iptv.sharing2all.net:80/live/sarah/sarah/54.ts
-#EXTINF:-1,bel rtl
-http://iptv.sharing2all.net:80/live/sarah/sarah/31.ts
-#EXTINF:-1,Rouge
-http://iptv.sharing2all.net:80/live/sarah/sarah/30.ts
-#EXTINF:-1,enorme tv
-http://iptv.sharing2all.net:80/live/sarah/sarah/157.ts
-#EXTINF:-1,weo
-http://iptv.sharing2all.net:80/live/sarah/sarah/21.ts
-#EXTINF:-1,GRAND LILLE TV
-http://iptv.sharing2all.net:80/live/sarah/sarah/33.ts
-#EXTINF:-1,SyFy
-http://iptv.sharing2all.net:80/live/sarah/sarah/38.ts
-#EXTINF:-1,Cine Fx
-http://iptv.sharing2all.net:80/live/sarah/sarah/20.ts
-#EXTINF:-1,el heddaf tv
-http://iptv.sharing2all.net:80/live/sarah/sarah/166.ts
-#EXTINF:-1,Bein Sports hd1
-http://iptv.sharing2all.net:80/live/sarah/sarah/73.ts
-#EXTINF:-1,Bein Sports hd2
-http://iptv.sharing2all.net:80/live/sarah/sarah/85.ts
-#EXTINF:-1,Bein Sports hd3
-http://iptv.sharing2all.net:80/live/sarah/sarah/77.ts
-#EXTINF:-1,Bein Sports hd4
-http://iptv.sharing2all.net:80/live/sarah/sarah/86.ts
-#EXTINF:-1,Bein Sports hd5
-http://iptv.sharing2all.net:80/live/sarah/sarah/60.ts
-#EXTINF:-1,Bein Sports hd6
-http://iptv.sharing2all.net:80/live/sarah/sarah/59.ts
-#EXTINF:-1,Bein Sports hd7
-http://iptv.sharing2all.net:80/live/sarah/sarah/44.ts
-#EXTINF:-1,Bein Sports hd8
-http://iptv.sharing2all.net:80/live/sarah/sarah/92.ts
-#EXTINF:-1,Bein Sports hd9
-http://iptv.sharing2all.net:80/live/sarah/sarah/61.ts
-#EXTINF:-1,Bein Sports HD10
-http://iptv.sharing2all.net:80/live/sarah/sarah/43.ts
-#EXTINF:-1,Bein Sports 1 en
-http://iptv.sharing2all.net:80/live/sarah/sarah/49.ts
-#EXTINF:-1,Bein Sports 2 en
-http://iptv.sharing2all.net:80/live/sarah/sarah/110.ts
-#EXTINF:-1,Bein Sports 3 en
-http://iptv.sharing2all.net:80/live/sarah/sarah/108.ts
-#EXTINF:-1,Infosport+
-http://iptv.sharing2all.net:80/live/sarah/sarah/109.ts
-#EXTINF:-1,Bein Sport 1hd fr
-http://iptv.sharing2all.net:80/live/sarah/sarah/11.ts
-#EXTINF:-1,Bein Sport 2hd fr
-http://iptv.sharing2all.net:80/live/sarah/sarah/12.ts
-#EXTINF:-1,Bein Sport 3hd fr
-http://iptv.sharing2all.net:80/live/sarah/sarah/161.ts
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/646.m3u8
+#EXTINF:-1,France-3
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/647.m3u8
+#EXTINF:-1,Franch-4
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/448.m3u8
+#EXTINF:-1,France-5
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/648.m3u8
+#EXTINF:-1,FR:13Rue
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1328.m3u8
+#EXTINF:-1,FR-ACTION-HD
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/388.m3u8
+#EXTINF:-1,FR:Animaux
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1330.m3u8
+#EXTINF:-1,FR:Mangas
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1336.m3u8
+#EXTINF:-1,FR:Gulli
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1333.m3u8
+#EXTINF:-1,FR:RTL-9
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/650.m3u8
+#EXTINF:-1,FR:D17
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1444.m3u8
+#EXTINF:-1,FR:Cine_Famiz
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1327.m3u8
+#EXTINF:-1,FR:Cine_Classic
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1452.m3u8
+#EXTINF:-1,FR:NRJ-TV
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1332.m3u8
+#EXTINF:-1,FR:POLAR
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1442.m3u8
+#EXTINF:-1,FR:TF1-HD
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1314.m3u8
+#EXTINF:-1,FR:CanalJ
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/615.m3u8
+#EXTINF:-1,FR:TeleToon
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/672.m3u8
+#EXTINF:-1,FR:Ushuaia-TV
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/441.m3u8
+#EXTINF:-1,FR:Chasse_et_Peche
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1329.m3u8
+#EXTINF:-1,FR:Teva-HD
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/649.m3u8
+#EXTINF:-1,FR:W9
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1317.m3u8
+#EXTINF:-1,FR:D8
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1316.m3u8
+#EXTINF:-1,FR:PARIS-PREMIERE
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1443.m3u8
+#EXTINF:-1,FR:SYFY
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1445.m3u8
+#EXTINF:-1,FR:BeinSport-3
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1451.m3u8
+#EXTINF:-1,FR:Cine PremierHD
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1450.m3u8
+#EXTINF:-1,FR:Cine Frisson
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1446.m3u8
+#EXTINF:-1,FR:Cine Emotion
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1447.m3u8
+#EXTINF:-1,FR:Canal Sport
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1448.m3u8
+#EXTINF:-1,FR:Canal Series
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1449.m3u8
+#EXTINF:-1,FR:CANAL+HD
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1320.m3u8
+#EXTINF:-1,FR:CANAL-CINEMA
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1321.m3u8
+#EXTINF:-1,FR:CANAL_FAMILY_HD
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1323.m3u8
+#EXTINF:-1,FR:Canal_Decale_HD
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1324.m3u8
+#EXTINF:-1,FR:CANAL _SPORT_HD
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1319.m3u8
+#EXTINF:-1,FR:BOX-OFFICE-HD
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1315.m3u8
+#EXTINF:-1,FR-Canal-3
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/445.m3u8
+#EXTINF:-1,Fr-ARTE
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/442.m3u8
+#EXTINF:-1,FR:COMEDI+
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1326.m3u8
+#EXTINF:-1,NourSat-AlKalma
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/443.m3u8
+#EXTINF:-1,FR-2plus
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/444.m3u8
+#EXTINF:-1,FR-GOLD-TV
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/453.m3u8
+#EXTINF:-1,FR-Cine-fil
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/446.m3u8
+#EXTINF:-1,FR-BRAVO-TV
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/452.m3u8
+#EXTINF:-1,FR:Ma_chaine_sport
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1325.m3u8
+#EXTINF:-1,FR:DisneyJunior
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1337.m3u8
+#EXTINF:-1,FR:Disney-Cinemagic
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1334.m3u8
+#EXTINF:-1,FR:CartoonNetworkHD
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1335.m3u8
+#EXTINF:-1,FR:Boomerang
+http://sat.010e.net:8000/live/mamdooh2/mamdooh2/616.m3u8
 
 
  
@@ -456,55 +406,55 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
  
 #EXTINF:-1 tvg-id="MOSAIQUE.ut.cx" tvg-name="Mosaique" tvg-logo="0.png" group-title="tel" ,[COLOR orange]0[/COLOR] Mosaique
-http://tvclub.fr/ch00.ts
+http://tvclub.fr/ch00.m3u8
  
 #EXTINF:-1 tvg-id="CLUB1.ut.cx" tvg-name="Club1" tvg-logo="1.png" group-title="tel" ,[COLOR orange]1[/COLOR] Club1
-http://tvclub.fr/ch01.ts
+http://tvclub.fr/ch01.m3u8
  
 #EXTINF:-1 tvg-id="PREMIERE.ut.cx" tvg-name="Premiere" tvg-logo="2.png" group-title="tel" ,[COLOR orange]2[/COLOR] Premiere
-http://tvclub.fr/ch02.ts
+http://tvclub.fr/ch02.m3u8
  
 #EXTINF:-1 tvg-id="CINEFIL.ut.cx" tvg-name="Cinefil" tvg-logo="3.png" group-title="tel" ,[COLOR orange]3[/COLOR] Patrimoine TV
-http://tvclub.fr/ch03.ts
+http://tvclub.fr/ch03.m3u8
  
 #EXTINF:-1 tvg-id="DOCUMANIA.ut.cx" tvg-name="Documania" tvg-logo="4.png" group-title="tel" ,[COLOR orange]4[/COLOR] Documania
-http://tvclub.fr/ch04.ts
+http://tvclub.fr/ch04.m3u8
  
 #EXTINF:-1 tvg-id="CINQPLUS.ut.cx" tvg-name="Cinq+" tvg-logo="5.png" group-title="tel" ,[COLOR orange]5[/COLOR] Cinq+
-http://tvclub.fr/ch05.ts
+http://tvclub.fr/ch05.m3u8
  
 #EXTINF:-1 tvg-id="GLOUBI.ut.cx" tvg-name="Gloubi" tvg-logo="6.png" group-title="tel" ,[COLOR orange]6[/COLOR] Gloubi
-http://tvclub.fr/ch06.ts
+http://tvclub.fr/ch06.m3u8
  
 #EXTINF:-1 tvg-id="MUSICBOX.ut.cx" tvg-name="MusicBox" tvg-logo="7.png" group-title="tel" ,[COLOR orange]7[/COLOR] MusicBox
-http://tvclub.fr/ch07.ts
+http://tvclub.fr/ch07.m3u8
  
 #EXTINF:-1 tvg-id="WEST.ut.cx" tvg-name="West" tvg-logo="8.png" group-title="tel" ,[COLOR orange]8[/COLOR] West
-http://tvclub.fr/ch08.ts
+http://tvclub.fr/ch08.m3u8
  
 #EXTINF:-1 tvg-id="PATRIMOINETV.ut.cx" tvg-name="PatrimoineTV" tvg-logo="9.png" group-title="tel" ,[COLOR orange]9[/COLOR] CineFil
-http://tvclub.fr/ch09.ts
+http://tvclub.fr/ch09.m3u8
  
 #EXTINF:-1 tvg-id="SPEED.ut.cx" tvg-name="SpeedTV" tvg-logo="10.png" group-title="tel" ,[COLOR orange]10[/COLOR] SpeedTV
-http://tvclub.fr/ch10.ts
+http://tvclub.fr/ch10.m3u8
  
 #EXTINF:-1 tvg-id="RIRE.ut.cx" tvg-name="Rire" tvg-logo="11.png" group-title="tel" ,[COLOR orange]11[/COLOR] Rire
-http://tvclub.fr/ch11.ts
+http://tvclub.fr/ch11.m3u8
  
 #EXTINF:-1 tvg-id="MYSTERES.ut.cx" tvg-name="MysteresTV" tvg-logo="12.png" group-title="tel" ,[COLOR orange]12[/COLOR] MysteresTV
-http://tvclub.fr/ch12.ts
+http://tvclub.fr/ch12.m3u8
  
 #EXTINF:-1 tvg-id="CARREBLANC.ut.cx" tvg-name="Carre Blanc" tvg-logo="13.png" group-title="tel" ,[COLOR orange]13[/COLOR] Carre Blanc (18+)
-http://tvclub.fr/ch13.ts
+http://tvclub.fr/ch13.m3u8
  
 #EXTINF:-1 tvg-id="LRS.ut.cx" tvg-name="LRS" tvg-logo="14.png" group-title="tel" ,[COLOR orange]14[/COLOR] Club de Noel
-http://tvclub.fr/ch17.ts
+http://tvclub.fr/ch17.m3u8
  
 #EXTINF:-1 tvg-id="SPORTCLUB.ut.cx" tvg-name="SPORTCLUB" tvg-logo="15.png" group-title="tel" ,[COLOR orange]15[/COLOR] SportClub (Reserve)
-http://tvclub.fr/ch15.ts
+http://tvclub.fr/ch15.m3u8
  
 #EXTINF:-1 tvg-id="FXTV.ut.cx" tvg-name="FXTV" tvg-logo="16.png" group-title="tel" ,[COLOR orange]16[/COLOR] SFX (Reserve)
-http://tvclub.fr/ch16.ts
+http://tvclub.fr/ch16.m3u8
  
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
  
@@ -791,26 +741,41 @@ rtmp://37.187.156.238:1935/live/ playpath=live.sdp swfVfy=true live=true timeout
  
 #EXTINF:-1 ,TV Lux
 rtmp://wowza.tvlux.imust.org/live/tvlux-live
-#EXTINF:-1,[COLOR blue][I][B]--- 22-12-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green]--REDENEOBUX.COM 22-12-2015--[/COLOR]
-
 #EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR green]ATTENTION[/COLOR] --------------------------[/COLOR][/B][/I]
+
+
  
 #EXTINF:-1,[I][B][COLOR white]All these streams can be easily found over the internet.[/COLOR][/B][/I]
+
+
  
 #EXTINF:-1,[I][B][COLOR white]We do not have any server or broadcast any kind of signal.[/COLOR][/B][/I]
+
+
  
 #EXTINF:-1,[I][B][COLOR white]All these streams are the result of many hours of[/COLOR][/B][/I]
+
+
  
 #EXTINF:-1,[I][B][COLOR white]research over the Internet.[/COLOR][/B][/I]
+
+
  
 #EXTINF:-1,[I][B][COLOR white]We also want to thank all the users who contributed[/COLOR][/B][/I]
+
+
  
 #EXTINF:-1,[I][B][COLOR white]with a small donation. It's the small gestures that make a difference.[/COLOR][/B][/I]
+
+
  
 #EXTINF:-1,[I][B][COLOR white]This is not the best English, but I think you'll understand. :)[/COLOR][/B][/I]
+
+
  
 #EXTINF:-1,[I][B][COLOR orange]------------------- WE ONLY SHARE! --------------------[/COLOR][/B][/I]
+
+
  
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
@@ -819,134 +784,124 @@ rtmp://wowza.tvlux.imust.org/live/tvlux-live
 http://0.0.0.0:1234
 
 
-#EXTINF:-1,Germany: Sky-Select HD1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1496.m3u8
-#EXTINF:-1,Germany: Sky-Select HD2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1495.m3u8
-#EXTINF:-1,Germany: Sky-Select HD3
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1494.m3u8
-#EXTINF:-1,Germany: Sky-Select HD4
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1493.m3u8
-#EXTINF:-1,Germany: Sky-Select HD5
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1492.m3u8
-#EXTINF:-1,Germany: Sky-Select HD6
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1491.m3u8
-#EXTINF:-1,Germany: Sky-Select HD7
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1490.m3u8
-#EXTINF:-1,Germany: Sky-Select HD8
-http://hyper.de1-eu.com:8000/live/assunta/assunta/1489.m3u8
-#EXTINF:-1,German: ZDF HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/828.m3u8
-#EXTINF:-1,German: VOX HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/829.m3u8
-#EXTINF:-1,German: TNT Film
-http://hyper.de1-eu.com:8000/live/assunta/assunta/830.m3u8
-#EXTINF:-1,German: Super RTL
-http://hyper.de1-eu.com:8000/live/assunta/assunta/831.m3u8
-#EXTINF:-1,German: sport1 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/819.m3u8
-#EXTINF:-1,German: Sport Time 7 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/832.m3u8
-#EXTINF:-1,German: Sport Time 6 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/833.m3u8
-#EXTINF:-1,German: Sport Time 5 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/834.m3u8
-#EXTINF:-1,German: Sport Time 4 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/835.m3u8
-#EXTINF:-1,German: Sport Time 3 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/836.m3u8
-#EXTINF:-1,German: Sport Time 2 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/837.m3u8
-#EXTINF:-1,German: Sport Time 1 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/838.m3u8
-#EXTINF:-1,German: SKY_SPORTS2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/820.m3u8
-#EXTINF:-1,German: SKY_SPORTS1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/821.m3u8
-#EXTINF:-1,German: SKY_COMEDY
-http://hyper.de1-eu.com:8000/live/assunta/assunta/822.m3u8
-#EXTINF:-1,German: sky_cinema_hd
-http://hyper.de1-eu.com:8000/live/assunta/assunta/823.m3u8
-#EXTINF:-1,German: SKY_BUNDESLIGA1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/824.m3u8
-#EXTINF:-1,German: sky_action
-http://hyper.de1-eu.com:8000/live/assunta/assunta/825.m3u8
-#EXTINF:-1,German: SKY Krimi
-http://hyper.de1-eu.com:8000/live/assunta/assunta/840.m3u8
-#EXTINF:-1,German: Sky hits
-http://hyper.de1-eu.com:8000/live/assunta/assunta/841.m3u8
-#EXTINF:-1,German: Sky Emotion
-http://hyper.de1-eu.com:8000/live/assunta/assunta/861.m3u8
-#EXTINF:-1,German: Sky Cinema  24 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/842.m3u8
-#EXTINF:-1,German: Sky Cartoon Network
-http://hyper.de1-eu.com:8000/live/assunta/assunta/843.m3u8
-#EXTINF:-1,German: SKY ATLANTIC HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/844.m3u8
-#EXTINF:-1,German: Sat 1 HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/845.m3u8
-#EXTINF:-1,German: RTL Nitro
-http://hyper.de1-eu.com:8000/live/assunta/assunta/846.m3u8
-#EXTINF:-1,German: RTL HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/847.m3u8
-#EXTINF:-1,German: RTL 2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/848.m3u8
-#EXTINF:-1,German: ORF 2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/850.m3u8
-#EXTINF:-1,German: ORF 1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/851.m3u8
-#EXTINF:-1,German: nat_geo_hd
-http://hyper.de1-eu.com:8000/live/assunta/assunta/826.m3u8
-#EXTINF:-1,German: natgeo_wild
-http://hyper.de1-eu.com:8000/live/assunta/assunta/827.m3u8
-#EXTINF:-1,German: N-TV
-http://hyper.de1-eu.com:8000/live/assunta/assunta/852.m3u8
-#EXTINF:-1,German: MGM
-http://hyper.de1-eu.com:8000/live/assunta/assunta/818.m3u8
-#EXTINF:-1,German: Kinowelt TV
-http://hyper.de1-eu.com:8000/live/assunta/assunta/853.m3u8
-#EXTINF:-1,German: Kika
-http://hyper.de1-eu.com:8000/live/assunta/assunta/854.m3u8
-#EXTINF:-1,German: KABEL 1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/855.m3u8
-#EXTINF:-1,German: Eurosport HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/856.m3u8
-#EXTINF:-1,German: Discovery
-http://hyper.de1-eu.com:8000/live/assunta/assunta/857.m3u8
-#EXTINF:-1,German: Boomerang
-http://hyper.de1-eu.com:8000/live/assunta/assunta/858.m3u8
-#EXTINF:-1,German: AXN
-http://hyper.de1-eu.com:8000/live/assunta/assunta/859.m3u8
-#EXTINF:-1,German: 13th Street Germany HD
-http://hyper.de1-eu.com:8000/live/assunta/assunta/860.m3u8
+#EXTINF:-1,DE: ZDF HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2362.m3u8
+#EXTINF:-1,DE: VOX
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2361.m3u8
+#EXTINF:-1,DE: Sky TNT Serie HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2407.m3u8
+#EXTINF:-1,DE: Sky TNT Film HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2408.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2221.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD BackUP
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2222.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2223.m3u8
+#EXTINF:-1,DE: Sky Select HD 8
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2409.m3u8
+#EXTINF:-1,DE: Sky Select HD 7
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2410.m3u8
+#EXTINF:-1,DE: Sky Select HD 6
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2411.m3u8
+#EXTINF:-1,DE: Sky Select HD 5
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2412.m3u8
+#EXTINF:-1,DE: Sky Select HD 4
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2413.m3u8
+#EXTINF:-1,DE: Sky Select HD 3
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2414.m3u8
+#EXTINF:-1,DE: Sky Select HD 2
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2415.m3u8
+#EXTINF:-1,DE: Sky Select HD 1
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2416.m3u8
+#EXTINF:-1,DE: Sky Emotion BackUP
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2224.m3u8
+#EXTINF:-1,DE: Sky Comedy HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2342.m3u8
+#EXTINF:-1,DE: Sky Cinema Plus 24
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2225.m3u8
+#EXTINF:-1,DE: sky cinema HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2340.m3u8
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2343.m3u8
+#EXTINF:-1,DE: Sky BundesLiga HD BackUP
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2226.m3u8
+#EXTINF:-1,DE: Sky BundesLiga HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2227.m3u8
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2331.m3u8
+#EXTINF:-1,DE: Sky Atlantic HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2341.m3u8
+#EXTINF:-1,DE: Sky Action HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2339.m3u8
+#EXTINF:-1,DE: SAT 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2351.m3u8
+#EXTINF:-1,DE: RTL HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2358.m3u8
+#EXTINF:-1,DE: RTL 2 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2359.m3u8
+#EXTINF:-1,DE: RFH
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2360.m3u8
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2356.m3u8
+#EXTINF:-1,DE: KIKA HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2357.m3u8
+#EXTINF:-1,DE: EUROSPORT HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2349.m3u8
+#EXTINF:-1,DE: Das Erste HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2350.m3u8
+
 
 
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+
 
 #EXTINF:-1,[COLOR yellow][I][B]DE/FR/UK/IT [/B][/I][/COLOR] [COLOR white][I][B]- Kopieren und Einfugen der [COLOR yellow]Playlist URL[/COLOR] in PVR Simple Client oder Playlist Loader.[/B][/I][/COLOR]
 http://0.0.0.0:1234
 
+
+
 #EXTINF:-1,[COLOR white][I][B]Die beiden anderen Links enthalt die Logos und das EPG der Kanale,[/B][/I][/COLOR]
+
+
 
 #EXTINF:-1,[COLOR white][I][B]und sollte in der PVR Simple Client platziert werden.[/B][/I][/COLOR]
 
+
+
 #EXTINF:-1,[COLOR white][I][B]Die Kanale sind unterschiedlicher Nationalitaten und sind in alphabetischer Reihenfolge geordnet.[/B][/I][/COLOR]
+
+
 
 #EXTINF:-1,[COLOR white][I][B]Leider ist es die einzige Moglichkeit, um die Kanale zu sehen.[/B][/I][/COLOR]
 
+
+
 #EXTINF:-1,[COLOR orange][I][B]Alle diese Streams können frei über das Internet gefunden werden...[/B][/I][/COLOR]
+
+
 
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1,[COLOR yellow]XBMC/KODI M3U Playlist URL:[/COLOR] [COLOR white]http://tiny.cc/xv3h3x[/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow]XBMC/KODI M3U Playlist URL:[/COLOR] [COLOR white]http://snurl.com/marcello[/COLOR]
+
+
 
 #EXTINF:-1,[COLOR yellow]XBMC/KODI CHANNELS LOGOS:[/COLOR] [COLOR white]http://logo.tvip.ga[/COLOR]
 
+
+
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+
 
 
 #EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - Alternative Liste ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
+
 
 #EXTINF:0002 tvg-id="daserste.de" group-title="DE Hauptsender" tvg-logo="609281.png", [COLOR gold]Das Erste[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=71565725
@@ -1179,7 +1134,7 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
 #EXTINF:-1, Telebarn
-http://rtmp.infomaniak.ch/livecast/barntele/media_w2076947800_2120.ts
+http://rtmp.infomaniak.ch/livecast/barntele/media_w2076947800_2120.m3u8
 
 #EXTINF:-1,OKTO (Austria)
 http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-high.stream/chunklist_w2017128230.m3u8
