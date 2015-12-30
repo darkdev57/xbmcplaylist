@@ -198,44 +198,73 @@ http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/857.ts
 http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/858.ts
 #EXTINF:-1,FR_TVA-Sport
 http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/102.ts
-#EXTINF:-1,DE_Syfy-HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/729.ts
-#EXTINF:-1,DE_SPORT-TIME-TV4HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/733.ts
-#EXTINF:-1,DE_SPORT-TIME-TV3HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/734.ts
-#EXTINF:-1,DE_SPORT-TIME-TV2HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/735.ts
-#EXTINF:-1,DE_SPORT-TIME-TV1HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/736.ts
-#EXTINF:-1,DE_Sky-SportHD2
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/737.ts
-#EXTINF:-1,DE_Sky-SportHD1
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/738.ts
-#EXTINF:-1,DE_Sky-Sport-Austria
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/758.ts
-#EXTINF:-1,DE_Sky-Krimi
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/743.ts
-#EXTINF:-1,DE_SKY-Hits
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/744.ts
-#EXTINF:-1,DE_Sky-Emotion
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/746.ts
-#EXTINF:-1,DE_Sky-Cinema-HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/747.ts
-#EXTINF:-1,DE_Sky-Comedy
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/748.ts
-#EXTINF:-1,DE_Sky-Cinema24
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/749.ts
-#EXTINF:-1,DE_National-Geographic-Wild
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/751.ts
-#EXTINF:-1,DE_HistoryHD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/752.ts
-#EXTINF:-1,DE_Sky-Bundesliga-HD1
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/755.ts
-#EXTINF:-1,DE_MGM
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/756.ts
-#EXTINF:-1,DE_13TH-StreetHD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/757.ts
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,DE: ZDF HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2362.m3u8
+#EXTINF:0,#EXTINF:-1,DE: VOX
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2361.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky TNT Serie HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2407.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky TNT Film HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2408.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2221.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Sport 1 HD BackUP
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2222.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2223.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 8
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2409.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 7
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2410.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 6
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2411.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 5
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2412.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 4
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2413.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 3
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2414.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 2
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2415.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 1
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2416.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Emotion BackUP
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2224.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Comedy HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2342.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Cinema Plus 24
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2225.m3u8
+#EXTINF:0,#EXTINF:-1,DE: sky cinema HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2340.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Cinema  24 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2343.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky BundesLiga HD BackUP
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2226.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky BundesLiga HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2227.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2331.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Atlantic HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2341.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Sky Action HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2339.m3u8
+#EXTINF:0,#EXTINF:-1,DE: SAT 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2351.m3u8
+#EXTINF:0,#EXTINF:-1,DE: RTL HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2358.m3u8
+#EXTINF:0,#EXTINF:-1,DE: RTL 2 HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2359.m3u8
+#EXTINF:0,#EXTINF:-1,DE: RFH
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2360.m3u8
+#EXTINF:0,#EXTINF:-1,DE: NAT GEO WILD HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2356.m3u8
+#EXTINF:0,#EXTINF:-1,DE: KIKA HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2357.m3u8
+#EXTINF:0,#EXTINF:-1,DE: EUROSPORT HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2349.m3u8
+#EXTINF:0,#EXTINF:-1,DE: Das Erste HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2350.m3u8
 
 #EXTINF:-1,[I][B][COLOR red] ------------------ REMARQUE IMPORTANTE ------------------[/B][/I][/COLOR]
 
