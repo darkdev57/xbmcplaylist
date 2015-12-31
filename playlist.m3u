@@ -5,200 +5,207 @@
 #EXTINF:-1, [COLOR green] --sat-lopta-emu.blogspot.fr 27-12-2015--[/COLOR]
 #EXTINF:-1,[COLOR blue][I][B]---29-12-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --http://mafreebox.freebox.fr/freeboxtv/playlist.m3u--[/COLOR]
-#EXTINF:-1,MeGaBoX1
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/1225.ts
-#EXTINF:-1,MeGaBoX2
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/1223.ts
-#EXTINF:-1,MeGaBoX3
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/1222.ts
-#EXTINF:-1,MeGaBoX4
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/1221.ts
-#EXTINF:-1,MeGaBoX5
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/1219.ts
-#EXTINF:-1,MeGaBoX6
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/1218.ts
+#EXTINF:0,3+HD
+http://62.65.140.151:80/session/19c38a7e-afa1-11e5-8d94-005056bc49ac/nvnv5a/1/1013/index.m3u8?token=38458aeaba4de820fd3814c649675d5a_1451640615_1451640615&p=127
+#EXTINF:0,3satHD
+http://62.65.140.218:80/session/19f3e91c-afa1-11e5-a29d-005056bc49ac/nvnv5a/1/1117/index.m3u8?token=acd63979f01687492759b6f7d9918de1_1451640616_1451640616&p=127
+#EXTINF:0,4+HD
+http://62.65.140.218:80/session/1a2c08c4-afa1-11e5-a245-005056bc1a52/nvnv5a/1/1031/index.m3u8?token=19781e3395bbdf9330ccec0f5d750bcd_1451640616_1451640616&p=127
+#EXTINF:0,5+
+http://62.65.140.213:80/session/1a65abf6-afa1-11e5-8280-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=564f5f37fe38811bcf874cf64e87be51_1451640617_1451640617&p=127
+#EXTINF:0,AlJazeeraEn
+http://62.65.140.218:80/session/1abfdf7c-afa1-11e5-86f7-005056bc49ac/nvnv5a/2/4013/index.m3u8?token=18860fd379ee341cb342398f6bf861ab_1451640617_1451640617&p=127
+#EXTINF:0,AnixeHD
+http://62.65.140.150:80/session/1b16f794-afa1-11e5-8f3b-005056bc06d1/nvnv5a/1/1134/index.m3u8?token=6934a20f155b4385a4dfaa10a6074aa9_1451640618_1451640618&p=127
+#EXTINF:0,ARDHD
+http://62.65.140.215:80/session/1b5499e6-afa1-11e5-a4bb-005056bc1a52/nvnv5a/2/1165/index.m3u8?token=1dd45f78100447e42c591b77ad21d44c_1451640618_1451640618&p=127
+#EXTINF:0,ArteFrHD
+http://62.65.140.217:80/session/1bb2ebe0-afa1-11e5-a919-005056bc49ac/nvnv5a/2/2029/index.m3u8?token=da7330ad5fa66bb90f2bf1afcfafbf0a_1451640618_1451640618&p=127
+#EXTINF:0,ArteHD
+http://62.65.140.213:80/session/1bf9aa08-afa1-11e5-b4fb-005056bc1a52/nvnv5a/1/1150/index.m3u8?token=66f332f9d5eed8548821bd60c591213b_1451640619_1451640619&p=127
+#EXTINF:0,BBC1HD
+http://62.65.140.153:80/session/1c460808-afa1-11e5-af43-005056bc06d1/nvnv5a/2/4017/index.m3u8?token=5120906b3d5a03b1c30bf3690d828e7e_1451640620_1451640620&p=127
+#EXTINF:0,BBC2HD
+http://62.65.140.155:80/session/1c9d8ace-afa1-11e5-9607-005056bc06d1/nvnv5a/2/4012/index.m3u8?token=fd88ab5e071e0d4d078bb70450c2a641_1451640620_1451640620&p=127
+#EXTINF:0,BBC3
+http://62.65.140.152:80/session/1cfbcac6-afa1-11e5-9555-005056bc49ac/nvnv5a/2/4008/index.m3u8?token=38a2e328a8f20712a1b3b3b6f8e7c481_1451640621_1451640621&p=127
+#EXTINF:0,BBCwn
+http://62.65.140.153:80/session/1d53c7bc-afa1-11e5-9e17-005056bc49ac/nvnv5a/2/4003/index.m3u8?token=34734786f9e74382cae311030ac1ebc1_1451640621_1451640621&p=127
+#EXTINF:0,BRHD
+http://62.65.140.149:80/session/1d90d72e-afa1-11e5-ae4c-005056bc1a52/nvnv5a/1/1112/index.m3u8?token=1efd27421bc74699d0fbf66789837880_1451640622_1451640622&p=127
+#EXTINF:0,Canal9
+http://62.65.140.214:80/session/1df02fc6-afa1-11e5-9020-005056bc49ac/nvnv5a/2/2041/index.m3u8?token=5db7a3cecd3eef11c6802eb656c001c7_1451640622_1451640622&p=127
+#EXTINF:0,CanalAlpha
+http://62.65.140.155:80/session/1e3ba35c-afa1-11e5-9030-005056bc49ac/nvnv5a/2/2045/index.m3u8?token=548f22c069079231276a755a6d4f14b4_1451640623_1451640623&p=127
+#EXTINF:0,Canale5HD
+http://62.65.140.216:80/session/1e78991a-afa1-11e5-8a7f-005056bc49ac/nvnv5a/2/3026/index.m3u8?token=087b4f70fd52a12b2d9ccb1da655d467_1451640623_1451640623&p=127
+#EXTINF:0,Chan4
+http://62.65.140.213:80/session/1eaeed94-afa1-11e5-937f-005056bc1a52/nvnv5a/2/4022/index.m3u8?token=0ad0438a904ebcd824bdb18c3fe78a6d_1451640624_1451640624&p=127
+#EXTINF:0,CHTVHD
+http://62.65.140.152:80/session/1f0bfe4e-afa1-11e5-b739-005056bc06d1/nvnv5a/1/1032/index.m3u8?token=2eb89f0a47552b394385939d64eac0c7_1451640624_1451640624&p=127
+#EXTINF:0,Cielo
+http://62.65.140.151:80/session/1f4aa2c0-afa1-11e5-845d-005056bc1a52/nvnv5a/2/3041/index.m3u8?token=dbb6dd2c93c3ef8c9893e72770bcbdc8_1451640625_1451640625&p=127
+#EXTINF:0,CNBC
+http://62.65.140.151:80/session/1fa26f3c-afa1-11e5-8130-005056bc1a52/nvnv5a/2/4001/index.m3u8?token=c84b2a57781fab99714f80a8d1c12fa4_1451640625_1451640625&p=127
+#EXTINF:0,CNN
+http://62.65.140.154:80/session/1ff2ff88-afa1-11e5-970c-005056bc49ac/nvnv5a/2/4002/index.m3u8?token=efe1437af3fb6a767453faca8d57572d_1451640626_1451640626&p=127
+#EXTINF:0,D8
+http://62.65.140.215:80/session/2030f3ba-afa1-11e5-8d56-005056bc49ac/nvnv5a/2/2018/index.m3u8?token=0df2a0f9565e4d6d221c8ade3c31041e_1451640626_1451640626&p=127
+#EXTINF:0,DeluxeMusic
+http://62.65.140.216:80/session/20850b26-afa1-11e5-ba59-005056bc06d1/nvnv5a/1/1153/index.m3u8?token=ee4ac77ab5a4d1d5a5e5acd54b1cce7c_1451640627_1451640627&p=127
+#EXTINF:0,DisneyChannel
+http://62.65.140.213:80/session/20b36fac-afa1-11e5-8e49-005056bc1a52/nvnv5a/1/1124/index.m3u8?token=d68796c4894cee7da48036946ce73d79_1451640627_1451640627&p=127
+#EXTINF:0,DMAX
+http://62.65.140.212:80/session/20df26a6-afa1-11e5-b0e8-005056bc1a52/nvnv5a/1/1018/index.m3u8?token=2f2a9462d101ce3d1702d6ff06d2a53f_1451640627_1451640627&p=127
+#EXTINF:0,EuNews-e
+http://62.65.140.214:80/session/2139edca-afa1-11e5-bdce-005056bc49ac/nvnv5a/1/104903/index.m3u8?token=f294c4793cefb302a54bcccc6783896d_1451640628_1451640628&p=127
+#EXTINF:0,EuNews-f
+http://62.65.140.148:80/session/21a3418a-afa1-11e5-a1b6-005056bc1a52/nvnv5a/1/104901/index.m3u8?token=101142340dabafd1349dd242593c31f5_1451640628_1451640628&p=127
+#EXTINF:0,EuNews-i
+http://62.65.140.212:80/session/22135bf0-afa1-11e5-9e9f-005056bc1a52/nvnv5a/1/104902/index.m3u8?token=7802899e292ed5cac59fdc3e973990c6_1451640629_1451640629&p=127
+#EXTINF:0,EuNews
+http://62.65.140.218:80/session/226d1a0a-afa1-11e5-8fc9-005056bc1a52/nvnv5a/1/1049/index.m3u8?token=681115ce6096f8f7aac4340c68d6ef0c_1451640630_1451640630&p=127
+#EXTINF:0,EuSp
+http://62.65.140.151:80/session/22a52012-afa1-11e5-8367-005056bc49ac/nvnv5a/1/1051/index.m3u8?token=366c1135021f6a79c6866ab969154685_1451640630_1451640630&p=127
+#EXTINF:0,Film4
+http://62.65.140.219:80/session/22fa1356-afa1-11e5-a11c-005056bc49ac/nvnv5a/2/4023/index.m3u8?token=fc44990056133c74656bf22a3aa2e2b2_1451640631_1451640631&p=127
+#EXTINF:0,Fr2HD
+http://62.65.140.155:80/session/23358c38-afa1-11e5-80c9-005056bc06d1/nvnv5a/2/2028/index.m3u8?token=0773209c56367fb8e6f73af2603eea6f_1451640631_1451640631&p=127
+#EXTINF:0,Fr3
+http://62.65.140.214:80/session/237943d8-afa1-11e5-8536-005056bc49ac/nvnv5a/2/2008/index.m3u8?token=b444f0b5d4910968d721bf8dcacea5be_1451640632_1451640632&p=127
+#EXTINF:0,Fr4
+http://62.65.140.216:80/session/23b2c766-afa1-11e5-9a54-005056bc49ac/nvnv5a/2/2009/index.m3u8?token=4e68ceacf7213bf369fd5c64746926cf_1451640632_1451640632&p=127
+#EXTINF:0,Fr5
+http://62.65.140.152:80/session/23f2011a-afa1-11e5-b7e5-005056bc49ac/nvnv5a/2/2010/index.m3u8?token=3950b51adb8ea900e097f456c3f7f5c2_1451640633_1451640633&p=127
+#EXTINF:0,Fr24
+http://62.65.140.148:80/session/24410fc6-afa1-11e5-847a-005056bc49ac/nvnv5a/2/2007/index.m3u8?token=38f3d120b05ca2223b6ac2b25f8d6cb2_1451640633_1451640633&p=127
+#EXTINF:0,FrO
+http://62.65.140.150:80/session/247f08e4-afa1-11e5-bd0b-005056bc1a52/nvnv5a/2/2015/index.m3u8?token=ae6097feca69cc1945165c85a3f0c8c6_1451640633_1451640633&p=127
+#EXTINF:0,Gulli
+http://62.65.140.154:80/session/24b2d2fa-afa1-11e5-bbfc-005056bc1a52/nvnv5a/2/2011/index.m3u8?token=9b7b64811fd08170d4493b7b8f07a3e6_1451640634_1451640634&p=127
+#EXTINF:0,Italia1HD
+http://62.65.140.213:80/session/24f2d242-afa1-11e5-9541-005056bc1a52/nvnv5a/2/3028/index.m3u8?token=0d4c282596dfa5470d7bd47c37970e65_1451640634_1451640634&p=127
+#EXTINF:0,ITV1HD
+http://62.65.140.149:80/session/25598d2a-afa1-11e5-96bc-005056bc49ac/nvnv5a/2/4018/index.m3u8?token=ab8df3f42823861d3abfd216452c4317_1451640635_1451640635&p=127
+#EXTINF:0,ITV2
+http://62.65.140.151:80/session/25b8b99e-afa1-11e5-961b-005056bc1a52/nvnv5a/2/4005/index.m3u8?token=e9307db08cd68a004d08e25a8a7575c7_1451640635_1451640635&p=127
+#EXTINF:0,ITV3
+http://62.65.140.153:80/session/260cfb58-afa1-11e5-baf6-005056bc49ac/nvnv5a/2/4025/index.m3u8?token=5b63d27e543bf84694381c6c165e32e6_1451640636_1451640636&p=127
+#EXTINF:0,Joiz
+http://62.65.140.214:80/session/26685c1e-afa1-11e5-b991-005056bc1a52/nvnv5a/2/1172/index.m3u8?token=ffe6f8bb97c54b1e59dfc7f44c5be693_1451640636_1451640636&p=127
+#EXTINF:0,Kabel1chHD
+http://62.65.140.152:80/session/269bdb0c-afa1-11e5-aa48-005056bc1a52/nvnv5a/1/1039/index.m3u8?token=2cdb684aa91d73477025d87d81e523e1_1451640637_1451640637&p=127
+#EXTINF:0,KiKaHD
+http://62.65.140.151:80/session/26d47692-afa1-11e5-bc35-005056bc49ac/nvnv5a/1/1116/index.m3u8?token=4f6e5a50d164ec3cf84322061ad1cb8e_1451640637_1451640637&p=127
+#EXTINF:0,LA7
+http://62.65.140.150:80/session/2727aec0-afa1-11e5-8cb7-005056bc06d1/nvnv5a/2/3027/index.m3u8?token=d2fcfabb1565d2f4137de9462654d5d2_1451640638_1451640638&p=127
+#EXTINF:0,LaTele
+http://62.65.140.219:80/session/2786cb80-afa1-11e5-afd0-005056bc49ac/nvnv5a/2/2043/index.m3u8?token=de1b116117d8e901e26c8c35167f3bac_1451640638_1451640638&p=127
+#EXTINF:0,LemanBleu
+http://62.65.140.218:80/session/27b9bbf8-afa1-11e5-a978-005056bc06d1/nvnv5a/2/2044/index.m3u8?token=5cdb4b6648e0bfaf1e696c76d8f1acec_1451640639_1451640639&p=127
+#EXTINF:0,M6HD
+http://62.65.140.154:80/session/27e9693e-afa1-11e5-bf93-005056bc49ac/nvnv5a/2/2026/index.m3u8?token=594147c0787cc67280016085c94e234c_1451640639_1451640639&p=127
+#EXTINF:0,MDR
+http://62.65.140.213:80/session/28255e9e-afa1-11e5-9c35-005056bc1a52/nvnv5a/1/1069/index.m3u8?token=0149f449196a7ed7c493f10c1bf88525_1451640640_1451640640&p=127
+#EXTINF:0,MTVit
+http://62.65.140.152:80/session/2861b236-afa1-11e5-aecf-005056bc06d1/nvnv5a/2/3009/index.m3u8?token=13c99f03f5f62906ab3e2133d970167b_1451640640_1451640640&p=127
+#EXTINF:0,MTV
+http://62.65.140.149:80/session/2899a97a-afa1-11e5-a355-005056bc49ac/nvnv5a/1/1033/index.m3u8?token=c6c2eb534a86ff7fc86df116011b91fa_1451640640_1451640640&p=127
+#EXTINF:0,n-tv
+http://62.65.140.213:80/session/28d722fa-afa1-11e5-9052-005056bc06d1/nvnv5a/1/1025/index.m3u8?token=6d94cc317c1f987194fac28f6b580259_1451640641_1451640641&p=127
+#EXTINF:0,NDRHD
+http://62.65.140.219:80/session/2911a7f4-afa1-11e5-8cd7-005056bc49ac/nvnv5a/1/1115/index.m3u8?token=8ee963a38178ea0f53a76054b36781fa_1451640641_1451640641&p=127
+#EXTINF:0,Nick
+http://62.65.140.218:80/session/2941a440-afa1-11e5-828f-005056bc49ac/nvnv5a/1/1004/index.m3u8?token=d49129b101297201a37f2d2a2e5ca074_1451640641_1451640641&p=127
+#EXTINF:0,Nick
+http://62.65.140.149:80/session/29a4e4a6-afa1-11e5-982e-005056bc06d1/nvnv5a/1/1034/index.m3u8?token=8c044e4cabd6c899539ac0c2fd728bd3_1451640642_1451640642&p=127
+#EXTINF:0,ORF1HD
+http://62.65.140.216:80/session/29d859da-afa1-11e5-ba7d-005056bc1a52/nvnv5a/1/1010/index.m3u8?token=15de499906850b22f7a3a884ebd8d184_1451640642_1451640642&p=127
+#EXTINF:0,ORF2HD
+http://62.65.140.155:80/session/2a07852a-afa1-11e5-923a-005056bc1a52/nvnv5a/1/1011/index.m3u8?token=e3b7707c67d2d614b9499ad299b08261_1451640643_1451640643&p=127
+#EXTINF:0,PHOENIXHD
+http://62.65.140.153:80/session/2a322e7e-afa1-11e5-83e9-005056bc49ac/nvnv5a/1/1122/index.m3u8?token=e486283a4cbca0eda0f3c22d5c2c4c67_1451640643_1451640643&p=127
+#EXTINF:0,Pro7chHD
+http://62.65.140.148:80/session/2a62b904-afa1-11e5-ad4e-005056bc49ac/nvnv5a/1/1037/index.m3u8?token=950fe5825013c0d32b37abcb3cf0ae40_1451640643_1451640643&p=127
+#EXTINF:0,Pro7Maxx
+http://62.65.140.212:80/session/2a9a49a0-afa1-11e5-95cb-005056bc49ac/nvnv5a/1/1041/index.m3u8?token=fa4bf49cf240b840fbefab9d7d169699_1451640644_1451640644&p=127
+#EXTINF:0,Puls8
+http://62.65.140.219:80/session/2ad6cfb0-afa1-11e5-bc51-005056bc49ac/nvnv5a/2/1053/index.m3u8?token=fa33b31f7ca3f1fb500c07c009a1b257_1451640644_1451640644&p=127
+#EXTINF:0,Rai1
+http://62.65.140.216:80/session/2b162ba6-afa1-11e5-a1d9-005056bc06d1/nvnv5a/2/3003/index.m3u8?token=d0a47436f6ae09860184893deab701cf_1451640644_1451640644&p=127
+#EXTINF:0,Rai2
+http://62.65.140.219:80/session/2b6af820-afa1-11e5-af9c-005056bc49ac/nvnv5a/2/3004/index.m3u8?token=217fbca023701e26f048c31cae174064_1451640645_1451640645&p=127
+#EXTINF:0,Rai3
+http://62.65.140.217:80/session/2bbdb998-afa1-11e5-8dd4-005056bc1a52/nvnv5a/2/3005/index.m3u8?token=d9f57068d89c701a50cb8b82608b1a94_1451640645_1451640645&p=127
+#EXTINF:0,RaiNews24
+http://62.65.140.148:80/session/2c212488-afa1-11e5-8edb-005056bc06d1/nvnv5a/2/3018/index.m3u8?token=91338dab54d24e541f5886b7d1460661_1451640646_1451640646&p=127
+#EXTINF:0,RaiSport1
+http://62.65.140.213:80/session/2c742188-afa1-11e5-9938-005056bc49ac/nvnv5a/2/3021/index.m3u8?token=3d56d183367eaf4b028b806284dafaaf_1451640647_1451640647&p=127
+#EXTINF:0,Rete4HD
+http://62.65.140.216:80/session/2cb271f4-afa1-11e5-ab65-005056bc1a52/nvnv5a/2/3032/index.m3u8?token=9daeb41023165c47b665a18405f04085_1451640647_1451640647&p=127
+#EXTINF:0,RSILA1HD
+http://62.65.140.154:80/session/2ce5b3c0-afa1-11e5-a3a9-005056bc49ac/nvnv5a/2/3045/index.m3u8?token=0eefac76f69c223fccb3506a987ea2f0_1451640648_1451640648&p=127
+#EXTINF:0,RSILA2HD
+http://62.65.140.217:80/session/2d40c6ac-afa1-11e5-9133-005056bc1a52/nvnv5a/2/3046/index.m3u8?token=e25c7537c8d33bcd495da1e10c4980dc_1451640648_1451640648&p=127
+#EXTINF:0,RTL2chHD
+http://62.65.140.151:80/session/2d74bfe8-afa1-11e5-a9d8-005056bc49ac/nvnv5a/1/1024/index.m3u8?token=8536b7d8fd9e98131945dfc240665316_1451640648_1451640648&p=127
+#EXTINF:0,RTL1025
+http://62.65.140.214:80/session/2dd4bf6a-afa1-11e5-ba27-005056bc49ac/nvnv5a/2/3010/index.m3u8?token=eda524f6394578d4f265ec96a3c280e1_1451640649_1451640649&p=127
+#EXTINF:0,RTLchHD
+http://62.65.140.216:80/session/2e04be40-afa1-11e5-a10b-005056bc1a52/nvnv5a/1/1020/index.m3u8?token=c99add8b4246bc401669ee612985d5ee_1451640649_1451640649&p=127
+#EXTINF:0,RTLNitroHD
+http://62.65.140.215:80/session/2e3ff5c8-afa1-11e5-bc33-005056bc1a52/nvnv5a/1/1027/index.m3u8?token=850d2cf4daf8d9a916f5abace7de367b_1451640650_1451640650&p=127
+#EXTINF:0,RTPi
+http://62.65.140.151:80/session/2e994f4c-afa1-11e5-9af7-005056bc49ac/nvnv5a/2/5001/index.m3u8?token=2b4078e9f3cb14072ced2cd2a9dd3526_1451640650_1451640650&p=127
+#EXTINF:0,RTS1HD
+http://62.65.140.153:80/session/2ec83960-afa1-11e5-91a4-005056bc49ac/nvnv5a/2/2034/index.m3u8?token=37f14d86c34a64f00e165f22c25a7245_1451640651_1451640651&p=127
+#EXTINF:0,RTS2HD
+http://62.65.140.153:80/session/2effdb86-afa1-11e5-ae7a-005056bc49ac/nvnv5a/2/2035/index.m3u8?token=234fb699e19666772f84ed52feefe7a4_1451640651_1451640651&p=127
+#EXTINF:0,S-RTLchHD
+http://62.65.140.215:80/session/2f309244-afa1-11e5-8a61-005056bc49ac/nvnv5a/1/1023/index.m3u8?token=efd58407e7181417d5e60ebdb133a419_1451640651_1451640651&p=127
+#EXTINF:0,S1
+http://62.65.140.148:80/session/2f6a566e-afa1-11e5-b5a7-005056bc1a52/nvnv5a/1/1035/index.m3u8?token=a610d53108fe82ef58295f375e648fa1_1451640652_1451640652&p=127
+#EXTINF:0,Sat.1chHD
+http://62.65.140.212:80/session/2f9c2ef0-afa1-11e5-88e7-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=6c6080fc92765a040992c16af0e61052_1451640652_1451640652&p=127
+#EXTINF:0,ServusTVHD
+http://62.65.140.153:80/session/2fdba0e4-afa1-11e5-a808-005056bc06d1/nvnv5a/1/1012/index.m3u8?token=13394d3f620c5204021410a42f6b8b27_1451640653_1451640653&p=127
+#EXTINF:0,sixxHD
+http://62.65.140.155:80/session/3010f92e-afa1-11e5-bb50-005056bc06d1/nvnv5a/1/1040/index.m3u8?token=cbb9f5bdcc6c09b9c11e7a14ff7a0476_1451640653_1451640653&p=127
+#EXTINF:0,Sport1
+http://62.65.140.217:80/session/305004f2-afa1-11e5-afe6-005056bc1a52/nvnv5a/1/1095/index.m3u8?token=f6e578c87b828e53e4b3591887e89f04_1451640653_1451640653&p=127
+#EXTINF:0,SRF1HD
+http://62.65.140.219:80/session/3081d68a-afa1-11e5-8d5e-005056bc1a52/nvnv5a/1/1008/index.m3u8?token=ce32c0023f7761c8648201a5e9ed6852_1451640654_1451640654&p=127
+#EXTINF:0,SRF2HD
+http://62.65.140.153:80/session/30adba8e-afa1-11e5-8cf0-005056bc06d1/nvnv5a/1/1009/index.m3u8?token=8ba1f03e93b1c9931cdbf8db07edca55_1451640654_1451640654&p=127
+#EXTINF:0,SRFi
+http://62.65.140.150:80/session/30e24c0e-afa1-11e5-9e8b-005056bc49ac/nvnv5a/1/1003/index.m3u8?token=890b984776ffe460217d5c281d050a7f_1451640654_1451640654&p=127
+#EXTINF:0,StarTV
+http://62.65.140.217:80/session/313c33c2-afa1-11e5-98d9-005056bc49ac/nvnv5a/1/1107/index.m3u8?token=fafde8b3ba47801bfbd3e5468f15ccb7_1451640655_1451640655&p=127
+#EXTINF:0,SWR-BW-HD
+http://62.65.140.212:80/session/31771f1e-afa1-11e5-a870-005056bc1a52/nvnv5a/1/1114/index.m3u8?token=8f24f35e2fe2fb5a1fc824825c841412_1451640655_1451640655&p=127
+#EXTINF:0,TBasel
+http://62.65.140.149:80/session/31c14ab2-afa1-11e5-9591-005056bc1a52/nvnv5a/1/1135/index.m3u8?token=3146d1fb7195709baa65861fa89ba49a_1451640656_1451640656&p=127
+#EXTINF:0,TBärn
+http://62.65.140.219:80/session/31f26b06-afa1-11e5-83b8-005056bc1a52/nvnv5a/1/1137/index.m3u8?token=0006d466aafe3c010f73a12610b83a29_1451640656_1451640656&p=127
+#EXTINF:0,Tele1
+http://62.65.140.150:80/session/32462638-afa1-11e5-88b1-005056bc06d1/nvnv5a/1/1128/index.m3u8?token=b21c13863ea314bbe0cc66df73ec6219_1451640656_1451640656&p=127
+#EXTINF:0,Tele5
+http://62.65.140.213:80/session/3290a3d4-afa1-11e5-9169-005056bc49ac/nvnv5a/1/1090/index.m3u8?token=bb3aaa7056adff8fb0c32d0676e43eb1_1451640657_1451640657&p=127
+#EXTINF:0,TeleBielingue
+http://62.65.140.149:80/session/32e3f480-afa1-11e5-a40e-005056bc1a52/nvnv5a/2/2040/index.m3u8?token=267ea677edb7cc4c898c506c3c8f9b3d_1451640657_1451640657&p=127
+#EXTINF:0,TeleM1
+http://62.65.140.152:80/session/3345d326-afa1-11e5-aab9-005056bc49ac/nvnv5a/1/1132/index.m3u8?token=b9ee37126062ae29458cdae1bde2c128_1451640658_1451640658&p=127
+#EXTINF:0,TeleTicino
+http://62.65.140.152:80/session/339c0dcc-afa1-11e5-a34e-005056bc49ac/nvnv5a/2/3036/index.m3u8?token=226cb9cdb18fccffa9afb9c8d2a03460_1451640659_1451640659&p=127
+#EXTINF:0,TeleTop
+http://62.65.140.155:80/session/33efba62-afa1-11e5-9b17-005056bc1a52/nvnv5a/1/1129/index.m3u8?token=5cf6fe33eafb666f1b1b5d4966660cc2_1451640659_1451640659&p=127
+#EXTINF:0,TF1HD
+http://62.65.140.213:80/session/342622b4-afa1-11e5-96b6-005056bc1a52/nvnv5a/2/2027/index.m3u8?token=4158af3b0ae1e84cc3e3e390e5594232_1451640660_1451640660&p=127
+#EXTINF:0,TRT1
+http://62.65.140.214:80/session/34710f18-afa1-11e5-b072-005056bc1a52/nvnv5a/2/5030/index.m3u8?token=53fa95ebe54035b11b491a4bb6d692b1_1451640660_1451640660&p=127
+#EXTINF:0,TSO
+http://62.65.140.154:80/session/34cbfd9c-afa1-11e5-b7c6-005056bc06d1/nvnv5a/1/1130/index.m3u8?token=927eae78daaf448ed17286ce82379d1b_1451640661_1451640661&p=127
 
-
-
-#EXTINF:-1,FR_FranceO
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/50.ts
-#EXTINF:-1,FR_France5
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/48.ts
-#EXTINF:-1,FR_France4
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/47.ts
-#EXTINF:-1,FR_France3
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/46.ts
-#EXTINF:-1,FR_France2
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/45.ts
-#EXTINF:-1,FR_France24
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/122.ts
-#EXTINF:-1,FR_m6
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/114.ts
-#EXTINF:-1,FR_tf1
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/121.ts
-#EXTINF:-1,FR_6ter
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/51.ts
-#EXTINF:-1,FR_canal+
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/137.ts
-#EXTINF:-1,FR_canal+sport
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/134.ts
-#EXTINF:-1,FR_canal+family
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/96.ts
-#EXTINF:-1,FR_canal+decale
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/98.ts
-#EXTINF:-1,FR_canal+cinema
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/99.ts
-#EXTINF:-1,FR_canal+serie
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/68.ts
-#EXTINF:-1,FR_SERIECLUB
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/182.ts
-#EXTINF:-1,FR_CINE+EMOTION
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/195.ts
-#EXTINF:-1,FR_CINE+CLASSIC
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/177.ts
-#EXTINF:-1,FR_Cine+premiere
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/69.ts
-#EXTINF:-1,FR_Cine+frisson
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/67.ts
-#EXTINF:-1,FR_OCSCHOCHD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/189.ts
-#EXTINF:-1,FR_OCSMaxHD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/187.ts
-#EXTINF:-1,FR_OCSGéantsHD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/188.ts
-#EXTINF:-1,FR_COMEDIE-HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/587.ts
-#EXTINF:-1,FR_13EM-ERUE-HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/586.ts
-#EXTINF:-1,FR_W9
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/52.ts
-#EXTINF:-1,FR_nrj12
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/167.ts
-#EXTINF:-1,FR_D8
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/53.ts
-#EXTINF:-1,FR_D17
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/56.ts
-#EXTINF:-1,FR_NT1
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/932.ts
-#EXTINF:-1,FR_RTL9
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/44.ts
-#EXTINF:-1,FR_RTL-TVI-HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/990.ts
-#EXTINF:-1,FR_RTL-Plug
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/989.ts
-#EXTINF:-1,FR_RTL-Club
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/988.ts
-#EXTINF:-1,FR_TMC
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/65.ts
-#EXTINF:-1,FR_RougeTV
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/991.ts
-#EXTINF:-1,FR_RMC-Decouverte
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/987.ts
-#EXTINF:-1,FR_Numero-23
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/986.ts
-#EXTINF:-1,FR_La-Une-HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/984.ts
-#EXTINF:-1,FR_La-Trois
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/985.ts
-#EXTINF:-1,FR_HD1
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/983.ts
-#EXTINF:-1,FR_Ciné-FX
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/992.ts
-#EXTINF:-1,FR_Ciné-Polar
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/993.ts
-#EXTINF:-1,FR_Cherie-25
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/981.ts
-#EXTINF:-1,FR_Toutel'Histoire
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/578.ts
-#EXTINF:-1,FR_Mangas
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/582.ts
-#EXTINF:-1,FR_CanalJ
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/579.ts
-#EXTINF:-1,FR_Latele-Swiss
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/580.ts
-#EXTINF:-1,FR_Action
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/581.ts
-#EXTINF:-1,FR_AB1
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/576.ts
-#EXTINF:-1,FR_ABMoteurs
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/577.ts
-#EXTINF:-1,FR_Foot+
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/183.ts
-#EXTINF:-1,FR_EuroSport2HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/186.ts
-#EXTINF:-1,FR_DiscoveryScience
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/184.ts
-#EXTINF:-1,FR_DiscoveryHD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/185.ts
-#EXTINF:-1,FR_Teletoon
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/181.ts
-#EXTINF:-1,FR_MaChaineSportHD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/164.ts
-#EXTINF:-1,FR_SyFy
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/106.ts
-#EXTINF:-1,FR_RTSUn
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/191.ts
-#EXTINF:-1,FR_RTSDeux
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/193.ts
-#EXTINF:-1,FR_tv5
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/97.ts
-#EXTINF:-1,FR_LaDeux
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/192.ts
-#EXTINF:-1,FR_InfoSport
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/190.ts
-#EXTINF:-1,FR_gong
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/33.ts
-#EXTINF:-1,FR_EUROSPORT 1 HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/101.ts
-#EXTINF:-1,FR_cinefil
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/41.ts
-#EXTINF:-1,FR_ArteFrance
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/130.ts
-#EXTINF:-1,FR_Animaux
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/104.ts
-#EXTINF:-1,FR_gulli
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/196.ts
-#EXTINF:-1,FR_Ushuaia
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/154.ts
-#EXTINF:-1,FR_Teva
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/153.ts
-#EXTINF:-1,FR_VOYAGEHD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/63.ts
-#EXTINF:-1,FR_OLTv
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/100.ts
-#EXTINF:-1,FR_NatGeo
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/62.ts
-#EXTINF:-1,FR_M6Music
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/49.ts
-#EXTINF:-1,FR_Cinq+
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/85.ts
-#EXTINF:-1,FR_iTELE
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/109.ts
-#EXTINF:-1,FR_leclub
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/30.ts
-#EXTINF:-1,FR_Sciences_VieTV
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/103.ts
-#EXTINF:-1,FR_DISNEYXD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/60.ts
-#EXTINF:-1,FR_National_Geo_Wild
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/61.ts
-#EXTINF:-1,FR_DisneyCinemagic
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/66.ts
-#EXTINF:-1,FR_Planete+HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/64.ts
-#EXTINF:-1,FR_BFMTV
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/76.ts
-#EXTINF:-1,FR_CHASSE&PECHE
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/165.ts
-#EXTINF:-1,FR_BeinSportsFR3HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/859.ts
-#EXTINF:-1,FR_BeinSportsFR2HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/857.ts
-#EXTINF:-1,FR_BeinSportsFR1HD
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/858.ts
-#EXTINF:-1,FR_TVA-Sport
-http://iptvdz.myftp.biz:8000/live/skype:play.iptv/skype:play.iptv/102.ts
-#EXTM3U
 #EXTINF:0,#EXTINF:-1,DE: ZDF HD
 http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2362.m3u8
 #EXTINF:0,#EXTINF:-1,DE: VOX
@@ -1151,7 +1158,104 @@ http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1183.ts
 #EXTINF:-1,DE:SKYBUNDESLIGA1
 http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1393.ts
 
-
+#EXTINF:-1,DE: ZDF
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/960.ts
+#EXTINF:-1,DE: Vox
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/961.ts
+#EXTINF:-1,DE: Sky National Geografic HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/963.ts
+#EXTINF:-1,DE: Sky Fox HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/930.ts
+#EXTINF:-1,DE: Orf Eins
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/962.ts
+#EXTINF:-1,DE: 13EME RUE HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/912.ts
+#EXTINF:-1,DE: RTL Nitro
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/808.ts
+#EXTINF:-1,DE: RTL HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/809.ts
+#EXTINF:-1,DE: RTL 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/810.ts
+#EXTINF:-1,DE: PRO7
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/811.ts
+#EXTINF:-1,DE: ORF 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/812.ts
+#EXTINF:-1,DE: ORF 1
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/813.ts
+#EXTINF:-1,DE: Mgm HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/473.ts
+#EXTINF:-1,DE: FOX
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/814.ts
+#EXTINF:-1,DE: Sky Cinema 1 DE
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/804.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/803.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/805.ts
+#EXTINF:-1,DE: Sky Action HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/807.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/806.ts
+#EXTINF:-1,DE: SPORT TIME 1
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/802.ts
+#EXTINF:-1,DE: SPORT TIME 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/819.ts
+#EXTINF:-1,DE: SPORT TIME 3
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/818.ts
+#EXTINF:-1,DE: SPORT TIME 4
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/817.ts
+#EXTINF:-1,DE: SPORT TIME 6
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/816.ts
+#EXTINF:-1,DE: SPORT TIME 7
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/815.ts
+#EXTINF:-1,DE: Sport Time Tv 7
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/198.ts
+#EXTINF:-1,DE: Sport Time Tv 6
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/199.ts
+#EXTINF:-1,DE: Sport Time Tv 5
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/200.ts
+#EXTINF:-1,DE: Sport Time Tv 4
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/201.ts
+#EXTINF:-1,DE: Sport Time Tv 3
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/202.ts
+#EXTINF:-1,DE: Sport Time Tv 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/203.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/204.ts
+#EXTINF:-1,DE: Sky Sport 1HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/205.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/206.ts
+#EXTINF:-1,DE: Sky Select 8HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/207.ts
+#EXTINF:-1,DE: Sky Select 7HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/208.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/209.ts
+#EXTINF:-1,DE: Sky Select 5HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/210.ts
+#EXTINF:-1,DE: Sky Select 4HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/211.ts
+#EXTINF:-1,DE: Sky Select 3HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/212.ts
+#EXTINF:-1,DE: Sky Select 2HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/213.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/214.ts
+#EXTINF:-1,DE: Sky Select 10 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/215.ts
+#EXTINF:-1,DE: Sky Emotion
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/216.ts
+#EXTINF:-1,DE: Sky Comedy
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/217.ts
+#EXTINF:-1,DE: Sky Cinema  24
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/218.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/221.ts
+#EXTINF:-1,DE: Sky Action
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/222.ts
+#EXTINF:-1,GER - Sky Bundesliga HD1
+http://31.177.62.137:9071
 
 
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
