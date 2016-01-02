@@ -5,273 +5,550 @@
 #EXTINF:-1, [COLOR green] --sat-lopta-emu.blogspot.fr 27-12-2015--[/COLOR]
 #EXTINF:-1,[COLOR blue][I][B]---29-12-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --http://mafreebox.freebox.fr/freeboxtv/playlist.m3u--[/COLOR]
-#EXTINF:0,3+HD
-http://62.65.140.151:80/session/19c38a7e-afa1-11e5-8d94-005056bc49ac/nvnv5a/1/1013/index.m3u8?token=38458aeaba4de820fd3814c649675d5a_1451640615_1451640615&p=127
-#EXTINF:0,3satHD
-http://62.65.140.218:80/session/19f3e91c-afa1-11e5-a29d-005056bc49ac/nvnv5a/1/1117/index.m3u8?token=acd63979f01687492759b6f7d9918de1_1451640616_1451640616&p=127
-#EXTINF:0,4+HD
-http://62.65.140.218:80/session/1a2c08c4-afa1-11e5-a245-005056bc1a52/nvnv5a/1/1031/index.m3u8?token=19781e3395bbdf9330ccec0f5d750bcd_1451640616_1451640616&p=127
-#EXTINF:0,5+
-http://62.65.140.213:80/session/1a65abf6-afa1-11e5-8280-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=564f5f37fe38811bcf874cf64e87be51_1451640617_1451640617&p=127
-#EXTINF:0,AlJazeeraEn
-http://62.65.140.218:80/session/1abfdf7c-afa1-11e5-86f7-005056bc49ac/nvnv5a/2/4013/index.m3u8?token=18860fd379ee341cb342398f6bf861ab_1451640617_1451640617&p=127
-#EXTINF:0,AnixeHD
-http://62.65.140.150:80/session/1b16f794-afa1-11e5-8f3b-005056bc06d1/nvnv5a/1/1134/index.m3u8?token=6934a20f155b4385a4dfaa10a6074aa9_1451640618_1451640618&p=127
-#EXTINF:0,ARDHD
-http://62.65.140.215:80/session/1b5499e6-afa1-11e5-a4bb-005056bc1a52/nvnv5a/2/1165/index.m3u8?token=1dd45f78100447e42c591b77ad21d44c_1451640618_1451640618&p=127
-#EXTINF:0,ArteFrHD
-http://62.65.140.217:80/session/1bb2ebe0-afa1-11e5-a919-005056bc49ac/nvnv5a/2/2029/index.m3u8?token=da7330ad5fa66bb90f2bf1afcfafbf0a_1451640618_1451640618&p=127
-#EXTINF:0,ArteHD
-http://62.65.140.213:80/session/1bf9aa08-afa1-11e5-b4fb-005056bc1a52/nvnv5a/1/1150/index.m3u8?token=66f332f9d5eed8548821bd60c591213b_1451640619_1451640619&p=127
-#EXTINF:0,BBC1HD
-http://62.65.140.153:80/session/1c460808-afa1-11e5-af43-005056bc06d1/nvnv5a/2/4017/index.m3u8?token=5120906b3d5a03b1c30bf3690d828e7e_1451640620_1451640620&p=127
-#EXTINF:0,BBC2HD
-http://62.65.140.155:80/session/1c9d8ace-afa1-11e5-9607-005056bc06d1/nvnv5a/2/4012/index.m3u8?token=fd88ab5e071e0d4d078bb70450c2a641_1451640620_1451640620&p=127
-#EXTINF:0,BBC3
-http://62.65.140.152:80/session/1cfbcac6-afa1-11e5-9555-005056bc49ac/nvnv5a/2/4008/index.m3u8?token=38a2e328a8f20712a1b3b3b6f8e7c481_1451640621_1451640621&p=127
-#EXTINF:0,BBCwn
-http://62.65.140.153:80/session/1d53c7bc-afa1-11e5-9e17-005056bc49ac/nvnv5a/2/4003/index.m3u8?token=34734786f9e74382cae311030ac1ebc1_1451640621_1451640621&p=127
-#EXTINF:0,BRHD
-http://62.65.140.149:80/session/1d90d72e-afa1-11e5-ae4c-005056bc1a52/nvnv5a/1/1112/index.m3u8?token=1efd27421bc74699d0fbf66789837880_1451640622_1451640622&p=127
-#EXTINF:0,Canal9
-http://62.65.140.214:80/session/1df02fc6-afa1-11e5-9020-005056bc49ac/nvnv5a/2/2041/index.m3u8?token=5db7a3cecd3eef11c6802eb656c001c7_1451640622_1451640622&p=127
-#EXTINF:0,CanalAlpha
-http://62.65.140.155:80/session/1e3ba35c-afa1-11e5-9030-005056bc49ac/nvnv5a/2/2045/index.m3u8?token=548f22c069079231276a755a6d4f14b4_1451640623_1451640623&p=127
-#EXTINF:0,Canale5HD
-http://62.65.140.216:80/session/1e78991a-afa1-11e5-8a7f-005056bc49ac/nvnv5a/2/3026/index.m3u8?token=087b4f70fd52a12b2d9ccb1da655d467_1451640623_1451640623&p=127
-#EXTINF:0,Chan4
-http://62.65.140.213:80/session/1eaeed94-afa1-11e5-937f-005056bc1a52/nvnv5a/2/4022/index.m3u8?token=0ad0438a904ebcd824bdb18c3fe78a6d_1451640624_1451640624&p=127
-#EXTINF:0,CHTVHD
-http://62.65.140.152:80/session/1f0bfe4e-afa1-11e5-b739-005056bc06d1/nvnv5a/1/1032/index.m3u8?token=2eb89f0a47552b394385939d64eac0c7_1451640624_1451640624&p=127
-#EXTINF:0,Cielo
-http://62.65.140.151:80/session/1f4aa2c0-afa1-11e5-845d-005056bc1a52/nvnv5a/2/3041/index.m3u8?token=dbb6dd2c93c3ef8c9893e72770bcbdc8_1451640625_1451640625&p=127
-#EXTINF:0,CNBC
-http://62.65.140.151:80/session/1fa26f3c-afa1-11e5-8130-005056bc1a52/nvnv5a/2/4001/index.m3u8?token=c84b2a57781fab99714f80a8d1c12fa4_1451640625_1451640625&p=127
-#EXTINF:0,CNN
-http://62.65.140.154:80/session/1ff2ff88-afa1-11e5-970c-005056bc49ac/nvnv5a/2/4002/index.m3u8?token=efe1437af3fb6a767453faca8d57572d_1451640626_1451640626&p=127
-#EXTINF:0,D8
-http://62.65.140.215:80/session/2030f3ba-afa1-11e5-8d56-005056bc49ac/nvnv5a/2/2018/index.m3u8?token=0df2a0f9565e4d6d221c8ade3c31041e_1451640626_1451640626&p=127
-#EXTINF:0,DeluxeMusic
-http://62.65.140.216:80/session/20850b26-afa1-11e5-ba59-005056bc06d1/nvnv5a/1/1153/index.m3u8?token=ee4ac77ab5a4d1d5a5e5acd54b1cce7c_1451640627_1451640627&p=127
-#EXTINF:0,DisneyChannel
-http://62.65.140.213:80/session/20b36fac-afa1-11e5-8e49-005056bc1a52/nvnv5a/1/1124/index.m3u8?token=d68796c4894cee7da48036946ce73d79_1451640627_1451640627&p=127
-#EXTINF:0,DMAX
-http://62.65.140.212:80/session/20df26a6-afa1-11e5-b0e8-005056bc1a52/nvnv5a/1/1018/index.m3u8?token=2f2a9462d101ce3d1702d6ff06d2a53f_1451640627_1451640627&p=127
-#EXTINF:0,EuNews-e
-http://62.65.140.214:80/session/2139edca-afa1-11e5-bdce-005056bc49ac/nvnv5a/1/104903/index.m3u8?token=f294c4793cefb302a54bcccc6783896d_1451640628_1451640628&p=127
-#EXTINF:0,EuNews-f
-http://62.65.140.148:80/session/21a3418a-afa1-11e5-a1b6-005056bc1a52/nvnv5a/1/104901/index.m3u8?token=101142340dabafd1349dd242593c31f5_1451640628_1451640628&p=127
-#EXTINF:0,EuNews-i
-http://62.65.140.212:80/session/22135bf0-afa1-11e5-9e9f-005056bc1a52/nvnv5a/1/104902/index.m3u8?token=7802899e292ed5cac59fdc3e973990c6_1451640629_1451640629&p=127
-#EXTINF:0,EuNews
-http://62.65.140.218:80/session/226d1a0a-afa1-11e5-8fc9-005056bc1a52/nvnv5a/1/1049/index.m3u8?token=681115ce6096f8f7aac4340c68d6ef0c_1451640630_1451640630&p=127
-#EXTINF:0,EuSp
-http://62.65.140.151:80/session/22a52012-afa1-11e5-8367-005056bc49ac/nvnv5a/1/1051/index.m3u8?token=366c1135021f6a79c6866ab969154685_1451640630_1451640630&p=127
-#EXTINF:0,Film4
-http://62.65.140.219:80/session/22fa1356-afa1-11e5-a11c-005056bc49ac/nvnv5a/2/4023/index.m3u8?token=fc44990056133c74656bf22a3aa2e2b2_1451640631_1451640631&p=127
-#EXTINF:0,Fr2HD
-http://62.65.140.155:80/session/23358c38-afa1-11e5-80c9-005056bc06d1/nvnv5a/2/2028/index.m3u8?token=0773209c56367fb8e6f73af2603eea6f_1451640631_1451640631&p=127
-#EXTINF:0,Fr3
-http://62.65.140.214:80/session/237943d8-afa1-11e5-8536-005056bc49ac/nvnv5a/2/2008/index.m3u8?token=b444f0b5d4910968d721bf8dcacea5be_1451640632_1451640632&p=127
-#EXTINF:0,Fr4
-http://62.65.140.216:80/session/23b2c766-afa1-11e5-9a54-005056bc49ac/nvnv5a/2/2009/index.m3u8?token=4e68ceacf7213bf369fd5c64746926cf_1451640632_1451640632&p=127
-#EXTINF:0,Fr5
-http://62.65.140.152:80/session/23f2011a-afa1-11e5-b7e5-005056bc49ac/nvnv5a/2/2010/index.m3u8?token=3950b51adb8ea900e097f456c3f7f5c2_1451640633_1451640633&p=127
-#EXTINF:0,Fr24
-http://62.65.140.148:80/session/24410fc6-afa1-11e5-847a-005056bc49ac/nvnv5a/2/2007/index.m3u8?token=38f3d120b05ca2223b6ac2b25f8d6cb2_1451640633_1451640633&p=127
-#EXTINF:0,FrO
-http://62.65.140.150:80/session/247f08e4-afa1-11e5-bd0b-005056bc1a52/nvnv5a/2/2015/index.m3u8?token=ae6097feca69cc1945165c85a3f0c8c6_1451640633_1451640633&p=127
-#EXTINF:0,Gulli
-http://62.65.140.154:80/session/24b2d2fa-afa1-11e5-bbfc-005056bc1a52/nvnv5a/2/2011/index.m3u8?token=9b7b64811fd08170d4493b7b8f07a3e6_1451640634_1451640634&p=127
-#EXTINF:0,Italia1HD
-http://62.65.140.213:80/session/24f2d242-afa1-11e5-9541-005056bc1a52/nvnv5a/2/3028/index.m3u8?token=0d4c282596dfa5470d7bd47c37970e65_1451640634_1451640634&p=127
-#EXTINF:0,ITV1HD
-http://62.65.140.149:80/session/25598d2a-afa1-11e5-96bc-005056bc49ac/nvnv5a/2/4018/index.m3u8?token=ab8df3f42823861d3abfd216452c4317_1451640635_1451640635&p=127
-#EXTINF:0,ITV2
-http://62.65.140.151:80/session/25b8b99e-afa1-11e5-961b-005056bc1a52/nvnv5a/2/4005/index.m3u8?token=e9307db08cd68a004d08e25a8a7575c7_1451640635_1451640635&p=127
-#EXTINF:0,ITV3
-http://62.65.140.153:80/session/260cfb58-afa1-11e5-baf6-005056bc49ac/nvnv5a/2/4025/index.m3u8?token=5b63d27e543bf84694381c6c165e32e6_1451640636_1451640636&p=127
-#EXTINF:0,Joiz
-http://62.65.140.214:80/session/26685c1e-afa1-11e5-b991-005056bc1a52/nvnv5a/2/1172/index.m3u8?token=ffe6f8bb97c54b1e59dfc7f44c5be693_1451640636_1451640636&p=127
-#EXTINF:0,Kabel1chHD
-http://62.65.140.152:80/session/269bdb0c-afa1-11e5-aa48-005056bc1a52/nvnv5a/1/1039/index.m3u8?token=2cdb684aa91d73477025d87d81e523e1_1451640637_1451640637&p=127
-#EXTINF:0,KiKaHD
-http://62.65.140.151:80/session/26d47692-afa1-11e5-bc35-005056bc49ac/nvnv5a/1/1116/index.m3u8?token=4f6e5a50d164ec3cf84322061ad1cb8e_1451640637_1451640637&p=127
-#EXTINF:0,LA7
-http://62.65.140.150:80/session/2727aec0-afa1-11e5-8cb7-005056bc06d1/nvnv5a/2/3027/index.m3u8?token=d2fcfabb1565d2f4137de9462654d5d2_1451640638_1451640638&p=127
-#EXTINF:0,LaTele
-http://62.65.140.219:80/session/2786cb80-afa1-11e5-afd0-005056bc49ac/nvnv5a/2/2043/index.m3u8?token=de1b116117d8e901e26c8c35167f3bac_1451640638_1451640638&p=127
-#EXTINF:0,LemanBleu
-http://62.65.140.218:80/session/27b9bbf8-afa1-11e5-a978-005056bc06d1/nvnv5a/2/2044/index.m3u8?token=5cdb4b6648e0bfaf1e696c76d8f1acec_1451640639_1451640639&p=127
-#EXTINF:0,M6HD
-http://62.65.140.154:80/session/27e9693e-afa1-11e5-bf93-005056bc49ac/nvnv5a/2/2026/index.m3u8?token=594147c0787cc67280016085c94e234c_1451640639_1451640639&p=127
-#EXTINF:0,MDR
-http://62.65.140.213:80/session/28255e9e-afa1-11e5-9c35-005056bc1a52/nvnv5a/1/1069/index.m3u8?token=0149f449196a7ed7c493f10c1bf88525_1451640640_1451640640&p=127
-#EXTINF:0,MTVit
-http://62.65.140.152:80/session/2861b236-afa1-11e5-aecf-005056bc06d1/nvnv5a/2/3009/index.m3u8?token=13c99f03f5f62906ab3e2133d970167b_1451640640_1451640640&p=127
-#EXTINF:0,MTV
-http://62.65.140.149:80/session/2899a97a-afa1-11e5-a355-005056bc49ac/nvnv5a/1/1033/index.m3u8?token=c6c2eb534a86ff7fc86df116011b91fa_1451640640_1451640640&p=127
-#EXTINF:0,n-tv
-http://62.65.140.213:80/session/28d722fa-afa1-11e5-9052-005056bc06d1/nvnv5a/1/1025/index.m3u8?token=6d94cc317c1f987194fac28f6b580259_1451640641_1451640641&p=127
-#EXTINF:0,NDRHD
-http://62.65.140.219:80/session/2911a7f4-afa1-11e5-8cd7-005056bc49ac/nvnv5a/1/1115/index.m3u8?token=8ee963a38178ea0f53a76054b36781fa_1451640641_1451640641&p=127
-#EXTINF:0,Nick
-http://62.65.140.218:80/session/2941a440-afa1-11e5-828f-005056bc49ac/nvnv5a/1/1004/index.m3u8?token=d49129b101297201a37f2d2a2e5ca074_1451640641_1451640641&p=127
-#EXTINF:0,Nick
-http://62.65.140.149:80/session/29a4e4a6-afa1-11e5-982e-005056bc06d1/nvnv5a/1/1034/index.m3u8?token=8c044e4cabd6c899539ac0c2fd728bd3_1451640642_1451640642&p=127
-#EXTINF:0,ORF1HD
-http://62.65.140.216:80/session/29d859da-afa1-11e5-ba7d-005056bc1a52/nvnv5a/1/1010/index.m3u8?token=15de499906850b22f7a3a884ebd8d184_1451640642_1451640642&p=127
-#EXTINF:0,ORF2HD
-http://62.65.140.155:80/session/2a07852a-afa1-11e5-923a-005056bc1a52/nvnv5a/1/1011/index.m3u8?token=e3b7707c67d2d614b9499ad299b08261_1451640643_1451640643&p=127
-#EXTINF:0,PHOENIXHD
-http://62.65.140.153:80/session/2a322e7e-afa1-11e5-83e9-005056bc49ac/nvnv5a/1/1122/index.m3u8?token=e486283a4cbca0eda0f3c22d5c2c4c67_1451640643_1451640643&p=127
-#EXTINF:0,Pro7chHD
-http://62.65.140.148:80/session/2a62b904-afa1-11e5-ad4e-005056bc49ac/nvnv5a/1/1037/index.m3u8?token=950fe5825013c0d32b37abcb3cf0ae40_1451640643_1451640643&p=127
-#EXTINF:0,Pro7Maxx
-http://62.65.140.212:80/session/2a9a49a0-afa1-11e5-95cb-005056bc49ac/nvnv5a/1/1041/index.m3u8?token=fa4bf49cf240b840fbefab9d7d169699_1451640644_1451640644&p=127
-#EXTINF:0,Puls8
-http://62.65.140.219:80/session/2ad6cfb0-afa1-11e5-bc51-005056bc49ac/nvnv5a/2/1053/index.m3u8?token=fa33b31f7ca3f1fb500c07c009a1b257_1451640644_1451640644&p=127
-#EXTINF:0,Rai1
-http://62.65.140.216:80/session/2b162ba6-afa1-11e5-a1d9-005056bc06d1/nvnv5a/2/3003/index.m3u8?token=d0a47436f6ae09860184893deab701cf_1451640644_1451640644&p=127
-#EXTINF:0,Rai2
-http://62.65.140.219:80/session/2b6af820-afa1-11e5-af9c-005056bc49ac/nvnv5a/2/3004/index.m3u8?token=217fbca023701e26f048c31cae174064_1451640645_1451640645&p=127
-#EXTINF:0,Rai3
-http://62.65.140.217:80/session/2bbdb998-afa1-11e5-8dd4-005056bc1a52/nvnv5a/2/3005/index.m3u8?token=d9f57068d89c701a50cb8b82608b1a94_1451640645_1451640645&p=127
-#EXTINF:0,RaiNews24
-http://62.65.140.148:80/session/2c212488-afa1-11e5-8edb-005056bc06d1/nvnv5a/2/3018/index.m3u8?token=91338dab54d24e541f5886b7d1460661_1451640646_1451640646&p=127
-#EXTINF:0,RaiSport1
-http://62.65.140.213:80/session/2c742188-afa1-11e5-9938-005056bc49ac/nvnv5a/2/3021/index.m3u8?token=3d56d183367eaf4b028b806284dafaaf_1451640647_1451640647&p=127
-#EXTINF:0,Rete4HD
-http://62.65.140.216:80/session/2cb271f4-afa1-11e5-ab65-005056bc1a52/nvnv5a/2/3032/index.m3u8?token=9daeb41023165c47b665a18405f04085_1451640647_1451640647&p=127
-#EXTINF:0,RSILA1HD
-http://62.65.140.154:80/session/2ce5b3c0-afa1-11e5-a3a9-005056bc49ac/nvnv5a/2/3045/index.m3u8?token=0eefac76f69c223fccb3506a987ea2f0_1451640648_1451640648&p=127
-#EXTINF:0,RSILA2HD
-http://62.65.140.217:80/session/2d40c6ac-afa1-11e5-9133-005056bc1a52/nvnv5a/2/3046/index.m3u8?token=e25c7537c8d33bcd495da1e10c4980dc_1451640648_1451640648&p=127
-#EXTINF:0,RTL2chHD
-http://62.65.140.151:80/session/2d74bfe8-afa1-11e5-a9d8-005056bc49ac/nvnv5a/1/1024/index.m3u8?token=8536b7d8fd9e98131945dfc240665316_1451640648_1451640648&p=127
-#EXTINF:0,RTL1025
-http://62.65.140.214:80/session/2dd4bf6a-afa1-11e5-ba27-005056bc49ac/nvnv5a/2/3010/index.m3u8?token=eda524f6394578d4f265ec96a3c280e1_1451640649_1451640649&p=127
-#EXTINF:0,RTLchHD
-http://62.65.140.216:80/session/2e04be40-afa1-11e5-a10b-005056bc1a52/nvnv5a/1/1020/index.m3u8?token=c99add8b4246bc401669ee612985d5ee_1451640649_1451640649&p=127
-#EXTINF:0,RTLNitroHD
-http://62.65.140.215:80/session/2e3ff5c8-afa1-11e5-bc33-005056bc1a52/nvnv5a/1/1027/index.m3u8?token=850d2cf4daf8d9a916f5abace7de367b_1451640650_1451640650&p=127
-#EXTINF:0,RTPi
-http://62.65.140.151:80/session/2e994f4c-afa1-11e5-9af7-005056bc49ac/nvnv5a/2/5001/index.m3u8?token=2b4078e9f3cb14072ced2cd2a9dd3526_1451640650_1451640650&p=127
-#EXTINF:0,RTS1HD
-http://62.65.140.153:80/session/2ec83960-afa1-11e5-91a4-005056bc49ac/nvnv5a/2/2034/index.m3u8?token=37f14d86c34a64f00e165f22c25a7245_1451640651_1451640651&p=127
-#EXTINF:0,RTS2HD
-http://62.65.140.153:80/session/2effdb86-afa1-11e5-ae7a-005056bc49ac/nvnv5a/2/2035/index.m3u8?token=234fb699e19666772f84ed52feefe7a4_1451640651_1451640651&p=127
-#EXTINF:0,S-RTLchHD
-http://62.65.140.215:80/session/2f309244-afa1-11e5-8a61-005056bc49ac/nvnv5a/1/1023/index.m3u8?token=efd58407e7181417d5e60ebdb133a419_1451640651_1451640651&p=127
-#EXTINF:0,S1
-http://62.65.140.148:80/session/2f6a566e-afa1-11e5-b5a7-005056bc1a52/nvnv5a/1/1035/index.m3u8?token=a610d53108fe82ef58295f375e648fa1_1451640652_1451640652&p=127
-#EXTINF:0,Sat.1chHD
-http://62.65.140.212:80/session/2f9c2ef0-afa1-11e5-88e7-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=6c6080fc92765a040992c16af0e61052_1451640652_1451640652&p=127
-#EXTINF:0,ServusTVHD
-http://62.65.140.153:80/session/2fdba0e4-afa1-11e5-a808-005056bc06d1/nvnv5a/1/1012/index.m3u8?token=13394d3f620c5204021410a42f6b8b27_1451640653_1451640653&p=127
-#EXTINF:0,sixxHD
-http://62.65.140.155:80/session/3010f92e-afa1-11e5-bb50-005056bc06d1/nvnv5a/1/1040/index.m3u8?token=cbb9f5bdcc6c09b9c11e7a14ff7a0476_1451640653_1451640653&p=127
-#EXTINF:0,Sport1
-http://62.65.140.217:80/session/305004f2-afa1-11e5-afe6-005056bc1a52/nvnv5a/1/1095/index.m3u8?token=f6e578c87b828e53e4b3591887e89f04_1451640653_1451640653&p=127
-#EXTINF:0,SRF1HD
-http://62.65.140.219:80/session/3081d68a-afa1-11e5-8d5e-005056bc1a52/nvnv5a/1/1008/index.m3u8?token=ce32c0023f7761c8648201a5e9ed6852_1451640654_1451640654&p=127
-#EXTINF:0,SRF2HD
-http://62.65.140.153:80/session/30adba8e-afa1-11e5-8cf0-005056bc06d1/nvnv5a/1/1009/index.m3u8?token=8ba1f03e93b1c9931cdbf8db07edca55_1451640654_1451640654&p=127
-#EXTINF:0,SRFi
-http://62.65.140.150:80/session/30e24c0e-afa1-11e5-9e8b-005056bc49ac/nvnv5a/1/1003/index.m3u8?token=890b984776ffe460217d5c281d050a7f_1451640654_1451640654&p=127
-#EXTINF:0,StarTV
-http://62.65.140.217:80/session/313c33c2-afa1-11e5-98d9-005056bc49ac/nvnv5a/1/1107/index.m3u8?token=fafde8b3ba47801bfbd3e5468f15ccb7_1451640655_1451640655&p=127
-#EXTINF:0,SWR-BW-HD
-http://62.65.140.212:80/session/31771f1e-afa1-11e5-a870-005056bc1a52/nvnv5a/1/1114/index.m3u8?token=8f24f35e2fe2fb5a1fc824825c841412_1451640655_1451640655&p=127
-#EXTINF:0,TBasel
-http://62.65.140.149:80/session/31c14ab2-afa1-11e5-9591-005056bc1a52/nvnv5a/1/1135/index.m3u8?token=3146d1fb7195709baa65861fa89ba49a_1451640656_1451640656&p=127
-#EXTINF:0,TB‰rn
-http://62.65.140.219:80/session/31f26b06-afa1-11e5-83b8-005056bc1a52/nvnv5a/1/1137/index.m3u8?token=0006d466aafe3c010f73a12610b83a29_1451640656_1451640656&p=127
-#EXTINF:0,Tele1
-http://62.65.140.150:80/session/32462638-afa1-11e5-88b1-005056bc06d1/nvnv5a/1/1128/index.m3u8?token=b21c13863ea314bbe0cc66df73ec6219_1451640656_1451640656&p=127
-#EXTINF:0,Tele5
-http://62.65.140.213:80/session/3290a3d4-afa1-11e5-9169-005056bc49ac/nvnv5a/1/1090/index.m3u8?token=bb3aaa7056adff8fb0c32d0676e43eb1_1451640657_1451640657&p=127
-#EXTINF:0,TeleBielingue
-http://62.65.140.149:80/session/32e3f480-afa1-11e5-a40e-005056bc1a52/nvnv5a/2/2040/index.m3u8?token=267ea677edb7cc4c898c506c3c8f9b3d_1451640657_1451640657&p=127
-#EXTINF:0,TeleM1
-http://62.65.140.152:80/session/3345d326-afa1-11e5-aab9-005056bc49ac/nvnv5a/1/1132/index.m3u8?token=b9ee37126062ae29458cdae1bde2c128_1451640658_1451640658&p=127
-#EXTINF:0,TeleTicino
-http://62.65.140.152:80/session/339c0dcc-afa1-11e5-a34e-005056bc49ac/nvnv5a/2/3036/index.m3u8?token=226cb9cdb18fccffa9afb9c8d2a03460_1451640659_1451640659&p=127
-#EXTINF:0,TeleTop
-http://62.65.140.155:80/session/33efba62-afa1-11e5-9b17-005056bc1a52/nvnv5a/1/1129/index.m3u8?token=5cf6fe33eafb666f1b1b5d4966660cc2_1451640659_1451640659&p=127
-#EXTINF:0,TF1HD
-http://62.65.140.213:80/session/342622b4-afa1-11e5-96b6-005056bc1a52/nvnv5a/2/2027/index.m3u8?token=4158af3b0ae1e84cc3e3e390e5594232_1451640660_1451640660&p=127
-#EXTINF:0,TRT1
-http://62.65.140.214:80/session/34710f18-afa1-11e5-b072-005056bc1a52/nvnv5a/2/5030/index.m3u8?token=53fa95ebe54035b11b491a4bb6d692b1_1451640660_1451640660&p=127
-#EXTINF:0,TSO
-http://62.65.140.154:80/session/34cbfd9c-afa1-11e5-b7c6-005056bc06d1/nvnv5a/1/1130/index.m3u8?token=927eae78daaf448ed17286ce82379d1b_1451640661_1451640661&p=127
-
-#EXTINF:0,#EXTINF:-1,DE: ZDF HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2362.m3u8
-#EXTINF:0,#EXTINF:-1,DE: VOX
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2361.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky TNT Serie HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2407.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky TNT Film HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2408.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Sport 2 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2221.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Sport 1 HD BackUP
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2222.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Sport 1 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2223.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 8
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2409.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 7
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2410.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 6
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2411.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 5
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2412.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 4
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2413.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 3
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2414.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 2
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2415.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Select HD 1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2416.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Emotion BackUP
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2224.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Comedy HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2342.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Cinema Plus 24
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2225.m3u8
-#EXTINF:0,#EXTINF:-1,DE: sky cinema HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2340.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Cinema  24 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2343.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky BundesLiga HD BackUP
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2226.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky BundesLiga HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2227.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2331.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Atlantic HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2341.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Sky Action HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2339.m3u8
-#EXTINF:0,#EXTINF:-1,DE: SAT 1 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2351.m3u8
-#EXTINF:0,#EXTINF:-1,DE: RTL HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2358.m3u8
-#EXTINF:0,#EXTINF:-1,DE: RTL 2 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2359.m3u8
-#EXTINF:0,#EXTINF:-1,DE: RFH
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2360.m3u8
-#EXTINF:0,#EXTINF:-1,DE: NAT GEO WILD HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2356.m3u8
-#EXTINF:0,#EXTINF:-1,DE: KIKA HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2357.m3u8
-#EXTINF:0,#EXTINF:-1,DE: EUROSPORT HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2349.m3u8
-#EXTINF:0,#EXTINF:-1,DE: Das Erste HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2350.m3u8
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR orange]3+ HD[/COLOR]
+http://62.65.140.150:80/session/c40b5a0a-b07f-11e5-a9b4-005056bc1a52/nvnv5a/1/1013/index.m3u8?token=1d94fdc10f7189421c522fa099f4040f_1451736249_1451736249&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
+http://62.65.140.219:80/session/c46c452c-b07f-11e5-9f38-005056bc06d1/nvnv5a/1/1117/index.m3u8?token=67c4d95f23d9f9fe6feeb7013c5fa097_1451736250_1451736250&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR orange]4+ HD[/COLOR]
+http://62.65.140.218:80/session/c4ca663e-b07f-11e5-b9bd-005056bc49ac/nvnv5a/1/1031/index.m3u8?token=aab3f076e73a553ef9ade0fdea708116_1451736250_1451736250&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0137.png",[COLOR orangered]5+ HD[/COLOR]
+http://62.65.140.216:80/session/c5283f5c-b07f-11e5-8eb6-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=06c877c5f21678500bb80b4f7b54a00b_1451736251_1451736251&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="AlJazeera.nws" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
+http://62.65.140.218:80/session/c5913a98-b07f-11e5-b747-005056bc06d1/nvnv5a/2/4013/index.m3u8?token=21e8b956df76229777951434e94d8f7d_1451736252_1451736252&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="AnixeHD.de" group-title="Deutsch" tvg-logo="0066.png",[COLOR orange]Anixe HD[/COLOR]
+http://62.65.140.151:80/session/c5f5524e-b07f-11e5-b859-005056bc49ac/nvnv5a/1/1134/index.m3u8?token=5a4e58c24ec68aaf588cfdea102ff710_1451736252_1451736252&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orange]ARD HD[/COLOR]
+http://62.65.140.153:80/session/c6550b26-b07f-11e5-8bd1-005056bc49ac/nvnv5a/2/1165/index.m3u8?token=153c47c8b36b98a09dbcac9867d87a2f_1451736253_1451736253&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ARTE.fr" group-title="French" tvg-logo="0215.png",[COLOR orange]Arte HD FR[/COLOR]
+http://62.65.140.215:80/session/c6ba0df0-b07f-11e5-bad1-005056bc1a52/nvnv5a/2/2029/index.m3u8?token=f01c2b581fa5065c6775a2cad31f7137_1451736254_1451736254&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR orange]Arte HD[/COLOR]
+http://62.65.140.149:80/session/c72306f2-b07f-11e5-b43d-005056bc1a52/nvnv5a/1/1150/index.m3u8?token=29e8f26ff9fee04282c57953a0018af4_1451736254_1451736254&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BBC1.uk" group-title="English" tvg-logo="0402.png",[COLOR orange]BBC1 HD[/COLOR]
+http://62.65.140.214:80/session/c77e06b0-b07f-11e5-a6f1-005056bc49ac/nvnv5a/2/4017/index.m3u8?token=78abf1ef5bd25caedbcaa5b78746e062_1451736255_1451736255&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BBC2.uk" group-title="English" tvg-logo="0404.png",[COLOR orange]BBC2 HD[/COLOR]
+http://62.65.140.154:80/session/c7e09e4c-b07f-11e5-80b4-005056bc1a52/nvnv5a/2/4012/index.m3u8?token=a5cb86118368ed675289405596a20d01_1451736256_1451736256&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BBC3.uk" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC3[/COLOR]
+http://62.65.140.212:80/session/c860dc1a-b07f-11e5-b494-005056bc49ac/nvnv5a/2/4008/index.m3u8?token=ee88675945ca437ec327533da166fb93_1451736256_1451736256&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
+http://62.65.140.217:80/session/c8c8c38e-b07f-11e5-a98e-005056bc06d1/nvnv5a/2/4003/index.m3u8?token=0513971d8c2c9565824e8e2ee74a17b0_1451736257_1451736257&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BR.de" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered]BR HD[/COLOR]
+http://62.65.140.150:80/session/c92c1498-b07f-11e5-8c3f-005056bc06d1/nvnv5a/1/1112/index.m3u8?token=4674c33c129abcfdc321a2e89cfb0b4d_1451736258_1451736258&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="canal9.fr" group-title="French" tvg-logo="0242.png",[COLOR gold]Canal 9[/COLOR]
+http://62.65.140.150:80/session/c9955af2-b07f-11e5-bf7d-005056bc1a52/nvnv5a/2/2041/index.m3u8?token=6190b818cbbdfcd281c3ff78006e9a98_1451736259_1451736259&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="canalalpha.fr" group-title="French" tvg-logo="0246.png",[COLOR orangered]Canal Alpha[/COLOR]
+http://62.65.140.219:80/session/ca167ae2-b07f-11e5-90c5-005056bc1a52/nvnv5a/2/2045/index.m3u8?token=efdac7106995cba9fa4df2b55e1d7711_1451736259_1451736259&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Canale5.it" group-title="Italian" tvg-logo="0614.png",[COLOR orange]Canale 5 HD[/COLOR]
+http://62.65.140.215:80/session/ca762064-b07f-11e5-adbf-005056bc1a52/nvnv5a/2/3026/index.m3u8?token=2f400966d0a0ca86d9f25655fa83f441_1451736260_1451736260&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Channel4.uk" group-title="English" tvg-logo="0414.png",[COLOR orange]Channel 4 HD[/COLOR]
+http://62.65.140.213:80/session/cadd11ca-b07f-11e5-ba60-005056bc1a52/nvnv5a/2/4022/index.m3u8?token=7b5eafc9435478b8ce9994899e78614d_1451736261_1451736261&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="chtv.ch" group-title="Deutsch" tvg-logo="0146.png",[COLOR gold]CH TV HD[/COLOR]
+http://62.65.140.217:80/session/cb65265a-b07f-11e5-8449-005056bc06d1/nvnv5a/1/1032/index.m3u8?token=7cd780e3f4f85aab04218b893f08dbff_1451736261_1451736261&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="cielo.it" group-title="Italian" tvg-logo="0000.png",[COLOR orangered]Cielo[/COLOR]
+http://62.65.140.150:80/session/cbc587a2-b07f-11e5-8943-005056bc06d1/nvnv5a/2/3041/index.m3u8?token=1359848ad7dcd83cac8564f461c12efd_1451736262_1451736262&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="CNBC.nws" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
+http://62.65.140.155:80/session/cc2d1430-b07f-11e5-98cd-005056bc49ac/nvnv5a/2/4001/index.m3u8?token=1108ebd99cf6612f932a82423a77933a_1451736263_1451736263&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="CNN.nws" group-title="English" tvg-logo="0423.png",[COLOR orangered]CNN[/COLOR]
+http://62.65.140.219:80/session/cc948dcc-b07f-11e5-98a6-005056bc06d1/nvnv5a/2/4002/index.m3u8?token=da157286607c9c27a485371bfaffac33_1451736264_1451736264&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Direct8.fr" group-title="French" tvg-logo="0216.png",[COLOR orange]D8[/COLOR]
+http://62.65.140.153:80/session/ccf924da-b07f-11e5-ade1-005056bc1a52/nvnv5a/2/2018/index.m3u8?token=e6a4fd0fe64ecf144f3c92dac29c7cb2_1451736264_1451736264&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" group-title="Music" tvg-logo="0065.png",[COLOR orangered]Deluxe Music[/COLOR]
+http://62.65.140.216:80/session/cd5e6516-b07f-11e5-a11e-005056bc06d1/nvnv5a/1/1153/index.m3u8?token=e858869ea47baaf1b07897459af6c33e_1451736265_1451736265&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="disneychannel.de" group-title="Deutsch" tvg-logo="0036.png",[COLOR orange]Disney Channel[/COLOR]
+http://62.65.140.150:80/session/cdb6feba-b07f-11e5-aedb-005056bc1a52/nvnv5a/1/1124/index.m3u8?token=94be233a896035e88a3b2b3eaba9dd06_1451736265_1451736265&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="DMax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR orangered]DMAX[/COLOR]
+http://62.65.140.212:80/session/ce17161a-b07f-11e5-afef-005056bc06d1/nvnv5a/1/1018/index.m3u8?token=a67d10b1b9ea3a91271a5e5aa59faf6b_1451736266_1451736266&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="English" tvg-logo="0035.png",[COLOR orange]EuroNews English[/COLOR]
+http://62.65.140.150:80/session/ce9de2da-b07f-11e5-b590-005056bc1a52/nvnv5a/1/104903/index.m3u8?token=2fe289c334b522038509363ab5890b15_1451736267_1451736267&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="French" tvg-logo="0237.png",[COLOR orangered]EuroNews French[/COLOR]
+http://62.65.140.148:80/session/cf40d5b2-b07f-11e5-a943-005056bc06d1/nvnv5a/1/104901/index.m3u8?token=9cce26ecea1819b639619b797dfb7118_1451736268_1451736268&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="Italian" tvg-logo="0237.png",[COLOR gold]EuroNews Italian[/COLOR]
+http://62.65.140.217:80/session/cfaa3c82-b07f-11e5-828a-005056bc06d1/nvnv5a/1/104902/index.m3u8?token=412a3a33e26349d08be68e551ad7ffbc_1451736269_1451736269&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="Deutsch" tvg-logo="0035.png",[COLOR orange]EuroNews Deutsch[/COLOR]
+http://62.65.140.154:80/session/d011804a-b07f-11e5-86db-005056bc49ac/nvnv5a/1/1049/index.m3u8?token=5b5c99467ef0609c90f40bdb747b0b92_1451736269_1451736269&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Eurosport.de" group-title="Deutsch" tvg-logo="0049.png",[COLOR orangered]EuroSport[/COLOR]
+http://62.65.140.153:80/session/d0707014-b07f-11e5-a51d-005056bc49ac/nvnv5a/1/1051/index.m3u8?token=af022a39362c4f1ea6ebab1de807d133_1451736270_1451736270&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Film4.uk" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
+http://62.65.140.219:80/session/d0d1d0d4-b07f-11e5-8ab6-005056bc1a52/nvnv5a/2/4023/index.m3u8?token=c913e8141ce2b482f39949724564845f_1451736271_1451736271&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France2.fr" group-title="French" tvg-logo="0204.png",[COLOR orange]France 2 HD[/COLOR]
+http://62.65.140.148:80/session/d13409de-b07f-11e5-a54a-005056bc06d1/nvnv5a/2/2028/index.m3u8?token=169cb49721d7a70bfec578d4566c5db5_1451736271_1451736271&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France3.fr" group-title="French" tvg-logo="0205.png",[COLOR orangered]France 3[/COLOR]
+http://62.65.140.149:80/session/d198385a-b07f-11e5-9369-005056bc49ac/nvnv5a/2/2008/index.m3u8?token=39cc53eeb679711c8e573f07c85dd680_1451736272_1451736272&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France4.fr" group-title="French" tvg-logo="0221.png",[COLOR orange]France 4[/COLOR]
+http://62.65.140.219:80/session/d1fa7664-b07f-11e5-b09d-005056bc1a52/nvnv5a/2/2009/index.m3u8?token=10ded05e23310282cc5cb45cea9c68fc_1451736273_1451736273&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France5.fr" group-title="French" tvg-logo="0207.png",[COLOR orange]France 5[/COLOR]
+http://62.65.140.216:80/session/d27284f6-b07f-11e5-ba1a-005056bc06d1/nvnv5a/2/2010/index.m3u8?token=ac925a84c7d8ea52ab7e460f234018b6_1451736273_1451736273&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France24fr.fr" group-title="French" tvg-logo="0236.png",[COLOR orange]France 24[/COLOR]
+http://62.65.140.152:80/session/d2e0c0a6-b07f-11e5-b0cd-005056bc06d1/nvnv5a/2/2007/index.m3u8?token=52b4d11880528a502105260b9a60955a_1451736274_1451736274&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="FranceO.fr" group-title="French" tvg-logo="0226.png",[COLOR orange]France ‘[/COLOR]
+http://62.65.140.213:80/session/d33ed286-b07f-11e5-9607-005056bc06d1/nvnv5a/2/2015/index.m3u8?token=71a08d978b43353a3d88f2f27b8226ff_1451736275_1451736275&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Gulli.fr" group-title="French" tvg-logo="0225.png",[COLOR gold]Gulli[/COLOR]
+http://62.65.140.218:80/session/d3a1a168-b07f-11e5-bb47-005056bc1a52/nvnv5a/2/2011/index.m3u8?token=f864591ca06a4c7d850cdd8165ac7188_1451736275_1451736275&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Italia1.it" group-title="Italian" tvg-logo="0615.png",[COLOR orangered]Italia 1 HD[/COLOR]
+http://62.65.140.217:80/session/d405e024-b07f-11e5-ae43-005056bc1a52/nvnv5a/2/3028/index.m3u8?token=0d9ad4e27e822ad1b05d268ff825cd4b_1451736276_1451736276&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ITV1London.uk" group-title="English" tvg-logo="0410.png",[COLOR orange]ITV1 HD[/COLOR]
+http://62.65.140.213:80/session/d48a91ca-b07f-11e5-8ec2-005056bc06d1/nvnv5a/2/4018/index.m3u8?token=8d33469a77e66956e6177cf8102e2d54_1451736277_1451736277&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ITV2.uk" group-title="English" tvg-logo="0411.png",[COLOR orange]ITV2[/COLOR]
+http://62.65.140.151:80/session/d4f19b90-b07f-11e5-baed-005056bc1a52/nvnv5a/2/4005/index.m3u8?token=f2e49dced1635c2e423b0649ba8da97f_1451736278_1451736278&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ITV3.uk" group-title="English" tvg-logo="0412.png",[COLOR orange]ITV3[/COLOR]
+http://62.65.140.214:80/session/d55cf444-b07f-11e5-b7f7-005056bc06d1/nvnv5a/2/4025/index.m3u8?token=452ff08c63d42663bdeda743830ff311_1451736278_1451736278&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Joiz.ch" group-title="Deutsch" tvg-logo="0042.png",[COLOR orange]Joiz[/COLOR]
+http://62.65.140.150:80/session/d5c278e6-b07f-11e5-8914-005056bc06d1/nvnv5a/2/1172/index.m3u8?token=52e63c4e1972582979b4fa4d94ac3129_1451736279_1451736279&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Kabel.de" group-title="Deutsch" tvg-logo="0130.png",[COLOR orange]Kabel 1 HD[/COLOR]
+http://62.65.140.148:80/session/d624924c-b07f-11e5-bff1-005056bc49ac/nvnv5a/1/1039/index.m3u8?token=49558be5e6060ce7ddaaacc48bd6a276_1451736280_1451736280&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0047.png",[COLOR orangered]KiKa HD[/COLOR]
+http://62.65.140.151:80/session/d687c6dc-b07f-11e5-8574-005056bc06d1/nvnv5a/1/1116/index.m3u8?token=2bbfd77b9bf7cfd2c58a991febd91e68_1451736280_1451736280&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="La7.it" group-title="Italian" tvg-logo="0617.png",[COLOR orange]LA7[/COLOR]
+http://62.65.140.151:80/session/d6eb2a60-b07f-11e5-8dea-005056bc49ac/nvnv5a/2/3027/index.m3u8?token=5e0419a1b5ca9e99490dfbfbd243a455_1451736281_1451736281&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="latele.fr" group-title="French" tvg-logo="0244.png",[COLOR orange]la tÈlÈ[/COLOR]
+http://62.65.140.155:80/session/d767f860-b07f-11e5-a961-005056bc1a52/nvnv5a/2/2043/index.m3u8?token=8b73f2bcd2bcc7141e20237c330e4dbe_1451736282_1451736282&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="lemanbleu.fr" group-title="French" tvg-logo="0245.png",[COLOR orange]lÈman bleu[/COLOR]
+http://62.65.140.218:80/session/d7eb4666-b07f-11e5-9a40-005056bc06d1/nvnv5a/2/2044/index.m3u8?token=9e0e7bf60aa92dbfd5c8b7da30707911_1451736282_1451736282&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="M6.fr" group-title="French" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
+http://62.65.140.214:80/session/d845a958-b07f-11e5-9686-005056bc1a52/nvnv5a/2/2026/index.m3u8?token=16828d321a18b1ee5c45f19115e9b850_1451736283_1451736283&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="MDRSachsen.de" group-title="Deutsch" tvg-logo="0020.png",[COLOR orange]MDR[/COLOR]
+http://62.65.140.150:80/session/d8a95d18-b07f-11e5-8e7f-005056bc49ac/nvnv5a/1/1069/index.m3u8?token=85eb9a68c2f597deef8b45ad8ad3b073_1451736284_1451736284&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="MTV.it" group-title="Music" tvg-logo="0144.png",[COLOR orange]MTV Italy[/COLOR]
+http://62.65.140.216:80/session/d95f99c0-b07f-11e5-8dd3-005056bc1a52/nvnv5a/2/3009/index.m3u8?token=f833ddd9c8597bbc551370a95604af66_1451736285_1451736285&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="MTV.ch" group-title="Music" tvg-logo="0145.png",[COLOR orange]MTV HD[/COLOR]
+http://62.65.140.152:80/session/d9b91d24-b07f-11e5-a4b2-005056bc49ac/nvnv5a/1/1033/index.m3u8?token=6e4ef91d28bf6cad7883f84b5d2abb3d_1451736286_1451736286&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ntv.de" group-title="Deutsch" tvg-logo="0034.png",[COLOR orangered]n-tv[/COLOR]
+http://62.65.140.148:80/session/da209c42-b07f-11e5-8b2c-005056bc1a52/nvnv5a/1/1025/index.m3u8?token=db0f4fa78a86cbab96d590d1e9d0aa9b_1451736286_1451736286&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ndr.de" group-title="Deutsch" tvg-logo="0107.png",[COLOR orange]NDR HD[/COLOR]
+http://62.65.140.219:80/session/da7f651a-b07f-11e5-b992-005056bc49ac/nvnv5a/1/1115/index.m3u8?token=30af258c4d4125dcfba71d4ae65b5df0_1451736287_1451736287&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Nick.de" group-title="Deutsch" tvg-logo="0043.png",[COLOR orange]Nickelodeon[/COLOR]
+http://62.65.140.148:80/session/dae4a196-b07f-11e5-8a0f-005056bc1a52/nvnv5a/1/1004/index.m3u8?token=82e0fbbeb5ed014c3de2759f243a09e8_1451736288_1451736288&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Nick.ch" group-title="Deutsch" tvg-logo="0141.png",[COLOR orange]Nickelodeon HD Schweiz[/COLOR]
+http://62.65.140.215:80/session/db45de34-b07f-11e5-9fdf-005056bc06d1/nvnv5a/1/1034/index.m3u8?token=df4a5e8536a65f595aea95724cb398ba_1451736288_1451736288&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ORF1.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR orange]ORF1 HD[/COLOR]
+http://62.65.140.216:80/session/db9f52a2-b07f-11e5-b988-005056bc06d1/nvnv5a/1/1010/index.m3u8?token=d5edce9340adb014efe8f6d766eeb6d6_1451736289_1451736289&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ORF2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR orange]ORF2 HD[/COLOR]
+http://62.65.140.219:80/session/dbf6dbe4-b07f-11e5-84c7-005056bc06d1/nvnv5a/1/1011/index.m3u8?token=ea3550eba96abad598202ea3577f0c06_1451736289_1451736289&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0030.png",[COLOR orange]PHOENIX HD[/COLOR]
+http://62.65.140.151:80/session/dc534c80-b07f-11e5-831b-005056bc1a52/nvnv5a/1/1122/index.m3u8?token=485c853ff67b48c71efcd6ef47e3bf12_1451736290_1451736290&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0128.png",[COLOR orange]Pro7 HD[/COLOR]
+http://62.65.140.152:80/session/dcac75d0-b07f-11e5-8a7f-005056bc49ac/nvnv5a/1/1037/index.m3u8?token=e6d72f68204f9ecb1388e32c4ea6c176_1451736291_1451736291&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]Pro7Maxx[/COLOR]
+http://62.65.140.219:80/session/dd0747e4-b07f-11e5-bd04-005056bc1a52/nvnv5a/1/1041/index.m3u8?token=0c74eb07a39f2b4d88689d82a25ee077_1451736291_1451736291&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Puls8.ch" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]Puls 8 HD[/COLOR]
+http://62.65.140.218:80/session/dd72eb7a-b07f-11e5-81f5-005056bc1a52/nvnv5a/2/1053/index.m3u8?token=1fd63a2ed26dab1565ba700e98780e8c_1451736292_1451736292&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RAIUno.it" group-title="Italian" tvg-logo="0605.png",[COLOR orange]Rai 1[/COLOR]
+http://62.65.140.153:80/session/ddd8b7fc-b07f-11e5-97b8-005056bc49ac/nvnv5a/2/3003/index.m3u8?token=b19436a8353e94b11bf51e70fa05c3e0_1451736293_1451736293&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RAIDue.it" group-title="Italian" tvg-logo="0606.png",[COLOR orange]Rai 2[/COLOR]
+http://62.65.140.219:80/session/de338628-b07f-11e5-aebc-005056bc1a52/nvnv5a/2/3004/index.m3u8?token=3661071c862fb2a97c8104322fb44b03_1451736293_1451736293&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RAITre.it" group-title="Italian" tvg-logo="0607.png",[COLOR orange]Rai 3[/COLOR]
+http://62.65.140.217:80/session/de92e7bc-b07f-11e5-bacb-005056bc1a52/nvnv5a/2/3005/index.m3u8?token=5f8c3d1c5cd015bd600059d276ba9365_1451736294_1451736294&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RaiNews.it" group-title="Italian" tvg-logo="0613.png",[COLOR orangered]Rai News 24[/COLOR]
+http://62.65.140.149:80/session/df158f3c-b07f-11e5-8e32-005056bc49ac/nvnv5a/2/3018/index.m3u8?token=b470735c0afb686dd6fb23aba3b13110_1451736294_1451736294&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RaiSport1.it" group-title="Italian" tvg-logo="0611.png",[COLOR gold]Rai Sport 1[/COLOR]
+http://62.65.140.148:80/session/df974f18-b07f-11e5-8549-005056bc06d1/nvnv5a/2/3021/index.m3u8?token=fcac9d5ad400856811f06e67670a4ad3_1451736295_1451736295&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Rete4.it" group-title="Italian" tvg-logo="0000.png",[COLOR orange]Rete 4 HD[/COLOR]
+http://62.65.140.153:80/session/e00129a6-b07f-11e5-8aa3-005056bc49ac/nvnv5a/2/3032/index.m3u8?token=7ce4646fd884accd2e7fc3b4b905c987_1451736296_1451736296&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RSILa1.ch" group-title="Italian" tvg-logo="0602.png",[COLOR orange]RSI LA 1 HD[/COLOR]
+http://62.65.140.151:80/session/e0670e9c-b07f-11e5-bdcf-005056bc49ac/nvnv5a/2/3045/index.m3u8?token=e82f4c4e05ed749b3e46d31e4a0367cc_1451736297_1451736297&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RSILa2.ch" group-title="Italian" tvg-logo="0604.png",[COLOR orangered]RSI LA 2 HD[/COLOR]
+http://62.65.140.215:80/session/e0d54b3c-b07f-11e5-860b-005056bc1a52/nvnv5a/2/3046/index.m3u8?token=9b1519b00eeca74e754c84caf4a2f08d_1451736298_1451736298&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0131.png",[COLOR orange]RTL 2 HD[/COLOR]
+http://62.65.140.215:80/session/e13bdf32-b07f-11e5-acae-005056bc49ac/nvnv5a/1/1024/index.m3u8?token=f6b15f4ec6418d2ef56379e5c1e003b6_1451736298_1451736298&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="rtl1025.ch" group-title="Italian" tvg-logo="0000.png",[COLOR orangered]RTL 102.5[/COLOR]
+http://62.65.140.214:80/session/e1ba4598-b07f-11e5-83c0-005056bc1a52/nvnv5a/2/3010/index.m3u8?token=0f298c8f0f1222c4e77b2aafaefcaa5c_1451736299_1451736299&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR orange]RTL HD[/COLOR]
+http://62.65.140.218:80/session/e22ffdba-b07f-11e5-b6c7-005056bc06d1/nvnv5a/1/1020/index.m3u8?token=6c700d7a4f1d62c7842de17948e09b06_1451736300_1451736300&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTLNitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL Nitro HD[/COLOR]
+http://62.65.140.151:80/session/e299e1ee-b07f-11e5-bc9f-005056bc49ac/nvnv5a/1/1027/index.m3u8?token=b05f93d77f97d1198698e33f42991657_1451736300_1451736300&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTPi.pt" group-title="Portuguese" tvg-logo="0000.png",[COLOR orange]RTPi[/COLOR]
+http://62.65.140.216:80/session/e31edbf6-b07f-11e5-ba74-005056bc06d1/nvnv5a/2/5001/index.m3u8?token=58c1e6e79faca37c7a47b3c762aa3ddb_1451736301_1451736301&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TSR1.ch" group-title="French" tvg-logo="0211.png",[COLOR orangered]RTS 1 HD[/COLOR]
+http://62.65.140.152:80/session/e37fd366-b07f-11e5-8c7c-005056bc06d1/nvnv5a/2/2034/index.m3u8?token=41465ee53939539c80b24d0f2da32c22_1451736302_1451736302&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TSR2.ch" group-title="French" tvg-logo="0213.png",[COLOR orange]RTS 2 HD[/COLOR]
+http://62.65.140.216:80/session/e3e42f5a-b07f-11e5-90da-005056bc06d1/nvnv5a/2/2035/index.m3u8?token=ecc88ef8feb05a7aaddf12a208da2280_1451736303_1451736303&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRTL.de" group-title="Deutsch" tvg-logo="0143.png",[COLOR orangered]Super RTL HD[/COLOR]
+http://62.65.140.212:80/session/e44b2872-b07f-11e5-962e-005056bc06d1/nvnv5a/1/1023/index.m3u8?token=17a0d4beb04b4f241766b3801f2bf856_1451736303_1451736303&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="S1.ch" group-title="Deutsch" tvg-logo="0081.png",[COLOR orange]S1 HD[/COLOR]
+http://62.65.140.150:80/session/e4af1cec-b07f-11e5-ab3e-005056bc06d1/nvnv5a/1/1035/index.m3u8?token=5d363bce4cc4c8986e094210fcb35c03_1451736304_1451736304&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0129.png",[COLOR orange]Sat.1 HD[/COLOR]
+http://62.65.140.150:80/session/e518cb60-b07f-11e5-9492-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=618daa4a088150dfdb806b0447e0d458_1451736305_1451736305&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ServusHD.de" group-title="Deutsch" tvg-logo="0123.png",[COLOR orange]Servus TV HD[/COLOR]
+http://62.65.140.153:80/session/e587d6ae-b07f-11e5-a0b7-005056bc06d1/nvnv5a/1/1012/index.m3u8?token=7e074a37a201111c8fb78b80bf0c94ee_1451736305_1451736305&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Sixx.de" group-title="Deutsch" tvg-logo="0133.png",[COLOR orange]sixx HD[/COLOR]
+http://62.65.140.218:80/session/e5f89268-b07f-11e5-9ed1-005056bc1a52/nvnv5a/1/1040/index.m3u8?token=6f79c375ebf7f5f2e00e0ae693561978_1451736306_1451736306&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Sport1HD.de" group-title="Deutsch" tvg-logo="0050.png",[COLOR orange]Sport1[/COLOR]
+http://62.65.140.217:80/session/e65e153e-b07f-11e5-94cb-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=63b4304635206f47a58ccca2bb98f760_1451736307_1451736307&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRF1.ch" group-title="Deutsch" tvg-logo="0076.png",[COLOR orange]SRF 1 HD[/COLOR]
+http://62.65.140.219:80/session/e6c17b88-b07f-11e5-84ea-005056bc06d1/nvnv5a/1/1008/index.m3u8?token=71c4ab0b41609e471dbca98fa39c3259_1451736308_1451736308&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRF2.ch" group-title="Deutsch" tvg-logo="0078.png",[COLOR orange]SRF zwei HD[/COLOR]
+http://62.65.140.217:80/session/e721e536-b07f-11e5-90b6-005056bc49ac/nvnv5a/1/1009/index.m3u8?token=bad361d917cfdd617bfa77cfb162aa80_1451736308_1451736308&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Deutsch" tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
+http://62.65.140.214:80/session/e786ce9c-b07f-11e5-afa6-005056bc1a52/nvnv5a/1/1003/index.m3u8?token=793487f07e88c7731d1c1f5af166bb77_1451736309_1451736309&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="StarTV.ch" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]Star TV[/COLOR]
+http://62.65.140.153:80/session/e7f2310a-b07f-11e5-999b-005056bc49ac/nvnv5a/1/1107/index.m3u8?token=681f4f83e619a39fa7072dd8e3730488_1451736309_1451736309&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR orange]SWR BW HD[/COLOR]
+http://62.65.140.215:80/session/e858a750-b07f-11e5-8f8a-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=173b4b8b99f11dfd8bf7b8b01a7d92ef_1451736310_1451736310&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="telebasel.ch" group-title="Deutsch" tvg-logo="0086.png",[COLOR orange]Tele Basel[/COLOR]
+http://62.65.140.215:80/session/e858a750-b07f-11e5-8f8a-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=173b4b8b99f11dfd8bf7b8b01a7d92ef_1451736310_1451736310&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="telebarn.ch" group-title="Deutsch" tvg-logo="0085.png",[COLOR orangered]Tele B‰rn[/COLOR]
+http://62.65.140.216:80/session/e9270c30-b07f-11e5-8622-005056bc1a52/nvnv5a/1/1137/index.m3u8?token=da49d709a7eb9b544e05e9ec0c97c8b6_1451736312_1451736312&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="tele1.ch" group-title="Deutsch" tvg-logo="0090.png",[COLOR orange]Tele 1[/COLOR]
+http://62.65.140.150:80/session/e9959eca-b07f-11e5-b661-005056bc06d1/nvnv5a/1/1128/index.m3u8?token=faafef1897e8a2166b077697488a318e_1451736312_1451736312&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Tele5.de" group-title="Deutsch" tvg-logo="0041.png",[COLOR orangered]Tele 5[/COLOR]
+http://62.65.140.155:80/session/e9f5cf2a-b07f-11e5-8ab9-005056bc06d1/nvnv5a/1/1090/index.m3u8?token=f6070b6e6d5d339ad9d0f5617e2c3385_1451736313_1451736313&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="telebielingue.ch" group-title="Deutsch" tvg-logo="0087.png",[COLOR orange]Tele Bielingue[/COLOR]
+http://62.65.140.149:80/session/ea8a25d0-b07f-11e5-81e6-005056bc49ac/nvnv5a/2/2040/index.m3u8?token=e24e0a6cbe7daf13f072cd92e7f4f5e9_1451736314_1451736314&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TeleM1.ch" group-title="Deutsch" tvg-logo="0094.png",[COLOR orangered]Tele M1[/COLOR]
+http://62.65.140.219:80/session/eb0fdd92-b07f-11e5-a3db-005056bc1a52/nvnv5a/1/1132/index.m3u8?token=be20e9ee7929daea6edfc191934b1e1d_1451736315_1451736315&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="teleticino.it" group-title="Italian" tvg-logo="0618.png",[COLOR orange]Tele Ticino[/COLOR]
+http://62.65.140.152:80/session/eb93e9a2-b07f-11e5-9030-005056bc49ac/nvnv5a/2/3036/index.m3u8?token=8e7949e749177c03ea28e6d8dd848718_1451736315_1451736315&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="teletop.ch" group-title="Deutsch" tvg-logo="0091.png",[COLOR orangered]Tele Top[/COLOR]
+http://62.65.140.219:80/session/ec1fdae8-b07f-11e5-853a-005056bc49ac/nvnv5a/1/1129/index.m3u8?token=6c479783944f2e39aa480825e65f6693_1451736316_1451736316&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TF1.fr" group-title="French" tvg-logo="0202.png",[COLOR orange]TF1 HD[/COLOR]
+http://62.65.140.149:80/session/ec7c8bda-b07f-11e5-9541-005056bc1a52/nvnv5a/2/2027/index.m3u8?token=18cc76b53930dc84104649f6a4b9589c_1451736317_1451736317&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TRT1.de" group-title="Turkish" tvg-logo="0801.png",[COLOR orange]TRT1[/COLOR]
+http://62.65.140.150:80/session/ecf812e6-b07f-11e5-96d7-005056bc49ac/nvnv5a/2/5030/index.m3u8?token=c30108e928e8099b98a699cb908db0ef_1451736318_1451736318&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TSO.ch" group-title="Deutsch" tvg-logo="0088.png",[COLOR orange]TSO[/COLOR]
+http://62.65.140.213:80/session/ed804814-b07f-11e5-896c-005056bc49ac/nvnv5a/1/1130/index.m3u8?token=8109cd6a49fc4302cd4b899037932ba2_1451736319_1451736319&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="Deutsch" tvg-logo="0053.png",[COLOR orangered]ZDF neo HD[/COLOR]
+http://62.65.140.152:80/session/0087e872-b080-11e5-9b95-005056bc06d1/nvnv5a/1/1121/index.m3u8?token=82a1b04aab72945185c4bed128342935_1451736350_1451736350&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
+http://62.65.140.212:80/session/00e63d1e-b080-11e5-96b1-005056bc49ac/nvnv5a/2/1166/index.m3u8?token=949642654e700977d0d4283ad67a5933_1451736351_1451736351&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDFtheater.de" group-title="Deutsch" tvg-logo="0055.png",[COLOR orangered]zdf.kultur HD[/COLOR] 
+http://62.65.140.148:80/session/01691e46-b080-11e5-b56d-005056bc06d1/nvnv5a/1/1119/index.m3u8?token=ac5cf38204399d9a4988aeab547ca4fc_1451736352_1451736352&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="Deutsch" tvg-logo="0057.png",[COLOR orangered]ZDF-Info HD[/COLOR]
+http://62.65.140.218:80/session/01bc5f20-b080-11e5-b455-005056bc06d1/nvnv5a/1/1118/index.m3u8?token=97f6dabdb0890fb03305f79b46519255_1451736353_1451736353&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="WDR.de" group-title="Deutsch" tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR] 
+http://62.65.140.151:80/session/0221c4dc-b080-11e5-a2fb-005056bc49ac/nvnv5a/1/1113/index.m3u8?token=3222a394f334d1816a4e2fbafc451ec7_1451736353_1451736353&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="W9.ch" group-title="French" tvg-logo="0217.png",[COLOR orange]W9[/COLOR]
+http://62.65.140.215:80/session/0276d436-b080-11e5-966b-005056bc49ac/nvnv5a/2/2022/index.m3u8?token=c22ae83164950a01fc2e07fa9f96af94_1451736354_1451736354&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Vox.de" group-title="Deutsch" tvg-logo="0010.png",[COLOR orange]VOX HD[/COLOR]
+http://62.65.140.149:80/session/02d96b78-b080-11e5-afd0-005056bc49ac/nvnv5a/1/1021/index.m3u8?token=0e6020ff5420eeab27a23182a70ee8a7_1451736355_1451736355&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Viva.de" group-title="Deutsch" tvg-logo="0044.png",[COLOR orange]VIVA HD[/COLOR]
+http://62.65.140.218:80/session/033406dc-b080-11e5-a8db-005056bc1a52/nvnv5a/1/1014/index.m3u8?token=03073ae902f83f22086370444a2cc42f_1451736355_1451736355&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TeleZurich.ch" group-title="Deutsch" tvg-logo="0083.png",[COLOR orange]Tele Z¸ri[/COLOR]
+http://62.65.140.217:80/session/03863178-b080-11e5-97d9-005056bc1a52/nvnv5a/2/1160/index.m3u8?token=489a52cea7fd42eced2737c4d82fb9e7_1451736356_1451736356&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TVO.ch" group-title="Deutsch" tvg-logo="0089.png",[COLOR orange]TVO[/COLOR]
+http://62.65.140.152:80/session/03e603a0-b080-11e5-9dc7-005056bc06d1/nvnv5a/1/1131/index.m3u8?token=6c27f6b30ec3195f8e7a71b3b7b1b288_1451736356_1451736356&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TVEi.nws" group-title="Spanish" tvg-logo="0000.png",[COLOR orange]TVEi[/COLOR]
+http://62.65.140.154:80/session/044ea806-b080-11e5-9698-005056bc06d1/nvnv5a/2/5003/index.m3u8?token=86316e7df5c94e1aca5a95d51c1daf2f_1451736357_1451736357&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TV24.ch" group-title="Deutsch" tvg-logo="0082.png",[COLOR orange]TV24[/COLOR]
+http://62.65.140.154:80/session/04a79c86-b080-11e5-8808-005056bc1a52/nvnv5a/1/1042/index.m3u8?token=1d0e0e2bbc9a3c37d690ef9f5ea9da0e_1451736358_1451736358&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="French" tvg-logo="0234.png",[COLOR orange]TV5 Monde[/COLOR] 
+http://62.65.140.215:80/session/f7a95b10-ab8d-11e5-b05b-005056bc49ac/nvnv5a/2/2006/index.m3u8?token=b30907db3a17dc038dc53cb702ec2576_1451192592_1451192592&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:0800 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF SD[/COLOR]
+http://217.20.164.196:8080/zdf/index.m3u8
+#EXTINF:0800 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0005.png",[COLOR orange]RTL SD[/COLOR]
+http://217.20.164.196:8080/rtl/index.m3u8
+#EXTINF:0800 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0001.png",[COLOR orange]ARD SD[/COLOR]
+http://217.20.164.196:8080/ard/index.m3u8
+#EXTINF:0800 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0006.png",[COLOR orange]Sat.1 SD[/COLOR]
+http://217.20.164.196:8080/sat1/index.m3u8
+#EXTINF:0800 tvg-id="Sat1Gold.de" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]Sat.1 Gold SD[/COLOR]
+http://94.229.33.76:5000/udp/239.1.1.82:1234
+#EXTINF:0800 tvg-id="rbbBerlin.de" group-title="Deutsch" tvg-logo="0027.png",[COLOR orange]RBB SD[/COLOR]
+http://217.20.164.196:8080/rbb/index.m3u8
+#EXTINF:0800 tvg-id="ndr.de" group-title="Deutsch" tvg-logo="0107.png",[COLOR orange]NDR SD[/COLOR]
+http://217.20.164.196:8080/ndr/index.m3u8
+#EXTINF:0800 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR orange]SWR SD[/COLOR]
+http://217.20.164.196:8080/swr/index.m3u8
+#EXTINF:0800 tvg-id="n24.de" group-title="Deutsch" tvg-logo="0032.png",[COLOR orangered]N24[/COLOR]
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
+#EXTINF:0800 tvg-id="tagesschau24.de" group-title="Deutsch" tvg-logo="0064.png",[COLOR orangered]tagesschau24[/COLOR]
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:0800 tvg-id="Vox.de" group-title="Deutsch" tvg-logo="vox.de.png",[COLOR orangered]VOX SD[/COLOR]
+http://217.20.164.196:8080/vox/index.m3u8
+#EXTINF:0800 tvg-id="RiC.de" group-title="Deutsch" tvg-logo="0048.png",[COLOR orangered]RIC SD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0118.m3u8
+#EXTINF:0800 tvg-id="HR.de" group-title="Deutsch" tvg-logo="0026.png",[COLOR orangered]HR HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0119.m3u8
+#EXTINF:0800 tvg-id="DeutscheWelle.de" group-title="Deutsch" tvg-logo="0125.png",[COLOR orangered]Deutsche Welle[/COLOR]
+http://www.iptvsaga.com/play/tv3/0120.m3u8
+#EXTINF:0800 tvg-id="DAF.de" group-title="Deutsch" tvg-logo="0098.png",[COLOR orangered]DAF[/COLOR]
+http://www.iptvsaga.com/play/tv3/0122.m3u8
+#EXTINF:0800 tvg-id="WeltDerWunder.de" group-title="Deutsch" tvg-logo="0099.png",[COLOR orangered]welt der wunder[/COLOR]
+http://www.iptvsaga.com/play/tv3/0123.m3u8
+#EXTINF:0800 tvg-id="6ter.fr" group-title="French" tvg-logo="0229.png",[COLOR orangered]6ter[/COLOR]
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:0800 tvg-id="noepg.epg" group-title="Music" tvg-logo="vevo.tv.png",[COLOR orangered]VEVO HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0124.m3u8
+#EXTINF:0800 tvg-id="EurosportHD.uk" group-title="English" tvg-logo="eurosport.de",[COLOR orange]Eurosport 1 EN[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0800 tvg-id="Eurosport.fr" group-title="French" tvg-logo="eurosport.de",[COLOR orange]Eurosport 1 FR[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:800 tvg-id="RAI4.it" group-title="Italian" tvg-logo="rai4.png",[COLOR orange]Rai 4[/COLOR]
+http://originstream7.rai.it/italy/rai4new.smil/chunklist_b1200000.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="RAI5.it" group-title="Italian" tvg-logo="rai5.png",[COLOR orange]Rai 5[/COLOR]
+http://stream12.rai.it/live/smil:rai5_android.smil/playlist.m3u8|X-Forwarded-For=2.32.0.1 
+#EXTINF:800 tvg-id="RaiSport1.it" group-title="Italian" tvg-logo="0611.png",[COLOR orangered]Rai Sport 1 HD[/COLOR]
+http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="RaiSport2.it" group-title="Italian" tvg-logo="0612.png",[COLOR orange]Rai Sport 2[/COLOR]
+http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="GazzettaTV.it" group-title="Italian" tvg-logo="gaz.png",[COLOR orange]Gazzetta TV[/COLOR]
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="Sportitalia.it" group-title="Italian" tvg-logo="sportitalia.png",[COLOR orange]Sport Italia[/COLOR]
+http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
+#EXTINF:800 tvg-id="RAIGulp.it" group-title="Italian" tvg-logo="0608.png",[COLOR orange]Rai Gulp[/COLOR]
+http://originstream7.rai.it/italy/smil:raigulp.smil/chunklist_b900000.m3u8
+#EXTINF:800 tvg-id="RaiScuola.it" group-title="Italian" tvg-logo="0609.png",[COLOR orange]Rai Scuola[/COLOR]
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:800 tvg-id="RaiStoria.it" group-title="Italian" tvg-logo="0610.png",[COLOR orange]Rai Storia[/COLOR]
+http://origin2.live.web.tv.streamprovider.net/streams/d944f6019b45b4db053b265f64f705a0/index.m3u8
+#EXTINF:800 tvg-id="RAIYoyo.it" group-title="Italian" tvg-logo="yoyo.png",[COLOR orange]Rai Yoyo[/COLOR]
+http://originstream5.rai.it/italy/smil:raiyoyo.smil/chunklist_b900000.m3u8
+#EXTINF:800 tvg-id="RaisatPremium.it" group-title="Italian" tvg-logo="0622.png",[COLOR orange]Rai Premium[/COLOR]
+http://originstream7.rai.it/italy/smil:raipremium.smil/chunklist_b1800000.m3u8
+#EXTINF:800 tvg-id="CompanyTV.it" group-title="Italian" tvg-logo="company.png",[COLOR orangered]Company TV[/COLOR]
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+#EXTINF:800 tvg-id="CapitalTV.it" group-title="Italian" tvg-logo="capital.png",[COLOR orange]Capital TV[/COLOR]
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="CapitalTV.it" group-title="Italian" tvg-logo="virgin.png",[COLOR orange]Virgin TV[/COLOR]
+http://fms.105.net:1935/live/virgin1/playlist.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="Radiotaormina.it" group-title="Italian" tvg-logo="taormina.png",[COLOR orange]Radio Taormina TV[/COLOR]
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:800 tvg-id="SkyTG24DTT.it" group-title="Italian" tvg-logo="0625.png",[COLOR orange]Sky TG24[/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:800 tvg-id="Marcopolo.it" group-title="Italian" tvg-logo="marco.png",[COLOR orange]Marco Polo[/COLOR]
+http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="La3.it" group-title="Italian" tvg-logo="la3.png",[COLOR orange]La 3[/COLOR]
+http://h3ghdchan102-i.akamaihd.net/hls/live/217154/Virtual_Channel102/master.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="TV2000.it" group-title="Italian" tvg-logo="tv2000.png",[COLOR orange]Tv2000[/COLOR]
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="Alice.it.it" group-title="Italian" tvg-logo="alice.png",[COLOR orange]Alice[/COLOR]
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:800 tvg-id="RTVSanMarino.it" group-title="Italian" tvg-logo="smarino.png",[COLOR orange]RTV San Marino[/COLOR]
+http://194.116.72.186:1935/webtv_live4/0QBXFQ2L0I5P/playlist.m3u8
+#EXTINF:800 tvg-id="SkyMusic.it" group-title="Italian" tvg-logo="m2o.png",[COLOR orange]M2o Tv[/COLOR]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="Repubblica.it" group-title="Italian" tvg-logo="reptv.png",[COLOR orangered]Repubblica TV[/COLOR]
+http://repvideo_1-lh.akamaihd.net/i/Studio1_1@183089/master.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="RaiNettuno.it" group-title="Italian" tvg-logo="rainet.png",[COLOR orange]Rai Nettuno[/COLOR]
+http://stream6.rai.it/live/smil:uninettuno.smil/chunklist_b900000.m3u8|X-Forwarded-For=2.112.0.1
+#EXTINF:800 tvg-id="quartarete.tv" group-title="Italian" tvg-logo="qrete.png",[COLOR orange]Quarta Rete[/COLOR]
+http://wowza1.top-ix.org/quartaretetv/quartareteweb/playlist.m3u
+#EXTINF:800 tvg-id="Canale8.it" group-title="Italian" tvg-logo="canale8.png",[COLOR orange]Canale 8[/COLOR]
+http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
+#EXTINF:800 tvg-id="TG24Norba.it" group-title="Italian" tvg-logo="tgn24.png",[COLOR orange]TG24 Norba[/COLOR]
+http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
+#EXTINF:800 tvg-id="TeleChiara.it" group-title="Italian" tvg-logo="telechiara.png",[COLOR orange]Tele Chiara[/COLOR]
+rtmp://fms.tvavicenza.it:1935/telechiara/diretta
+#EXTINF:800 tvg-id="Televaldarno.it" group-title="Italian" tvg-logo="rtv38.png",[COLOR orange]Televaldarno RTV38[/COLOR]
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+#EXTINF:800 tvg-id="Ondalatina.it" group-title="Italian" tvg-logo="ondalatina.png",[COLOR orange]Onda Latina[/COLOR]
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:800 tvg-id="TRMh24.it" group-title="Italian" tvg-logo="trmh24.png",[COLOR orange]Trm H24[/COLOR]
+http://flash.streamingmedia.it:1935/TRM/livestream/playlist.m3u8
+#EXTINF:0802 tvg-id="8222.TRT 1 HD.dsmart.com.tr" group-title="Turkish" tvg-logo="108209.png", [COLOR orange]TRT 1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0030.m3u8
+#EXTINF:0807 tvg-id="8221.TRT HD.dsmart.com.tr" group-title="Turkish" tvg-logo="641998.png", [COLOR orange]TRT HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0036.m3u8
+#EXTINF:0823 tvg-id="8223.TRT HABER HD.dsmart.com.tr" group-title="Turkish" tvg-logo="305003.png", [COLOR orangered]TRT HABER HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0049.m3u8
+#EXTINF:0824 tvg-id="8823.TRT TURK.dsmart.com.tr" group-title="Turkish" tvg-logo="324361.png", [COLOR orangered]TRT T‹RK HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0050.m3u8
+#EXTINF:0802 tvg-id="trt1.tr" group-title="Turkish" tvg-logo="108209.png", [COLOR orange]TRT World[/COLOR]
+http://www.iptvsaga.com/play/tv3/0031.m3u8
+#EXTINF:0803 tvg-id="9991.TRT AVAZ DOGU.dsmart.com.tr" group-title="Turkish" tvg-logo="800602.png", [COLOR orangered]TRT AVAZ HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0032.m3u8
+#EXTINF:0804 tvg-id="246.TRT Kurdi.digiturk.com.tr" group-title="Turkish" tvg-logo="707556.png", [COLOR orangered]TRT KURD› HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0033.m3u8
+#EXTINF:0805 tvg-id="8838.TRT OKUL.dsmart.com.tr" group-title="Turkish" tvg-logo="976101.png", [COLOR orangered]TRT OKUL HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0034.m3u8
+#EXTINF:0806 tvg-id="9995.TRT ARAPCA.dsmart.com.tr" group-title="Turkish" tvg-logo="706529.png", [COLOR orange]TRT ARAP«A[/COLOR]
+http://www.iptvsaga.com/play/tv3/0035.m3u8
+#EXTINF:0808 tvg-id="8824.TRT 3.dsmart.com.tr" group-title="Turkish" tvg-logo="370171.png", [COLOR orange]TRT 3-TBMM TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0037.m3u8
+#EXTINF:0834 tvg-id="8224.TRT SPOR HD.dsmart.com.tr" group-title="Turkish" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0056.m3u8
+#EXTINF:0842 tvg-id="8225.TRT BELGESEL HD.dsmart.com.tr" group-title="Turkish" tvg-logo="910816.png", [COLOR orange]TRT BELGESEL HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0061.m3u8
+#EXTINF:0845 tvg-id="trtdiyanet.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]TRT D›YANET HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0062.m3u8
+#EXTINF:0811 tvg-id="8176.ATV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="362041.png", [COLOR olivedrab]ATV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0041.m3u8
+#EXTINF:0815 tvg-id="8421.Show TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="442251.png", [COLOR olivedrab]SHOW HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:0809 tvg-id="430.Kanal D HD.digiturk.com.tr" group-title="Turkish" tvg-logo="880948.png", [COLOR orangered]Kanal D HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0038.m3u8
+#EXTINF:0845 tvg-id="8755.Star TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]Star TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0063.m3u8
+#EXTINF:0845 tvg-id="428.TV8 HD.digiturk.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]tv8 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0064.m3u8
+#EXTINF:0845 tvg-id="8441.FOX TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]Fox HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0065.m3u8
+#EXTINF:0810 tvg-id="8872.SAMANYOLU TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="518299.png", [COLOR red]Samanyolu TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0039.m3u8
+#EXTINF:0810 tvg-id="8863.Samanyolu Haber.dsmart.com.tr" group-title="Turkish" tvg-logo="518299.png", [COLOR red]Samanyolu Haber[/COLOR]
+http://www.iptvsaga.com/play/tv3/0040.m3u8
+#EXTINF:0812 tvg-id="156.Flash TV.digiturk.com.tr" group-title="Turkish" tvg-logo="630601.png", [COLOR olivedrab]Flash TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0042.m3u8
+#EXTINF:0813 tvg-id="8521.KANAL 7 HD.dsmart.com.tr" group-title="Turkish" tvg-logo="236150.png", [COLOR olivedrab]Kanal 7[/COLOR]
+http://www.iptvsaga.com/play/tv3/0043.m3u8
+#EXTINF:0814 tvg-id="8501.KANALTURK HD.dsmart.com.tr" group-title="Turkish" tvg-logo="694816.png", [COLOR red]KANALT‹RK HD[/COLOR]
+http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:0817 tvg-id="325.TVEM.digiturk.com.tr" group-title="Turkish" tvg-logo="320261.png", [COLOR olivedrab]TVEM[/COLOR]
+http://www.iptvsaga.com/play/tv3/0046.m3u8
+#EXTINF:0818 tvg-id="256.Tv2.digiturk.com.tr" group-title="Turkish" tvg-logo="493245.png", [COLOR red]TV 2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0047.m3u8
+#EXTINF:0821 tvg-id="8743.e2.dsmart.com.tr" group-title="Turkish" tvg-logo="451202.png", [COLOR olivedrab]e2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0048.m3u8
+#EXTINF:0845 tvg-id="8401.FIL TV.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]Fil TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0067.m3u8
+#EXTINF:0845 tvg-id="8742.Cnbc-e.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]TLC[/COLOR]
+http://www.iptvsaga.com/play/tv3/0073.m3u8
+#EXTINF:0825 tvg-id="29.CNN T‹RK.digiturk.com.tr" group-title="Turkish" tvg-logo="644533.png", [COLOR orange]CNN Turk[/COLOR]
+http://www.iptvsaga.com/play/tv3/0051.m3u8
+#EXTINF:0845 tvg-id="31.HABERTURK.digiturk.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]HABERT‹RK[/COLOR]
+http://www.iptvsaga.com/play/tv3/0073.m3u8
+#EXTINF:0829 tvg-id="buguntv.tr" group-title="Turkish" tvg-logo="340209.png", [COLOR olivedrab]Bug¸n TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0052.m3u8
+#EXTINF:0845 tvg-id="9441.Cine 5.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]CINE 5[/COLOR]
+http://www.iptvsaga.com/play/tv3/0072.m3u8
+#EXTINF:0845 tvg-id="9021.BLOOMBERG HT.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]Bloomberg[/COLOR]
+http://www.iptvsaga.com/play/tv3/0066.m3u8
+#EXTINF:0830 tvg-id="243.TRT «ocuk - TRT4.digiturk.com.tr" group-title="Turkish" tvg-logo="850565.png", [COLOR orange]TRT «OCUK[/COLOR]
+http://www.iptvsaga.com/play/tv3/0053.m3u8
+#EXTINF:0832 tvg-id="291.MinikaGO.digiturk.com.tr" group-title="Turkish" tvg-logo="326824.png", [COLOR olivedrab]MINIKA «ocuk[/COLOR]
+http://www.iptvsaga.com/play/tv3/0054.m3u8
+#EXTINF:0833 tvg-id="8173.MINIKA GO.dsmart.com.tr" group-title="Turkish" tvg-logo="452477.png", [COLOR olivedrab]MINIKA GO[/COLOR]
+http://www.iptvsaga.com/play/tv3/0055.m3u8
+#EXTINF:0836 tvg-id="9566.NTV SPOR HD.dsmart.com.tr" group-title="Turkish" tvg-logo="697989.png", [COLOR olivedrab]NTV SPOR[/COLOR]
+http://www.iptvsaga.com/play/tv3/0057.m3u8
+#EXTINF:0838 tvg-id="313.Sports TV.digiturk.com.tr" group-title="Turkish" tvg-logo="770866.png", [COLOR olivedrab]SPORTS TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0058.m3u8
+#EXTINF:0839 tvg-id="261.TRT M¸zik.digiturk.com.tr" group-title="Music" tvg-logo="241448.png", [COLOR orangered]TRT M¸zik HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0059.m3u8
+#EXTINF:0841 tvg-id="113.DREAMTURK.dsmart.com.tr" group-title="Music" tvg-logo="206910.png", [COLOR red]DreamT¸rk TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0060.m3u8
+#EXTINF:0845 tvg-id="147.Dream TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR orangered]Dream TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0069.m3u8
+#EXTINF:0845 tvg-id="9925.Number One T¸rk.dsmart.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR orangered]Number One HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0068.m3u8
+#EXTINF:0845 tvg-id="66.POWERT‹RK TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR orangered]POWERT‹RK HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0070.m3u8
+#EXTINF:0845 tvg-id="434.Power TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR orangered]POWER TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0071.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP 1[/COLOR]
+http://www.iptvsaga.com/play/tv3/0029.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP 2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0028.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP 3[/COLOR]
+http://www.iptvsaga.com/play/tv3/0027.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP √Åfrica[/COLOR]
+http://www.iptvsaga.com/play/tv3/0026.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP Madeira[/COLOR]
+http://www.iptvsaga.com/play/tv3/0025.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP AÁores[/COLOR]
+http://www.iptvsaga.com/play/tv3/0024.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP MemÛria[/COLOR]
+http://www.iptvsaga.com/play/tv3/0023.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP Internacional[/COLOR]
+http://www.iptvsaga.com/play/tv3/0022.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]TVI HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]TPA[/COLOR]
+http://www.iptvsaga.com/play/tv3/0020.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TVE 1 (La1)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0019.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TVE 2 (La2)[/COLOR]
+http://www.iptvsaga.com/play/tv3/0018.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TVE 24[/COLOR]
+http://www.iptvsaga.com/play/tv3/0017.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]MEGA HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0016.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]LA RED EN VIVO HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0015.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TV Galicia[/COLOR]
+http://www.iptvsaga.com/play/tv3/0014.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]LA SEXTA HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0013.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]ANTENA 3 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0012.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]Russia Today HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0011.m3u8
+#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TELESUR[/COLOR]
+http://www.iptvsaga.com/play/tv3/0010.m3u8
+#EXTINF:0070 tvg-id="TVChile" group-title="Spanish" tvg-logo="",[COLOR orange]TV Chile[/COLOR]
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:0070 tvg-id="TVChile" group-title="Spanish" tvg-logo="",[COLOR orange]TV M¡S[/COLOR]
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:0070 tvg-id="TVN" group-title="Spanish" tvg-logo="",[COLOR orange]TVN HD[/COLOR]
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]M…XICO TRAVEL CHANNEL[/COLOR]
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]NAVARRA TV[/COLOR]
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]ONDALUZ SIERRA[/COLOR]
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]CONDAVISION[/COLOR]
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]EWTN[/COLOR]
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]Esperanza TV[/COLOR]
+http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]Alcance TV[/COLOR]
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]Almavision[/COLOR]
+http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]Lancelot TV[/COLOR]
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]RTS[/COLOR]
+http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]CANAL TRO[/COLOR]
+http://cdns840stu1010.multistream.net:80/canaltro2live/amlst:live/livestream.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]ONDA LATINA TV[/COLOR]
+http://ondalatina_tv-lh.akamaihd.net:80/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]TELECAF…[/COLOR]
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]Real Madrid TV[/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0070 tvg-id="gotv.at" group-title="Music" tvg-logo="00000000.png", [COLOR gold]gotv Music[/COLOR]
+http://www.iptvsaga.com/play/tv3/0009.m3u8
+#EXTINF:0044 tvg-id="alexberlin.de" group-title="Music" tvg-logo="00000000.png", [COLOR gold]XITE.TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0008.m3u8
+#EXTINF:0044 tvg-id="alexberlin.de" group-title="Music" tvg-logo="00000000.png", [COLOR gold]VOX Music HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0091.m3u8
+#EXTINF:3001 tvg-id="pophd.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Pop HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0075.m3u8
+#EXTINF:3001 tvg-id="pophd.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Dance HD [/COLOR]
+http://www.iptvsaga.com/play/tv3/0076.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Classic HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0077.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska Best HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0078.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska Party HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0079.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska Polo HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0080.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska Rock TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0081.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0082.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska VOX[/COLOR]
+http://www.iptvsaga.com/play/tv3/0083.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska WAWA[/COLOR]
+http://www.iptvsaga.com/play/tv3/0084.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djing HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0085.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djing Ibiza HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0086.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djing Underground HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0087.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djing Animation HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0088.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djind DJS HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0089.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djing Classic HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0090.m3u8
+#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO DE HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0007.m3u8
+#EXTINF:3002 tvg-id="vevousca1.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO US/CA 1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0006.m3u8
+#EXTINF:3003 tvg-id="vevousca2.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO US/CA 2 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0005.m3u8
+#EXTINF:3004 tvg-id="vevousca3.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO US/CA 3 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0004.m3u8
+#EXTINF:3005 tvg-id="onemusic1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]ONE Music 1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0003.m3u8
+#EXTINF:3006 tvg-id="onemusic2.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]ONE Music 2 UHD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0002.m3u8
+#EXTINF:3007 tvg-id="onemusicrus.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]ONE Music Russia HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0001.m3u8
 
 #EXTINF:-1,[I][B][COLOR red] ------------------ REMARQUE IMPORTANTE ------------------[/B][/I][/COLOR]
 
@@ -311,6 +588,16 @@ http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2350.m3u8
 
 #EXTINF:-1,[I][B][COLOR yellow]---? Chaines Temporaires ?---[/COLOR][/B][/I]
 http://0.0.0.0:1234
+
+
+#EXTINF:-1,MT-France 5 (FR)
+http://213.136.90.30:8000/live/christop/christop/9283.ts
+#EXTINF:-1,MT-France 4 (FR)
+http://213.136.90.30:8000/live/christop/christop/9284.ts
+#EXTINF:-1,MT-France 3 (FR)
+http://213.136.90.30:8000/live/christop/christop/9285.ts
+#EXTINF:-1,MT-France 24 (FR)
+http://213.136.90.30:8000/live/christop/christop/9286.ts
 
 
 #EXTINF:-1,BE: RTL TVI
@@ -1083,42 +1370,102 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow][I][B]Versuchen Sie mehrmals, wenn Kanal funktioniert nicht[/B][/I][/COLOR]
 
-#EXTINF:-1,GER - ZDF
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1359.ts
-#EXTINF:-1,GER - ORF 1 HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1242.ts
-#EXTINF:-1,GER - ORF 2
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1241.ts
-#EXTINF:-1,GER - Sky Cinema HD DE
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1236.ts
-#EXTINF:-1,GER - Sky Cinema Hit HD DE
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1235.ts
-#EXTINF:-1,GER - Sky Comedy
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1237.ts
-#EXTINF:-1,GER - National Geographic
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1365.ts
-#EXTINF:-1,GER - History Channel HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1366.ts
-#EXTINF:-1,GER - Discovery Channel HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1367.ts
-#EXTINF:-1,GER - Sky Select 1 HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1243.ts
-#EXTINF:-1,GER - Sky Select 2 HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1244.ts
-#EXTINF:-1,GER - Sky Select 3 HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1245.ts
-#EXTINF:-1,GER - Sky Select 4 HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1246.ts
-#EXTINF:-1,GER - Sky Select 5 HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1247.ts
-#EXTINF:-1,GER - Sky Select 6 HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1248.ts
-#EXTINF:-1,GER - Sky Select 7 HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1249.ts
-#EXTINF:-1,GER - Sky Select 8 HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1250.ts
-#EXTINF:-1,GER - Sky Select 9 HD
-http://bb1.sendevric.com:8000/live/mansoor/mansoor/1251.ts
+#EXTINF:-1,DE: ZDF
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/960.ts
+#EXTINF:-1,DE: Vox
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/961.ts
+#EXTINF:-1,DE: Sky National Geografic HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/963.ts
+#EXTINF:-1,DE: Sky Fox HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/930.ts
+#EXTINF:-1,DE: Orf Eins
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/962.ts
+#EXTINF:-1,DE: 13EME RUE HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/912.ts
+#EXTINF:-1,DE: RTL Nitro
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/808.ts
+#EXTINF:-1,DE: RTL HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/809.ts
+#EXTINF:-1,DE: RTL 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/810.ts
+#EXTINF:-1,DE: PRO7
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/811.ts
+#EXTINF:-1,DE: ORF 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/812.ts
+#EXTINF:-1,DE: ORF 1
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/813.ts
+#EXTINF:-1,DE: Mgm HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/473.ts
+#EXTINF:-1,DE: FOX
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/814.ts
+#EXTINF:-1,DE: Sky Cinema 1 DE
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/804.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/803.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/805.ts
+#EXTINF:-1,DE: Sky Action HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/807.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/806.ts
+#EXTINF:-1,DE: SPORT TIME 1
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/802.ts
+#EXTINF:-1,DE: SPORT TIME 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/819.ts
+#EXTINF:-1,DE: SPORT TIME 3
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/818.ts
+#EXTINF:-1,DE: SPORT TIME 4
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/817.ts
+#EXTINF:-1,DE: SPORT TIME 6
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/816.ts
+#EXTINF:-1,DE: SPORT TIME 7
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/815.ts
+#EXTINF:-1,DE: Sport Time Tv 7
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/198.ts
+#EXTINF:-1,DE: Sport Time Tv 6
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/199.ts
+#EXTINF:-1,DE: Sport Time Tv 5
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/200.ts
+#EXTINF:-1,DE: Sport Time Tv 4
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/201.ts
+#EXTINF:-1,DE: Sport Time Tv 3
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/202.ts
+#EXTINF:-1,DE: Sport Time Tv 2
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/203.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/204.ts
+#EXTINF:-1,DE: Sky Sport 1HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/205.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/206.ts
+#EXTINF:-1,DE: Sky Select 8HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/207.ts
+#EXTINF:-1,DE: Sky Select 7HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/208.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/209.ts
+#EXTINF:-1,DE: Sky Select 5HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/210.ts
+#EXTINF:-1,DE: Sky Select 4HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/211.ts
+#EXTINF:-1,DE: Sky Select 3HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/212.ts
+#EXTINF:-1,DE: Sky Select 2HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/213.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/214.ts
+#EXTINF:-1,DE: Sky Select 10 HD
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/215.ts
+#EXTINF:-1,DE: Sky Emotion
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/216.ts
+#EXTINF:-1,DE: Sky Comedy
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/217.ts
+#EXTINF:-1,DE: Sky Cinema  24
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/218.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/221.ts
+#EXTINF:-1,DE: Sky Action
+http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/222.ts
 #EXTINF:-1,GER - Sky Bundesliga HD1
 http://31.177.62.137:9071
 
