@@ -12,7 +12,7 @@ http://62.65.140.215/session/7b8adc32-b265-11e5-a010-005056bc49ac/nvnv5a/1/1009/
 #EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Deutsch" tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
 http://62.65.140.149/session/39fe53d6-b268-11e5-896c-005056bc49ac/nvnv5a/1/1003/index.m3u8?p=127&token=7ae98958addd07adbd6fe4d92ce507c0&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR orange]3+ HD[/COLOR]
-http://62.65.140.151/session/b3e786ac-b265-11e5-80d5-005056bc49ac/nvnv5a/1/1013/index.m3u8?p=127&token=06568b99b3cf1c29cb791f7374f3887c&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+http://62.65.140.150/session/13eb42aa-b270-11e5-8574-005056bc06d1/nvnv5a/1/1013/index.m3u8?p=127&token=832d364c0ae2d5dbb9723aed93385da1&expires=1451949413&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR orange]4+ HD[/COLOR]
 http://62.65.140.152/session/7a4dc1c6-b266-11e5-8681-005056bc06d1/nvnv5a/1/1031/index.m3u8?p=127&token=e489ed1c7b27b5e9dff27f234d69f4e3&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0137.png",[COLOR orangered]5+ HD[/COLOR]
@@ -26,11 +26,11 @@ http://62.65.140.152/session/c2a3ca86-b268-11e5-94d7-005056bc06d1/nvnv5a/1/1121/
 #EXTINF:-1 tvg-id="ZDFinfo.de" group-title="Deutsch" tvg-logo="0057.png",[COLOR orangered]ZDF-Info HD[/COLOR]
 http://62.65.140.154/session/6c03fa14-b26a-11e5-841a-005056bc49ac/nvnv5a/1/1118/index.m3u8?p=127&token=16bca1395de8e76482fca615d4961763&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0128.png",[COLOR orange]Pro7 HD[/COLOR]
-http://62.65.140.148/session/d1a36b16-b265-11e5-b86e-005056bc49ac/nvnv5a/1/1037/index.m3u8?p=127&token=56b7fcbbd80ff6655b00444113c3f8d9&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+http://62.65.140.148/session/f8509bee-b26f-11e5-88b1-005056bc06d1/nvnv5a/1/1037/index.m3u8?p=127&token=da9d860ecf901c4df575881db7d1f0e8&expires=1451949367&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]Pro7Maxx[/COLOR]
 http://62.65.140.155/session/3a733862-b269-11e5-8016-005056bc06d1/nvnv5a/1/1041/index.m3u8?p=127&token=34d5c098a1e26fdd1e67d00c67f3239c&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR orange]RTL HD[/COLOR]
-http://62.65.140.154/session/f18fd77a-b265-11e5-8d5e-005056bc1a52/nvnv5a/1/1020/index.m3u8?p=127&token=a4ab3f582877ec4854b2f6eb6b764afb&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+http://62.65.140.152/session/d30d8388-b26f-11e5-972e-005056bc06d1/nvnv5a/1/1020/index.m3u8?p=127&token=643351c3716cc72cb62398f1dafbcb88&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0131.png",[COLOR orange]RTL 2 HD[/COLOR]
 http://62.65.140.214/session/1b29e3aa-b266-11e5-a137-005056bc1a52/nvnv5a/1/1024/index.m3u8?p=127&token=d3ceae77db037c00d46ce717a1260b46&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="RTLNitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL Nitro HD[/COLOR]
