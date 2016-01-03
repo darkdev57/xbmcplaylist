@@ -39,8 +39,6 @@ http://streaming-hub.com/stream/france-24.m3u8
 http://medias2.francetv.fr/playlists/zouzous/zouzous_tablettes.m3u8|X-Forwarded-For=2.1.109.65
 #EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="gulli.png" group-title="WebTV-FR",Gulli
 http://streaming-hub.com/stream/gulli.m3u8|X-Forwarded-For=85.2.194.16
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="cartoonnetwork.png" group-title="WebTV-FR",Cartoon Network
-http://178.33.88.129:888/udp/239.102.0.89:1234
 #EXTINF:-1 tvg-id="" tvg-name="Animania" tvg-logo="animania.png" group-title="WebTV-FR",Animania
 http://teleclub.fr/animania.mp4
 #EXTINF:-1 tvg-id="RMC2.kazer.org" tvg-name="RMC Découverte" tvg-logo="rmcdecouverte.png" group-title="WebTV-FR",RMC Découverte

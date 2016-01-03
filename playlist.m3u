@@ -5,232 +5,90 @@
 #EXTINF:-1, [COLOR green] --sat-lopta-emu.blogspot.fr 27-12-2015--[/COLOR]
 #EXTINF:-1,[COLOR blue][I][B]---29-12-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --http://mafreebox.freebox.fr/freeboxtv/playlist.m3u--[/COLOR]
-#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR orange]3+ HD[/COLOR]
-http://62.65.140.150/session/1b4955ea-b1b8-11e5-b98e-005056bc49ac/nvnv5a/1/1013/index.m3u8?p=127&token=919e24c734f94e6e9efcb3e12ae669ac&expires=1451870398&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
-http://62.65.140.219:80/session/c46c452c-b07f-11e5-9f38-005056bc06d1/nvnv5a/1/1117/index.m3u8?token=67c4d95f23d9f9fe6feeb7013c5fa097_1451736250_1451736250&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR orange]4+ HD[/COLOR]
-http://62.65.140.218:80/session/c4ca663e-b07f-11e5-b9bd-005056bc49ac/nvnv5a/1/1031/index.m3u8?token=aab3f076e73a553ef9ade0fdea708116_1451736250_1451736250&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0137.png",[COLOR orangered]5+ HD[/COLOR]
-http://62.65.140.216:80/session/c5283f5c-b07f-11e5-8eb6-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=06c877c5f21678500bb80b4f7b54a00b_1451736251_1451736251&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="AlJazeera.nws" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
-http://62.65.140.218:80/session/c5913a98-b07f-11e5-b747-005056bc06d1/nvnv5a/2/4013/index.m3u8?token=21e8b956df76229777951434e94d8f7d_1451736252_1451736252&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="AnixeHD.de" group-title="Deutsch" tvg-logo="0066.png",[COLOR orange]Anixe HD[/COLOR]
-http://62.65.140.151:80/session/c5f5524e-b07f-11e5-b859-005056bc49ac/nvnv5a/1/1134/index.m3u8?token=5a4e58c24ec68aaf588cfdea102ff710_1451736252_1451736252&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orange]ARD HD[/COLOR]
-http://62.65.140.153:80/session/c6550b26-b07f-11e5-8bd1-005056bc49ac/nvnv5a/2/1165/index.m3u8?token=153c47c8b36b98a09dbcac9867d87a2f_1451736253_1451736253&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ARTE.fr" group-title="French" tvg-logo="0215.png",[COLOR orange]Arte HD FR[/COLOR]
-http://62.65.140.215:80/session/c6ba0df0-b07f-11e5-bad1-005056bc1a52/nvnv5a/2/2029/index.m3u8?token=f01c2b581fa5065c6775a2cad31f7137_1451736254_1451736254&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR orange]Arte HD[/COLOR]
-http://62.65.140.149:80/session/c72306f2-b07f-11e5-b43d-005056bc1a52/nvnv5a/1/1150/index.m3u8?token=29e8f26ff9fee04282c57953a0018af4_1451736254_1451736254&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="BBC1.uk" group-title="English" tvg-logo="0402.png",[COLOR orange]BBC1 HD[/COLOR]
-http://62.65.140.214:80/session/c77e06b0-b07f-11e5-a6f1-005056bc49ac/nvnv5a/2/4017/index.m3u8?token=78abf1ef5bd25caedbcaa5b78746e062_1451736255_1451736255&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="BBC2.uk" group-title="English" tvg-logo="0404.png",[COLOR orange]BBC2 HD[/COLOR]
-http://62.65.140.154:80/session/c7e09e4c-b07f-11e5-80b4-005056bc1a52/nvnv5a/2/4012/index.m3u8?token=a5cb86118368ed675289405596a20d01_1451736256_1451736256&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="BBC3.uk" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC3[/COLOR]
-http://62.65.140.212:80/session/c860dc1a-b07f-11e5-b494-005056bc49ac/nvnv5a/2/4008/index.m3u8?token=ee88675945ca437ec327533da166fb93_1451736256_1451736256&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="BBCWorldNews.nws" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
-http://62.65.140.217:80/session/c8c8c38e-b07f-11e5-a98e-005056bc06d1/nvnv5a/2/4003/index.m3u8?token=0513971d8c2c9565824e8e2ee74a17b0_1451736257_1451736257&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="BR.de" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered]BR HD[/COLOR]
-http://62.65.140.150:80/session/c92c1498-b07f-11e5-8c3f-005056bc06d1/nvnv5a/1/1112/index.m3u8?token=4674c33c129abcfdc321a2e89cfb0b4d_1451736258_1451736258&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="canal9.fr" group-title="French" tvg-logo="0242.png",[COLOR gold]Canal 9[/COLOR]
-http://62.65.140.150:80/session/c9955af2-b07f-11e5-bf7d-005056bc1a52/nvnv5a/2/2041/index.m3u8?token=6190b818cbbdfcd281c3ff78006e9a98_1451736259_1451736259&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="canalalpha.fr" group-title="French" tvg-logo="0246.png",[COLOR orangered]Canal Alpha[/COLOR]
-http://62.65.140.219:80/session/ca167ae2-b07f-11e5-90c5-005056bc1a52/nvnv5a/2/2045/index.m3u8?token=efdac7106995cba9fa4df2b55e1d7711_1451736259_1451736259&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Canale5.it" group-title="Italian" tvg-logo="0614.png",[COLOR orange]Canale 5 HD[/COLOR]
-http://62.65.140.215:80/session/ca762064-b07f-11e5-adbf-005056bc1a52/nvnv5a/2/3026/index.m3u8?token=2f400966d0a0ca86d9f25655fa83f441_1451736260_1451736260&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Channel4.uk" group-title="English" tvg-logo="0414.png",[COLOR orange]Channel 4 HD[/COLOR]
-http://62.65.140.213:80/session/cadd11ca-b07f-11e5-ba60-005056bc1a52/nvnv5a/2/4022/index.m3u8?token=7b5eafc9435478b8ce9994899e78614d_1451736261_1451736261&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="chtv.ch" group-title="Deutsch" tvg-logo="0146.png",[COLOR gold]CH TV HD[/COLOR]
-http://62.65.140.217:80/session/cb65265a-b07f-11e5-8449-005056bc06d1/nvnv5a/1/1032/index.m3u8?token=7cd780e3f4f85aab04218b893f08dbff_1451736261_1451736261&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="cielo.it" group-title="Italian" tvg-logo="0000.png",[COLOR orangered]Cielo[/COLOR]
-http://62.65.140.150:80/session/cbc587a2-b07f-11e5-8943-005056bc06d1/nvnv5a/2/3041/index.m3u8?token=1359848ad7dcd83cac8564f461c12efd_1451736262_1451736262&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="CNBC.nws" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
-http://62.65.140.155:80/session/cc2d1430-b07f-11e5-98cd-005056bc49ac/nvnv5a/2/4001/index.m3u8?token=1108ebd99cf6612f932a82423a77933a_1451736263_1451736263&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="CNN.nws" group-title="English" tvg-logo="0423.png",[COLOR orangered]CNN[/COLOR]
-http://62.65.140.219:80/session/cc948dcc-b07f-11e5-98a6-005056bc06d1/nvnv5a/2/4002/index.m3u8?token=da157286607c9c27a485371bfaffac33_1451736264_1451736264&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Direct8.fr" group-title="French" tvg-logo="0216.png",[COLOR orange]D8[/COLOR]
-http://62.65.140.153:80/session/ccf924da-b07f-11e5-ade1-005056bc1a52/nvnv5a/2/2018/index.m3u8?token=e6a4fd0fe64ecf144f3c92dac29c7cb2_1451736264_1451736264&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" group-title="Music" tvg-logo="0065.png",[COLOR orangered]Deluxe Music[/COLOR]
-http://62.65.140.216:80/session/cd5e6516-b07f-11e5-a11e-005056bc06d1/nvnv5a/1/1153/index.m3u8?token=e858869ea47baaf1b07897459af6c33e_1451736265_1451736265&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="disneychannel.de" group-title="Deutsch" tvg-logo="0036.png",[COLOR orange]Disney Channel[/COLOR]
-http://62.65.140.150:80/session/cdb6feba-b07f-11e5-aedb-005056bc1a52/nvnv5a/1/1124/index.m3u8?token=94be233a896035e88a3b2b3eaba9dd06_1451736265_1451736265&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="DMax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR orangered]DMAX[/COLOR]
-http://62.65.140.212:80/session/ce17161a-b07f-11e5-afef-005056bc06d1/nvnv5a/1/1018/index.m3u8?token=a67d10b1b9ea3a91271a5e5aa59faf6b_1451736266_1451736266&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Euronews.nws" group-title="English" tvg-logo="0035.png",[COLOR orange]EuroNews English[/COLOR]
-http://62.65.140.150:80/session/ce9de2da-b07f-11e5-b590-005056bc1a52/nvnv5a/1/104903/index.m3u8?token=2fe289c334b522038509363ab5890b15_1451736267_1451736267&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Euronews.nws" group-title="French" tvg-logo="0237.png",[COLOR orangered]EuroNews French[/COLOR]
-http://62.65.140.148:80/session/cf40d5b2-b07f-11e5-a943-005056bc06d1/nvnv5a/1/104901/index.m3u8?token=9cce26ecea1819b639619b797dfb7118_1451736268_1451736268&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Euronews.nws" group-title="Italian" tvg-logo="0237.png",[COLOR gold]EuroNews Italian[/COLOR]
-http://62.65.140.217:80/session/cfaa3c82-b07f-11e5-828a-005056bc06d1/nvnv5a/1/104902/index.m3u8?token=412a3a33e26349d08be68e551ad7ffbc_1451736269_1451736269&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Euronews.nws" group-title="Deutsch" tvg-logo="0035.png",[COLOR orange]EuroNews Deutsch[/COLOR]
-http://62.65.140.154:80/session/d011804a-b07f-11e5-86db-005056bc49ac/nvnv5a/1/1049/index.m3u8?token=5b5c99467ef0609c90f40bdb747b0b92_1451736269_1451736269&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Eurosport.de" group-title="Deutsch" tvg-logo="0049.png",[COLOR orangered]EuroSport[/COLOR]
-http://62.65.140.153:80/session/d0707014-b07f-11e5-a51d-005056bc49ac/nvnv5a/1/1051/index.m3u8?token=af022a39362c4f1ea6ebab1de807d133_1451736270_1451736270&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Film4.uk" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
-http://62.65.140.219:80/session/d0d1d0d4-b07f-11e5-8ab6-005056bc1a52/nvnv5a/2/4023/index.m3u8?token=c913e8141ce2b482f39949724564845f_1451736271_1451736271&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="France2.fr" group-title="French" tvg-logo="0204.png",[COLOR orange]France 2 HD[/COLOR]
-http://62.65.140.219/session/aaf5ec86-b1b7-11e5-9a6f-005056bc06d1/nvnv5a/2/2028/index.m3u8?p=127&token=2069f6adf4fd26aa6b62982b832e2211&expires=1451870210&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="France3.fr" group-title="French" tvg-logo="0205.png",[COLOR orangered]France 3[/COLOR]
-http://62.65.140.149:80/session/d198385a-b07f-11e5-9369-005056bc49ac/nvnv5a/2/2008/index.m3u8?token=39cc53eeb679711c8e573f07c85dd680_1451736272_1451736272&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="France4.fr" group-title="French" tvg-logo="0221.png",[COLOR orange]France 4[/COLOR]
-http://62.65.140.219:80/session/d1fa7664-b07f-11e5-b09d-005056bc1a52/nvnv5a/2/2009/index.m3u8?token=10ded05e23310282cc5cb45cea9c68fc_1451736273_1451736273&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="France5.fr" group-title="French" tvg-logo="0207.png",[COLOR orange]France 5[/COLOR]
-http://62.65.140.216:80/session/d27284f6-b07f-11e5-ba1a-005056bc06d1/nvnv5a/2/2010/index.m3u8?token=ac925a84c7d8ea52ab7e460f234018b6_1451736273_1451736273&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="France24fr.fr" group-title="French" tvg-logo="0236.png",[COLOR orange]France 24[/COLOR]
-http://62.65.140.152:80/session/d2e0c0a6-b07f-11e5-b0cd-005056bc06d1/nvnv5a/2/2007/index.m3u8?token=52b4d11880528a502105260b9a60955a_1451736274_1451736274&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="FranceO.fr" group-title="French" tvg-logo="0226.png",[COLOR orange]France Ô[/COLOR]
-http://62.65.140.213:80/session/d33ed286-b07f-11e5-9607-005056bc06d1/nvnv5a/2/2015/index.m3u8?token=71a08d978b43353a3d88f2f27b8226ff_1451736275_1451736275&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Gulli.fr" group-title="French" tvg-logo="0225.png",[COLOR gold]Gulli[/COLOR]
-http://62.65.140.218:80/session/d3a1a168-b07f-11e5-bb47-005056bc1a52/nvnv5a/2/2011/index.m3u8?token=f864591ca06a4c7d850cdd8165ac7188_1451736275_1451736275&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Italia1.it" group-title="Italian" tvg-logo="0615.png",[COLOR orangered]Italia 1 HD[/COLOR]
-http://62.65.140.217:80/session/d405e024-b07f-11e5-ae43-005056bc1a52/nvnv5a/2/3028/index.m3u8?token=0d9ad4e27e822ad1b05d268ff825cd4b_1451736276_1451736276&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ITV1London.uk" group-title="English" tvg-logo="0410.png",[COLOR orange]ITV1 HD[/COLOR]
-http://62.65.140.213:80/session/d48a91ca-b07f-11e5-8ec2-005056bc06d1/nvnv5a/2/4018/index.m3u8?token=8d33469a77e66956e6177cf8102e2d54_1451736277_1451736277&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ITV2.uk" group-title="English" tvg-logo="0411.png",[COLOR orange]ITV2[/COLOR]
-http://62.65.140.151:80/session/d4f19b90-b07f-11e5-baed-005056bc1a52/nvnv5a/2/4005/index.m3u8?token=f2e49dced1635c2e423b0649ba8da97f_1451736278_1451736278&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ITV3.uk" group-title="English" tvg-logo="0412.png",[COLOR orange]ITV3[/COLOR]
-http://62.65.140.214:80/session/d55cf444-b07f-11e5-b7f7-005056bc06d1/nvnv5a/2/4025/index.m3u8?token=452ff08c63d42663bdeda743830ff311_1451736278_1451736278&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Joiz.ch" group-title="Deutsch" tvg-logo="0042.png",[COLOR orange]Joiz[/COLOR]
-http://62.65.140.150:80/session/d5c278e6-b07f-11e5-8914-005056bc06d1/nvnv5a/2/1172/index.m3u8?token=52e63c4e1972582979b4fa4d94ac3129_1451736279_1451736279&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Kabel.de" group-title="Deutsch" tvg-logo="0130.png",[COLOR orange]Kabel 1 HD[/COLOR]
-http://62.65.140.148:80/session/d624924c-b07f-11e5-bff1-005056bc49ac/nvnv5a/1/1039/index.m3u8?token=49558be5e6060ce7ddaaacc48bd6a276_1451736280_1451736280&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0047.png",[COLOR orangered]KiKa HD[/COLOR]
-http://62.65.140.151:80/session/d687c6dc-b07f-11e5-8574-005056bc06d1/nvnv5a/1/1116/index.m3u8?token=2bbfd77b9bf7cfd2c58a991febd91e68_1451736280_1451736280&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="La7.it" group-title="Italian" tvg-logo="0617.png",[COLOR orange]LA7[/COLOR]
-http://62.65.140.151:80/session/d6eb2a60-b07f-11e5-8dea-005056bc49ac/nvnv5a/2/3027/index.m3u8?token=5e0419a1b5ca9e99490dfbfbd243a455_1451736281_1451736281&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="latele.fr" group-title="French" tvg-logo="0244.png",[COLOR orange]la télé[/COLOR]
-http://62.65.140.155:80/session/d767f860-b07f-11e5-a961-005056bc1a52/nvnv5a/2/2043/index.m3u8?token=8b73f2bcd2bcc7141e20237c330e4dbe_1451736282_1451736282&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="lemanbleu.fr" group-title="French" tvg-logo="0245.png",[COLOR orange]léman bleu[/COLOR]
-http://62.65.140.218:80/session/d7eb4666-b07f-11e5-9a40-005056bc06d1/nvnv5a/2/2044/index.m3u8?token=9e0e7bf60aa92dbfd5c8b7da30707911_1451736282_1451736282&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="M6.fr" group-title="French" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
-http://62.65.140.214:80/session/d845a958-b07f-11e5-9686-005056bc1a52/nvnv5a/2/2026/index.m3u8?token=16828d321a18b1ee5c45f19115e9b850_1451736283_1451736283&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="MDRSachsen.de" group-title="Deutsch" tvg-logo="0020.png",[COLOR orange]MDR[/COLOR]
-http://62.65.140.150:80/session/d8a95d18-b07f-11e5-8e7f-005056bc49ac/nvnv5a/1/1069/index.m3u8?token=85eb9a68c2f597deef8b45ad8ad3b073_1451736284_1451736284&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="MTV.it" group-title="Music" tvg-logo="0144.png",[COLOR orange]MTV Italy[/COLOR]
-http://62.65.140.216:80/session/d95f99c0-b07f-11e5-8dd3-005056bc1a52/nvnv5a/2/3009/index.m3u8?token=f833ddd9c8597bbc551370a95604af66_1451736285_1451736285&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="MTV.ch" group-title="Music" tvg-logo="0145.png",[COLOR orange]MTV HD[/COLOR]
-http://62.65.140.152:80/session/d9b91d24-b07f-11e5-a4b2-005056bc49ac/nvnv5a/1/1033/index.m3u8?token=6e4ef91d28bf6cad7883f84b5d2abb3d_1451736286_1451736286&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ntv.de" group-title="Deutsch" tvg-logo="0034.png",[COLOR orangered]n-tv[/COLOR]
-http://62.65.140.148:80/session/da209c42-b07f-11e5-8b2c-005056bc1a52/nvnv5a/1/1025/index.m3u8?token=db0f4fa78a86cbab96d590d1e9d0aa9b_1451736286_1451736286&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ndr.de" group-title="Deutsch" tvg-logo="0107.png",[COLOR orange]NDR HD[/COLOR]
-http://62.65.140.219:80/session/da7f651a-b07f-11e5-b992-005056bc49ac/nvnv5a/1/1115/index.m3u8?token=30af258c4d4125dcfba71d4ae65b5df0_1451736287_1451736287&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Nick.de" group-title="Deutsch" tvg-logo="0043.png",[COLOR orange]Nickelodeon[/COLOR]
-http://62.65.140.148:80/session/dae4a196-b07f-11e5-8a0f-005056bc1a52/nvnv5a/1/1004/index.m3u8?token=82e0fbbeb5ed014c3de2759f243a09e8_1451736288_1451736288&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Nick.ch" group-title="Deutsch" tvg-logo="0141.png",[COLOR orange]Nickelodeon HD Schweiz[/COLOR]
-http://62.65.140.215:80/session/db45de34-b07f-11e5-9fdf-005056bc06d1/nvnv5a/1/1034/index.m3u8?token=df4a5e8536a65f595aea95724cb398ba_1451736288_1451736288&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ORF1.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR orange]ORF1 HD[/COLOR]
-http://62.65.140.216:80/session/db9f52a2-b07f-11e5-b988-005056bc06d1/nvnv5a/1/1010/index.m3u8?token=d5edce9340adb014efe8f6d766eeb6d6_1451736289_1451736289&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ORF2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR orange]ORF2 HD[/COLOR]
-http://62.65.140.219:80/session/dbf6dbe4-b07f-11e5-84c7-005056bc06d1/nvnv5a/1/1011/index.m3u8?token=ea3550eba96abad598202ea3577f0c06_1451736289_1451736289&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0030.png",[COLOR orange]PHOENIX HD[/COLOR]
-http://62.65.140.151:80/session/dc534c80-b07f-11e5-831b-005056bc1a52/nvnv5a/1/1122/index.m3u8?token=485c853ff67b48c71efcd6ef47e3bf12_1451736290_1451736290&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0128.png",[COLOR orange]Pro7 HD[/COLOR]
-http://62.65.140.152:80/session/dcac75d0-b07f-11e5-8a7f-005056bc49ac/nvnv5a/1/1037/index.m3u8?token=e6d72f68204f9ecb1388e32c4ea6c176_1451736291_1451736291&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]Pro7Maxx[/COLOR]
-http://62.65.140.219:80/session/dd0747e4-b07f-11e5-bd04-005056bc1a52/nvnv5a/1/1041/index.m3u8?token=0c74eb07a39f2b4d88689d82a25ee077_1451736291_1451736291&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Puls8.ch" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]Puls 8 HD[/COLOR]
-http://62.65.140.218:80/session/dd72eb7a-b07f-11e5-81f5-005056bc1a52/nvnv5a/2/1053/index.m3u8?token=1fd63a2ed26dab1565ba700e98780e8c_1451736292_1451736292&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RAIUno.it" group-title="Italian" tvg-logo="0605.png",[COLOR orange]Rai 1[/COLOR]
-http://62.65.140.153:80/session/ddd8b7fc-b07f-11e5-97b8-005056bc49ac/nvnv5a/2/3003/index.m3u8?token=b19436a8353e94b11bf51e70fa05c3e0_1451736293_1451736293&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RAIDue.it" group-title="Italian" tvg-logo="0606.png",[COLOR orange]Rai 2[/COLOR]
-http://62.65.140.219:80/session/de338628-b07f-11e5-aebc-005056bc1a52/nvnv5a/2/3004/index.m3u8?token=3661071c862fb2a97c8104322fb44b03_1451736293_1451736293&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RAITre.it" group-title="Italian" tvg-logo="0607.png",[COLOR orange]Rai 3[/COLOR]
-http://62.65.140.217:80/session/de92e7bc-b07f-11e5-bacb-005056bc1a52/nvnv5a/2/3005/index.m3u8?token=5f8c3d1c5cd015bd600059d276ba9365_1451736294_1451736294&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RaiNews.it" group-title="Italian" tvg-logo="0613.png",[COLOR orangered]Rai News 24[/COLOR]
-http://62.65.140.149:80/session/df158f3c-b07f-11e5-8e32-005056bc49ac/nvnv5a/2/3018/index.m3u8?token=b470735c0afb686dd6fb23aba3b13110_1451736294_1451736294&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RaiSport1.it" group-title="Italian" tvg-logo="0611.png",[COLOR gold]Rai Sport 1[/COLOR]
-http://62.65.140.148:80/session/df974f18-b07f-11e5-8549-005056bc06d1/nvnv5a/2/3021/index.m3u8?token=fcac9d5ad400856811f06e67670a4ad3_1451736295_1451736295&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Rete4.it" group-title="Italian" tvg-logo="0000.png",[COLOR orange]Rete 4 HD[/COLOR]
-http://62.65.140.153:80/session/e00129a6-b07f-11e5-8aa3-005056bc49ac/nvnv5a/2/3032/index.m3u8?token=7ce4646fd884accd2e7fc3b4b905c987_1451736296_1451736296&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RSILa1.ch" group-title="Italian" tvg-logo="0602.png",[COLOR orange]RSI LA 1 HD[/COLOR]
-http://62.65.140.151:80/session/e0670e9c-b07f-11e5-bdcf-005056bc49ac/nvnv5a/2/3045/index.m3u8?token=e82f4c4e05ed749b3e46d31e4a0367cc_1451736297_1451736297&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RSILa2.ch" group-title="Italian" tvg-logo="0604.png",[COLOR orangered]RSI LA 2 HD[/COLOR]
-http://62.65.140.215:80/session/e0d54b3c-b07f-11e5-860b-005056bc1a52/nvnv5a/2/3046/index.m3u8?token=9b1519b00eeca74e754c84caf4a2f08d_1451736298_1451736298&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0131.png",[COLOR orange]RTL 2 HD[/COLOR]
-http://62.65.140.215:80/session/e13bdf32-b07f-11e5-acae-005056bc49ac/nvnv5a/1/1024/index.m3u8?token=f6b15f4ec6418d2ef56379e5c1e003b6_1451736298_1451736298&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="rtl1025.ch" group-title="Italian" tvg-logo="0000.png",[COLOR orangered]RTL 102.5[/COLOR]
-http://62.65.140.214:80/session/e1ba4598-b07f-11e5-83c0-005056bc1a52/nvnv5a/2/3010/index.m3u8?token=0f298c8f0f1222c4e77b2aafaefcaa5c_1451736299_1451736299&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR orange]RTL HD[/COLOR]
-http://62.65.140.218:80/session/e22ffdba-b07f-11e5-b6c7-005056bc06d1/nvnv5a/1/1020/index.m3u8?token=6c700d7a4f1d62c7842de17948e09b06_1451736300_1451736300&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RTLNitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL Nitro HD[/COLOR]
-http://62.65.140.151:80/session/e299e1ee-b07f-11e5-bc9f-005056bc49ac/nvnv5a/1/1027/index.m3u8?token=b05f93d77f97d1198698e33f42991657_1451736300_1451736300&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RTPi.pt" group-title="Portuguese" tvg-logo="0000.png",[COLOR orange]RTPi[/COLOR]
-http://62.65.140.216:80/session/e31edbf6-b07f-11e5-ba74-005056bc06d1/nvnv5a/2/5001/index.m3u8?token=58c1e6e79faca37c7a47b3c762aa3ddb_1451736301_1451736301&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TSR1.ch" group-title="French" tvg-logo="0211.png",[COLOR orangered]RTS 1 HD[/COLOR]
-http://62.65.140.152:80/session/e37fd366-b07f-11e5-8c7c-005056bc06d1/nvnv5a/2/2034/index.m3u8?token=41465ee53939539c80b24d0f2da32c22_1451736302_1451736302&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TSR2.ch" group-title="French" tvg-logo="0213.png",[COLOR orange]RTS 2 HD[/COLOR]
-http://62.65.140.216:80/session/e3e42f5a-b07f-11e5-90da-005056bc06d1/nvnv5a/2/2035/index.m3u8?token=ecc88ef8feb05a7aaddf12a208da2280_1451736303_1451736303&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="SRTL.de" group-title="Deutsch" tvg-logo="0143.png",[COLOR orangered]Super RTL HD[/COLOR]
-http://62.65.140.212:80/session/e44b2872-b07f-11e5-962e-005056bc06d1/nvnv5a/1/1023/index.m3u8?token=17a0d4beb04b4f241766b3801f2bf856_1451736303_1451736303&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="S1.ch" group-title="Deutsch" tvg-logo="0081.png",[COLOR orange]S1 HD[/COLOR]
-http://62.65.140.150:80/session/e4af1cec-b07f-11e5-ab3e-005056bc06d1/nvnv5a/1/1035/index.m3u8?token=5d363bce4cc4c8986e094210fcb35c03_1451736304_1451736304&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0129.png",[COLOR orange]Sat.1 HD[/COLOR]
-http://62.65.140.150:80/session/e518cb60-b07f-11e5-9492-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=618daa4a088150dfdb806b0447e0d458_1451736305_1451736305&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ServusHD.de" group-title="Deutsch" tvg-logo="0123.png",[COLOR orange]Servus TV HD[/COLOR]
-http://62.65.140.153:80/session/e587d6ae-b07f-11e5-a0b7-005056bc06d1/nvnv5a/1/1012/index.m3u8?token=7e074a37a201111c8fb78b80bf0c94ee_1451736305_1451736305&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Sixx.de" group-title="Deutsch" tvg-logo="0133.png",[COLOR orange]sixx HD[/COLOR]
-http://62.65.140.218:80/session/e5f89268-b07f-11e5-9ed1-005056bc1a52/nvnv5a/1/1040/index.m3u8?token=6f79c375ebf7f5f2e00e0ae693561978_1451736306_1451736306&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Sport1HD.de" group-title="Deutsch" tvg-logo="0050.png",[COLOR orange]Sport1[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1008/index.m3u8?p=127&token=827155a3483fe18c639f7513dea96c12&expires=1451859813&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="SRF1.ch" group-title="Deutsch" tvg-logo="0076.png",[COLOR orange]SRF 1 HD[/COLOR]
-http://62.65.140.219:80/session/e6c17b88-b07f-11e5-84ea-005056bc06d1/nvnv5a/1/1008/index.m3u8?token=71c4ab0b41609e471dbca98fa39c3259_1451736308_1451736308&p=127|X-Forwarded-For=85.195.192.0
+http://62.65.140.214/session/5c6dbc1c-b264-11e5-addc-005056bc1a52/nvnv5a/1/1008/index.m3u8?p=127&token=2d4b4c9d059fddee75e3b346f2411f72&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="SRF2.ch" group-title="Deutsch" tvg-logo="0078.png",[COLOR orange]SRF zwei HD[/COLOR]
-http://62.65.140.217:80/session/e721e536-b07f-11e5-90b6-005056bc49ac/nvnv5a/1/1009/index.m3u8?token=bad361d917cfdd617bfa77cfb162aa80_1451736308_1451736308&p=127|X-Forwarded-For=85.195.192.0
+http://62.65.140.215/session/7b8adc32-b265-11e5-a010-005056bc49ac/nvnv5a/1/1009/index.m3u8?p=127&token=4785f0c4b6cf7d8d0bafcb9e1aa1c62d&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Deutsch" tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
-http://62.65.140.214:80/session/e786ce9c-b07f-11e5-afa6-005056bc1a52/nvnv5a/1/1003/index.m3u8?token=793487f07e88c7731d1c1f5af166bb77_1451736309_1451736309&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="StarTV.ch" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]Star TV[/COLOR]
-http://62.65.140.153:80/session/e7f2310a-b07f-11e5-999b-005056bc49ac/nvnv5a/1/1107/index.m3u8?token=681f4f83e619a39fa7072dd8e3730488_1451736309_1451736309&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR orange]SWR BW HD[/COLOR]
-http://62.65.140.215:80/session/e858a750-b07f-11e5-8f8a-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=173b4b8b99f11dfd8bf7b8b01a7d92ef_1451736310_1451736310&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="telebasel.ch" group-title="Deutsch" tvg-logo="0086.png",[COLOR orange]Tele Basel[/COLOR]
-http://62.65.140.215:80/session/e858a750-b07f-11e5-8f8a-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=173b4b8b99f11dfd8bf7b8b01a7d92ef_1451736310_1451736310&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="telebarn.ch" group-title="Deutsch" tvg-logo="0085.png",[COLOR orangered]Tele Bärn[/COLOR]
-http://62.65.140.216:80/session/e9270c30-b07f-11e5-8622-005056bc1a52/nvnv5a/1/1137/index.m3u8?token=da49d709a7eb9b544e05e9ec0c97c8b6_1451736312_1451736312&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="tele1.ch" group-title="Deutsch" tvg-logo="0090.png",[COLOR orange]Tele 1[/COLOR]
-http://62.65.140.150:80/session/e9959eca-b07f-11e5-b661-005056bc06d1/nvnv5a/1/1128/index.m3u8?token=faafef1897e8a2166b077697488a318e_1451736312_1451736312&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Tele5.de" group-title="Deutsch" tvg-logo="0041.png",[COLOR orangered]Tele 5[/COLOR]
-http://62.65.140.155:80/session/e9f5cf2a-b07f-11e5-8ab9-005056bc06d1/nvnv5a/1/1090/index.m3u8?token=f6070b6e6d5d339ad9d0f5617e2c3385_1451736313_1451736313&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="telebielingue.ch" group-title="Deutsch" tvg-logo="0087.png",[COLOR orange]Tele Bielingue[/COLOR]
-http://62.65.140.149:80/session/ea8a25d0-b07f-11e5-81e6-005056bc49ac/nvnv5a/2/2040/index.m3u8?token=e24e0a6cbe7daf13f072cd92e7f4f5e9_1451736314_1451736314&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TeleM1.ch" group-title="Deutsch" tvg-logo="0094.png",[COLOR orangered]Tele M1[/COLOR]
-http://62.65.140.219:80/session/eb0fdd92-b07f-11e5-a3db-005056bc1a52/nvnv5a/1/1132/index.m3u8?token=be20e9ee7929daea6edfc191934b1e1d_1451736315_1451736315&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="teleticino.it" group-title="Italian" tvg-logo="0618.png",[COLOR orange]Tele Ticino[/COLOR]
-http://62.65.140.152:80/session/eb93e9a2-b07f-11e5-9030-005056bc49ac/nvnv5a/2/3036/index.m3u8?token=8e7949e749177c03ea28e6d8dd848718_1451736315_1451736315&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="teletop.ch" group-title="Deutsch" tvg-logo="0091.png",[COLOR orangered]Tele Top[/COLOR]
-http://62.65.140.219:80/session/ec1fdae8-b07f-11e5-853a-005056bc49ac/nvnv5a/1/1129/index.m3u8?token=6c479783944f2e39aa480825e65f6693_1451736316_1451736316&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TF1.fr" group-title="French" tvg-logo="0202.png",[COLOR orange]TF1 HD[/COLOR]
-http://62.65.140.212/session/15a23202-b1b7-11e5-a0b7-005056bc06d1/nvnv5a/2/2027/1368000/index.m3u8?p=127&token=4943af2f29e68eae803d60e1656687aa&expires=1451869959&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TRT1.de" group-title="Turkish" tvg-logo="0801.png",[COLOR orange]TRT1[/COLOR]
-http://62.65.140.150:80/session/ecf812e6-b07f-11e5-96d7-005056bc49ac/nvnv5a/2/5030/index.m3u8?token=c30108e928e8099b98a699cb908db0ef_1451736318_1451736318&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TSO.ch" group-title="Deutsch" tvg-logo="0088.png",[COLOR orange]TSO[/COLOR]
-http://62.65.140.213:80/session/ed804814-b07f-11e5-896c-005056bc49ac/nvnv5a/1/1130/index.m3u8?token=8109cd6a49fc4302cd4b899037932ba2_1451736319_1451736319&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ZDFneo.de" group-title="Deutsch" tvg-logo="0053.png",[COLOR orangered]ZDF neo HD[/COLOR]
-http://62.65.140.152:80/session/0087e872-b080-11e5-9b95-005056bc06d1/nvnv5a/1/1121/index.m3u8?token=82a1b04aab72945185c4bed128342935_1451736350_1451736350&p=127|X-Forwarded-For=85.195.192.0
+http://62.65.140.149/session/39fe53d6-b268-11e5-896c-005056bc49ac/nvnv5a/1/1003/index.m3u8?p=127&token=7ae98958addd07adbd6fe4d92ce507c0&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR orange]3+ HD[/COLOR]
+http://62.65.140.151/session/b3e786ac-b265-11e5-80d5-005056bc49ac/nvnv5a/1/1013/index.m3u8?p=127&token=06568b99b3cf1c29cb791f7374f3887c&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR orange]4+ HD[/COLOR]
+http://62.65.140.152/session/7a4dc1c6-b266-11e5-8681-005056bc06d1/nvnv5a/1/1031/index.m3u8?p=127&token=e489ed1c7b27b5e9dff27f234d69f4e3&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0137.png",[COLOR orangered]5+ HD[/COLOR]
+http://62.65.140.216/session/92f5a0a4-b266-11e5-a4c7-005056bc49ac/nvnv5a/1/1047/index.m3u8?p=127&token=5331b0605fa30ac72b804fef679614ad&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orange]ARD HD[/COLOR]
+http://62.65.140.151/session/254cf862-b267-11e5-9d96-005056bc1a52/nvnv5a/2/1165/index.m3u8?p=127&token=c3e323e682ec5893225fce2d5866c1d2&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
-http://62.65.140.212:80/session/00e63d1e-b080-11e5-96b1-005056bc49ac/nvnv5a/2/1166/index.m3u8?token=949642654e700977d0d4283ad67a5933_1451736351_1451736351&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ZDFtheater.de" group-title="Deutsch" tvg-logo="0055.png",[COLOR orangered]zdf.kultur HD[/COLOR] 
-http://62.65.140.148:80/session/01691e46-b080-11e5-b56d-005056bc06d1/nvnv5a/1/1119/index.m3u8?token=ac5cf38204399d9a4988aeab547ca4fc_1451736352_1451736352&p=127|X-Forwarded-For=85.195.192.0
+http://62.65.140.148/session/59568236-b267-11e5-8b04-005056bc49ac/nvnv5a/2/1166/index.m3u8?p=127&token=84678142386b0908e821de73ab3651ae&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="Deutsch" tvg-logo="0053.png",[COLOR orangered]ZDF neo HD[/COLOR]
+http://62.65.140.152/session/c2a3ca86-b268-11e5-94d7-005056bc06d1/nvnv5a/1/1121/index.m3u8?p=127&token=34ebaf9940208dd77f94009f2a5ce556&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="ZDFinfo.de" group-title="Deutsch" tvg-logo="0057.png",[COLOR orangered]ZDF-Info HD[/COLOR]
-http://62.65.140.218:80/session/01bc5f20-b080-11e5-b455-005056bc06d1/nvnv5a/1/1118/index.m3u8?token=97f6dabdb0890fb03305f79b46519255_1451736353_1451736353&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="WDR.de" group-title="Deutsch" tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR] 
-http://62.65.140.151:80/session/0221c4dc-b080-11e5-a2fb-005056bc49ac/nvnv5a/1/1113/index.m3u8?token=3222a394f334d1816a4e2fbafc451ec7_1451736353_1451736353&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="W9.ch" group-title="French" tvg-logo="0217.png",[COLOR orange]W9[/COLOR]
-http://62.65.140.215:80/session/0276d436-b080-11e5-966b-005056bc49ac/nvnv5a/2/2022/index.m3u8?token=c22ae83164950a01fc2e07fa9f96af94_1451736354_1451736354&p=127|X-Forwarded-For=85.195.192.0
+http://62.65.140.154/session/6c03fa14-b26a-11e5-841a-005056bc49ac/nvnv5a/1/1118/index.m3u8?p=127&token=16bca1395de8e76482fca615d4961763&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0128.png",[COLOR orange]Pro7 HD[/COLOR]
+http://62.65.140.148/session/d1a36b16-b265-11e5-b86e-005056bc49ac/nvnv5a/1/1037/index.m3u8?p=127&token=56b7fcbbd80ff6655b00444113c3f8d9&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]Pro7Maxx[/COLOR]
+http://62.65.140.155/session/3a733862-b269-11e5-8016-005056bc06d1/nvnv5a/1/1041/index.m3u8?p=127&token=34d5c098a1e26fdd1e67d00c67f3239c&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR orange]RTL HD[/COLOR]
+http://62.65.140.154/session/f18fd77a-b265-11e5-8d5e-005056bc1a52/nvnv5a/1/1020/index.m3u8?p=127&token=a4ab3f582877ec4854b2f6eb6b764afb&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0131.png",[COLOR orange]RTL 2 HD[/COLOR]
+http://62.65.140.214/session/1b29e3aa-b266-11e5-a137-005056bc1a52/nvnv5a/1/1024/index.m3u8?p=127&token=d3ceae77db037c00d46ce717a1260b46&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTLNitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL Nitro HD[/COLOR]
+http://62.65.140.216/session/8a55b23e-b26d-11e5-b747-005056bc06d1/nvnv5a/1/1027/index.m3u8?p=127&token=5e3b60401d72ee940e8f0a2207d04a9c&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SRTL.de" group-title="Deutsch" tvg-logo="0143.png",[COLOR orangered]Super RTL HD[/COLOR]
+http://62.65.140.148/session/7e361e66-b269-11e5-8b18-005056bc49ac/nvnv5a/1/1023/index.m3u8?p=127&token=cd19cbefc2044115f31feec3255dfc73&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0129.png",[COLOR orange]Sat.1 HD[/COLOR]
+http://62.65.140.150/session/3f0f5214-b266-11e5-84fe-005056bc1a52/nvnv5a/1/1038/index.m3u8?p=127&token=858fe7e192f39e1f6865402da47e544b&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="Vox.de" group-title="Deutsch" tvg-logo="0010.png",[COLOR orange]VOX HD[/COLOR]
-http://62.65.140.149:80/session/02d96b78-b080-11e5-afd0-005056bc49ac/nvnv5a/1/1021/index.m3u8?token=0e6020ff5420eeab27a23182a70ee8a7_1451736355_1451736355&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Viva.de" group-title="Deutsch" tvg-logo="0044.png",[COLOR orange]VIVA HD[/COLOR]
-http://62.65.140.218:80/session/033406dc-b080-11e5-a8db-005056bc1a52/nvnv5a/1/1014/index.m3u8?token=03073ae902f83f22086370444a2cc42f_1451736355_1451736355&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TeleZurich.ch" group-title="Deutsch" tvg-logo="0083.png",[COLOR orange]Tele Züri[/COLOR]
-http://62.65.140.217:80/session/03863178-b080-11e5-97d9-005056bc1a52/nvnv5a/2/1160/index.m3u8?token=489a52cea7fd42eced2737c4d82fb9e7_1451736356_1451736356&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TVO.ch" group-title="Deutsch" tvg-logo="0089.png",[COLOR orange]TVO[/COLOR]
-http://62.65.140.152:80/session/03e603a0-b080-11e5-9dc7-005056bc06d1/nvnv5a/1/1131/index.m3u8?token=6c27f6b30ec3195f8e7a71b3b7b1b288_1451736356_1451736356&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TVEi.nws" group-title="Spanish" tvg-logo="0000.png",[COLOR orange]TVEi[/COLOR]
-http://62.65.140.154:80/session/044ea806-b080-11e5-9698-005056bc06d1/nvnv5a/2/5003/index.m3u8?token=86316e7df5c94e1aca5a95d51c1daf2f_1451736357_1451736357&p=127|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TV24.ch" group-title="Deutsch" tvg-logo="0082.png",[COLOR orange]TV24[/COLOR]
-http://62.65.140.154:80/session/04a79c86-b080-11e5-8808-005056bc1a52/nvnv5a/1/1042/index.m3u8?token=1d0e0e2bbc9a3c37d690ef9f5ea9da0e_1451736358_1451736358&p=127|X-Forwarded-For=85.195.192.0
+http://62.65.140.153/session/b1cf83b4-b266-11e5-8fd6-005056bc49ac/nvnv5a/1/1021/index.m3u8?p=127&token=07dcf0709dfb3e44e9bb9c7e0c0a76d7&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0030.png",[COLOR orange]PHOENIX HD[/COLOR]
+http://62.65.140.151/session/e4f2be30-b268-11e5-93d9-005056bc06d1/nvnv5a/1/1122/index.m3u8?p=127&token=e3ad836d51d33047e9e84b23d0a7eff1&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Kabel.de" group-title="Deutsch" tvg-logo="0130.png",[COLOR orange]Kabel 1 HD[/COLOR]
+http://62.65.140.216/session/154f594e-b269-11e5-9541-005056bc1a52/nvnv5a/1/1039/index.m3u8?p=127&token=89a9bd07c0cb686e30e12d2dfa4b7509&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="DMax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR orangered]DMAX[/COLOR]
+http://62.65.140.148/session/ef7cb674-b26a-11e5-b752-005056bc49ac/nvnv5a/1/1018/index.m3u8?p=127&token=315ff9bb06eb8b4cfb294b0c25129844&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ocht.ch" group-title="Deutsch" tvg-logo="",[COLOR orangered]OCHT[/COLOR]
+http://62.65.140.219/session/e852eec6-b266-11e5-8b2d-005056bc06d1/nvnv5a/2/1053/index.m3u8?p=127&token=c12800515c8e338aae9f1b5e48b3fafb&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR orange]Arte HD[/COLOR]
+http://62.65.140.213/session/cf4423f4-b267-11e5-9b13-005056bc1a52/nvnv5a/1/1150/index.m3u8?p=127&token=05136e53dd44e81b3e0dc4a886a2a3d0&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0047.png",[COLOR orangered]KiKa HD[/COLOR]
+http://62.65.140.153/session/187665d2-b26d-11e5-96fd-005056bc49ac/nvnv5a/1/1116/index.m3u8?p=127&token=91c4b436aed6494a1f1ed464f61ee92b&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Eurosport.de" group-title="Deutsch" tvg-logo="0049.png",[COLOR orangered]EuroSport[/COLOR]
+http://62.65.140.215/session/a854e36c-b269-11e5-bad1-005056bc1a52/nvnv5a/1/1051/index.m3u8?p=127&token=4e06a6d2fd79be10e17191894da6e666&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ORF1.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR orange]ORF1 HD[/COLOR]
+http://62.65.140.152/session/f80e7848-b267-11e5-8bc4-005056bc1a52/nvnv5a/1/1010/index.m3u8?p=127&token=f16402d8abc91b37ca3b461e47fb1357&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ORF2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR orange]ORF2 HD[/COLOR]
+http://62.65.140.216/session/1ee66c5a-b268-11e5-a60e-005056bc49ac/nvnv5a/1/1011/index.m3u8?p=127&token=093742aa2bdff969423fd540073651cd&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
+http://62.65.140.155/session/661769ee-b268-11e5-80b4-005056bc1a52/nvnv5a/1/1117/index.m3u8?p=127&token=404eaa2961c2c9e4d3cfe4d74d4f5c34&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR orange]SWR BW HD[/COLOR]
+http://62.65.140.151/session/8efab9e2-b268-11e5-8eb6-005056bc1a52/nvnv5a/1/1114/index.m3u8?p=127&token=b7501cc33bc943e8a6db6e601941cd0b&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TF1.fr" group-title="French" tvg-logo="0202.png",[COLOR orange]TF1 HD[/COLOR]
+http://62.65.140.149/session/5318a300-b26b-11e5-965d-005056bc1a52/nvnv5a/2/2027/index.m3u8?p=127&token=5e8c4ab63d820632bb5db68f8b87ceeb&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France2.fr" group-title="French" tvg-logo="0204.png",[COLOR orange]France 2 HD[/COLOR]
+http://62.65.140.148/session/0c5b4c60-b26b-11e5-9301-005056bc06d1/nvnv5a/2/2028/index.m3u8?p=127&token=d338ff64f67ccf60c4ddf2edd0adb4e1&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France3.fr" group-title="French" tvg-logo="0205.png",[COLOR orangered]France 3[/COLOR]
+http://62.65.140.150/session/f46c0c28-b26c-11e5-9820-005056bc1a52/nvnv5a/2/2008/index.m3u8?p=127&token=8cea072be472e6687c432734ddf80809&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France4.fr" group-title="French" tvg-logo="0221.png",[COLOR orange]France 4[/COLOR]
+http://62.65.140.219/session/d0cfbc36-b269-11e5-a8ad-005056bc49ac/nvnv5a/2/2009/index.m3u8?p=127&token=3f031ad378cbd00cebd149f5c2e7785f&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="France5.fr" group-title="French" tvg-logo="0207.png",[COLOR orange]France 5[/COLOR]
+http://62.65.140.152/session/f4628d22-b269-11e5-a99f-005056bc49ac/nvnv5a/2/2010/index.m3u8?p=127&token=506969afbfd80cc910587ccc1cded772&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="FranceO.fr" group-title="French" tvg-logo="0226.png",[COLOR orange]France Ô[/COLOR]
+http://62.65.140.150/session/2ca4b74a-b26b-11e5-8e12-005056bc49ac/nvnv5a/2/2015/index.m3u8?p=127&token=9fe2ad1b0a3e647105245632f9262727&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="M6.fr" group-title="French" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
+http://62.65.140.218/session/426e7f64-b26d-11e5-a1d0-005056bc06d1/nvnv5a/2/2026/index.m3u8?p=127&token=e6e42e31feeac9f33e0323da0f49ee8c&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="W9.ch" group-title="French" tvg-logo="0217.png",[COLOR orange]W9[/COLOR]
+http://62.65.140.154/session/0fced412-b26a-11e5-81a1-005056bc1a52/nvnv5a/2/2022/index.m3u8?p=127&token=fe9fd3a9b444580f80f57010e44f16b6&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Direct8.fr" group-title="French" tvg-logo="0216.png",[COLOR orange]D8[/COLOR]
+http://62.65.140.217/session/5f760eec-b26d-11e5-a9d8-005056bc49ac/nvnv5a/2/2018/index.m3u8?p=127&token=8610c4e4762167740107874393b2b334&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Gulli.fr" group-title="French" tvg-logo="0225.png",[COLOR gold]Gulli[/COLOR]
+http://62.65.140.218/session/d67af750-b26d-11e5-bd0b-005056bc1a52/nvnv5a/2/2011/index.m3u8?p=127&token=572b2aaf69f28b4d510ef9c9f362cde6&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="French" tvg-logo="0237.png",[COLOR orangered]EuroNews French[/COLOR]
+http://62.65.140.217/session/3ea46004-b26a-11e5-8a0f-005056bc1a52/nvnv5a/1/104901/index.m3u8?p=127&token=95eaa33c252cd6b6181c735773720328&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="French" tvg-logo="0234.png",[COLOR orange]TV5 Monde[/COLOR] 
-http://62.65.140.215:80/session/f7a95b10-ab8d-11e5-b05b-005056bc49ac/nvnv5a/2/2006/index.m3u8?token=b30907db3a17dc038dc53cb702ec2576_1451192592_1451192592&p=127|X-Forwarded-For=85.195.192.0
+http://62.65.140.148/session/94b80630-b26a-11e5-923a-005056bc1a52/nvnv5a/2/2006/index.m3u8?p=127&token=26ee5080f8fe5410d8f06ae8a88dc3a1&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="TSR1.ch" group-title="French" tvg-logo="0211.png",[COLOR orangered]RTS 1 HD[/COLOR]
+http://62.65.140.217/session/ac70d2b8-b26d-11e5-8e49-005056bc1a52/nvnv5a/2/2034/index.m3u8?p=127&token=bc5234ae8a5de56304b785d83502635f&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:0800 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF SD[/COLOR]
 http://217.20.164.196:8080/zdf/index.m3u8
 #EXTINF:0800 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0005.png",[COLOR orange]RTL SD[/COLOR]
