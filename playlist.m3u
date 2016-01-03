@@ -6,7 +6,7 @@
 #EXTINF:-1,[COLOR blue][I][B]---29-12-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --http://mafreebox.freebox.fr/freeboxtv/playlist.m3u--[/COLOR]
 #EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR orange]3+ HD[/COLOR]
-http://62.65.140.150:80/session/c40b5a0a-b07f-11e5-a9b4-005056bc1a52/nvnv5a/1/1013/index.m3u8?token=1d94fdc10f7189421c522fa099f4040f_1451736249_1451736249&p=127|X-Forwarded-For=85.195.192.0
+http://62.65.140.150/session/1b4955ea-b1b8-11e5-b98e-005056bc49ac/nvnv5a/1/1013/index.m3u8?p=127&token=919e24c734f94e6e9efcb3e12ae669ac&expires=1451870398&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
 http://62.65.140.219:80/session/c46c452c-b07f-11e5-9f38-005056bc06d1/nvnv5a/1/1117/index.m3u8?token=67c4d95f23d9f9fe6feeb7013c5fa097_1451736250_1451736250&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR orange]4+ HD[/COLOR]
@@ -70,7 +70,7 @@ http://62.65.140.153:80/session/d0707014-b07f-11e5-a51d-005056bc49ac/nvnv5a/1/10
 #EXTINF:-1 tvg-id="Film4.uk" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
 http://62.65.140.219:80/session/d0d1d0d4-b07f-11e5-8ab6-005056bc1a52/nvnv5a/2/4023/index.m3u8?token=c913e8141ce2b482f39949724564845f_1451736271_1451736271&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="France2.fr" group-title="French" tvg-logo="0204.png",[COLOR orange]France 2 HD[/COLOR]
-http://62.65.140.148:80/session/d13409de-b07f-11e5-a54a-005056bc06d1/nvnv5a/2/2028/index.m3u8?token=169cb49721d7a70bfec578d4566c5db5_1451736271_1451736271&p=127|X-Forwarded-For=85.195.192.0
+http://62.65.140.219/session/aaf5ec86-b1b7-11e5-9a6f-005056bc06d1/nvnv5a/2/2028/index.m3u8?p=127&token=2069f6adf4fd26aa6b62982b832e2211&expires=1451870210&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="France3.fr" group-title="French" tvg-logo="0205.png",[COLOR orangered]France 3[/COLOR]
 http://62.65.140.149:80/session/d198385a-b07f-11e5-9369-005056bc49ac/nvnv5a/2/2008/index.m3u8?token=39cc53eeb679711c8e573f07c85dd680_1451736272_1451736272&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="France4.fr" group-title="French" tvg-logo="0221.png",[COLOR orange]France 4[/COLOR]
@@ -172,7 +172,7 @@ http://62.65.140.153:80/session/e587d6ae-b07f-11e5-a0b7-005056bc06d1/nvnv5a/1/10
 #EXTINF:-1 tvg-id="Sixx.de" group-title="Deutsch" tvg-logo="0133.png",[COLOR orange]sixx HD[/COLOR]
 http://62.65.140.218:80/session/e5f89268-b07f-11e5-9ed1-005056bc1a52/nvnv5a/1/1040/index.m3u8?token=6f79c375ebf7f5f2e00e0ae693561978_1451736306_1451736306&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="Sport1HD.de" group-title="Deutsch" tvg-logo="0050.png",[COLOR orange]Sport1[/COLOR]
-http://62.65.140.217:80/session/e65e153e-b07f-11e5-94cb-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=63b4304635206f47a58ccca2bb98f760_1451736307_1451736307&p=127|X-Forwarded-For=85.195.192.0
+http://teleboy.customers.cdn.iptv.ch/1/1008/index.m3u8?p=127&token=827155a3483fe18c639f7513dea96c12&expires=1451859813&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="SRF1.ch" group-title="Deutsch" tvg-logo="0076.png",[COLOR orange]SRF 1 HD[/COLOR]
 http://62.65.140.219:80/session/e6c17b88-b07f-11e5-84ea-005056bc06d1/nvnv5a/1/1008/index.m3u8?token=71c4ab0b41609e471dbca98fa39c3259_1451736308_1451736308&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="SRF2.ch" group-title="Deutsch" tvg-logo="0078.png",[COLOR orange]SRF zwei HD[/COLOR]
@@ -200,7 +200,7 @@ http://62.65.140.152:80/session/eb93e9a2-b07f-11e5-9030-005056bc49ac/nvnv5a/2/30
 #EXTINF:-1 tvg-id="teletop.ch" group-title="Deutsch" tvg-logo="0091.png",[COLOR orangered]Tele Top[/COLOR]
 http://62.65.140.219:80/session/ec1fdae8-b07f-11e5-853a-005056bc49ac/nvnv5a/1/1129/index.m3u8?token=6c479783944f2e39aa480825e65f6693_1451736316_1451736316&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="TF1.fr" group-title="French" tvg-logo="0202.png",[COLOR orange]TF1 HD[/COLOR]
-http://62.65.140.149:80/session/ec7c8bda-b07f-11e5-9541-005056bc1a52/nvnv5a/2/2027/index.m3u8?token=18cc76b53930dc84104649f6a4b9589c_1451736317_1451736317&p=127|X-Forwarded-For=85.195.192.0
+http://62.65.140.212/session/15a23202-b1b7-11e5-a0b7-005056bc06d1/nvnv5a/2/2027/1368000/index.m3u8?p=127&token=4943af2f29e68eae803d60e1656687aa&expires=1451869959&c=t1|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="TRT1.de" group-title="Turkish" tvg-logo="0801.png",[COLOR orange]TRT1[/COLOR]
 http://62.65.140.150:80/session/ecf812e6-b07f-11e5-96d7-005056bc49ac/nvnv5a/2/5030/index.m3u8?token=c30108e928e8099b98a699cb908db0ef_1451736318_1451736318&p=127|X-Forwarded-For=85.195.192.0
 #EXTINF:-1 tvg-id="TSO.ch" group-title="Deutsch" tvg-logo="0088.png",[COLOR orange]TSO[/COLOR]
@@ -588,421 +588,100 @@ http://www.iptvsaga.com/play/tv3/0001.m3u8
 
 #EXTINF:-1,[I][B][COLOR yellow]---? Chaines Temporaires ?---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-
-
-#EXTINF:-1,MT-France 5 (FR)
-http://213.136.90.30:8000/live/christop/christop/9283.ts
-#EXTINF:-1,MT-France 4 (FR)
-http://213.136.90.30:8000/live/christop/christop/9284.ts
-#EXTINF:-1,MT-France 3 (FR)
-http://213.136.90.30:8000/live/christop/christop/9285.ts
-#EXTINF:-1,MT-France 24 (FR)
-http://213.136.90.30:8000/live/christop/christop/9286.ts
-
-
-#EXTINF:-1,BE: RTL TVI
-http://atlas-iptv.de:8000/live/amine/amine/506.ts
-#EXTINF:-1,France 2
-http://atlas-iptv.de:8000/live/amine/amine/321.ts
-#EXTINF:-1,FR: TMC
-http://atlas-iptv.de:8000/live/amine/amine/322.ts
-#EXTINF:-1,FR: POLAR
-http://atlas-iptv.de:8000/live/amine/amine/323.ts
-#EXTINF:-1,FR: NT1
-http://atlas-iptv.de:8000/live/amine/amine/324.ts
-#EXTINF:-1,FR: LCP
-http://atlas-iptv.de:8000/live/amine/amine/325.ts
-#EXTINF:-1,FR: D8
-http://atlas-iptv.de:8000/live/amine/amine/326.ts
-#EXTINF:-1,NL: National.Geographic.Channel HD
-http://atlas-iptv.de:8000/live/amine/amine/190.ts
-#EXTINF:-1,AB1
-http://atlas-iptv.de:8000/live/amine/amine/327.ts
-#EXTINF:-1,FR: Weo HD
-http://atlas-iptv.de:8000/live/amine/amine/199.ts
-#EXTINF:-1,FR: Vevo ROCK TV
-http://atlas-iptv.de:8000/live/amine/amine/200.ts
-#EXTINF:-1,FR: Vevo Music TV
-http://atlas-iptv.de:8000/live/amine/amine/201.ts
-#EXTINF:-1,FR: Vevo Hip Hop TV
-http://atlas-iptv.de:8000/live/amine/amine/202.ts
-#EXTINF:-1,FR: TF 1 HD
-http://atlas-iptv.de:8000/live/amine/amine/207.ts
-#EXTINF:-1,FR: Rouge TV
-http://atlas-iptv.de:8000/live/amine/amine/204.ts
-#EXTINF:-1,FR: OUI TV
-http://atlas-iptv.de:8000/live/amine/amine/205.ts
-#EXTINF:-1,FR: OCS CITY HD
-http://atlas-iptv.de:8000/live/amine/amine/208.ts
-#EXTINF:-1,FR: NRJ TV
-http://atlas-iptv.de:8000/live/amine/amine/206.ts
-#EXTINF:-1,FR: MFM TV
-http://atlas-iptv.de:8000/live/amine/amine/191.ts
-#EXTINF:-1,FR: M6 Music Hits
-http://atlas-iptv.de:8000/live/amine/amine/196.ts
-#EXTINF:-1,FR: M6 MUSIC
-http://atlas-iptv.de:8000/live/amine/amine/197.ts
-#EXTINF:-1,FR: GONG
-http://atlas-iptv.de:8000/live/amine/amine/198.ts
-#EXTINF:-1,FR: FRANCE 4HD
-http://atlas-iptv.de:8000/live/amine/amine/209.ts
-#EXTINF:-1,FR: FRANCE 3HD
-http://atlas-iptv.de:8000/live/amine/amine/210.ts
-#EXTINF:-1,FR: FRANCE 2 HD
-http://atlas-iptv.de:8000/live/amine/amine/211.ts
-#EXTINF:-1,FR: Euronews
-http://atlas-iptv.de:8000/live/amine/amine/193.ts
-#EXTINF:-1,FR: CINE  PREMIER HD
-http://atlas-iptv.de:8000/live/amine/amine/213.ts
-#EXTINF:-1,FR: CINE  FAMIZ HD
-http://atlas-iptv.de:8000/live/amine/amine/214.ts
-#EXTINF:-1,FR: CINE  EMOTION HD
-http://atlas-iptv.de:8000/live/amine/amine/215.ts
-#EXTINF:-1,FR: CANAL  SERIES HD
-http://atlas-iptv.de:8000/live/amine/amine/212.ts
-#EXTINF:-1,FR: BFM TV
-http://atlas-iptv.de:8000/live/amine/amine/195.ts
-#EXTINF:-1,FR: Best Music HD
-http://atlas-iptv.de:8000/live/amine/amine/192.ts
-#EXTINF:-1,FR: Animaux HD
-http://atlas-iptv.de:8000/live/amine/amine/194.ts
-#EXTINF:-1,FR: TF1 HD
-http://atlas-iptv.de:8000/live/amine/amine/5.ts
-#EXTINF:-1,FRANCE2 HD
-http://atlas-iptv.de:8000/live/amine/amine/60.ts
-#EXTINF:-1,France3 HD
-http://atlas-iptv.de:8000/live/amine/amine/59.ts
-#EXTINF:-1,FRANCE 4 HD
-http://atlas-iptv.de:8000/live/amine/amine/35.ts
-#EXTINF:-1,France 5 HD
-http://atlas-iptv.de:8000/live/amine/amine/62.ts
-#EXTINF:-1,France O
-http://atlas-iptv.de:8000/live/amine/amine/61.ts
-#EXTINF:-1,BEINSPORT 1 FRANCE HD
-http://atlas-iptv.de:8000/live/amine/amine/2.ts
-#EXTINF:-1,BEIN SPORT 2 HD FRANCE
-http://atlas-iptv.de:8000/live/amine/amine/3.ts
-#EXTINF:-1,BEINSPORT 3 FRANCE  HD
-http://atlas-iptv.de:8000/live/amine/amine/4.ts
-#EXTINF:-1,INFOSPORT HD
-http://atlas-iptv.de:8000/live/amine/amine/66.ts
-#EXTINF:-1,L'EQUIPE 21 HD
-http://atlas-iptv.de:8000/live/amine/amine/65.ts
-#EXTINF:-1,KOMBAT SPORT HD
-http://atlas-iptv.de:8000/live/amine/amine/58.ts
-#EXTINF:-1,FR: Ma Chaine Sport
-http://atlas-iptv.de:8000/live/amine/amine/12.ts
-#EXTINF:-1,EUROSPORT
-http://atlas-iptv.de:8000/live/amine/amine/63.ts
-#EXTINF:-1,Planete  France
-http://atlas-iptv.de:8000/live/amine/amine/47.ts
-#EXTINF:-1,Planete  C.I HD
-http://atlas-iptv.de:8000/live/amine/amine/43.ts
-#EXTINF:-1,Planete  A&E HD
-http://atlas-iptv.de:8000/live/amine/amine/44.ts
-#EXTINF:-1,Animaux
-http://atlas-iptv.de:8000/live/amine/amine/42.ts
-#EXTINF:-1,SCIENCES & VIE HD
-http://atlas-iptv.de:8000/live/amine/amine/55.ts
-#EXTINF:-1,Histoire
-http://atlas-iptv.de:8000/live/amine/amine/38.ts
-#EXTINF:-1,TEVA-FR
-http://atlas-iptv.de:8000/live/amine/amine/36.ts
-#EXTINF:-1,TCM France
-http://atlas-iptv.de:8000/live/amine/amine/45.ts
-#EXTINF:-1,iTele  France
-http://atlas-iptv.de:8000/live/amine/amine/51.ts
-#EXTINF:-1,NT1 France
-http://atlas-iptv.de:8000/live/amine/amine/49.ts
-#EXTINF:-1,SEASON HD
-http://atlas-iptv.de:8000/live/amine/amine/54.ts
-#EXTINF:-1,W9
-http://atlas-iptv.de:8000/live/amine/amine/53.ts
-#EXTINF:-1,RTL9 HD
-http://atlas-iptv.de:8000/live/amine/amine/56.ts
-#EXTINF:-1,E -ENTERTAINEMENT
-http://atlas-iptv.de:8000/live/amine/amine/37.ts
-#EXTINF:-1,D8
-http://atlas-iptv.de:8000/live/amine/amine/39.ts
-#EXTINF:-1,D17
-http://atlas-iptv.de:8000/live/amine/amine/40.ts
-#EXTINF:-1,Boing
-http://atlas-iptv.de:8000/live/amine/amine/41.ts
-#EXTINF:-1,BFM TV France
-http://atlas-iptv.de:8000/live/amine/amine/52.ts
-#EXTINF:-1,Piwi  FRANCE
-http://atlas-iptv.de:8000/live/amine/amine/48.ts
-#EXTINF:-1,Space Toon France
-http://atlas-iptv.de:8000/live/amine/amine/46.ts
-#EXTINF:-1,M6 MUSIC HD
-http://atlas-iptv.de:8000/live/amine/amine/57.ts
-#EXTINF:-1,FR: M6 HD
-http://atlas-iptv.de:8000/live/amine/amine/13.ts
-#EXTINF:-1,FR: Serie Club
-http://atlas-iptv.de:8000/live/amine/amine/6.ts
-#EXTINF:-1,FR: OCS MAX HD
-http://atlas-iptv.de:8000/live/amine/amine/7.ts
-#EXTINF:-1,FR: OCS GEANT HD
-http://atlas-iptv.de:8000/live/amine/amine/8.ts
-#EXTINF:-1,FR: OCS CHOC HD
-http://atlas-iptv.de:8000/live/amine/amine/9.ts
-#EXTINF:-1,FR: National Geographic
-http://atlas-iptv.de:8000/live/amine/amine/10.ts
-#EXTINF:-1,FR: Manga
-http://atlas-iptv.de:8000/live/amine/amine/11.ts
-#EXTINF:-1,FR: Escales
-http://atlas-iptv.de:8000/live/amine/amine/14.ts
-#EXTINF:-1,FR: Encyclo
-http://atlas-iptv.de:8000/live/amine/amine/15.ts
-#EXTINF:-1,FR: Disney Junior
-http://atlas-iptv.de:8000/live/amine/amine/16.ts
-#EXTINF:-1,FR: Disney cinemagic
-http://atlas-iptv.de:8000/live/amine/amine/17.ts
-#EXTINF:-1,FR: Disney Channel
-http://atlas-iptv.de:8000/live/amine/amine/18.ts
-#EXTINF:-1,FR: Discovery Science HD
-http://atlas-iptv.de:8000/live/amine/amine/19.ts
-#EXTINF:-1,FR: Comedie
-http://atlas-iptv.de:8000/live/amine/amine/20.ts
-#EXTINF:-1,FR: CINE PREMIER HD
-http://atlas-iptv.de:8000/live/amine/amine/21.ts
-#EXTINF:-1,FR: CINE  FRISSON hd
-http://atlas-iptv.de:8000/live/amine/amine/22.ts
-#EXTINF:-1,FR: Cine  Famiz H -
-http://atlas-iptv.de:8000/live/amine/amine/23.ts
-#EXTINF:-1,FR: Cine  Emotion
-http://atlas-iptv.de:8000/live/amine/amine/24.ts
-#EXTINF:-1,FR: Chasse et peche H -
-http://atlas-iptv.de:8000/live/amine/amine/25.ts
-#EXTINF:-1,FR: Cartoon network H -
-http://atlas-iptv.de:8000/live/amine/amine/26.ts
-#EXTINF:-1,FR: Canal  sport HD
-http://atlas-iptv.de:8000/live/amine/amine/27.ts
-#EXTINF:-1,FR: Canal  Serie HD
-http://atlas-iptv.de:8000/live/amine/amine/28.ts
-#EXTINF:-1,FR: CANAL  HD
-http://atlas-iptv.de:8000/live/amine/amine/29.ts
-#EXTINF:-1,FR: Canal  Family HD
-http://atlas-iptv.de:8000/live/amine/amine/30.ts
-#EXTINF:-1,FR: Canal  Decale HD
-http://atlas-iptv.de:8000/live/amine/amine/31.ts
-#EXTINF:-1,FR: Canal  cinema HD
-http://atlas-iptv.de:8000/live/amine/amine/32.ts
-#EXTINF:-1,FR: Action
-http://atlas-iptv.de:8000/live/amine/amine/33.ts
-#EXTINF:-1,FR: 13 Eme Rue
-http://atlas-iptv.de:8000/live/amine/amine/34.ts
-#EXTINF:-1,FR: A LA CARTE 3 HD
-http://atlas-iptv.de:8000/live/amine/amine/218.ts
-#EXTINF:-1,FR: A LA CARTE 2 HD
-http://atlas-iptv.de:8000/live/amine/amine/217.ts
-#EXTINF:-1,FR: A LA CARTE 1 HD
-http://atlas-iptv.de:8000/live/amine/amine/216.ts
-
-
-#EXTINF:-1,France 2
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/646.ts
-#EXTINF:-1,France-3
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/647.ts
-#EXTINF:-1,Franch-4
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/448.ts
-#EXTINF:-1,France-5
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/648.ts
-#EXTINF:-1,FR:13Rue
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1328.ts
-#EXTINF:-1,FR-ACTION-HD
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/388.ts
-#EXTINF:-1,FR:Animaux
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1330.ts
-#EXTINF:-1,FR:Mangas
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1336.ts
-#EXTINF:-1,FR:Gulli
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1333.ts
-#EXTINF:-1,FR:RTL-9
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/650.ts
-#EXTINF:-1,FR:D17
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1444.ts
-#EXTINF:-1,FR:Cine_Famiz
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1327.ts
-#EXTINF:-1,FR:Cine_Classic
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1452.ts
-#EXTINF:-1,FR:NRJ-TV
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1332.ts
-#EXTINF:-1,FR:POLAR
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1442.ts
-#EXTINF:-1,FR:TF1-HD
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1314.ts
-#EXTINF:-1,FR:CanalJ
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/615.ts
-#EXTINF:-1,FR:TeleToon
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/672.ts
-#EXTINF:-1,FR:Ushuaia-TV
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/441.ts
-#EXTINF:-1,FR:Chasse_et_Peche
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1329.ts
-#EXTINF:-1,FR:Teva-HD
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/649.ts
-#EXTINF:-1,FR:W9
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1317.ts
-#EXTINF:-1,FR:D8
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1316.ts
-#EXTINF:-1,FR:PARIS-PREMIERE
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1443.ts
-#EXTINF:-1,FR:SYFY
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1445.ts
-#EXTINF:-1,FR:BeinSport-3
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1451.ts
-#EXTINF:-1,FR:Cine PremierHD
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1450.ts
-#EXTINF:-1,FR:Cine Frisson
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1446.ts
-#EXTINF:-1,FR:Cine Emotion
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1447.ts
-#EXTINF:-1,FR:Canal Sport
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1448.ts
-#EXTINF:-1,FR:Canal Series
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1449.ts
-#EXTINF:-1,FR:CANAL+HD
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1320.ts
-#EXTINF:-1,FR:CANAL-CINEMA
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1321.ts
-#EXTINF:-1,FR:CANAL_FAMILY_HD
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1323.ts
-#EXTINF:-1,FR:Canal_Decale_HD
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1324.ts
-#EXTINF:-1,FR:CANAL _SPORT_HD
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1319.ts
-#EXTINF:-1,FR:BOX-OFFICE-HD
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1315.ts
-#EXTINF:-1,FR-Canal-3
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/445.ts
-#EXTINF:-1,Fr-ARTE
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/442.ts
-#EXTINF:-1,FR:COMEDI+
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1326.ts
-#EXTINF:-1,NourSat-AlKalma
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/443.ts
-#EXTINF:-1,FR-2plus
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/444.ts
-#EXTINF:-1,FR-GOLD-TV
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/453.ts
-#EXTINF:-1,FR-Cine-fil
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/446.ts
-#EXTINF:-1,FR-BRAVO-TV
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/452.ts
-#EXTINF:-1,FR:Ma_chaine_sport
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1325.ts
-#EXTINF:-1,FR:DisneyJunior
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1337.ts
-#EXTINF:-1,FR:Disney-Cinemagic
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1334.ts
-#EXTINF:-1,FR:CartoonNetworkHD
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1335.ts
-#EXTINF:-1,FR:Boomerang
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/616.ts
-
-#EXTINF:-1,TV5-Monde
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1205.m3u8
-#EXTINF:-1,France 2
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/646.m3u8
-#EXTINF:-1,France-3
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/647.m3u8
-#EXTINF:-1,Franch-4
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/448.m3u8
-#EXTINF:-1,France-5
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/648.m3u8
-#EXTINF:-1,FR:13Rue
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1328.m3u8
-#EXTINF:-1,FR-ACTION-HD
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/388.m3u8
-#EXTINF:-1,FR:Animaux
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1330.m3u8
-#EXTINF:-1,FR:Mangas
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1336.m3u8
-#EXTINF:-1,FR:Gulli
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1333.m3u8
-#EXTINF:-1,FR:RTL-9
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/650.m3u8
-#EXTINF:-1,FR:D17
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1444.m3u8
-#EXTINF:-1,FR:Cine_Famiz
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1327.m3u8
-#EXTINF:-1,FR:Cine_Classic
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1452.m3u8
-#EXTINF:-1,FR:NRJ-TV
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1332.m3u8
-#EXTINF:-1,FR:POLAR
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1442.m3u8
-#EXTINF:-1,FR:TF1-HD
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1314.m3u8
-#EXTINF:-1,FR:CanalJ
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/615.m3u8
-#EXTINF:-1,FR:TeleToon
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/672.m3u8
-#EXTINF:-1,FR:Ushuaia-TV
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/441.m3u8
-#EXTINF:-1,FR:Chasse_et_Peche
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1329.m3u8
-#EXTINF:-1,FR:Teva-HD
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/649.m3u8
-#EXTINF:-1,FR:W9
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1317.m3u8
-#EXTINF:-1,FR:D8
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1316.m3u8
-#EXTINF:-1,FR:PARIS-PREMIERE
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1443.m3u8
-#EXTINF:-1,FR:SYFY
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1445.m3u8
-#EXTINF:-1,FR:BeinSport-3
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1451.m3u8
-#EXTINF:-1,FR:Cine PremierHD
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1450.m3u8
-#EXTINF:-1,FR:Cine Frisson
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1446.m3u8
-#EXTINF:-1,FR:Cine Emotion
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1447.m3u8
-#EXTINF:-1,FR:Canal Sport
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1448.m3u8
-#EXTINF:-1,FR:Canal Series
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1449.m3u8
-#EXTINF:-1,FR:CANAL+HD
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1320.m3u8
-#EXTINF:-1,FR:CANAL-CINEMA
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1321.m3u8
-#EXTINF:-1,FR:CANAL_FAMILY_HD
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1323.m3u8
-#EXTINF:-1,FR:Canal_Decale_HD
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1324.m3u8
-#EXTINF:-1,FR:CANAL _SPORT_HD
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1319.m3u8
-#EXTINF:-1,FR:BOX-OFFICE-HD
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1315.m3u8
-#EXTINF:-1,FR-Canal-3
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/445.m3u8
-#EXTINF:-1,Fr-ARTE
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/442.m3u8
-#EXTINF:-1,FR:COMEDI+
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1326.m3u8
-#EXTINF:-1,NourSat-AlKalma
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/443.m3u8
-#EXTINF:-1,FR-2plus
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/444.m3u8
-#EXTINF:-1,FR-GOLD-TV
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/453.m3u8
-#EXTINF:-1,FR-Cine-fil
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/446.m3u8
-#EXTINF:-1,FR-BRAVO-TV
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/452.m3u8
-#EXTINF:-1,FR:Ma_chaine_sport
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1325.m3u8
-#EXTINF:-1,FR:DisneyJunior
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1337.m3u8
-#EXTINF:-1,FR:Disney-Cinemagic
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1334.m3u8
-#EXTINF:-1,FR:CartoonNetworkHD
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/1335.m3u8
-#EXTINF:-1,FR:Boomerang
-http://sat.010e.net:8000/live/mamdooh2/mamdooh2/616.m3u8
+#EXTINF:-1,FR: boing
+http://top-iptv.zapto.org:8000/live/Aria/Aria/9.ts
+#EXTINF:-1,FR: Ushuaia Tv HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/8.ts
+#EXTINF:-1,FR: Chasse & Peche
+http://top-iptv.zapto.org:8000/live/Aria/Aria/7.ts
+#EXTINF:-1,FR: teva
+http://top-iptv.zapto.org:8000/live/Aria/Aria/6.ts
+#EXTINF:-1,FR: paris premiere
+http://top-iptv.zapto.org:8000/live/Aria/Aria/5.ts
+#EXTINF:-1,FR: Canal J
+http://top-iptv.zapto.org:8000/live/Aria/Aria/12.ts
+#EXTINF:-1,FR: ANIMAUX
+http://top-iptv.zapto.org:8000/live/Aria/Aria/11.ts
+#EXTINF:-1,FR: piwi
+http://top-iptv.zapto.org:8000/live/Aria/Aria/10.ts
+#EXTINF:-1,FR: Watania 1
+http://top-iptv.zapto.org:8000/live/Aria/Aria/384.ts
+#EXTINF:-1,FR: BEIN-SPORTS 3 FR
+http://top-iptv.zapto.org:8000/live/Aria/Aria/54.ts
+#EXTINF:-1,FR:BFM
+http://top-iptv.zapto.org:8000/live/Aria/Aria/65.ts
+#EXTINF:-1,FR: Canal+
+http://top-iptv.zapto.org:8000/live/Aria/Aria/49.ts
+#EXTINF:-1,FR:  Canal+ Cinema
+http://top-iptv.zapto.org:8000/live/Aria/Aria/50.ts
+#EXTINF:-1,FR: Canal+ Decale
+http://top-iptv.zapto.org:8000/live/Aria/Aria/52.ts
+#EXTINF:-1,FR: Canal+ Family
+http://top-iptv.zapto.org:8000/live/Aria/Aria/53.ts
+#EXTINF:-1,FR: Canal+ Sport
+http://top-iptv.zapto.org:8000/live/Aria/Aria/51.ts
+#EXTINF:-1,FR: ZOUZOU TV
+http://top-iptv.zapto.org:8000/live/Aria/Aria/86.ts
+#EXTINF:-1,FR: Cine Fx
+http://top-iptv.zapto.org:8000/live/Aria/Aria/77.ts
+#EXTINF:-1,FR: Cine Plus Famiz HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/69.ts
+#EXTINF:-1,FR: FRANCE 4
+http://top-iptv.zapto.org:8000/live/Aria/Aria/76.ts
+#EXTINF:-1,FR: Discovery Science
+http://top-iptv.zapto.org:8000/live/Aria/Aria/74.ts
+#EXTINF:-1,FR:  PLANETE + CI
+http://top-iptv.zapto.org:8000/live/Aria/Aria/87.ts
+#EXTINF:-1,FR: Disney FR
+http://top-iptv.zapto.org:8000/live/Aria/Aria/85.ts
+#EXTINF:-1,FR: France 2
+http://top-iptv.zapto.org:8000/live/Aria/Aria/57.ts
+#EXTINF:-1,FR: France 3
+http://top-iptv.zapto.org:8000/live/Aria/Aria/58.ts
+#EXTINF:-1,FR: FRANCE 5
+http://top-iptv.zapto.org:8000/live/Aria/Aria/59.ts
+#EXTINF:-1,FR:  Gulli
+http://top-iptv.zapto.org:8000/live/Aria/Aria/68.ts
+#EXTINF:-1,FR: Canal Plus Series HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/72.ts
+#EXTINF:-1,FR:Cine Plus Emotion HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/70.ts
+#EXTINF:-1,FR: Cine+ Frisson
+http://top-iptv.zapto.org:8000/live/Aria/Aria/62.ts
+#EXTINF:-1,FR: M6
+http://top-iptv.zapto.org:8000/live/Aria/Aria/56.ts
+#EXTINF:-1,FR: National Geo.
+http://top-iptv.zapto.org:8000/live/Aria/Aria/81.ts
+#EXTINF:-1,FR: National Geo. Wild HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/84.ts
+#EXTINF:-1,FR: TCM
+http://top-iptv.zapto.org:8000/live/Aria/Aria/61.ts
+#EXTINF:-1,FR: O FR
+http://top-iptv.zapto.org:8000/live/Aria/Aria/60.ts
+#EXTINF:-1,FR: PLANETE  CI
+http://top-iptv.zapto.org:8000/live/Aria/Aria/80.ts
+#EXTINF:-1,FR: CINE + Premier
+http://top-iptv.zapto.org:8000/live/Aria/Aria/71.ts
+#EXTINF:-1,FR: Syfy HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/79.ts
+#EXTINF:-1,FR: RTL9 HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/83.ts
+#EXTINF:-1,FR: TF1
+http://top-iptv.zapto.org:8000/live/Aria/Aria/55.ts
+#EXTINF:-1,FR:COMEDIE
+http://top-iptv.zapto.org:8000/live/Aria/Aria/64.ts
+#EXTINF:-1,FR: OCS Max HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/88.ts
+#EXTINF:-1,FR:  Animaux HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/82.ts
+#EXTINF:-1,FR:W9_FR
+http://top-iptv.zapto.org:8000/live/Aria/Aria/66.ts
+#EXTINF:-1,FR: BEIN SPORTS 1  FR
+http://top-iptv.zapto.org:8000/live/Aria/Aria/99.ts
+#EXTINF:-1,FR: BEIN SPORTS 2
+http://top-iptv.zapto.org:8000/live/Aria/Aria/100.ts
+#EXTINF:-1,FR: EUROSPORT FR
+http://top-iptv.zapto.org:8000/live/Aria/Aria/101.ts
  
 #EXTINF:-1,[COLOR yellow][I][B]FR/GE/UK/IT[/B][/I][/COLOR] [COLOR white][I][B] - Copiez et collez le [COLOR yellow]Playlist URL[/COLOR] dans PVR Simple Client ou Playlist Loader.[/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -1085,8 +764,58 @@ http://tvclub.fr/ch16.m3u8
 #EXTINF:-1,[I][B][COLOR yellow]--- Generalistes ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-#EXTINF:-1, M6
+#EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-name="France 2" tvg-logo="france2.png" group-title="WebTV-FR",France 2
+http://live.francetv.fr/simulcast/France_2/hls_v1/index.m3u8
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-name="France 3" tvg-logo="france3.png" group-title="WebTV-FR",France 3
+http://live.francetv.fr/simulcast/France_3/hls_v1/index.m3u8
+#EXTINF:-1 tvg-id="FRA4.kazer.org" tvg-name="France 4" tvg-logo="france4.png" group-title="WebTV-FR",France 4
+http://live.francetv.fr/simulcast/France_4/hls_v1/index.m3u8
+#EXTINF:-1 tvg-id="FRA5.kazer.org" tvg-name="France 5" tvg-logo="france5.png" group-title="WebTV-FR",France 5
+http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8
+#EXTINF:-1 tvg-id="ART1.kazer.org" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV-FR",Arte
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1 tvg-id="M61.kazer.org" tvg-name="M6" tvg-logo="m6.png" group-title="WebTV-FR",M6
 http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
+#EXTINF:-1 tvg-id="M61.kazer.org" tvg-name="M6" tvg-logo="m6.png" group-title="WebTV-FR",M6
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+#EXTINF:-1 tvg-id="W91.kazer.org" tvg-name="W9" tvg-logo="w9.png" group-title="WebTV-FR",W9
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+#EXTINF:-1 tvg-id="6TER.kazer.org" tvg-name="6TER" tvg-logo="6ter.png" group-title="WebTV-FR",6Ter
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="m6music.png" group-title="WebTV-FR",M6 Music
+https://sslhls.m6tv.cdn.sfr.net/m6_music_hits_hls_aes.m3u8
+#EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-name="NRJ12" tvg-logo="nrj12.png" group-title="WebTV-FR",NRJ 12
+http://stream.live-tv-direct.com:8009/apple/nrj/nrj/nrj12hi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="itele" tvg-logo="itele.png" group-title="WebTV-FR",I Télé
+http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="euronews.png" group-title="WebTV-FR",Euronews
+http://streaming-hub.com/stream/euronews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zouzous" tvg-logo="zouzous.png" group-title="WebTV-FR",Zouzous
+http://medias2.francetv.fr/playlists/zouzous/zouzous_tablettes.m3u8|X-Forwarded-For=2.1.109.65
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="gulli.png" group-title="WebTV-FR",Gulli
+http://streaming-hub.com/stream/gulli.m3u8|X-Forwarded-For=85.2.194.16
+#EXTINF:-1 tvg-id="" tvg-name="Animania" tvg-logo="animania.png" group-title="WebTV-FR",Animania
+http://teleclub.fr/animania.mp4
+#EXTINF:-1 tvg-id="RMC2.kazer.org" tvg-name="RMC Découverte" tvg-logo="rmcdecouverte.png" group-title="WebTV-FR",RMC Découverte
+http://streaming-hub.com/stream/rmc.m3u8|X-Forwarded-For=85.4.161.88
+#EXTINF:-1 tvg-id="" tvg-name="Oui tv" tvg-logo="ouitv.png" group-title="WebTV-FR",Oui Tv
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8|X-Forwarded-For=85.6.190.45
+#EXTINF:-1 tvg-id="" tvg-name="Rouge Tv" tvg-logo="rougetv.png" group-title="WebTV-FR",Rouge Tv
+http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Music TV" tvg-logo="vevomusictv.png" group-title="WebTV-FR",Vevo Music TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Hip Hop TV" tvg-logo="vevohiphoptv.png" group-title="WebTV-FR",Vevo Hip Hop TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Rock TV" tvg-logo="vevorocktv.png" group-title="WebTV-FR",Vevo Rock TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Equipe 21" tvg-logo="equipe21.png" group-title="WebTV-FR",Equipe21
+http://streaming-hub.com/stream/lequipe21.m3u8|X-Forwarded-For=85.5.76.56
+#EXTINF:-1 tvg-id="" tvg-name="I24" tvg-logo="i24.png" group-title="WebTV-FR",I24
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8|X-Forwarded-For=2.13.88.54
+#EXTINF:-1 tvg-id="" tvg-name="Weo" tvg-logo="weo.png" group-title="WebTV-FR",Weo
+http://str81.creacast.com:80/weo/high/playlist.m3u8|X-Forwarded-For=2.7.49.178
+#EXTINF:-1 tvg-id="" tvg-name="RTL Télé Lux" tvg-logo="rtltelelux.png" group-title="WebTV-FR",RTL Télé Lux
+http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8|X-Forwarded-For=2.14.105.12
 
 #EXTINF:-1, TebeSud
 rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
@@ -1369,240 +1098,64 @@ rtmp://wowza.tvlux.imust.org/live/tvlux-live
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow][I][B]Versuchen Sie mehrmals, wenn Kanal funktioniert nicht[/B][/I][/COLOR]
-
-#EXTINF:-1,DE: ZDF
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/960.ts
-#EXTINF:-1,DE: Vox
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/961.ts
-#EXTINF:-1,DE: Sky National Geografic HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/963.ts
-#EXTINF:-1,DE: Sky Fox HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/930.ts
-#EXTINF:-1,DE: Orf Eins
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/962.ts
-#EXTINF:-1,DE: 13EME RUE HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/912.ts
-#EXTINF:-1,DE: RTL Nitro
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/808.ts
-#EXTINF:-1,DE: RTL HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/809.ts
-#EXTINF:-1,DE: RTL 2
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/810.ts
-#EXTINF:-1,DE: PRO7
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/811.ts
-#EXTINF:-1,DE: ORF 2
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/812.ts
-#EXTINF:-1,DE: ORF 1
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/813.ts
-#EXTINF:-1,DE: Mgm HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/473.ts
-#EXTINF:-1,DE: FOX
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/814.ts
-#EXTINF:-1,DE: Sky Cinema 1 DE
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/804.ts
-#EXTINF:-1,DE: Sky Comedy HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/803.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/805.ts
-#EXTINF:-1,DE: Sky Action HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/807.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/806.ts
-#EXTINF:-1,DE: SPORT TIME 1
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/802.ts
-#EXTINF:-1,DE: SPORT TIME 2
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/819.ts
-#EXTINF:-1,DE: SPORT TIME 3
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/818.ts
-#EXTINF:-1,DE: SPORT TIME 4
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/817.ts
-#EXTINF:-1,DE: SPORT TIME 6
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/816.ts
-#EXTINF:-1,DE: SPORT TIME 7
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/815.ts
-#EXTINF:-1,DE: Sport Time Tv 7
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/198.ts
-#EXTINF:-1,DE: Sport Time Tv 6
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/199.ts
-#EXTINF:-1,DE: Sport Time Tv 5
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/200.ts
-#EXTINF:-1,DE: Sport Time Tv 4
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/201.ts
-#EXTINF:-1,DE: Sport Time Tv 3
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/202.ts
-#EXTINF:-1,DE: Sport Time Tv 2
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/203.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/204.ts
-#EXTINF:-1,DE: Sky Sport 1HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/205.ts
-#EXTINF:-1,DE: Sky Select 9 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/206.ts
-#EXTINF:-1,DE: Sky Select 8HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/207.ts
-#EXTINF:-1,DE: Sky Select 7HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/208.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/209.ts
-#EXTINF:-1,DE: Sky Select 5HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/210.ts
-#EXTINF:-1,DE: Sky Select 4HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/211.ts
-#EXTINF:-1,DE: Sky Select 3HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/212.ts
-#EXTINF:-1,DE: Sky Select 2HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/213.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/214.ts
-#EXTINF:-1,DE: Sky Select 10 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/215.ts
-#EXTINF:-1,DE: Sky Emotion
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/216.ts
-#EXTINF:-1,DE: Sky Comedy
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/217.ts
-#EXTINF:-1,DE: Sky Cinema  24
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/218.ts
+#EXTINF:-1,DE :  sky comedy
+http://top-iptv.zapto.org:8000/live/Aria/Aria/492.ts
+#EXTINF:-1,DE : Eins
+http://top-iptv.zapto.org:8000/live/Aria/Aria/475.ts
+#EXTINF:-1,DE : Cartoon Network
+http://top-iptv.zapto.org:8000/live/Aria/Aria/477.ts
+#EXTINF:-1,DE : Sky-Bundesliga-HD1
+http://top-iptv.zapto.org:8000/live/Aria/Aria/471.ts
+#EXTINF:-1,DE : sky sport 1
+http://top-iptv.zapto.org:8000/live/Aria/Aria/495.ts
+#EXTINF:-1,DE : Sky Cinema 1
+http://top-iptv.zapto.org:8000/live/Aria/Aria/490.ts
+#EXTINF:-1,DE : ORF EINS
+http://top-iptv.zapto.org:8000/live/Aria/Aria/474.ts
+#EXTINF:-1,DE : SIXX
+http://top-iptv.zapto.org:8000/live/Aria/Aria/472.ts
+#EXTINF:-1,DE : kika
+http://top-iptv.zapto.org:8000/live/Aria/Aria/476.ts
+#EXTINF:-1,DE : Sky Krimi
+http://top-iptv.zapto.org:8000/live/Aria/Aria/488.ts
+#EXTINF:-1,DE : RTL DE
+http://top-iptv.zapto.org:8000/live/Aria/Aria/482.ts
+#EXTINF:-1,DE : Nickelodeon
+http://top-iptv.zapto.org:8000/live/Aria/Aria/496.ts
+#EXTINF:-1,DE :  ZDF
+http://top-iptv.zapto.org:8000/live/Aria/Aria/480.ts
+#EXTINF:-1,DE :SKY SELECT 1 HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/473.ts
+#EXTINF:-1,DE : PRO 7
+http://top-iptv.zapto.org:8000/live/Aria/Aria/481.ts
+#EXTINF:-1,DE : sky cinema 24
+http://top-iptv.zapto.org:8000/live/Aria/Aria/491.ts
+#EXTINF:-1,DE : 13 Street HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/467.ts
+#EXTINF:-1,DE :  ATV 24
+http://top-iptv.zapto.org:8000/live/Aria/Aria/497.ts
+#EXTINF:-1,DE : SAT 1
+http://top-iptv.zapto.org:8000/live/Aria/Aria/486.ts
+#EXTINF:-1,DE : VOX DE
+http://top-iptv.zapto.org:8000/live/Aria/Aria/487.ts
+#EXTINF:-1,DE : sky sport 2
+http://top-iptv.zapto.org:8000/live/Aria/Aria/494.ts
+#EXTINF:-1,DE : ORF Sport+
+http://top-iptv.zapto.org:8000/live/Aria/Aria/479.ts
+#EXTINF:-1,DE: MGM HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/470.ts
+#EXTINF:-1,DE: Sky BundesLiga HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/468.ts
+#EXTINF:-1,DE: sky emotion
+http://top-iptv.zapto.org:8000/live/Aria/Aria/493.ts
+#EXTINF:-1,DE: National Geographic
+http://top-iptv.zapto.org:8000/live/Aria/Aria/469.ts
 #EXTINF:-1,DE: Sky Atlantic
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/221.ts
-#EXTINF:-1,DE: Sky Action
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/222.ts
-#EXTINF:-1,GER - Sky Bundesliga HD1
-http://31.177.62.137:9071
-
-
-#EXTINF:-1,SKYDE:SKY-COMEDY
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1389.ts
-#EXTINF:-1,RTL-GERMANY
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/396.ts
-#EXTINF:-1,DE:_Super_RTL
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1395.ts
-#EXTINF:-1,DE:PRO-7
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1394.ts
-#EXTINF:-1,VOX-GR
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/660.ts
-#EXTINF:-1,ARD-Germany
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/651.ts
-#EXTINF:-1,ZDF-Germany
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1176.ts
-#EXTINF:-1,Das1-Germany
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/652.ts
-#EXTINF:-1,Alex-Berlin
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/653.ts
-#EXTINF:-1,Family-TV-Germany
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1177.ts
-#EXTINF:-1,Sport-Time-TV1
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1178.ts
-#EXTINF:-1,Sport-Time-TV2
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1179.ts
-#EXTINF:-1,Sport-Time-TV3
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1180.ts
-#EXTINF:-1,Sport-Time-TV4
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1181.ts
-#EXTINF:-1,Sport-Time-TV5
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1182.ts
-#EXTINF:-1,Sport-Time-TV6
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1183.ts
-#EXTINF:-1,DE:SKYBUNDESLIGA1
-http://sat.010e.net:8000/live/mamdooh3/mamdooh3/1393.ts
-
-#EXTINF:-1,DE: ZDF
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/960.ts
-#EXTINF:-1,DE: Vox
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/961.ts
-#EXTINF:-1,DE: Sky National Geografic HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/963.ts
-#EXTINF:-1,DE: Sky Fox HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/930.ts
-#EXTINF:-1,DE: Orf Eins
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/962.ts
-#EXTINF:-1,DE: 13EME RUE HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/912.ts
-#EXTINF:-1,DE: RTL Nitro
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/808.ts
-#EXTINF:-1,DE: RTL HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/809.ts
-#EXTINF:-1,DE: RTL 2
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/810.ts
-#EXTINF:-1,DE: PRO7
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/811.ts
-#EXTINF:-1,DE: ORF 2
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/812.ts
-#EXTINF:-1,DE: ORF 1
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/813.ts
-#EXTINF:-1,DE: Mgm HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/473.ts
-#EXTINF:-1,DE: FOX
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/814.ts
-#EXTINF:-1,DE: Sky Cinema 1 DE
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/804.ts
-#EXTINF:-1,DE: Sky Comedy HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/803.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/805.ts
-#EXTINF:-1,DE: Sky Action HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/807.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/806.ts
-#EXTINF:-1,DE: SPORT TIME 1
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/802.ts
-#EXTINF:-1,DE: SPORT TIME 2
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/819.ts
-#EXTINF:-1,DE: SPORT TIME 3
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/818.ts
-#EXTINF:-1,DE: SPORT TIME 4
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/817.ts
-#EXTINF:-1,DE: SPORT TIME 6
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/816.ts
-#EXTINF:-1,DE: SPORT TIME 7
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/815.ts
-#EXTINF:-1,DE: Sport Time Tv 7
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/198.ts
-#EXTINF:-1,DE: Sport Time Tv 6
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/199.ts
-#EXTINF:-1,DE: Sport Time Tv 5
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/200.ts
-#EXTINF:-1,DE: Sport Time Tv 4
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/201.ts
-#EXTINF:-1,DE: Sport Time Tv 3
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/202.ts
-#EXTINF:-1,DE: Sport Time Tv 2
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/203.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/204.ts
-#EXTINF:-1,DE: Sky Sport 1HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/205.ts
-#EXTINF:-1,DE: Sky Select 9 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/206.ts
-#EXTINF:-1,DE: Sky Select 8HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/207.ts
-#EXTINF:-1,DE: Sky Select 7HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/208.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/209.ts
-#EXTINF:-1,DE: Sky Select 5HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/210.ts
-#EXTINF:-1,DE: Sky Select 4HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/211.ts
-#EXTINF:-1,DE: Sky Select 3HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/212.ts
-#EXTINF:-1,DE: Sky Select 2HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/213.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/214.ts
-#EXTINF:-1,DE: Sky Select 10 HD
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/215.ts
-#EXTINF:-1,DE: Sky Emotion
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/216.ts
-#EXTINF:-1,DE: Sky Comedy
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/217.ts
-#EXTINF:-1,DE: Sky Cinema  24
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/218.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/221.ts
-#EXTINF:-1,DE: Sky Action
-http://iptvviad-world.dyndns.org:8000/live/rapid/rapid/222.ts
-#EXTINF:-1,GER - Sky Bundesliga HD1
-http://31.177.62.137:9071
+http://top-iptv.zapto.org:8000/live/Aria/Aria/466.ts
+#EXTINF:-1,DE: Sky Cinema
+http://top-iptv.zapto.org:8000/live/Aria/Aria/489.ts
+#EXTINF:-1,DE: kabel1
+http://top-iptv.zapto.org:8000/live/Aria/Aria/478.ts
 
 
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]

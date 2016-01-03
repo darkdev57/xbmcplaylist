@@ -29,28 +29,6 @@ http://stream.live-tv-direct.com:8009/apple/nrj/nrj/nrj12hi.m3u8
 http://stream.live-tv-direct.com:9180/live/hls/d8-clair-hd-and/and-hd-clair/d8-clair-hd-video=1100000-audio_AACL_fra_96000_127=96000.m3u8
 #EXTINF:-1 tvg-id="EUR2.kazer.org" tvg-name="D17" tvg-logo="d17.png" group-title="WebTV-FR",D17
 http://stream.live-tv-direct.com:9180/live/hls/d17-clair-hd-and/and-hd-clair/d17-clair-hd-video=1100000-audio_AACL_fra_96000_127=96000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NT1" tvg-logo="nt1.png" group-title="WebTV-FR",NT1
-rtmp://frtvonline.no-ip.be/live/nt1b
-#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="ab1.png" group-title="WebTV-FR",AB1
-http://82.135.224.134:88/udp/239.255.1.208:1234
-#EXTINF:-1 tvg-id="RTL2.kazer.org" tvg-name="RTL9" tvg-logo="rtl9.png" group-title="WebTV-FR",RTL9
-http://hlstv-g3.swisscom.com/iphone/smil:1713_iPhone.smil/playlist.m3u8?NHM=vyqqqqqwzur&NHM6=y&N6=MLKP5E6&J=yvvxzvuztvwtw&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-tOrLOLvOqMrvuyswrtOvtutzrvMqNLqu&MSK=true
-#EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="rtsun.png" group-title="WebTV-FR",RTS Un
-http://streaming-hub.com/ss/i/rts1_1@97469/index_900_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="rtsdeux.png" group-title="WebTV-FR",RTS Deux
-http://streaming-hub.com/ss/i/rts2_1@97470/index_900_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="Planet+ Thalassa" tvg-logo="planetplusthalassa.png" group-title="WebTV-FR",Planet+ Thalassa
-http://178.33.88.129:888/udp/239.102.0.92:1234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planet+" tvg-logo="planetplus.png" group-title="WebTV-FR",Planet+
-http://82.135.224.134:88/udp/239.255.1.180:1234
-#EXTINF:-1 tvg-id="" tvg-name="UshuaiaTV" tvg-logo="ushuaiatv.png" group-title="WebTV-FR",UshuaiaTV
-http://178.33.88.129:888/udp/239.102.0.91:1234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="nationalgeographic.png" group-title="WebTV-FR",National Geographic
-http://82.135.224.134:88/udp/239.255.1.191:1234
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="discoverychannel.png" group-title="WebTV-FR",Discovery Channel
-http://178.33.88.129:888/udp/239.102.0.90:1234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="tv5.png" group-title="WebTV-FR",TV5 Monde
-http://hlstv-g3.swisscom.com/iphone/smil:1740_iPhone.smil/playlist.m3u8?NHM=vyqqqqqwutt&NHM6=y&N6=MLKP5E6&J=yvvxzvsxwurux&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-suqNrxtKxOzxOttvvxONzrNtwrsPLqNq&MSK=true
 #EXTINF:-1 tvg-id="" tvg-name="itele" tvg-logo="itele.png" group-title="WebTV-FR",I Télé
 http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="euronews.png" group-title="WebTV-FR",Euronews
