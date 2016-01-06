@@ -5,408 +5,6 @@
 #EXTINF:-1, [COLOR green] --sat-lopta-emu.blogspot.fr 27-12-2015--[/COLOR]
 #EXTINF:-1,[COLOR blue][I][B]---29-12-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --http://mafreebox.freebox.fr/freeboxtv/playlist.m3u--[/COLOR]
-#EXTINF:-1 tvg-id="SRF1.ch" group-title="Deutsch" tvg-logo="0076.png",[COLOR orange]SRF 1 HD[/COLOR]
-http://62.65.140.214/session/5c6dbc1c-b264-11e5-addc-005056bc1a52/nvnv5a/1/1008/index.m3u8?p=127&token=2d4b4c9d059fddee75e3b346f2411f72&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="SRF2.ch" group-title="Deutsch" tvg-logo="0078.png",[COLOR orange]SRF zwei HD[/COLOR]
-http://62.65.140.215/session/7b8adc32-b265-11e5-a010-005056bc49ac/nvnv5a/1/1009/index.m3u8?p=127&token=4785f0c4b6cf7d8d0bafcb9e1aa1c62d&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Deutsch" tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
-http://62.65.140.149/session/39fe53d6-b268-11e5-896c-005056bc49ac/nvnv5a/1/1003/index.m3u8?p=127&token=7ae98958addd07adbd6fe4d92ce507c0&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR orange]3+ HD[/COLOR]
-http://62.65.140.150/session/13eb42aa-b270-11e5-8574-005056bc06d1/nvnv5a/1/1013/index.m3u8?p=127&token=832d364c0ae2d5dbb9723aed93385da1&expires=1451949413&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR orange]4+ HD[/COLOR]
-http://62.65.140.152/session/7a4dc1c6-b266-11e5-8681-005056bc06d1/nvnv5a/1/1031/index.m3u8?p=127&token=e489ed1c7b27b5e9dff27f234d69f4e3&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0137.png",[COLOR orangered]5+ HD[/COLOR]
-http://62.65.140.216/session/92f5a0a4-b266-11e5-a4c7-005056bc49ac/nvnv5a/1/1047/index.m3u8?p=127&token=5331b0605fa30ac72b804fef679614ad&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orange]ARD HD[/COLOR]
-http://62.65.140.151/session/254cf862-b267-11e5-9d96-005056bc1a52/nvnv5a/2/1165/index.m3u8?p=127&token=c3e323e682ec5893225fce2d5866c1d2&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
-http://62.65.140.148/session/59568236-b267-11e5-8b04-005056bc49ac/nvnv5a/2/1166/index.m3u8?p=127&token=84678142386b0908e821de73ab3651ae&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ZDFneo.de" group-title="Deutsch" tvg-logo="0053.png",[COLOR orangered]ZDF neo HD[/COLOR]
-http://62.65.140.152/session/c2a3ca86-b268-11e5-94d7-005056bc06d1/nvnv5a/1/1121/index.m3u8?p=127&token=34ebaf9940208dd77f94009f2a5ce556&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="Deutsch" tvg-logo="0057.png",[COLOR orangered]ZDF-Info HD[/COLOR]
-http://62.65.140.154/session/6c03fa14-b26a-11e5-841a-005056bc49ac/nvnv5a/1/1118/index.m3u8?p=127&token=16bca1395de8e76482fca615d4961763&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0128.png",[COLOR orange]Pro7 HD[/COLOR]
-http://62.65.140.148/session/f8509bee-b26f-11e5-88b1-005056bc06d1/nvnv5a/1/1037/index.m3u8?p=127&token=da9d860ecf901c4df575881db7d1f0e8&expires=1451949367&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]Pro7Maxx[/COLOR]
-http://62.65.140.155/session/3a733862-b269-11e5-8016-005056bc06d1/nvnv5a/1/1041/index.m3u8?p=127&token=34d5c098a1e26fdd1e67d00c67f3239c&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR orange]RTL HD[/COLOR]
-http://62.65.140.152/session/d30d8388-b26f-11e5-972e-005056bc06d1/nvnv5a/1/1020/index.m3u8?p=127&token=643351c3716cc72cb62398f1dafbcb88&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0131.png",[COLOR orange]RTL 2 HD[/COLOR]
-http://62.65.140.214/session/1b29e3aa-b266-11e5-a137-005056bc1a52/nvnv5a/1/1024/index.m3u8?p=127&token=d3ceae77db037c00d46ce717a1260b46&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="RTLNitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL Nitro HD[/COLOR]
-http://62.65.140.216/session/8a55b23e-b26d-11e5-b747-005056bc06d1/nvnv5a/1/1027/index.m3u8?p=127&token=5e3b60401d72ee940e8f0a2207d04a9c&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="SRTL.de" group-title="Deutsch" tvg-logo="0143.png",[COLOR orangered]Super RTL HD[/COLOR]
-http://62.65.140.148/session/7e361e66-b269-11e5-8b18-005056bc49ac/nvnv5a/1/1023/index.m3u8?p=127&token=cd19cbefc2044115f31feec3255dfc73&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0129.png",[COLOR orange]Sat.1 HD[/COLOR]
-http://62.65.140.150/session/3f0f5214-b266-11e5-84fe-005056bc1a52/nvnv5a/1/1038/index.m3u8?p=127&token=858fe7e192f39e1f6865402da47e544b&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Vox.de" group-title="Deutsch" tvg-logo="0010.png",[COLOR orange]VOX HD[/COLOR]
-http://62.65.140.153/session/b1cf83b4-b266-11e5-8fd6-005056bc49ac/nvnv5a/1/1021/index.m3u8?p=127&token=07dcf0709dfb3e44e9bb9c7e0c0a76d7&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0030.png",[COLOR orange]PHOENIX HD[/COLOR]
-http://62.65.140.151/session/e4f2be30-b268-11e5-93d9-005056bc06d1/nvnv5a/1/1122/index.m3u8?p=127&token=e3ad836d51d33047e9e84b23d0a7eff1&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Kabel.de" group-title="Deutsch" tvg-logo="0130.png",[COLOR orange]Kabel 1 HD[/COLOR]
-http://62.65.140.216/session/154f594e-b269-11e5-9541-005056bc1a52/nvnv5a/1/1039/index.m3u8?p=127&token=89a9bd07c0cb686e30e12d2dfa4b7509&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="DMax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR orangered]DMAX[/COLOR]
-http://62.65.140.148/session/ef7cb674-b26a-11e5-b752-005056bc49ac/nvnv5a/1/1018/index.m3u8?p=127&token=315ff9bb06eb8b4cfb294b0c25129844&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ocht.ch" group-title="Deutsch" tvg-logo="",[COLOR orangered]OCHT[/COLOR]
-http://62.65.140.219/session/e852eec6-b266-11e5-8b2d-005056bc06d1/nvnv5a/2/1053/index.m3u8?p=127&token=c12800515c8e338aae9f1b5e48b3fafb&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR orange]Arte HD[/COLOR]
-http://62.65.140.213/session/cf4423f4-b267-11e5-9b13-005056bc1a52/nvnv5a/1/1150/index.m3u8?p=127&token=05136e53dd44e81b3e0dc4a886a2a3d0&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0047.png",[COLOR orangered]KiKa HD[/COLOR]
-http://62.65.140.153/session/187665d2-b26d-11e5-96fd-005056bc49ac/nvnv5a/1/1116/index.m3u8?p=127&token=91c4b436aed6494a1f1ed464f61ee92b&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Eurosport.de" group-title="Deutsch" tvg-logo="0049.png",[COLOR orangered]EuroSport[/COLOR]
-http://62.65.140.215/session/a854e36c-b269-11e5-bad1-005056bc1a52/nvnv5a/1/1051/index.m3u8?p=127&token=4e06a6d2fd79be10e17191894da6e666&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ORF1.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR orange]ORF1 HD[/COLOR]
-http://62.65.140.152/session/f80e7848-b267-11e5-8bc4-005056bc1a52/nvnv5a/1/1010/index.m3u8?p=127&token=f16402d8abc91b37ca3b461e47fb1357&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="ORF2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR orange]ORF2 HD[/COLOR]
-http://62.65.140.216/session/1ee66c5a-b268-11e5-a60e-005056bc49ac/nvnv5a/1/1011/index.m3u8?p=127&token=093742aa2bdff969423fd540073651cd&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
-http://62.65.140.155/session/661769ee-b268-11e5-80b4-005056bc1a52/nvnv5a/1/1117/index.m3u8?p=127&token=404eaa2961c2c9e4d3cfe4d74d4f5c34&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR orange]SWR BW HD[/COLOR]
-http://62.65.140.151/session/8efab9e2-b268-11e5-8eb6-005056bc1a52/nvnv5a/1/1114/index.m3u8?p=127&token=b7501cc33bc943e8a6db6e601941cd0b&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TF1.fr" group-title="French" tvg-logo="0202.png",[COLOR orange]TF1 HD[/COLOR]
-http://62.65.140.149/session/5318a300-b26b-11e5-965d-005056bc1a52/nvnv5a/2/2027/index.m3u8?p=127&token=5e8c4ab63d820632bb5db68f8b87ceeb&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="France2.fr" group-title="French" tvg-logo="0204.png",[COLOR orange]France 2 HD[/COLOR]
-http://62.65.140.148/session/0c5b4c60-b26b-11e5-9301-005056bc06d1/nvnv5a/2/2028/index.m3u8?p=127&token=d338ff64f67ccf60c4ddf2edd0adb4e1&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="France3.fr" group-title="French" tvg-logo="0205.png",[COLOR orangered]France 3[/COLOR]
-http://62.65.140.150/session/f46c0c28-b26c-11e5-9820-005056bc1a52/nvnv5a/2/2008/index.m3u8?p=127&token=8cea072be472e6687c432734ddf80809&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="France4.fr" group-title="French" tvg-logo="0221.png",[COLOR orange]France 4[/COLOR]
-http://62.65.140.219/session/d0cfbc36-b269-11e5-a8ad-005056bc49ac/nvnv5a/2/2009/index.m3u8?p=127&token=3f031ad378cbd00cebd149f5c2e7785f&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="France5.fr" group-title="French" tvg-logo="0207.png",[COLOR orange]France 5[/COLOR]
-http://62.65.140.152/session/f4628d22-b269-11e5-a99f-005056bc49ac/nvnv5a/2/2010/index.m3u8?p=127&token=506969afbfd80cc910587ccc1cded772&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="FranceO.fr" group-title="French" tvg-logo="0226.png",[COLOR orange]France ‘[/COLOR]
-http://62.65.140.150/session/2ca4b74a-b26b-11e5-8e12-005056bc49ac/nvnv5a/2/2015/index.m3u8?p=127&token=9fe2ad1b0a3e647105245632f9262727&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="M6.fr" group-title="French" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
-http://62.65.140.218/session/426e7f64-b26d-11e5-a1d0-005056bc06d1/nvnv5a/2/2026/index.m3u8?p=127&token=e6e42e31feeac9f33e0323da0f49ee8c&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="W9.ch" group-title="French" tvg-logo="0217.png",[COLOR orange]W9[/COLOR]
-http://62.65.140.154/session/0fced412-b26a-11e5-81a1-005056bc1a52/nvnv5a/2/2022/index.m3u8?p=127&token=fe9fd3a9b444580f80f57010e44f16b6&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Direct8.fr" group-title="French" tvg-logo="0216.png",[COLOR orange]D8[/COLOR]
-http://62.65.140.217/session/5f760eec-b26d-11e5-a9d8-005056bc49ac/nvnv5a/2/2018/index.m3u8?p=127&token=8610c4e4762167740107874393b2b334&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Gulli.fr" group-title="French" tvg-logo="0225.png",[COLOR gold]Gulli[/COLOR]
-http://62.65.140.218/session/d67af750-b26d-11e5-bd0b-005056bc1a52/nvnv5a/2/2011/index.m3u8?p=127&token=572b2aaf69f28b4d510ef9c9f362cde6&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="Euronews.nws" group-title="French" tvg-logo="0237.png",[COLOR orangered]EuroNews French[/COLOR]
-http://62.65.140.217/session/3ea46004-b26a-11e5-8a0f-005056bc1a52/nvnv5a/1/104901/index.m3u8?p=127&token=95eaa33c252cd6b6181c735773720328&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="French" tvg-logo="0234.png",[COLOR orange]TV5 Monde[/COLOR] 
-http://62.65.140.148/session/94b80630-b26a-11e5-923a-005056bc1a52/nvnv5a/2/2006/index.m3u8?p=127&token=26ee5080f8fe5410d8f06ae8a88dc3a1&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:-1 tvg-id="TSR1.ch" group-title="French" tvg-logo="0211.png",[COLOR orangered]RTS 1 HD[/COLOR]
-http://62.65.140.217/session/ac70d2b8-b26d-11e5-8e49-005056bc1a52/nvnv5a/2/2034/index.m3u8?p=127&token=bc5234ae8a5de56304b785d83502635f&expires=1452638435&c=t1|X-Forwarded-For=85.195.192.0
-#EXTINF:0800 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF SD[/COLOR]
-http://217.20.164.196:8080/zdf/index.m3u8
-#EXTINF:0800 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0005.png",[COLOR orange]RTL SD[/COLOR]
-http://217.20.164.196:8080/rtl/index.m3u8
-#EXTINF:0800 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0001.png",[COLOR orange]ARD SD[/COLOR]
-http://217.20.164.196:8080/ard/index.m3u8
-#EXTINF:0800 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0006.png",[COLOR orange]Sat.1 SD[/COLOR]
-http://217.20.164.196:8080/sat1/index.m3u8
-#EXTINF:0800 tvg-id="Sat1Gold.de" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]Sat.1 Gold SD[/COLOR]
-http://94.229.33.76:5000/udp/239.1.1.82:1234
-#EXTINF:0800 tvg-id="rbbBerlin.de" group-title="Deutsch" tvg-logo="0027.png",[COLOR orange]RBB SD[/COLOR]
-http://217.20.164.196:8080/rbb/index.m3u8
-#EXTINF:0800 tvg-id="ndr.de" group-title="Deutsch" tvg-logo="0107.png",[COLOR orange]NDR SD[/COLOR]
-http://217.20.164.196:8080/ndr/index.m3u8
-#EXTINF:0800 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR orange]SWR SD[/COLOR]
-http://217.20.164.196:8080/swr/index.m3u8
-#EXTINF:0800 tvg-id="n24.de" group-title="Deutsch" tvg-logo="0032.png",[COLOR orangered]N24[/COLOR]
-http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
-#EXTINF:0800 tvg-id="tagesschau24.de" group-title="Deutsch" tvg-logo="0064.png",[COLOR orangered]tagesschau24[/COLOR]
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:0800 tvg-id="Vox.de" group-title="Deutsch" tvg-logo="vox.de.png",[COLOR orangered]VOX SD[/COLOR]
-http://217.20.164.196:8080/vox/index.m3u8
-#EXTINF:0800 tvg-id="RiC.de" group-title="Deutsch" tvg-logo="0048.png",[COLOR orangered]RIC SD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0118.m3u8
-#EXTINF:0800 tvg-id="HR.de" group-title="Deutsch" tvg-logo="0026.png",[COLOR orangered]HR HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0119.m3u8
-#EXTINF:0800 tvg-id="DeutscheWelle.de" group-title="Deutsch" tvg-logo="0125.png",[COLOR orangered]Deutsche Welle[/COLOR]
-http://www.iptvsaga.com/play/tv3/0120.m3u8
-#EXTINF:0800 tvg-id="DAF.de" group-title="Deutsch" tvg-logo="0098.png",[COLOR orangered]DAF[/COLOR]
-http://www.iptvsaga.com/play/tv3/0122.m3u8
-#EXTINF:0800 tvg-id="WeltDerWunder.de" group-title="Deutsch" tvg-logo="0099.png",[COLOR orangered]welt der wunder[/COLOR]
-http://www.iptvsaga.com/play/tv3/0123.m3u8
-#EXTINF:0800 tvg-id="6ter.fr" group-title="French" tvg-logo="0229.png",[COLOR orangered]6ter[/COLOR]
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
-#EXTINF:0800 tvg-id="noepg.epg" group-title="Music" tvg-logo="vevo.tv.png",[COLOR orangered]VEVO HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0124.m3u8
-#EXTINF:0800 tvg-id="EurosportHD.uk" group-title="English" tvg-logo="eurosport.de",[COLOR orange]Eurosport 1 EN[/COLOR]
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:0800 tvg-id="Eurosport.fr" group-title="French" tvg-logo="eurosport.de",[COLOR orange]Eurosport 1 FR[/COLOR]
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:800 tvg-id="RAI4.it" group-title="Italian" tvg-logo="rai4.png",[COLOR orange]Rai 4[/COLOR]
-http://originstream7.rai.it/italy/rai4new.smil/chunklist_b1200000.m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="RAI5.it" group-title="Italian" tvg-logo="rai5.png",[COLOR orange]Rai 5[/COLOR]
-http://stream12.rai.it/live/smil:rai5_android.smil/playlist.m3u8|X-Forwarded-For=2.32.0.1 
-#EXTINF:800 tvg-id="RaiSport1.it" group-title="Italian" tvg-logo="0611.png",[COLOR orangered]Rai Sport 1 HD[/COLOR]
-http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="RaiSport2.it" group-title="Italian" tvg-logo="0612.png",[COLOR orange]Rai Sport 2[/COLOR]
-http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="GazzettaTV.it" group-title="Italian" tvg-logo="gaz.png",[COLOR orange]Gazzetta TV[/COLOR]
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="Sportitalia.it" group-title="Italian" tvg-logo="sportitalia.png",[COLOR orange]Sport Italia[/COLOR]
-http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
-#EXTINF:800 tvg-id="RAIGulp.it" group-title="Italian" tvg-logo="0608.png",[COLOR orange]Rai Gulp[/COLOR]
-http://originstream7.rai.it/italy/smil:raigulp.smil/chunklist_b900000.m3u8
-#EXTINF:800 tvg-id="RaiScuola.it" group-title="Italian" tvg-logo="0609.png",[COLOR orange]Rai Scuola[/COLOR]
-http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
-#EXTINF:800 tvg-id="RaiStoria.it" group-title="Italian" tvg-logo="0610.png",[COLOR orange]Rai Storia[/COLOR]
-http://origin2.live.web.tv.streamprovider.net/streams/d944f6019b45b4db053b265f64f705a0/index.m3u8
-#EXTINF:800 tvg-id="RAIYoyo.it" group-title="Italian" tvg-logo="yoyo.png",[COLOR orange]Rai Yoyo[/COLOR]
-http://originstream5.rai.it/italy/smil:raiyoyo.smil/chunklist_b900000.m3u8
-#EXTINF:800 tvg-id="RaisatPremium.it" group-title="Italian" tvg-logo="0622.png",[COLOR orange]Rai Premium[/COLOR]
-http://originstream7.rai.it/italy/smil:raipremium.smil/chunklist_b1800000.m3u8
-#EXTINF:800 tvg-id="CompanyTV.it" group-title="Italian" tvg-logo="company.png",[COLOR orangered]Company TV[/COLOR]
-rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
-#EXTINF:800 tvg-id="CapitalTV.it" group-title="Italian" tvg-logo="capital.png",[COLOR orange]Capital TV[/COLOR]
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="CapitalTV.it" group-title="Italian" tvg-logo="virgin.png",[COLOR orange]Virgin TV[/COLOR]
-http://fms.105.net:1935/live/virgin1/playlist.m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="Radiotaormina.it" group-title="Italian" tvg-logo="taormina.png",[COLOR orange]Radio Taormina TV[/COLOR]
-http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
-#EXTINF:800 tvg-id="SkyTG24DTT.it" group-title="Italian" tvg-logo="0625.png",[COLOR orange]Sky TG24[/COLOR]
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:800 tvg-id="Marcopolo.it" group-title="Italian" tvg-logo="marco.png",[COLOR orange]Marco Polo[/COLOR]
-http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="La3.it" group-title="Italian" tvg-logo="la3.png",[COLOR orange]La 3[/COLOR]
-http://h3ghdchan102-i.akamaihd.net/hls/live/217154/Virtual_Channel102/master.m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="TV2000.it" group-title="Italian" tvg-logo="tv2000.png",[COLOR orange]Tv2000[/COLOR]
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="Alice.it.it" group-title="Italian" tvg-logo="alice.png",[COLOR orange]Alice[/COLOR]
-http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:800 tvg-id="RTVSanMarino.it" group-title="Italian" tvg-logo="smarino.png",[COLOR orange]RTV San Marino[/COLOR]
-http://194.116.72.186:1935/webtv_live4/0QBXFQ2L0I5P/playlist.m3u8
-#EXTINF:800 tvg-id="SkyMusic.it" group-title="Italian" tvg-logo="m2o.png",[COLOR orange]M2o Tv[/COLOR]
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="Repubblica.it" group-title="Italian" tvg-logo="reptv.png",[COLOR orangered]Repubblica TV[/COLOR]
-http://repvideo_1-lh.akamaihd.net/i/Studio1_1@183089/master.m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="RaiNettuno.it" group-title="Italian" tvg-logo="rainet.png",[COLOR orange]Rai Nettuno[/COLOR]
-http://stream6.rai.it/live/smil:uninettuno.smil/chunklist_b900000.m3u8|X-Forwarded-For=2.112.0.1
-#EXTINF:800 tvg-id="quartarete.tv" group-title="Italian" tvg-logo="qrete.png",[COLOR orange]Quarta Rete[/COLOR]
-http://wowza1.top-ix.org/quartaretetv/quartareteweb/playlist.m3u
-#EXTINF:800 tvg-id="Canale8.it" group-title="Italian" tvg-logo="canale8.png",[COLOR orange]Canale 8[/COLOR]
-http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
-#EXTINF:800 tvg-id="TG24Norba.it" group-title="Italian" tvg-logo="tgn24.png",[COLOR orange]TG24 Norba[/COLOR]
-http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
-#EXTINF:800 tvg-id="TeleChiara.it" group-title="Italian" tvg-logo="telechiara.png",[COLOR orange]Tele Chiara[/COLOR]
-rtmp://fms.tvavicenza.it:1935/telechiara/diretta
-#EXTINF:800 tvg-id="Televaldarno.it" group-title="Italian" tvg-logo="rtv38.png",[COLOR orange]Televaldarno RTV38[/COLOR]
-http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
-#EXTINF:800 tvg-id="Ondalatina.it" group-title="Italian" tvg-logo="ondalatina.png",[COLOR orange]Onda Latina[/COLOR]
-http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
-#EXTINF:800 tvg-id="TRMh24.it" group-title="Italian" tvg-logo="trmh24.png",[COLOR orange]Trm H24[/COLOR]
-http://flash.streamingmedia.it:1935/TRM/livestream/playlist.m3u8
-#EXTINF:0802 tvg-id="8222.TRT 1 HD.dsmart.com.tr" group-title="Turkish" tvg-logo="108209.png", [COLOR orange]TRT 1 HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0030.m3u8
-#EXTINF:0807 tvg-id="8221.TRT HD.dsmart.com.tr" group-title="Turkish" tvg-logo="641998.png", [COLOR orange]TRT HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0036.m3u8
-#EXTINF:0823 tvg-id="8223.TRT HABER HD.dsmart.com.tr" group-title="Turkish" tvg-logo="305003.png", [COLOR orangered]TRT HABER HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0049.m3u8
-#EXTINF:0824 tvg-id="8823.TRT TURK.dsmart.com.tr" group-title="Turkish" tvg-logo="324361.png", [COLOR orangered]TRT T‹RK HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0050.m3u8
-#EXTINF:0802 tvg-id="trt1.tr" group-title="Turkish" tvg-logo="108209.png", [COLOR orange]TRT World[/COLOR]
-http://www.iptvsaga.com/play/tv3/0031.m3u8
-#EXTINF:0803 tvg-id="9991.TRT AVAZ DOGU.dsmart.com.tr" group-title="Turkish" tvg-logo="800602.png", [COLOR orangered]TRT AVAZ HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0032.m3u8
-#EXTINF:0804 tvg-id="246.TRT Kurdi.digiturk.com.tr" group-title="Turkish" tvg-logo="707556.png", [COLOR orangered]TRT KURD› HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0033.m3u8
-#EXTINF:0805 tvg-id="8838.TRT OKUL.dsmart.com.tr" group-title="Turkish" tvg-logo="976101.png", [COLOR orangered]TRT OKUL HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0034.m3u8
-#EXTINF:0806 tvg-id="9995.TRT ARAPCA.dsmart.com.tr" group-title="Turkish" tvg-logo="706529.png", [COLOR orange]TRT ARAP«A[/COLOR]
-http://www.iptvsaga.com/play/tv3/0035.m3u8
-#EXTINF:0808 tvg-id="8824.TRT 3.dsmart.com.tr" group-title="Turkish" tvg-logo="370171.png", [COLOR orange]TRT 3-TBMM TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0037.m3u8
-#EXTINF:0834 tvg-id="8224.TRT SPOR HD.dsmart.com.tr" group-title="Turkish" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0056.m3u8
-#EXTINF:0842 tvg-id="8225.TRT BELGESEL HD.dsmart.com.tr" group-title="Turkish" tvg-logo="910816.png", [COLOR orange]TRT BELGESEL HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0061.m3u8
-#EXTINF:0845 tvg-id="trtdiyanet.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]TRT D›YANET HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0062.m3u8
-#EXTINF:0811 tvg-id="8176.ATV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="362041.png", [COLOR olivedrab]ATV HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0041.m3u8
-#EXTINF:0815 tvg-id="8421.Show TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="442251.png", [COLOR olivedrab]SHOW HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0045.m3u8
-#EXTINF:0809 tvg-id="430.Kanal D HD.digiturk.com.tr" group-title="Turkish" tvg-logo="880948.png", [COLOR orangered]Kanal D HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0038.m3u8
-#EXTINF:0845 tvg-id="8755.Star TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]Star TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0063.m3u8
-#EXTINF:0845 tvg-id="428.TV8 HD.digiturk.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]tv8 HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0064.m3u8
-#EXTINF:0845 tvg-id="8441.FOX TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]Fox HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0065.m3u8
-#EXTINF:0810 tvg-id="8872.SAMANYOLU TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="518299.png", [COLOR red]Samanyolu TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0039.m3u8
-#EXTINF:0810 tvg-id="8863.Samanyolu Haber.dsmart.com.tr" group-title="Turkish" tvg-logo="518299.png", [COLOR red]Samanyolu Haber[/COLOR]
-http://www.iptvsaga.com/play/tv3/0040.m3u8
-#EXTINF:0812 tvg-id="156.Flash TV.digiturk.com.tr" group-title="Turkish" tvg-logo="630601.png", [COLOR olivedrab]Flash TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0042.m3u8
-#EXTINF:0813 tvg-id="8521.KANAL 7 HD.dsmart.com.tr" group-title="Turkish" tvg-logo="236150.png", [COLOR olivedrab]Kanal 7[/COLOR]
-http://www.iptvsaga.com/play/tv3/0043.m3u8
-#EXTINF:0814 tvg-id="8501.KANALTURK HD.dsmart.com.tr" group-title="Turkish" tvg-logo="694816.png", [COLOR red]KANALT‹RK HD[/COLOR]
-http://kanalturk-live.ercdn.com/kanalturk.m3u8
-#EXTINF:0817 tvg-id="325.TVEM.digiturk.com.tr" group-title="Turkish" tvg-logo="320261.png", [COLOR olivedrab]TVEM[/COLOR]
-http://www.iptvsaga.com/play/tv3/0046.m3u8
-#EXTINF:0818 tvg-id="256.Tv2.digiturk.com.tr" group-title="Turkish" tvg-logo="493245.png", [COLOR red]TV 2[/COLOR]
-http://www.iptvsaga.com/play/tv3/0047.m3u8
-#EXTINF:0821 tvg-id="8743.e2.dsmart.com.tr" group-title="Turkish" tvg-logo="451202.png", [COLOR olivedrab]e2[/COLOR]
-http://www.iptvsaga.com/play/tv3/0048.m3u8
-#EXTINF:0845 tvg-id="8401.FIL TV.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]Fil TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0067.m3u8
-#EXTINF:0845 tvg-id="8742.Cnbc-e.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]TLC[/COLOR]
-http://www.iptvsaga.com/play/tv3/0073.m3u8
-#EXTINF:0825 tvg-id="29.CNN T‹RK.digiturk.com.tr" group-title="Turkish" tvg-logo="644533.png", [COLOR orange]CNN Turk[/COLOR]
-http://www.iptvsaga.com/play/tv3/0051.m3u8
-#EXTINF:0845 tvg-id="31.HABERTURK.digiturk.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]HABERT‹RK[/COLOR]
-http://www.iptvsaga.com/play/tv3/0073.m3u8
-#EXTINF:0829 tvg-id="buguntv.tr" group-title="Turkish" tvg-logo="340209.png", [COLOR olivedrab]Bug¸n TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0052.m3u8
-#EXTINF:0845 tvg-id="9441.Cine 5.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]CINE 5[/COLOR]
-http://www.iptvsaga.com/play/tv3/0072.m3u8
-#EXTINF:0845 tvg-id="9021.BLOOMBERG HT.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR orangered]Bloomberg[/COLOR]
-http://www.iptvsaga.com/play/tv3/0066.m3u8
-#EXTINF:0830 tvg-id="243.TRT «ocuk - TRT4.digiturk.com.tr" group-title="Turkish" tvg-logo="850565.png", [COLOR orange]TRT «OCUK[/COLOR]
-http://www.iptvsaga.com/play/tv3/0053.m3u8
-#EXTINF:0832 tvg-id="291.MinikaGO.digiturk.com.tr" group-title="Turkish" tvg-logo="326824.png", [COLOR olivedrab]MINIKA «ocuk[/COLOR]
-http://www.iptvsaga.com/play/tv3/0054.m3u8
-#EXTINF:0833 tvg-id="8173.MINIKA GO.dsmart.com.tr" group-title="Turkish" tvg-logo="452477.png", [COLOR olivedrab]MINIKA GO[/COLOR]
-http://www.iptvsaga.com/play/tv3/0055.m3u8
-#EXTINF:0836 tvg-id="9566.NTV SPOR HD.dsmart.com.tr" group-title="Turkish" tvg-logo="697989.png", [COLOR olivedrab]NTV SPOR[/COLOR]
-http://www.iptvsaga.com/play/tv3/0057.m3u8
-#EXTINF:0838 tvg-id="313.Sports TV.digiturk.com.tr" group-title="Turkish" tvg-logo="770866.png", [COLOR olivedrab]SPORTS TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0058.m3u8
-#EXTINF:0839 tvg-id="261.TRT M¸zik.digiturk.com.tr" group-title="Music" tvg-logo="241448.png", [COLOR orangered]TRT M¸zik HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0059.m3u8
-#EXTINF:0841 tvg-id="113.DREAMTURK.dsmart.com.tr" group-title="Music" tvg-logo="206910.png", [COLOR red]DreamT¸rk TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0060.m3u8
-#EXTINF:0845 tvg-id="147.Dream TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR orangered]Dream TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0069.m3u8
-#EXTINF:0845 tvg-id="9925.Number One T¸rk.dsmart.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR orangered]Number One HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0068.m3u8
-#EXTINF:0845 tvg-id="66.POWERT‹RK TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR orangered]POWERT‹RK HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0070.m3u8
-#EXTINF:0845 tvg-id="434.Power TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR orangered]POWER TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0071.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP 1[/COLOR]
-http://www.iptvsaga.com/play/tv3/0029.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP 2[/COLOR]
-http://www.iptvsaga.com/play/tv3/0028.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP 3[/COLOR]
-http://www.iptvsaga.com/play/tv3/0027.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP √Åfrica[/COLOR]
-http://www.iptvsaga.com/play/tv3/0026.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP Madeira[/COLOR]
-http://www.iptvsaga.com/play/tv3/0025.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP AÁores[/COLOR]
-http://www.iptvsaga.com/play/tv3/0024.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP MemÛria[/COLOR]
-http://www.iptvsaga.com/play/tv3/0023.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]RTP Internacional[/COLOR]
-http://www.iptvsaga.com/play/tv3/0022.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]TVI HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0021.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Portuguese" tvg-logo="00000000.png", [COLOR gold]TPA[/COLOR]
-http://www.iptvsaga.com/play/tv3/0020.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TVE 1 (La1)[/COLOR]
-http://www.iptvsaga.com/play/tv3/0019.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TVE 2 (La2)[/COLOR]
-http://www.iptvsaga.com/play/tv3/0018.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TVE 24[/COLOR]
-http://www.iptvsaga.com/play/tv3/0017.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]MEGA HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0016.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]LA RED EN VIVO HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0015.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TV Galicia[/COLOR]
-http://www.iptvsaga.com/play/tv3/0014.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]LA SEXTA HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0013.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]ANTENA 3 HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0012.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]Russia Today HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0011.m3u8
-#EXTINF:0070 tvg-id="alexberlin.de" group-title="Spanish" tvg-logo="00000000.png", [COLOR gold]TELESUR[/COLOR]
-http://www.iptvsaga.com/play/tv3/0010.m3u8
-#EXTINF:0070 tvg-id="TVChile" group-title="Spanish" tvg-logo="",[COLOR orange]TV Chile[/COLOR]
-http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:0070 tvg-id="TVChile" group-title="Spanish" tvg-logo="",[COLOR orange]TV M¡S[/COLOR]
-http://50.7.98.234:1935/rtv/videortv/live.m3u8
-#EXTINF:0070 tvg-id="TVN" group-title="Spanish" tvg-logo="",[COLOR orange]TVN HD[/COLOR]
-http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]M…XICO TRAVEL CHANNEL[/COLOR]
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]NAVARRA TV[/COLOR]
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]ONDALUZ SIERRA[/COLOR]
-http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]CONDAVISION[/COLOR]
-http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]EWTN[/COLOR]
-http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]Esperanza TV[/COLOR]
-http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]Alcance TV[/COLOR]
-http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]Almavision[/COLOR]
-http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]Lancelot TV[/COLOR]
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]RTS[/COLOR]
-http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]CANAL TRO[/COLOR]
-http://cdns840stu1010.multistream.net:80/canaltro2live/amlst:live/livestream.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]ONDA LATINA TV[/COLOR]
-http://ondalatina_tv-lh.akamaihd.net:80/i/OndaLatinaTv_1@42007/master.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]TELECAF…[/COLOR]
-http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0070 tvg-id="" group-title="Spanish" tvg-logo="",[COLOR orange]Real Madrid TV[/COLOR]
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:0070 tvg-id="gotv.at" group-title="Music" tvg-logo="00000000.png", [COLOR gold]gotv Music[/COLOR]
-http://www.iptvsaga.com/play/tv3/0009.m3u8
-#EXTINF:0044 tvg-id="alexberlin.de" group-title="Music" tvg-logo="00000000.png", [COLOR gold]XITE.TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0008.m3u8
-#EXTINF:0044 tvg-id="alexberlin.de" group-title="Music" tvg-logo="00000000.png", [COLOR gold]VOX Music HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0091.m3u8
-#EXTINF:3001 tvg-id="pophd.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Pop HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0075.m3u8
-#EXTINF:3001 tvg-id="pophd.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Dance HD [/COLOR]
-http://www.iptvsaga.com/play/tv3/0076.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Classic HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0077.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska Best HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0078.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska Party HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0079.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska Polo HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0080.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska Rock TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0081.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska TV[/COLOR]
-http://www.iptvsaga.com/play/tv3/0082.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska VOX[/COLOR]
-http://www.iptvsaga.com/play/tv3/0083.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Eska WAWA[/COLOR]
-http://www.iptvsaga.com/play/tv3/0084.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djing HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0085.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djing Ibiza HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0086.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djing Underground HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0087.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djing Animation HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0088.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djind DJS HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0089.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]Djing Classic HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0090.m3u8
-#EXTINF:3001 tvg-id="vevode1.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO DE HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0007.m3u8
-#EXTINF:3002 tvg-id="vevousca1.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO US/CA 1 HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0006.m3u8
-#EXTINF:3003 tvg-id="vevousca2.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO US/CA 2 HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0005.m3u8
-#EXTINF:3004 tvg-id="vevousca3.mus" group-title="Music" tvg-logo="9001.png", [COLOR gold]VEVO US/CA 3 HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0004.m3u8
-#EXTINF:3005 tvg-id="onemusic1.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]ONE Music 1 HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0003.m3u8
-#EXTINF:3006 tvg-id="onemusic2.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]ONE Music 2 UHD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0002.m3u8
-#EXTINF:3007 tvg-id="onemusicrus.mus" group-title="Music" tvg-logo="0000.png", [COLOR gold]ONE Music Russia HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0001.m3u8
 
 #EXTINF:-1,[I][B][COLOR red] ------------------ REMARQUE IMPORTANTE ------------------[/B][/I][/COLOR]
 
@@ -446,6 +44,8 @@ http://www.iptvsaga.com/play/tv3/0001.m3u8
 
 #EXTINF:-1,[I][B][COLOR yellow]---? Chaines Temporaires ?---[/COLOR][/B][/I]
 http://0.0.0.0:1234
+
+
 #EXTINF:-1,FR: boing
 http://top-iptv.zapto.org:8000/live/Aria/Aria/9.ts
 #EXTINF:-1,FR: Ushuaia Tv HD
@@ -540,6 +140,12 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/99.ts
 http://top-iptv.zapto.org:8000/live/Aria/Aria/100.ts
 #EXTINF:-1,FR: EUROSPORT FR
 http://top-iptv.zapto.org:8000/live/Aria/Aria/101.ts
+
+
+#EXTINF:-1,MT-France 3 (FR)
+http://213.136.90.30:8000/live/christop/christop/9285.ts
+#EXTINF:-1,MT-France 24 (FR)
+http://213.136.90.30:8000/live/christop/christop/9286.ts
  
 #EXTINF:-1,[COLOR yellow][I][B]FR/GE/UK/IT[/B][/I][/COLOR] [COLOR white][I][B] - Copiez et collez le [COLOR yellow]Playlist URL[/COLOR] dans PVR Simple Client ou Playlist Loader.[/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -956,6 +562,8 @@ rtmp://wowza.tvlux.imust.org/live/tvlux-live
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow][I][B]Versuchen Sie mehrmals, wenn Kanal funktioniert nicht[/B][/I][/COLOR]
+
+
 #EXTINF:-1,DE :  sky comedy
 http://top-iptv.zapto.org:8000/live/Aria/Aria/492.ts
 #EXTINF:-1,DE : Eins
@@ -1430,6 +1038,7 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 #EXTINF:-1,Deutsche Welle (U.S.A)
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+
 #EXTINF:-1,[I][B][COLOR yellow]---Chaine FreeBox---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 #EXTINF:0,2 - France 2 (standard)
