@@ -46,106 +46,428 @@
 http://0.0.0.0:1234
 
 
-#EXTINF:-1,FR: boing
-http://top-iptv.zapto.org:8000/live/Aria/Aria/9.ts
-#EXTINF:-1,FR: Ushuaia Tv HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/8.ts
-#EXTINF:-1,FR: Chasse & Peche
-http://top-iptv.zapto.org:8000/live/Aria/Aria/7.ts
-#EXTINF:-1,FR: teva
-http://top-iptv.zapto.org:8000/live/Aria/Aria/6.ts
-#EXTINF:-1,FR: paris premiere
-http://top-iptv.zapto.org:8000/live/Aria/Aria/5.ts
-#EXTINF:-1,FR: Canal J
-http://top-iptv.zapto.org:8000/live/Aria/Aria/12.ts
-#EXTINF:-1,FR: ANIMAUX
-http://top-iptv.zapto.org:8000/live/Aria/Aria/11.ts
-#EXTINF:-1,FR: piwi
-http://top-iptv.zapto.org:8000/live/Aria/Aria/10.ts
-#EXTINF:-1,FR: Watania 1
-http://top-iptv.zapto.org:8000/live/Aria/Aria/384.ts
-#EXTINF:-1,FR: BEIN-SPORTS 3 FR
-http://top-iptv.zapto.org:8000/live/Aria/Aria/54.ts
-#EXTINF:-1,FR:BFM
-http://top-iptv.zapto.org:8000/live/Aria/Aria/65.ts
-#EXTINF:-1,FR: Canal+
-http://top-iptv.zapto.org:8000/live/Aria/Aria/49.ts
-#EXTINF:-1,FR:  Canal+ Cinema
-http://top-iptv.zapto.org:8000/live/Aria/Aria/50.ts
-#EXTINF:-1,FR: Canal+ Decale
-http://top-iptv.zapto.org:8000/live/Aria/Aria/52.ts
-#EXTINF:-1,FR: Canal+ Family
-http://top-iptv.zapto.org:8000/live/Aria/Aria/53.ts
-#EXTINF:-1,FR: Canal+ Sport
-http://top-iptv.zapto.org:8000/live/Aria/Aria/51.ts
-#EXTINF:-1,FR: ZOUZOU TV
-http://top-iptv.zapto.org:8000/live/Aria/Aria/86.ts
-#EXTINF:-1,FR: Cine Fx
-http://top-iptv.zapto.org:8000/live/Aria/Aria/77.ts
-#EXTINF:-1,FR: Cine Plus Famiz HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/69.ts
-#EXTINF:-1,FR: FRANCE 4
-http://top-iptv.zapto.org:8000/live/Aria/Aria/76.ts
-#EXTINF:-1,FR: Discovery Science
-http://top-iptv.zapto.org:8000/live/Aria/Aria/74.ts
-#EXTINF:-1,FR:  PLANETE + CI
-http://top-iptv.zapto.org:8000/live/Aria/Aria/87.ts
-#EXTINF:-1,FR: Disney FR
-http://top-iptv.zapto.org:8000/live/Aria/Aria/85.ts
-#EXTINF:-1,FR: France 2
-http://top-iptv.zapto.org:8000/live/Aria/Aria/57.ts
-#EXTINF:-1,FR: France 3
-http://top-iptv.zapto.org:8000/live/Aria/Aria/58.ts
-#EXTINF:-1,FR: FRANCE 5
-http://top-iptv.zapto.org:8000/live/Aria/Aria/59.ts
-#EXTINF:-1,FR:  Gulli
-http://top-iptv.zapto.org:8000/live/Aria/Aria/68.ts
-#EXTINF:-1,FR: Canal Plus Series HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/72.ts
-#EXTINF:-1,FR:Cine Plus Emotion HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/70.ts
-#EXTINF:-1,FR: Cine+ Frisson
-http://top-iptv.zapto.org:8000/live/Aria/Aria/62.ts
-#EXTINF:-1,FR: M6
-http://top-iptv.zapto.org:8000/live/Aria/Aria/56.ts
-#EXTINF:-1,FR: National Geo.
-http://top-iptv.zapto.org:8000/live/Aria/Aria/81.ts
-#EXTINF:-1,FR: National Geo. Wild HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/84.ts
-#EXTINF:-1,FR: TCM
-http://top-iptv.zapto.org:8000/live/Aria/Aria/61.ts
-#EXTINF:-1,FR: O FR
-http://top-iptv.zapto.org:8000/live/Aria/Aria/60.ts
-#EXTINF:-1,FR: PLANETE  CI
-http://top-iptv.zapto.org:8000/live/Aria/Aria/80.ts
-#EXTINF:-1,FR: CINE + Premier
-http://top-iptv.zapto.org:8000/live/Aria/Aria/71.ts
-#EXTINF:-1,FR: Syfy HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/79.ts
-#EXTINF:-1,FR: RTL9 HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/83.ts
-#EXTINF:-1,FR: TF1
-http://top-iptv.zapto.org:8000/live/Aria/Aria/55.ts
-#EXTINF:-1,FR:COMEDIE
-http://top-iptv.zapto.org:8000/live/Aria/Aria/64.ts
-#EXTINF:-1,FR: OCS Max HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/88.ts
-#EXTINF:-1,FR:  Animaux HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/82.ts
-#EXTINF:-1,FR:W9_FR
-http://top-iptv.zapto.org:8000/live/Aria/Aria/66.ts
-#EXTINF:-1,FR: BEIN SPORTS 1  FR
-http://top-iptv.zapto.org:8000/live/Aria/Aria/99.ts
-#EXTINF:-1,FR: BEIN SPORTS 2
-http://top-iptv.zapto.org:8000/live/Aria/Aria/100.ts
-#EXTINF:-1,FR: EUROSPORT FR
-http://top-iptv.zapto.org:8000/live/Aria/Aria/101.ts
+#EXTINF:-1,FR-TF1_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/56.ts
+#EXTINF:-1,FR-FRANCE_2HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/64.ts
+#EXTINF:-1,FR-FRANCE_3HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/65.ts
+#EXTINF:-1,FR-France_4
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/66.ts
+#EXTINF:-1,FR-France_5
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/67.ts
+#EXTINF:-1,FR-France_O
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1557.ts
+#EXTINF:-1,FR-M6_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/55.ts
+#EXTINF:-1,FR-ARTE
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/197.ts
+#EXTINF:-1,FR- W9
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/68.ts
+#EXTINF:-1,D8 -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/214.ts
+#EXTINF:-1,FR- TEVA
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1276.ts
+#EXTINF:-1,FR-Canal+HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/53.ts
+#EXTINF:-1,FR-CANAL+SPORT_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/73.ts
+#EXTINF:-1,FR-CANAL+SERIE_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/797.ts
+#EXTINF:-1,FR-CANAL+FAMILY_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/960.ts
+#EXTINF:-1,FR-Canal+Decale_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/959.ts
+#EXTINF:-1,FR-Canal+Cinema_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/961.ts
+#EXTINF:-1,FR- CINE+ Émotion HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/72.ts
+#EXTINF:-1,FR-CINE+Frisson_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/70.ts
+#EXTINF:-1,FR-Ciné+Premier_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1268.ts
+#EXTINF:-1,FR-CINE+FAMIZ
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/71.ts
+#EXTINF:-1,CINE+ CLUB -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/793.ts
+#EXTINF:-1,FR-CINE+CLASSIC
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/794.ts
+#EXTINF:-1,FR- SERIE CLUB HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1280.ts
+#EXTINF:-1,FR- OCS MAX HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/792.ts
+#EXTINF:-1,FR-OCS_GEANT_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/795.ts
+#EXTINF:-1,FR- OCS CITY HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/796.ts
+#EXTINF:-1,13eme Rue -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/202.ts
+#EXTINF:-1,SYFY HD -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/201.ts
+#EXTINF:-1,Paris Premiere -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/199.ts
+#EXTINF:-1,FR-6ter_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1084.ts
+#EXTINF:-1,FR-Numero23
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1325.ts
+#EXTINF:-1,CHERIE 25 -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1187.ts
+#EXTINF:-1,FR-ACTION_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/168.ts
+#EXTINF:-1,HD 1 -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1188.ts
+#EXTINF:-1,FR_Gulli
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1318.ts
+#EXTINF:-1,FR: Tv Breizh
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1558.ts
+#EXTINF:-1,FR: TELETOON +
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1546.ts
+#EXTINF:-1,FR: EuroNews
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1549.ts
+#EXTINF:-1,FR-Disney_XD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1554.ts
+#EXTINF:-1,FR- VOYAGE TV HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1541.ts
+#EXTINF:-1,FR-TMC_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1565.ts
+#EXTINF:-1,FR-TCM_Cinema_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1641.ts
+#EXTINF:-1,FR-Planete_A&E_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1950.ts
+#EXTINF:-1,FR-OCS_CHOC_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1852.ts
+#EXTINF:-1,FR- NT1
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1312.ts
+#EXTINF:-1,FR- MCM POP
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1547.ts
+#EXTINF:-1,FR- MA CHAINE SPORT HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1835.ts
+#EXTINF:-1,FR- M6 Music HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1548.ts
+#EXTINF:-1,FR-KOMBAT_SPORT
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1642.ts
+#EXTINF:-1,FR- JUNE HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1951.ts
+#EXTINF:-1,FR- INFOSPORT
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1326.ts
+#EXTINF:-1,FR- I-Tele
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1316.ts
+#EXTINF:-1,FR- France 24 HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1550.ts
+#EXTINF:-1,FR- FOOT+ 24/24
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/798.ts
+#EXTINF:-1,FR- EUROSPORT 2 HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1542.ts
+#EXTINF:-1,FR-DISCOVERY_SCIENCE
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1567.ts
+#EXTINF:-1,FR-Comedie+
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1321.ts
+#EXTINF:-1,FR- Canal J
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1653.ts
+#EXTINF:-1,FR- BoomeRang
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1652.ts
+#EXTINF:-1,FR_BFM_TV
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1320.ts
+#EXTINF:-1,FR- RTS 2 HD Suisse
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1302.ts
+#EXTINF:-1,FR- RTS 1HD Suisse
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1301.ts
+#EXTINF:-1,FR-BEINSPORT_1HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1154.ts
+#EXTINF:-1,FR-BEINSPORT_2HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1155.ts
+#EXTINF:-1,FR-BEINSPORT_3HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1156.ts
+#EXTINF:-1,FR-EUROSPORT_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/569.ts
+#EXTINF:-1,L'equipe 21 -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/588.ts
+#EXTINF:-1,FR:Ushuaia.HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/177.ts
+#EXTINF:-1,FR- SCIENCE&VIE
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/188.ts
+#EXTINF:-1,FR-National_GEO
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/187.ts
+#EXTINF:-1,FR-Planete+_CI
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/190.ts
+#EXTINF:-1,FR- Planete +
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/189.ts
+#EXTINF:-1,FR-Nat-Geo_Wild_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1129.ts
+#EXTINF:-1,FR- HISTOIRE
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1041.ts
+#EXTINF:-1,FR-Toute_l’Histoire
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1287.ts
+#EXTINF:-1,FR-Discovery_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1281.ts
+#EXTINF:-1,Fr- ANIMAUX HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/169.ts
+#EXTINF:-1,FR- Trek
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1292.ts
+#EXTINF:-1,FR- Chasse et Pêche
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1279.ts
+#EXTINF:-1,FR- RMC DECOUVERTE
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1300.ts
+#EXTINF:-1,FR-NRJ
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1310.ts
+#EXTINF:-1,AB1 -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1130.ts
+#EXTINF:-1,FR-RTL9_HD
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1039.ts
+#EXTINF:-1,RTL TVI HD BELG -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1313.ts
+#EXTINF:-1,RTL Club BELG -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1314.ts
+#EXTINF:-1,RTL Club  -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1315.ts
+#EXTINF:-1,La Une HD BELG -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1322.ts
+#EXTINF:-1,La Trois BELG -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1324.ts
+#EXTINF:-1,La Deux BELG -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1323.ts
+#EXTINF:-1,FR- CARTOON NETWORK
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1267.ts
+#EXTINF:-1,FR-Disney_Junior
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/194.ts
+#EXTINF:-1,FR-Disney_Cinema
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/192.ts
+#EXTINF:-1,FR- Disney Channel
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/191.ts
+#EXTINF:-1,FR- MANGA
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1309.ts
+#EXTINF:-1,Clubbing HD -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1308.ts
+#EXTINF:-1,VH1 -FR
+http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1042.ts
+
+
+
+#EXTINF:0,FR:EURONEWS
+http://cdn.step-tv.com:8000/live/ch/ch/247.m3u8
+#EXTINF:0,FR:FRANCE24
+http://cdn.step-tv.com:8000/live/ch/ch/227.m3u8
+#EXTINF:0,FR:BFM
+http://cdn.step-tv.com:8000/live/ch/ch/246.m3u8
+#EXTINF:0,FR:TV5_MONDE
+http://cdn.step-tv.com:8000/live/ch/ch/513.m3u8
+#EXTINF:0,FR:ITELE
+http://cdn.step-tv.com:8000/live/ch/ch/1747.m3u8
+#EXTINF:0,FR:ARTE
+http://cdn.step-tv.com:8000/live/ch/ch/248.m3u8
+#EXTINF:0,FR:TF1
+http://cdn.step-tv.com:8000/live/ch/ch/214.m3u8
+#EXTINF:0,FR:M6
+http://cdn.step-tv.com:8000/live/ch/ch/215.m3u8
+#EXTINF:0,FR:W9
+http://cdn.step-tv.com:8000/live/ch/ch/216.m3u8
+#EXTINF:0,FR:FRANCE2
+http://cdn.step-tv.com:8000/live/ch/ch/217.m3u8
+#EXTINF:0,FR:FRANCE3
+http://cdn.step-tv.com:8000/live/ch/ch/218.m3u8
+#EXTINF:0,FR:FRANCE4
+http://cdn.step-tv.com:8000/live/ch/ch/219.m3u8
+#EXTINF:0,FR:FRANCE5
+http://cdn.step-tv.com:8000/live/ch/ch/220.m3u8
+#EXTINF:0,FR:FRANCE_O
+http://cdn.step-tv.com:8000/live/ch/ch/221.m3u8
+#EXTINF:0,FR:CANAL+
+http://cdn.step-tv.com:8000/live/ch/ch/445.m3u8
+#EXTINF:0,FR:CANAL+CINEMA
+http://cdn.step-tv.com:8000/live/ch/ch/193.m3u8
+#EXTINF:0,FR:CANAL+FAMILY
+http://cdn.step-tv.com:8000/live/ch/ch/194.m3u8
+#EXTINF:0,FR:CANAL+SPORT
+http://cdn.step-tv.com:8000/live/ch/ch/446.m3u8
+#EXTINF:0,FR:CANAL+_DECALE
+http://cdn.step-tv.com:8000/live/ch/ch/1825.m3u8
+#EXTINF:0,FR:CANAL+SERIES
+http://cdn.step-tv.com:8000/live/ch/ch/195.m3u8
+#EXTINF:0,FR:CINE+PREMIER
+http://cdn.step-tv.com:8000/live/ch/ch/207.m3u8
+#EXTINF:0,FR:CINE+FRISSON
+http://cdn.step-tv.com:8000/live/ch/ch/200.m3u8
+#EXTINF:0,FR:CINE+FAMIZ
+http://cdn.step-tv.com:8000/live/ch/ch/210.m3u8
+#EXTINF:0,FR:CINE+EMOTION
+http://cdn.step-tv.com:8000/live/ch/ch/209.m3u8
+#EXTINF:0,FR:CINE_CLASSIC
+http://cdn.step-tv.com:8000/live/ch/ch/1827.m3u8
+#EXTINF:0,FR:OCS_MAX
+http://cdn.step-tv.com:8000/live/ch/ch/196.m3u8
+#EXTINF:0,FR:OCS_GEANTS
+http://cdn.step-tv.com:8000/live/ch/ch/198.m3u8
+#EXTINF:0,FR:OCS_CHOC
+http://cdn.step-tv.com:8000/live/ch/ch/197.m3u8
+#EXTINF:0,FR:ACTION
+http://cdn.step-tv.com:8000/live/ch/ch/213.m3u8
+#EXTINF:0,FR:13EME_RUE
+http://cdn.step-tv.com:8000/live/ch/ch/224.m3u8
+#EXTINF:0,FR:TV_BREIZH
+http://cdn.step-tv.com:8000/live/ch/ch/1828.m3u8
+#EXTINF:0,FR:RMC_DECOUVERTE
+http://cdn.step-tv.com:8000/live/ch/ch/1812.m3u8
+#EXTINF:0,FR:SYFY
+http://cdn.step-tv.com:8000/live/ch/ch/228.m3u8
+#EXTINF:0,FR:SERIE_CLUB
+http://cdn.step-tv.com:8000/live/ch/ch/237.m3u8
+#EXTINF:0,FR:RTS_UN
+http://cdn.step-tv.com:8000/live/ch/ch/241.m3u8
+#EXTINF:0,FR:RTS_DEUX
+http://cdn.step-tv.com:8000/live/ch/ch/242.m3u8
+#EXTINF:0,FR:CHERIE25
+http://cdn.step-tv.com:8000/live/ch/ch/1386.m3u8
+#EXTINF:0,FR:D8
+http://cdn.step-tv.com:8000/live/ch/ch/1782.m3u8
+#EXTINF:0,FR:PARIS_PREMIERE
+http://cdn.step-tv.com:8000/live/ch/ch/223.m3u8
+#EXTINF:0,FR:NORMANDIE_TV
+http://cdn.step-tv.com:8000/live/ch/ch/249.m3u8
+#EXTINF:0,FR:COMEDIE
+http://cdn.step-tv.com:8000/live/ch/ch/225.m3u8
+#EXTINF:0,FR:D17
+http://cdn.step-tv.com:8000/live/ch/ch/208.m3u8
+#EXTINF:0,FR:RTL9
+http://cdn.step-tv.com:8000/live/ch/ch/222.m3u8
+#EXTINF:0,FR:TMC
+http://cdn.step-tv.com:8000/live/ch/ch/251.m3u8
+#EXTINF:0,FR:TEVA
+http://cdn.step-tv.com:8000/live/ch/ch/244.m3u8
+#EXTINF:0,FR:EQUIPE21
+http://cdn.step-tv.com:8000/live/ch/ch/1750.m3u8
+#EXTINF:0,FR:FOOT+24/24
+http://cdn.step-tv.com:8000/live/ch/ch/263.m3u8
+#EXTINF:0,FR:NT1
+http://cdn.step-tv.com:8000/live/ch/ch/226.m3u8
+#EXTINF:0,FR:NRJ12
+http://cdn.step-tv.com:8000/live/ch/ch/253.m3u8
+#EXTINF:0,FR:E!
+http://cdn.step-tv.com:8000/live/ch/ch/1829.m3u8
+#EXTINF:0,FR:AB1
+http://cdn.step-tv.com:8000/live/ch/ch/231.m3u8
+#EXTINF:0,FR:6TER
+http://cdn.step-tv.com:8000/live/ch/ch/203.m3u8
+#EXTINF:0,FR:WEO
+http://cdn.step-tv.com:8000/live/ch/ch/243.m3u8
+#EXTINF:0,FR:DISNEY_CHANNEL
+http://cdn.step-tv.com:8000/live/ch/ch/254.m3u8
+#EXTINF:0,FR:DISNEY_JUNIOR
+http://cdn.step-tv.com:8000/live/ch/ch/511.m3u8
+#EXTINF:0,FR:GULLI
+http://cdn.step-tv.com:8000/live/ch/ch/258.m3u8
+#EXTINF:0,FR:CARTOON_NETWORK
+http://cdn.step-tv.com:8000/live/ch/ch/257.m3u8
+#EXTINF:0,FR:CANALJ
+http://cdn.step-tv.com:8000/live/ch/ch/11.m3u8
+#EXTINF:0,FR:BOOMERANG
+http://cdn.step-tv.com:8000/live/ch/ch/256.m3u8
+#EXTINF:0,FR:BOING
+http://cdn.step-tv.com:8000/live/ch/ch/235.m3u8
+#EXTINF:0,FR:MANGA
+http://cdn.step-tv.com:8000/live/ch/ch/259.m3u8
+#EXTINF:0,FR:LA_TELE
+http://cdn.step-tv.com:8000/live/ch/ch/1729.m3u8
+#EXTINF:0,FR:HISTOIRE
+http://cdn.step-tv.com:8000/live/ch/ch/1694.m3u8
+#EXTINF:0,FR:M6_MUSIC
+http://cdn.step-tv.com:8000/live/ch/ch/204.m3u8
+#EXTINF:0,FR:BEIN_SPORTS_HD1
+http://cdn.step-tv.com:8000/live/ch/ch/190.m3u8
+#EXTINF:0,FR:BEIN_SPORTS_HD2
+http://cdn.step-tv.com:8000/live/ch/ch/191.m3u8
+#EXTINF:0,FR:BEIN_SPORTS_HD3
+http://cdn.step-tv.com:8000/live/ch/ch/192.m3u8
+#EXTINF:0,FR:EUROSPORT1
+http://cdn.step-tv.com:8000/live/ch/ch/858.m3u8
+#EXTINF:0,FR:EUROSPORT2
+http://cdn.step-tv.com:8000/live/ch/ch/260.m3u8
+#EXTINF:0,FR:INFOSPORT+
+http://cdn.step-tv.com:8000/live/ch/ch/199.m3u8
+#EXTINF:0,FR:MA_CHAINE_SPORT
+http://cdn.step-tv.com:8000/live/ch/ch/262.m3u8
+#EXTINF:0,FR:DISCOVERY_SCIENCE
+http://cdn.step-tv.com:8000/live/ch/ch/230.m3u8
+#EXTINF:0,FR:DISCOVERY_HD
+http://cdn.step-tv.com:8000/live/ch/ch/232.m3u8
+#EXTINF:0,FR:SCIENCES&VIE
+http://cdn.step-tv.com:8000/live/ch/ch/229.m3u8
+#EXTINF:0,FR:NATGEO_WILD
+http://cdn.step-tv.com:8000/live/ch/ch/233.m3u8
+#EXTINF:0,FR:NATGEO
+http://cdn.step-tv.com:8000/live/ch/ch/234.m3u8
+#EXTINF:0,FR:PLANETE+_CI
+http://cdn.step-tv.com:8000/live/ch/ch/239.m3u8
+#EXTINF:0,FR:CHASSE_ET_PECHE
+http://cdn.step-tv.com:8000/live/ch/ch/212.m3u8
+#EXTINF:0,FR:TOUTE_L'HISTOIRE
+http://cdn.step-tv.com:8000/live/ch/ch/1830.m3u8
+#EXTINF:0,FR:TELETOON+1
+http://cdn.step-tv.com:8000/live/ch/ch/1689.m3u8
+#EXTINF:0,FR:PLANETE_A&E
+http://cdn.step-tv.com:8000/live/ch/ch/1744.m3u8
+#EXTINF:0,FR:PLANETE+
+http://cdn.step-tv.com:8000/live/ch/ch/240.m3u8
+#EXTINF:0,FR:PLANETE+_THALASSA
+http://cdn.step-tv.com:8000/live/ch/ch/1826.m3u8
+#EXTINF:0,FR:ANIMAUX
+http://cdn.step-tv.com:8000/live/ch/ch/236.m3u8
+#EXTINF:0,FR:USHUAIA_TV
+http://cdn.step-tv.com:8000/live/ch/ch/206.m3u8
+#EXTINF:0,FR:VOYAGE
+http://cdn.step-tv.com:8000/live/ch/ch/205.m3u8
+#EXTINF:0,BE:LA_UNE
+http://cdn.step-tv.com:8000/live/ch/ch/507.m3u8
+#EXTINF:0,BE:LA_DEUX
+http://cdn.step-tv.com:8000/live/ch/ch/202.m3u8
+#EXTINF:0,BE:LA_TROIS
+http://cdn.step-tv.com:8000/live/ch/ch/201.m3u8
+#EXTINF:0,BE:CLUB_RTL
+http://cdn.step-tv.com:8000/live/ch/ch/510.m3u8
+#EXTINF:0,BE:RTL_TVI
+http://cdn.step-tv.com:8000/live/ch/ch/508.m3u8
+#EXTINF:0,BE:PLUG_RTL
+http://cdn.step-tv.com:8000/live/ch/ch/509.m3u8
+#EXTINF:0,BE:EEN
+http://cdn.step-tv.com:8000/live/ch/ch/1765.m3u8
+#EXTINF:0,BE:CANVAS
+http://cdn.step-tv.com:8000/live/ch/ch/1764.m3u8
+#EXTINF:0,BE:TVLUX
+http://cdn.step-tv.com:8000/live/ch/ch/1727.m3u8
+#EXTINF:0,BE:TELE_VESDRE
+http://cdn.step-tv.com:8000/live/ch/ch/1728.m3u8
+#EXTINF:0,BE:JIM_TV
+http://cdn.step-tv.com:8000/live/ch/ch/1726.m3u8
+
+
+
+#EXTINF:-1,CINE+ FAMIZ
+http://82.135.224.135:88/udp/239.255.2.10:1234
+#EXTINF:-1,TCM CINEMA HD
+http://82.135.224.135:88/udp/239.255.2.15:1234
+#EXTINF:-1,DISCOVERY HD
+http://82.135.224.135:88/udp/239.255.2.14:1234
+#EXTINF:-1,GOLF+ HD
+http://82.135.224.135:88/udp/239.255.2.16:1234
+#EXTINF:-1,BRAVA HD
+http://82.135.224.135:88/udp/239.255.2.17:1234
+#EXTINF:-1,J-ONE HD
+http://82.135.224.135:88/udp/239.255.2.18:1234
+#EXTINF:-1,MCS BIEN ETRE
+http://82.135.224.135:88/udp/239.255.2.19:1234
+#EXTINF:-1,CINE+ PREMIER HD
+http://82.135.224.135:88/udp/239.255.2.20:1234
+#EXTINF:-1,USHUAIA TV HD
+http://82.135.224.135:88/udp/239.255.2.21:1234
+#EXTINF:-1,PLANETE+ HD
+http://82.135.224.135:88/udp/239.255.2.23:1234
+#EXTINF:-1,C+ DEPORT HD
+http://82.135.224.135:88/udp/239.255.2.34:1234
 
 
 #EXTINF:-1,MT-France 3 (FR)
-http://213.136.90.30:8000/live/christop/christop/9285.ts
+http://213.136.90.30:8000/live/christop/christop/9285.m3u8
 #EXTINF:-1,MT-France 24 (FR)
-http://213.136.90.30:8000/live/christop/christop/9286.ts
+http://213.136.90.30:8000/live/christop/christop/9286.m3u8
  
 #EXTINF:-1,[COLOR yellow][I][B]FR/GE/UK/IT[/B][/I][/COLOR] [COLOR white][I][B] - Copiez et collez le [COLOR yellow]Playlist URL[/COLOR] dans PVR Simple Client ou Playlist Loader.[/B][/I][/COLOR]
 http://0.0.0.0:1234
@@ -558,75 +880,420 @@ rtmp://37.187.156.238:1935/live/ playpath=live.sdp swfVfy=true live=true timeout
  
 #EXTINF:-1 ,TV Lux
 rtmp://wowza.tvlux.imust.org/live/tvlux-live
+
 #EXTINF:-1,[I][B][COLOR yellow]---? Temporare Kanale ?---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR yellow][I][B]Versuchen Sie mehrmals, wenn Kanal funktioniert nicht[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR yellow][I][B]Einige Kanale funktionieren nicht.[/B][/I][/COLOR]
 
 
-#EXTINF:-1,DE :  sky comedy
-http://top-iptv.zapto.org:8000/live/Aria/Aria/492.ts
-#EXTINF:-1,DE : Eins
-http://top-iptv.zapto.org:8000/live/Aria/Aria/475.ts
-#EXTINF:-1,DE : Cartoon Network
-http://top-iptv.zapto.org:8000/live/Aria/Aria/477.ts
-#EXTINF:-1,DE : Sky-Bundesliga-HD1
-http://top-iptv.zapto.org:8000/live/Aria/Aria/471.ts
-#EXTINF:-1,DE : sky sport 1
-http://top-iptv.zapto.org:8000/live/Aria/Aria/495.ts
-#EXTINF:-1,DE : Sky Cinema 1
-http://top-iptv.zapto.org:8000/live/Aria/Aria/490.ts
-#EXTINF:-1,DE : ORF EINS
-http://top-iptv.zapto.org:8000/live/Aria/Aria/474.ts
-#EXTINF:-1,DE : SIXX
-http://top-iptv.zapto.org:8000/live/Aria/Aria/472.ts
-#EXTINF:-1,DE : kika
-http://top-iptv.zapto.org:8000/live/Aria/Aria/476.ts
-#EXTINF:-1,DE : Sky Krimi
-http://top-iptv.zapto.org:8000/live/Aria/Aria/488.ts
-#EXTINF:-1,DE : RTL DE
-http://top-iptv.zapto.org:8000/live/Aria/Aria/482.ts
-#EXTINF:-1,DE : Nickelodeon
-http://top-iptv.zapto.org:8000/live/Aria/Aria/496.ts
-#EXTINF:-1,DE :  ZDF
-http://top-iptv.zapto.org:8000/live/Aria/Aria/480.ts
-#EXTINF:-1,DE :SKY SELECT 1 HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/473.ts
-#EXTINF:-1,DE : PRO 7
-http://top-iptv.zapto.org:8000/live/Aria/Aria/481.ts
-#EXTINF:-1,DE : sky cinema 24
-http://top-iptv.zapto.org:8000/live/Aria/Aria/491.ts
-#EXTINF:-1,DE : 13 Street HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/467.ts
-#EXTINF:-1,DE :  ATV 24
-http://top-iptv.zapto.org:8000/live/Aria/Aria/497.ts
-#EXTINF:-1,DE : SAT 1
-http://top-iptv.zapto.org:8000/live/Aria/Aria/486.ts
-#EXTINF:-1,DE : VOX DE
-http://top-iptv.zapto.org:8000/live/Aria/Aria/487.ts
-#EXTINF:-1,DE : sky sport 2
-http://top-iptv.zapto.org:8000/live/Aria/Aria/494.ts
-#EXTINF:-1,DE : ORF Sport+
-http://top-iptv.zapto.org:8000/live/Aria/Aria/479.ts
-#EXTINF:-1,DE: MGM HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/470.ts
-#EXTINF:-1,DE: Sky BundesLiga HD
-http://top-iptv.zapto.org:8000/live/Aria/Aria/468.ts
-#EXTINF:-1,DE: sky emotion
-http://top-iptv.zapto.org:8000/live/Aria/Aria/493.ts
-#EXTINF:-1,DE: National Geographic
-http://top-iptv.zapto.org:8000/live/Aria/Aria/469.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://top-iptv.zapto.org:8000/live/Aria/Aria/466.ts
+
+#EXTINF:-1,Local DE: RTL2
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5555.ts
+#EXTINF:-1,Local DE: Super-RTL
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5532.ts
+#EXTINF:-1,Local DE: VOX
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5531.ts
+#EXTINF:-1,Local DE: ARTE
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5563.ts
+#EXTINF:-1,Local De: ZDF
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5529.ts
+#EXTINF:-1,Local DE: KIKA
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5559.ts
+#EXTINF:-1,Local DE: KABEL-1
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5560.ts
+#EXTINF:-1,Local DE: SKY-SWR
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5534.ts
+#EXTINF:-1,Local DE: WDR-HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5530.ts
+#EXTINF:-1,------ KINO ------
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3670.ts
+#EXTINF:-1,Local DE: SKY Cinema
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5550.ts
+#EXTINF:-1,Local DE: SKY-Cinema 1
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5549.ts
+#EXTINF:-1,Local DE: SKY Cinema 24
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5548.ts
+#EXTINF:-1,Local DE: Sky-Action
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5552.ts
+#EXTINF:-1,Local DE: SKY-EMOTION
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5547.ts
+#EXTINF:-1,Local DE: SKY Hits HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5545.ts
+#EXTINF:-1,Local DE: SKY-HITS
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5546.ts
+#EXTINF:-1,------- UNTERHALTUNG ------
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3671.ts
+#EXTINF:-1,Local DE: SKY Krimi
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5544.ts
+#EXTINF:-1,Local DE: SKY-13TH-STREET
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5553.ts
+#EXTINF:-1,Local DE: sky-13-streat
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5554.ts
+#EXTINF:-1,Local DE: SKY-TNT-SERIE
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5533.ts
+#EXTINF:-1,Local DE: disney-juniore
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5561.ts
+#EXTINF:-1,------ SPORT DE ------
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3673.ts
+#EXTINF:-1,Local DE: Sky-Sport-1HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5535.ts
+#EXTINF:-1,Local DE: Sky-Bundesliga-HD-1
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5551.ts
+#EXTINF:-1,------ KULTUR ------
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3674.ts
+#EXTINF:-1,Local DE: NAT-GEO-WILD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5556.ts
+#EXTINF:-1,Local DE: Nat-Geo-HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5557.ts
+#EXTINF:-1,Local DE: NAT-GEO
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5558.ts
+#EXTINF:-1,Local DE: DISCOVERY-CHANNEL
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5562.ts
+#EXTINF:-1,Discovery
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3651.ts
+#EXTINF:-1,ARD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3534.ts
+#EXTINF:-1,Deutsche Welle
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3533.ts
+#EXTINF:-1,Local DE: SKY-SELECT-1HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5542.ts
+#EXTINF:-1,Local DE: SKY-SELECT-2HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5541.ts
+#EXTINF:-1,Local DE: SKY-SELECT-3HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5540.ts
+#EXTINF:-1,Local DE: SKY-SELECT-4HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5539.ts
+#EXTINF:-1,Local DE: SKY-SELECT-5HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5538.ts
+#EXTINF:-1,Local DE: SKY-SELECT-6HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5537.ts
+#EXTINF:-1,Local DE: SKY-SELECT-7HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5536.ts
+#EXTINF:-1,Local DE: SKY-SELCT-8-HD
+http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5543.ts
+
+
+#EXTINF:-1,Sky 3 D
+http://maxspeed.from-me.org:8000/live/fethi/fethi/831.ts
+#EXTINF:-1,DE-  NATIONAL GEOGRAPHIC CHANNEL
+http://maxspeed.from-me.org:8000/live/fethi/fethi/181.ts
+#EXTINF:-1,DE- DISCOVERY CHANNEL
+http://maxspeed.from-me.org:8000/live/fethi/fethi/180.ts
+#EXTINF:-1,SKY-DE  ATLANTIC HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/179.ts
+#EXTINF:-1,SKY DE - SPORT 2 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/119.ts
+#EXTINF:-1,SKY DE - SKY CINEMA+ 24 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/122.ts
+#EXTINF:-1,SKY DE - SKY CINEMA HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/121.ts
+#EXTINF:-1,SKY DE - SKY ACTION
+http://maxspeed.from-me.org:8000/live/fethi/fethi/123.ts
+#EXTINF:-1,DE: TNT FILM
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1217.ts
+#EXTINF:-1,DE: SYFY HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1218.ts
+#EXTINF:-1,ZDF
+http://maxspeed.from-me.org:8000/live/fethi/fethi/518.ts
+#EXTINF:-1,SKY DE - BUNDESLIGA HD 1
+http://maxspeed.from-me.org:8000/live/fethi/fethi/120.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1255.ts
+#EXTINF:-1,SKY DE _ SPORT 1 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/118.ts
+#EXTINF:-1,DE: Sky Sport  HD 1
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1252.ts
+#EXTINF:-1,DE: Sky Sport  HD 2
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1251.ts
+#EXTINF:-1,ARENA SPORT1 DEU
+http://maxspeed.from-me.org:8000/live/fethi/fethi/624.ts
+#EXTINF:-1,ARENA SPORT2 -DEU
+http://maxspeed.from-me.org:8000/live/fethi/fethi/623.ts
+#EXTINF:-1,ARENA SPORT3 -DEU
+http://maxspeed.from-me.org:8000/live/fethi/fethi/622.ts
+#EXTINF:-1,ARENA SPORT4 -DEU
+http://maxspeed.from-me.org:8000/live/fethi/fethi/621.ts
+#EXTINF:-1,ARENA SPORT5 -DEU
+http://maxspeed.from-me.org:8000/live/fethi/fethi/620.ts
+#EXTINF:-1,Sport Time TV
+http://maxspeed.from-me.org:8000/live/fethi/fethi/509.ts
+#EXTINF:-1,sport Time TV 2 .de
+http://maxspeed.from-me.org:8000/live/fethi/fethi/510.ts
+#EXTINF:-1,SPORT TIME TV 3 .de
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1257.ts
+#EXTINF:-1,SPORT TIME TV 4 .de
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1258.ts
+#EXTINF:-1,SPORT TIME TV 5 .de
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1259.ts
+#EXTINF:-1,SPORT TIME TV 6 .de
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1260.ts
+#EXTINF:-1,SPORT TIME TV 7 .de
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1261.ts
+#EXTINF:-1,DE: SPORT TIME 7
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1219.ts
+#EXTINF:-1,DE: SPORT TIME 6
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1220.ts
+#EXTINF:-1,DE: SPORT TIME 5
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1221.ts
+#EXTINF:-1,DE: SPORT TIME 4
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1222.ts
+#EXTINF:-1,DE: SPORT TIME 3
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1223.ts
+#EXTINF:-1,DE: SPORT TIME 2
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1224.ts
+#EXTINF:-1,DE: SPORT TIME 1
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1225.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1233.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1232.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1231.ts
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1230.ts
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1229.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1228.ts
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1227.ts
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1226.ts
+#EXTINF:-1,DE: SKY KRIMI
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1234.ts
+#EXTINF:-1,DE: SKY HITS
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1235.ts
+#EXTINF:-1,DE: Sky Emotion
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1253.ts
+#EXTINF:-1,DE: Sky Comedy
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1254.ts
+#EXTINF:-1,DE: SKY CINEMA  1
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1236.ts
 #EXTINF:-1,DE: Sky Cinema
-http://top-iptv.zapto.org:8000/live/Aria/Aria/489.ts
-#EXTINF:-1,DE: kabel1
-http://top-iptv.zapto.org:8000/live/Aria/Aria/478.ts
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1249.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1256.ts
+#EXTINF:-1,DE: Sky Action HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1250.ts
+#EXTINF:-1,DE: SKY 3D
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1237.ts
+#EXTINF:-1,DE: NatGeo HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1238.ts
+#EXTINF:-1,DE: NAT GEO WILD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1239.ts
+#EXTINF:-1,DE: MGM HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1240.ts
+#EXTINF:-1,DE: HR FERNSEHEN
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1242.ts
+#EXTINF:-1,DE: History HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1241.ts
+#EXTINF:-1,DE: HALLE TV
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1243.ts
+#EXTINF:-1,DE: EUROSPORT
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1244.ts
+#EXTINF:-1,DE: DISNEY CHANNEL
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1245.ts
+#EXTINF:-1,DE: Discovery HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1216.ts
+#EXTINF:-1,DE: CARTOON NETWORK
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1246.ts
+#EXTINF:-1,DE: BOOMERANG
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1247.ts
+#EXTINF:-1,DE: 13TH STREET HD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1248.ts
+#EXTINF:-1,DE:Das erste.de
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1115.ts
+#EXTINF:-1,DE:ZDF Neo
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1639.ts
+#EXTINF:-1,DE:ZDF Kultur
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1638.ts
+#EXTINF:-1,DE:ZDF Info
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1637.ts
+#EXTINF:-1,DE:ZDF
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1636.ts
+#EXTINF:-1,DE:Wdr
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1635.ts
+#EXTINF:-1,DE:VOX
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1634.ts
+#EXTINF:-1,DE:TNT Serie
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1632.ts
+#EXTINF:-1,SUISSE- Teleclub Sport 3
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1630.ts
+#EXTINF:-1,DE:Tagesschau 24
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1629.ts
+#EXTINF:-1,DE:SyFy
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1628.ts
+#EXTINF:-1,DE:SWR
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1627.ts
+#EXTINF:-1,DE:Super RTL
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1626.ts
+#EXTINF:-1,DE:Sixx
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1625.ts
+#EXTINF:-1,DE:Servus TV
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1624.ts
+#EXTINF:-1,DE:Sat1 Gold
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1623.ts
+#EXTINF:-1,DE:RTL Nitro
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1621.ts
+#EXTINF:-1,DE:RTL 2
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1620.ts
+#EXTINF:-1,DE:RTL
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1619.ts
+#EXTINF:-1,DE:Romance TV
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1618.ts
+#EXTINF:-1,DE:RBB Berlin
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1617.ts
+#EXTINF:-1,DE:Pro 7 Max
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1616.ts
+#EXTINF:-1,DE:Pro 7
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1615.ts
+#EXTINF:-1,DE:Phoenix
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1614.ts
+#EXTINF:-1,DE:ORF Eins
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1613.ts
+#EXTINF:-1,DE:ORF 2
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1612.ts
+#EXTINF:-1,DE:Nickelodeon
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1611.ts
+#EXTINF:-1,DE:NDR
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1610.ts
+#EXTINF:-1,DE:Nat Geo wild
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1608.ts
+#EXTINF:-1,DE:N24
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1607.ts
+#EXTINF:-1,DE:N-TV
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1606.ts
+#EXTINF:-1,DE:MGM
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1604.ts
+#EXTINF:-1,DE:MDR
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1603.ts
+#EXTINF:-1,DE:Kika
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1602.ts
+#EXTINF:-1,DE:Kabel 1
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1601.ts
+#EXTINF:-1,DE:Junior
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1600.ts
+#EXTINF:-1,DE:Joiz
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1599.ts
+#EXTINF:-1,DE:HR Fernsehen
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1598.ts
+#EXTINF:-1,DE:History Channel
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1597.ts
+#EXTINF:-1,DE:Hainmatkanal
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1596.ts
+#EXTINF:-1,DE:FOX
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1594.ts
+#EXTINF:-1,DE:Family TV
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1593.ts
+#EXTINF:-1,DE:Euronews
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1591.ts
+#EXTINF:-1,DE:Eins Plus
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1590.ts
+#EXTINF:-1,DE:Eins Festival
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1589.ts
+#EXTINF:-1,DE:Dmax
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1588.ts
+#EXTINF:-1,DE:Disney Junior
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1587.ts
+#EXTINF:-1,DE:Disney Channel
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1586.ts
+#EXTINF:-1,DE:Discovery Channel
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1585.ts
+#EXTINF:-1,DE:Deluxe Music
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1584.ts
+#EXTINF:-1,DE:Cartoon Network
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1583.ts
+#EXTINF:-1,DE:BR
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1581.ts
+#EXTINF:-1,DE:AXN
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1579.ts
+#EXTINF:-1,DE:Austria 24 TV
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1578.ts
+#EXTINF:-1,DE:Arte
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1577.ts
+#EXTINF:-1,DE:ARD
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1576.ts
+#EXTINF:-1,DE:A&E
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1575.ts
+#EXTINF:-1,DE:3sat
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1574.ts
+#EXTINF:-1,DE:3
+http://maxspeed.from-me.org:8000/live/fethi/fethi/1573.ts
 
+
+
+
+
+
+#EXTINF:-1,DE:RTL
+http://cdn.step-tv.com:8000/live/ch/ch/377.ts
+#EXTINF:-1,DE:ZDF
+http://cdn.step-tv.com:8000/live/ch/ch/372.ts
+#EXTINF:-1,DE:TNT_SERIE
+http://cdn.step-tv.com:8000/live/ch/ch/376.ts
+#EXTINF:-1,DE:ORF2
+http://cdn.step-tv.com:8000/live/ch/ch/374.ts
+#EXTINF:-1,DE:SIXX
+http://cdn.step-tv.com:8000/live/ch/ch/1500.ts
+#EXTINF:-1,DE:PRO7
+http://cdn.step-tv.com:8000/live/ch/ch/1501.ts
+#EXTINF:-1,DE:NDR
+http://cdn.step-tv.com:8000/live/ch/ch/1502.ts
+#EXTINF:-1,DE:N24
+http://cdn.step-tv.com:8000/live/ch/ch/1503.ts
+#EXTINF:-1,DE:N-TV
+http://cdn.step-tv.com:8000/live/ch/ch/1504.ts
+#EXTINF:-1,DE:KABEL1
+http://cdn.step-tv.com:8000/live/ch/ch/1506.ts
+#EXTINF:-1,DE:ARTE
+http://cdn.step-tv.com:8000/live/ch/ch/1508.ts
+#EXTINF:-1,DE:KIKA
+http://cdn.step-tv.com:8000/live/ch/ch/378.ts
+#EXTINF:-1,DE:SKY_CINEMA+1
+http://cdn.step-tv.com:8000/live/ch/ch/371.ts
+#EXTINF:-1,DE:SKY_CINEMA_24HD
+http://cdn.step-tv.com:8000/live/ch/ch/361.ts
+#EXTINF:-1,DE:SKY_ATLANTIC
+http://cdn.step-tv.com:8000/live/ch/ch/362.ts
+#EXTINF:-1,DE:SKY_EMOTION
+http://cdn.step-tv.com:8000/live/ch/ch/360.ts
+#EXTINF:-1,DE:SKY_COMEDY
+http://cdn.step-tv.com:8000/live/ch/ch/370.ts
+#EXTINF:-1,DE:Sky_KRIMI
+http://cdn.step-tv.com:8000/live/ch/ch/942.ts
+#EXTINF:-1,DE:SKY_HITS
+http://cdn.step-tv.com:8000/live/ch/ch/369.ts
+#EXTINF:-1,DE:13TH_STREETHD
+http://cdn.step-tv.com:8000/live/ch/ch/946.ts
+#EXTINF:-1,DE:SYFY
+http://cdn.step-tv.com:8000/live/ch/ch/945.ts
+#EXTINF:-1,DE:NATGEO_WILD
+http://cdn.step-tv.com:8000/live/ch/ch/943.ts
+#EXTINF:-1,DE:HISTORYHD
+http://cdn.step-tv.com:8000/live/ch/ch/944.ts
+#EXTINF:-1,DE:NATGEO
+http://cdn.step-tv.com:8000/live/ch/ch/375.ts
+#EXTINF:-1,DE:SKY_SELECT6
+http://cdn.step-tv.com:8000/live/ch/ch/363.ts
+#EXTINF:-1,DE:SKY_SELECT5
+http://cdn.step-tv.com:8000/live/ch/ch/364.ts
+#EXTINF:-1,DE:SKY_SELECT4
+http://cdn.step-tv.com:8000/live/ch/ch/365.ts
+#EXTINF:-1,DE:SKY_SELECT3
+http://cdn.step-tv.com:8000/live/ch/ch/366.ts
+#EXTINF:-1,DE:SKY_SELECT2
+http://cdn.step-tv.com:8000/live/ch/ch/367.ts
+#EXTINF:-1,DE:SKY_SELECT1
+http://cdn.step-tv.com:8000/live/ch/ch/368.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_HD
+http://cdn.step-tv.com:8000/live/ch/ch/359.ts
+#EXTINF:-1,DE:SKY_SPORTS_HD1
+http://cdn.step-tv.com:8000/live/ch/ch/357.ts
+#EXTINF:-1,DE:SKY_SPORTS_HD2
+http://cdn.step-tv.com:8000/live/ch/ch/358.ts
 
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
 
 #EXTINF:-1,[COLOR yellow][I][B]DE/FR/UK/IT [/B][/I][/COLOR] [COLOR white][I][B]- Kopieren und Einfugen der [COLOR yellow]Playlist URL[/COLOR] in PVR Simple Client oder Playlist Loader.[/B][/I][/COLOR]
 http://0.0.0.0:1234
