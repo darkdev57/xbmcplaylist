@@ -1087,412 +1087,153 @@ http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow][I][B]Einige Kanale funktionieren nicht.[/B][/I][/COLOR]
 
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:15000
+#EXTINF:-1,Sky de:ZDF
+http://iptv80.ddns.net:9070/live/karimos/skype88/558.m3u8
+#EXTINF:-1,Sky de:VOX
+http://iptv80.ddns.net:9070/live/karimos/skype88/559.m3u8
+#EXTINF:-1,Sky DE Discovery Channel HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/560.m3u8
+#EXTINF:-1,Sky DE Bundesliga 1
+http://iptv80.ddns.net:9070/live/karimos/skype88/561.m3u8
+#EXTINF:-1,Sky DE National Geographic HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/562.m3u8
+#EXTINF:-1,Sky de:SUPER RTL
+http://iptv80.ddns.net:9070/live/karimos/skype88/563.m3u8
+#EXTINF:-1,Sky de:SPORT TIME TV 7
+http://iptv80.ddns.net:9070/live/karimos/skype88/564.m3u8
+#EXTINF:-1,Sky de:SPORT TIME TV 6
+http://iptv80.ddns.net:9070/live/karimos/skype88/565.m3u8
+#EXTINF:-1,Sky de:SPORT TIME TV 5
+http://iptv80.ddns.net:9070/live/karimos/skype88/566.m3u8
+#EXTINF:-1,Sky de:SPORT TIME TV 4
+http://iptv80.ddns.net:9070/live/karimos/skype88/567.m3u8
+#EXTINF:-1,Sky de:SPORT TIME TV 3
+http://iptv80.ddns.net:9070/live/karimos/skype88/568.m3u8
+#EXTINF:-1,Sky de:SPORT TIME TV 2
+http://iptv80.ddns.net:9070/live/karimos/skype88/569.m3u8
+#EXTINF:-1,Sky de:SPORT TIME TV 1
+http://iptv80.ddns.net:9070/live/karimos/skype88/570.m3u8
+#EXTINF:-1,Sky de:SPORT HD 2
+http://iptv80.ddns.net:9070/live/karimos/skype88/571.m3u8
+#EXTINF:-1,Sky de:SPORT HD 1
+http://iptv80.ddns.net:9070/live/karimos/skype88/572.m3u8
+#EXTINF:-1,Sky de:SKY SPORT 2
+http://iptv80.ddns.net:9070/live/karimos/skype88/573.m3u8
+#EXTINF:-1,Sky de:SKY SPORT 1
+http://iptv80.ddns.net:9070/live/karimos/skype88/574.m3u8
+#EXTINF:-1,Sky de:SKY KRIMI
+http://iptv80.ddns.net:9070/live/karimos/skype88/575.m3u8
+#EXTINF:-1,Sky de:SKY HITS
+http://iptv80.ddns.net:9070/live/karimos/skype88/576.m3u8
+#EXTINF:-1,Sky de:SKY EMOTION
+http://iptv80.ddns.net:9070/live/karimos/skype88/577.m3u8
+#EXTINF:-1,Sky de:SKY COMEDY HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/578.m3u8
+#EXTINF:-1,Sky de:SKY CINEMA  24
+http://iptv80.ddns.net:9070/live/karimos/skype88/580.m3u8
+#EXTINF:-1,Sky de:SKY CINEMA  1
+http://iptv80.ddns.net:9070/live/karimos/skype88/581.m3u8
+#EXTINF:-1,Sky de:SKY CINEMA
+http://iptv80.ddns.net:9070/live/karimos/skype88/582.m3u8
+#EXTINF:-1,Sky de:SKY ACTION HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/584.m3u8
+#EXTINF:-1,Sky de:SKY ACTION
+http://iptv80.ddns.net:9070/live/karimos/skype88/585.m3u8
+#EXTINF:-1,Sky de:SKY  ATLANTIC
+http://iptv80.ddns.net:9070/live/karimos/skype88/586.m3u8
+#EXTINF:-1,Sky de:NAT GEO WILD
+http://iptv80.ddns.net:9070/live/karimos/skype88/587.m3u8
+#EXTINF:-1,Sky de:AXN
+http://iptv80.ddns.net:9070/live/karimos/skype88/589.m3u8
+#EXTINF:-1,Sky de:ATLANTIC HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/590.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
 
 
-#EXTINF:-1,Local DE: RTL2
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5555.ts
-#EXTINF:-1,Local DE: Super-RTL
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5532.ts
-#EXTINF:-1,Local DE: VOX
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5531.ts
-#EXTINF:-1,Local DE: ARTE
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5563.ts
-#EXTINF:-1,Local De: ZDF
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5529.ts
-#EXTINF:-1,Local DE: KIKA
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5559.ts
-#EXTINF:-1,Local DE: KABEL-1
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5560.ts
-#EXTINF:-1,Local DE: SKY-SWR
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5534.ts
-#EXTINF:-1,Local DE: WDR-HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5530.ts
-#EXTINF:-1,------ KINO ------
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3670.ts
-#EXTINF:-1,Local DE: SKY Cinema
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5550.ts
-#EXTINF:-1,Local DE: SKY-Cinema 1
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5549.ts
-#EXTINF:-1,Local DE: SKY Cinema 24
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5548.ts
-#EXTINF:-1,Local DE: Sky-Action
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5552.ts
-#EXTINF:-1,Local DE: SKY-EMOTION
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5547.ts
-#EXTINF:-1,Local DE: SKY Hits HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5545.ts
-#EXTINF:-1,Local DE: SKY-HITS
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5546.ts
-#EXTINF:-1,------- UNTERHALTUNG ------
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3671.ts
-#EXTINF:-1,Local DE: SKY Krimi
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5544.ts
-#EXTINF:-1,Local DE: SKY-13TH-STREET
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5553.ts
-#EXTINF:-1,Local DE: sky-13-streat
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5554.ts
-#EXTINF:-1,Local DE: SKY-TNT-SERIE
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5533.ts
-#EXTINF:-1,Local DE: disney-juniore
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5561.ts
-#EXTINF:-1,------ SPORT DE ------
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3673.ts
-#EXTINF:-1,Local DE: Sky-Sport-1HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5535.ts
-#EXTINF:-1,Local DE: Sky-Bundesliga-HD-1
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5551.ts
-#EXTINF:-1,------ KULTUR ------
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3674.ts
-#EXTINF:-1,Local DE: NAT-GEO-WILD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5556.ts
-#EXTINF:-1,Local DE: Nat-Geo-HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5557.ts
-#EXTINF:-1,Local DE: NAT-GEO
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5558.ts
-#EXTINF:-1,Local DE: DISCOVERY-CHANNEL
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5562.ts
-#EXTINF:-1,Discovery
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3651.ts
-#EXTINF:-1,ARD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3534.ts
-#EXTINF:-1,Deutsche Welle
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/3533.ts
-#EXTINF:-1,Local DE: SKY-SELECT-1HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5542.ts
-#EXTINF:-1,Local DE: SKY-SELECT-2HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5541.ts
-#EXTINF:-1,Local DE: SKY-SELECT-3HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5540.ts
-#EXTINF:-1,Local DE: SKY-SELECT-4HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5539.ts
-#EXTINF:-1,Local DE: SKY-SELECT-5HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5538.ts
-#EXTINF:-1,Local DE: SKY-SELECT-6HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5537.ts
-#EXTINF:-1,Local DE: SKY-SELECT-7HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5536.ts
-#EXTINF:-1,Local DE: SKY-SELCT-8-HD
-http://iptv-diabolik2015.dyndns.org:8000/live/kevin1/kevin1/5543.ts
+
+#EXTINF:-1,SKY-ACTION-HD-(Deutch)
+http://tviptv.org:50100/live/Hani/Hani/288.ts
+#EXTINF:-1,NAT-GEO-WILD-HD-(Deutch)
+http://tviptv.org:50100/live/Hani/Hani/289.ts
 
 
-#EXTINF:-1,Sky 3 D
-http://maxspeed.from-me.org:8000/live/fethi/fethi/831.ts
-#EXTINF:-1,DE-  NATIONAL GEOGRAPHIC CHANNEL
-http://maxspeed.from-me.org:8000/live/fethi/fethi/181.ts
-#EXTINF:-1,DE- DISCOVERY CHANNEL
-http://maxspeed.from-me.org:8000/live/fethi/fethi/180.ts
-#EXTINF:-1,SKY-DE  ATLANTIC HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/179.ts
-#EXTINF:-1,SKY DE - SPORT 2 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/119.ts
-#EXTINF:-1,SKY DE - SKY CINEMA+ 24 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/122.ts
-#EXTINF:-1,SKY DE - SKY CINEMA HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/121.ts
-#EXTINF:-1,SKY DE - SKY ACTION
-http://maxspeed.from-me.org:8000/live/fethi/fethi/123.ts
-#EXTINF:-1,DE: TNT FILM
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1217.ts
-#EXTINF:-1,DE: SYFY HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1218.ts
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,RTL Deutschland
+http://iptv.hopto.org:9705/live/petro/petro/170.m3u8
+#EXTINF:-1,RTL II Deutschland
+http://iptv.hopto.org:9705/live/petro/petro/136.m3u8
+#EXTINF:-1,Super RTL
+http://iptv.hopto.org:9705/live/petro/petro/203.m3u8
 #EXTINF:-1,ZDF
-http://maxspeed.from-me.org:8000/live/fethi/fethi/518.ts
-#EXTINF:-1,SKY DE - BUNDESLIGA HD 1
-http://maxspeed.from-me.org:8000/live/fethi/fethi/120.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1255.ts
-#EXTINF:-1,SKY DE _ SPORT 1 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/118.ts
-#EXTINF:-1,DE: Sky Sport  HD 1
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1252.ts
-#EXTINF:-1,DE: Sky Sport  HD 2
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1251.ts
-#EXTINF:-1,ARENA SPORT1 DEU
-http://maxspeed.from-me.org:8000/live/fethi/fethi/624.ts
-#EXTINF:-1,ARENA SPORT2 -DEU
-http://maxspeed.from-me.org:8000/live/fethi/fethi/623.ts
-#EXTINF:-1,ARENA SPORT3 -DEU
-http://maxspeed.from-me.org:8000/live/fethi/fethi/622.ts
-#EXTINF:-1,ARENA SPORT4 -DEU
-http://maxspeed.from-me.org:8000/live/fethi/fethi/621.ts
-#EXTINF:-1,ARENA SPORT5 -DEU
-http://maxspeed.from-me.org:8000/live/fethi/fethi/620.ts
-#EXTINF:-1,Sport Time TV
-http://maxspeed.from-me.org:8000/live/fethi/fethi/509.ts
-#EXTINF:-1,sport Time TV 2 .de
-http://maxspeed.from-me.org:8000/live/fethi/fethi/510.ts
-#EXTINF:-1,SPORT TIME TV 3 .de
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1257.ts
-#EXTINF:-1,SPORT TIME TV 4 .de
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1258.ts
-#EXTINF:-1,SPORT TIME TV 5 .de
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1259.ts
-#EXTINF:-1,SPORT TIME TV 6 .de
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1260.ts
-#EXTINF:-1,SPORT TIME TV 7 .de
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1261.ts
-#EXTINF:-1,DE: SPORT TIME 7
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1219.ts
-#EXTINF:-1,DE: SPORT TIME 6
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1220.ts
-#EXTINF:-1,DE: SPORT TIME 5
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1221.ts
-#EXTINF:-1,DE: SPORT TIME 4
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1222.ts
-#EXTINF:-1,DE: SPORT TIME 3
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1223.ts
-#EXTINF:-1,DE: SPORT TIME 2
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1224.ts
-#EXTINF:-1,DE: SPORT TIME 1
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1225.ts
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1233.ts
-#EXTINF:-1,DE: SKY SELECT 2 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1232.ts
-#EXTINF:-1,DE: SKY SELECT 3 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1231.ts
-#EXTINF:-1,DE: SKY SELECT 4 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1230.ts
-#EXTINF:-1,DE: SKY SELECT 5 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1229.ts
-#EXTINF:-1,DE: SKY SELECT 6 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1228.ts
-#EXTINF:-1,DE: SKY SELECT 7 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1227.ts
-#EXTINF:-1,DE: SKY SELECT 8 HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1226.ts
-#EXTINF:-1,DE: SKY KRIMI
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1234.ts
-#EXTINF:-1,DE: SKY HITS
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1235.ts
-#EXTINF:-1,DE: Sky Emotion
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1253.ts
-#EXTINF:-1,DE: Sky Comedy
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1254.ts
-#EXTINF:-1,DE: SKY CINEMA  1
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1236.ts
-#EXTINF:-1,DE: Sky Cinema
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1249.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1256.ts
-#EXTINF:-1,DE: Sky Action HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1250.ts
-#EXTINF:-1,DE: SKY 3D
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1237.ts
-#EXTINF:-1,DE: NatGeo HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1238.ts
-#EXTINF:-1,DE: NAT GEO WILD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1239.ts
-#EXTINF:-1,DE: MGM HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1240.ts
-#EXTINF:-1,DE: HR FERNSEHEN
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1242.ts
-#EXTINF:-1,DE: History HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1241.ts
-#EXTINF:-1,DE: HALLE TV
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1243.ts
-#EXTINF:-1,DE: EUROSPORT
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1244.ts
-#EXTINF:-1,DE: DISNEY CHANNEL
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1245.ts
-#EXTINF:-1,DE: Discovery HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1216.ts
-#EXTINF:-1,DE: CARTOON NETWORK
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1246.ts
-#EXTINF:-1,DE: BOOMERANG
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1247.ts
-#EXTINF:-1,DE: 13TH STREET HD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1248.ts
-#EXTINF:-1,DE:Das erste.de
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1115.ts
-#EXTINF:-1,DE:ZDF Neo
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1639.ts
-#EXTINF:-1,DE:ZDF Kultur
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1638.ts
-#EXTINF:-1,DE:ZDF Info
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1637.ts
-#EXTINF:-1,DE:ZDF
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1636.ts
-#EXTINF:-1,DE:Wdr
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1635.ts
-#EXTINF:-1,DE:VOX
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1634.ts
-#EXTINF:-1,DE:TNT Serie
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1632.ts
-#EXTINF:-1,SUISSE- Teleclub Sport 3
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1630.ts
-#EXTINF:-1,DE:Tagesschau 24
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1629.ts
-#EXTINF:-1,DE:SyFy
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1628.ts
-#EXTINF:-1,DE:SWR
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1627.ts
-#EXTINF:-1,DE:Super RTL
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1626.ts
-#EXTINF:-1,DE:Sixx
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1625.ts
-#EXTINF:-1,DE:Servus TV
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1624.ts
-#EXTINF:-1,DE:Sat1 Gold
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1623.ts
-#EXTINF:-1,DE:RTL Nitro
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1621.ts
-#EXTINF:-1,DE:RTL 2
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1620.ts
-#EXTINF:-1,DE:RTL
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1619.ts
-#EXTINF:-1,DE:Romance TV
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1618.ts
-#EXTINF:-1,DE:RBB Berlin
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1617.ts
-#EXTINF:-1,DE:Pro 7 Max
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1616.ts
-#EXTINF:-1,DE:Pro 7
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1615.ts
-#EXTINF:-1,DE:Phoenix
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1614.ts
-#EXTINF:-1,DE:ORF Eins
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1613.ts
-#EXTINF:-1,DE:ORF 2
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1612.ts
-#EXTINF:-1,DE:Nickelodeon
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1611.ts
-#EXTINF:-1,DE:NDR
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1610.ts
-#EXTINF:-1,DE:Nat Geo wild
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1608.ts
-#EXTINF:-1,DE:N24
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1607.ts
-#EXTINF:-1,DE:N-TV
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1606.ts
-#EXTINF:-1,DE:MGM
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1604.ts
-#EXTINF:-1,DE:MDR
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1603.ts
-#EXTINF:-1,DE:Kika
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1602.ts
-#EXTINF:-1,DE:Kabel 1
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1601.ts
-#EXTINF:-1,DE:Junior
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1600.ts
-#EXTINF:-1,DE:Joiz
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1599.ts
-#EXTINF:-1,DE:HR Fernsehen
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1598.ts
-#EXTINF:-1,DE:History Channel
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1597.ts
-#EXTINF:-1,DE:Hainmatkanal
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1596.ts
-#EXTINF:-1,DE:FOX
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1594.ts
-#EXTINF:-1,DE:Family TV
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1593.ts
-#EXTINF:-1,DE:Euronews
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1591.ts
-#EXTINF:-1,DE:Eins Plus
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1590.ts
-#EXTINF:-1,DE:Eins Festival
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1589.ts
-#EXTINF:-1,DE:Dmax
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1588.ts
-#EXTINF:-1,DE:Disney Junior
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1587.ts
-#EXTINF:-1,DE:Disney Channel
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1586.ts
-#EXTINF:-1,DE:Discovery Channel
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1585.ts
-#EXTINF:-1,DE:Deluxe Music
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1584.ts
-#EXTINF:-1,DE:Cartoon Network
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1583.ts
-#EXTINF:-1,DE:BR
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1581.ts
-#EXTINF:-1,DE:AXN
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1579.ts
-#EXTINF:-1,DE:Austria 24 TV
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1578.ts
-#EXTINF:-1,DE:Arte
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1577.ts
-#EXTINF:-1,DE:ARD
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1576.ts
-#EXTINF:-1,DE:A&E
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1575.ts
-#EXTINF:-1,DE:3sat
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1574.ts
-#EXTINF:-1,DE:3
-http://maxspeed.from-me.org:8000/live/fethi/fethi/1573.ts
-
-
-
-
-
-
-#EXTINF:-1,DE:RTL
-http://cdn.step-tv.com:8000/live/ch/ch/377.ts
-#EXTINF:-1,DE:ZDF
-http://cdn.step-tv.com:8000/live/ch/ch/372.ts
-#EXTINF:-1,DE:TNT_SERIE
-http://cdn.step-tv.com:8000/live/ch/ch/376.ts
-#EXTINF:-1,DE:ORF2
-http://cdn.step-tv.com:8000/live/ch/ch/374.ts
-#EXTINF:-1,DE:SIXX
-http://cdn.step-tv.com:8000/live/ch/ch/1500.ts
-#EXTINF:-1,DE:PRO7
-http://cdn.step-tv.com:8000/live/ch/ch/1501.ts
-#EXTINF:-1,DE:NDR
-http://cdn.step-tv.com:8000/live/ch/ch/1502.ts
-#EXTINF:-1,DE:N24
-http://cdn.step-tv.com:8000/live/ch/ch/1503.ts
-#EXTINF:-1,DE:N-TV
-http://cdn.step-tv.com:8000/live/ch/ch/1504.ts
-#EXTINF:-1,DE:KABEL1
-http://cdn.step-tv.com:8000/live/ch/ch/1506.ts
-#EXTINF:-1,DE:ARTE
-http://cdn.step-tv.com:8000/live/ch/ch/1508.ts
-#EXTINF:-1,DE:KIKA
-http://cdn.step-tv.com:8000/live/ch/ch/378.ts
-#EXTINF:-1,DE:SKY_CINEMA+1
-http://cdn.step-tv.com:8000/live/ch/ch/371.ts
-#EXTINF:-1,DE:SKY_CINEMA_24HD
-http://cdn.step-tv.com:8000/live/ch/ch/361.ts
-#EXTINF:-1,DE:SKY_ATLANTIC
-http://cdn.step-tv.com:8000/live/ch/ch/362.ts
-#EXTINF:-1,DE:SKY_EMOTION
-http://cdn.step-tv.com:8000/live/ch/ch/360.ts
-#EXTINF:-1,DE:SKY_COMEDY
-http://cdn.step-tv.com:8000/live/ch/ch/370.ts
-#EXTINF:-1,DE:Sky_KRIMI
-http://cdn.step-tv.com:8000/live/ch/ch/942.ts
-#EXTINF:-1,DE:SKY_HITS
-http://cdn.step-tv.com:8000/live/ch/ch/369.ts
-#EXTINF:-1,DE:13TH_STREETHD
-http://cdn.step-tv.com:8000/live/ch/ch/946.ts
-#EXTINF:-1,DE:SYFY
-http://cdn.step-tv.com:8000/live/ch/ch/945.ts
-#EXTINF:-1,DE:NATGEO_WILD
-http://cdn.step-tv.com:8000/live/ch/ch/943.ts
-#EXTINF:-1,DE:HISTORYHD
-http://cdn.step-tv.com:8000/live/ch/ch/944.ts
-#EXTINF:-1,DE:NATGEO
-http://cdn.step-tv.com:8000/live/ch/ch/375.ts
-#EXTINF:-1,DE:SKY_SELECT6
-http://cdn.step-tv.com:8000/live/ch/ch/363.ts
-#EXTINF:-1,DE:SKY_SELECT5
-http://cdn.step-tv.com:8000/live/ch/ch/364.ts
-#EXTINF:-1,DE:SKY_SELECT4
-http://cdn.step-tv.com:8000/live/ch/ch/365.ts
-#EXTINF:-1,DE:SKY_SELECT3
-http://cdn.step-tv.com:8000/live/ch/ch/366.ts
-#EXTINF:-1,DE:SKY_SELECT2
-http://cdn.step-tv.com:8000/live/ch/ch/367.ts
-#EXTINF:-1,DE:SKY_SELECT1
-http://cdn.step-tv.com:8000/live/ch/ch/368.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_HD
-http://cdn.step-tv.com:8000/live/ch/ch/359.ts
-#EXTINF:-1,DE:SKY_SPORTS_HD1
-http://cdn.step-tv.com:8000/live/ch/ch/357.ts
-#EXTINF:-1,DE:SKY_SPORTS_HD2
-http://cdn.step-tv.com:8000/live/ch/ch/358.ts
+http://iptv.hopto.org:9705/live/petro/petro/95.m3u8
+#EXTINF:-1,ProSieben
+http://iptv.hopto.org:9705/live/petro/petro/202.m3u8
+#EXTINF:-1,DAS ERTES
+http://iptv.hopto.org:9705/live/petro/petro/96.m3u8
+#EXTINF:-1,VOX DE
+http://iptv.hopto.org:9705/live/petro/petro/723.m3u8
+#EXTINF:-1,PRO 7 DE
+http://iptv.hopto.org:9705/live/petro/petro/702.m3u8
+#EXTINF:-1,ATV 24
+http://iptv.hopto.org:9705/live/petro/petro/740.m3u8
+#EXTINF:-1,ARTE.DE
+http://iptv.hopto.org:9705/live/petro/petro/161.m3u8
+#EXTINF:-1,DE: 3Sat
+http://iptv.hopto.org:9705/live/petro/petro/748.m3u8
+#EXTINF:-1,DE: SRF 2
+http://iptv.hopto.org:9705/live/petro/petro/711.m3u8
+#EXTINF:-1,DE: Kika
+http://iptv.hopto.org:9705/live/petro/petro/139.m3u8
+#EXTINF:-1,DE: Kabel1
+http://iptv.hopto.org:9705/live/petro/petro/745.m3u8
+#EXTINF:-1,SAT 1
+http://iptv.hopto.org:9705/live/petro/petro/747.m3u8
+#EXTINF:-1,Orf 1
+http://iptv.hopto.org:9705/live/petro/petro/750.m3u8
+#EXTINF:-1,Orf 2
+http://iptv.hopto.org:9705/live/petro/petro/749.m3u8
+#EXTINF:-1,DE: ORF SPORT
+http://iptv.hopto.org:9705/live/petro/petro/886.m3u8
+#EXTINF:-1,Sky Germany TNT Serie HD
+http://iptv.hopto.org:9705/live/petro/petro/140.m3u8
+#EXTINF:-1,DE Sky Cinema HD
+http://iptv.hopto.org:9705/live/petro/petro/177.m3u8
+#EXTINF:-1,Sky De Krimi
+http://iptv.hopto.org:9705/live/petro/petro/148.m3u8
+#EXTINF:-1,DE: Sky  Atlantic
+http://iptv.hopto.org:9705/live/petro/petro/138.m3u8
+#EXTINF:-1,SKY DE EMOTION
+http://iptv.hopto.org:9705/live/petro/petro/218.m3u8
+#EXTINF:-1,Sky Hits DE
+http://iptv.hopto.org:9705/live/petro/petro/782.m3u8
+#EXTINF:-1,SKY ACTION DE
+http://iptv.hopto.org:9705/live/petro/petro/135.m3u8
+#EXTINF:-1,SKY COMEDY DE
+http://iptv.hopto.org:9705/live/petro/petro/813.m3u8
+#EXTINF:-1,SKY Bundesliga
+http://iptv.hopto.org:9705/live/petro/petro/71.m3u8
+#EXTINF:-1,SKY Sport 1 HD (de)
+http://iptv.hopto.org:9705/live/petro/petro/75.m3u8
+#EXTINF:-1,SKY Sport 2 HD (de)
+http://iptv.hopto.org:9705/live/petro/petro/76.m3u8
+#EXTINF:-1,DE: History
+http://iptv.hopto.org:9705/live/petro/petro/167.m3u8
+#EXTINF:-1,DE Sky Germany 13 Street HD
+http://iptv.hopto.org:9705/live/petro/petro/149.m3u8
+#EXTINF:-1,DE: Sky NatGeo Wild HD
+http://iptv.hopto.org:9705/live/petro/petro/731.m3u8
+#EXTINF:-1,National Geographic Channel Deutschland
+http://iptv.hopto.org:9705/live/petro/petro/235.m3u8
+#EXTINF:-1,DE: Sky Select 1 HD
+http://iptv.hopto.org:9705/live/petro/petro/809.m3u8
+#EXTINF:-1,Sky Select HD 2
+http://iptv.hopto.org:9705/live/petro/petro/746.m3u8
 
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
 
