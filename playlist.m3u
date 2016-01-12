@@ -6,691 +6,502 @@
 #EXTINF:-1,[COLOR blue][I][B]---29-12-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --http://mafreebox.freebox.fr/freeboxtv/playlist.m3u--[/COLOR]
 #EXTM3U
-#EXTINF:0,3+HD
-http://62.65.140.215:80/session/28665f7e-b7a4-11e5-b5c5-005056bc49ac/nvnv5a/1/1013/index.m3u8?token=e85297918f1e5d57adac1a78a4497072_1452521538_1452521538&p=127|X-Forwarded-For=85.2.146.35|X-Forwarded-For=85.2.146.35
-#EXTINF:0,3satHD
-http://62.65.140.155:80/session/289c05ac-b7a4-11e5-8cfd-005056bc1a52/nvnv5a/1/1117/index.m3u8?token=747e36e703eceb270db2b0f1f7b78171_1452521538_1452521538&p=127|X-Forwarded-For=85.2.146.35|X-Forwarded-For=85.2.146.35
-#EXTINF:0,4+HD
-http://62.65.140.218:80/session/28cce514-b7a4-11e5-81b9-005056bc49ac/nvnv5a/1/1031/index.m3u8?token=ee27517f4644d31056026b2741d153bd_1452521538_1452521538&p=127|X-Forwarded-For=85.2.146.35|X-Forwarded-For=85.2.146.35
-#EXTINF:0,5+
-http://62.65.140.149:80/session/290b7842-b7a4-11e5-aecf-005056bc06d1/nvnv5a/1/1047/index.m3u8?token=877f326ff0d27ef74e6c356bc96dcefb_1452521539_1452521539&p=127|X-Forwarded-For=85.2.146.35|X-Forwarded-For=85.2.146.35
-#EXTINF:0,AlJazeeraEn
-http://62.65.140.215:80/session/294cea0c-b7a4-11e5-90b6-005056bc49ac/nvnv5a/2/4013/index.m3u8?token=89528879bdf4735ec45ca4df8861e97a_1452521539_1452521539&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,AnixeHD
-http://62.65.140.151:80/session/29943484-b7a4-11e5-9feb-005056bc1a52/nvnv5a/1/1134/index.m3u8?token=c2d6672ebd5ed08d2dcd314a1e2e1150_1452521540_1452521540&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,ARDHD
-http://62.65.140.217:80/session/29d24a12-b7a4-11e5-952a-005056bc49ac/nvnv5a/2/1165/index.m3u8?token=bf93db1298fa4eef08e70b7526c2174e_1452521540_1452521540&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,ArteFrHD
-http://62.65.140.215:80/session/2a08c42a-b7a4-11e5-9537-005056bc49ac/nvnv5a/2/2029/index.m3u8?token=85f7802924b169fe52f649adad624a32_1452521541_1452521541&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,ArteHD
-http://62.65.140.213:80/session/2a3bfae8-b7a4-11e5-91bc-005056bc1a52/nvnv5a/1/1150/index.m3u8?token=7d63e1161fcdd53b7de4e0e4ab014a21_1452521541_1452521541&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,BBC1HD
-http://62.65.140.217:80/session/2a939bfe-b7a4-11e5-ade0-005056bc49ac/nvnv5a/2/4017/index.m3u8?token=5520c92b8044a58790a8b79752089d10_1452521541_1452521541&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,BBC2HD
-http://62.65.140.218:80/session/2ad2405c-b7a4-11e5-81ef-005056bc1a52/nvnv5a/2/4012/index.m3u8?token=7572f9b6851f79aa865e38b59f384956_1452521542_1452521542&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,BBC3
-http://62.65.140.212:80/session/2b0ebc76-b7a4-11e5-b9bd-005056bc1a52/nvnv5a/2/4008/index.m3u8?token=e43fc88bcfd8c6b820f2de2934f70ee8_1452521542_1452521542&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,BBCwn
-http://62.65.140.217:80/session/2b499b70-b7a4-11e5-adee-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=84f5a99cbfb5522b2e49ef9f73176d90_1452521543_1452521543&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,BRHD
-http://62.65.140.214:80/session/2b88915e-b7a4-11e5-bcba-005056bc1a52/nvnv5a/1/1112/index.m3u8?token=0cb478f37db8f29b6981a68b2191d1d4_1452521543_1452521543&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Canal9
-http://62.65.140.216:80/session/2be0eb10-b7a4-11e5-adb8-005056bc1a52/nvnv5a/2/2041/index.m3u8?token=f250c7a9f12f67ab1a8489f2e11bdb98_1452521543_1452521543&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,CanalAlpha
-http://62.65.140.155:80/session/2c364614-b7a4-11e5-ab6a-005056bc1a52/nvnv5a/2/2045/index.m3u8?token=8755e5987c7a3dc40ff00c70ed246302_1452521544_1452521544&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Canale5HD
-http://62.65.140.215:80/session/2c72b32e-b7a4-11e5-9bfe-005056bc1a52/nvnv5a/2/3026/index.m3u8?token=bcab4e88fc8cf1ceae3d89d990dffc12_1452521545_1452521545&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Chan4
-http://62.65.140.219:80/session/2cad1c1c-b7a4-11e5-97be-005056bc49ac/nvnv5a/2/4022/index.m3u8?token=71a472481e5f1eb2336d286fc5be17cc_1452521545_1452521545&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,CHTVHD
-http://62.65.140.216:80/session/2ce8f03e-b7a4-11e5-981f-005056bc1a52/nvnv5a/1/1032/index.m3u8?token=ea27bd0646be3a278cb44728b55235b9_1452521545_1452521545&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Cielo
-http://62.65.140.215:80/session/2d3f12f2-b7a4-11e5-a58c-005056bc49ac/nvnv5a/2/3041/index.m3u8?token=a47261f110aa8d5a2bbd2d4b7a5967b1_1452521546_1452521546&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,CNBC
-http://62.65.140.151:80/session/2d9e5afa-b7a4-11e5-8ce0-005056bc1a52/nvnv5a/2/4001/index.m3u8?token=bf5bf259ff15a908a0437946f821bb18_1452521546_1452521546&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,CNN
-http://62.65.140.154:80/session/2dd66c4c-b7a4-11e5-85dd-005056bc49ac/nvnv5a/2/4002/index.m3u8?token=eb5a605168b923d811d3cc997285ad4d_1452521547_1452521547&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,D8
-http://62.65.140.215:80/session/2e138dc0-b7a4-11e5-a84d-005056bc1a52/nvnv5a/2/2018/index.m3u8?token=e2674505be6e55d86daef046c125a55c_1452521547_1452521547&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,DeluxeMusic
-http://62.65.140.216:80/session/2e49c200-b7a4-11e5-9518-005056bc06d1/nvnv5a/1/1153/index.m3u8?token=ae5a7b2e5a8e143b59dbcce0b88f63e1_1452521548_1452521548&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,DisneyChannel
-http://62.65.140.214:80/session/2e7cd7b2-b7a4-11e5-bb1e-005056bc1a52/nvnv5a/1/1124/index.m3u8?token=fb54497af43c4909fe5ef8a8959a8897_1452521548_1452521548&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,DMAX
-http://62.65.140.212:80/session/2eb1844e-b7a4-11e5-a875-005056bc06d1/nvnv5a/1/1018/index.m3u8?token=38b5a538787d38bb8fbb4d7867f57387_1452521548_1452521548&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,EuNews-e
-http://62.65.140.217:80/session/2f0d92de-b7a4-11e5-b25e-005056bc1a52/nvnv5a/1/104903/index.m3u8?token=98fea0569c184b8c6d4402d4820ab8c3_1452521549_1452521549&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,EuNews-f
-http://62.65.140.217:80/session/2f4c9b32-b7a4-11e5-8a1f-005056bc06d1/nvnv5a/1/104901/index.m3u8?token=79700751ba3b34334d5a07162ccd7f0d_1452521549_1452521549&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,EuNews-i
-http://62.65.140.217:80/session/2f927bde-b7a4-11e5-83c0-005056bc1a52/nvnv5a/1/104902/index.m3u8?token=6d57bc857cb33011e77458633fb976e6_1452521550_1452521550&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,EuNews
-http://62.65.140.212:80/session/2fd46878-b7a4-11e5-995c-005056bc1a52/nvnv5a/1/1049/index.m3u8?token=5fbad2f3b29e973c1d3d6e9f602b7555_1452521550_1452521550&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,EuSp
-http://62.65.140.153:80/session/300767f0-b7a4-11e5-845d-005056bc1a52/nvnv5a/1/1051/index.m3u8?token=2634cabf19ca53943b75df5db196375f_1452521551_1452521551&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Film4
-http://62.65.140.212:80/session/304177ba-b7a4-11e5-8177-005056bc1a52/nvnv5a/2/4023/index.m3u8?token=ba314066f77b37ddd81976348e561927_1452521551_1452521551&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Fr2HD
-http://62.65.140.148:80/session/307175be-b7a4-11e5-bd0b-005056bc1a52/nvnv5a/2/2028/index.m3u8?token=4f4992df77db0ca650329786d151c8fd_1452521551_1452521551&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Fr3
-http://62.65.140.214:80/session/30ac3078-b7a4-11e5-b05b-005056bc49ac/nvnv5a/2/2008/index.m3u8?token=6cfc6e5d23e7ac86f5d052aee625c10a_1452521552_1452521552&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Fr4
-http://62.65.140.155:80/session/30eb483a-b7a4-11e5-b6eb-005056bc1a52/nvnv5a/2/2009/index.m3u8?token=4a4b521f16ccbe5b6d2286a849fb71d8_1452521552_1452521552&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Fr5
-http://62.65.140.216:80/session/31286a80-b7a4-11e5-a5b8-005056bc49ac/nvnv5a/2/2010/index.m3u8?token=90ca839b4a072743430d715b247d7cdc_1452521552_1452521552&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Fr24
-http://62.65.140.148:80/session/31788e48-b7a4-11e5-bb7c-005056bc1a52/nvnv5a/2/2007/index.m3u8?token=e19664baa86175de6fb4067443a35501_1452521553_1452521553&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,FrO
-http://62.65.140.149:80/session/31a39354-b7a4-11e5-841a-005056bc49ac/nvnv5a/2/2015/index.m3u8?token=d2057572dd27780b0a4ac6e615012a92_1452521553_1452521553&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Gulli
-http://62.65.140.218:80/session/31e67534-b7a4-11e5-b43d-005056bc1a52/nvnv5a/2/2011/index.m3u8?token=c0bee9fc3d560014e1d3569bf3c4cc5b_1452521554_1452521554&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Italia1HD
-http://62.65.140.149:80/session/3220ed36-b7a4-11e5-9d84-005056bc49ac/nvnv5a/2/3028/index.m3u8?token=9d2e5079ec24d76b128ac96ed30763af_1452521554_1452521554&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,ITV1HD
-http://62.65.140.215:80/session/325ab9a8-b7a4-11e5-b0e8-005056bc49ac/nvnv5a/2/4018/index.m3u8?token=12f9d18ac18f7746065f7576eebb25d8_1452521555_1452521555&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,ITV2
-http://62.65.140.215:80/session/3292823e-b7a4-11e5-a6b2-005056bc49ac/nvnv5a/2/4005/index.m3u8?token=9ce36d123d15a904eaed5bceda08f814_1452521555_1452521555&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,ITV3
-http://62.65.140.150:80/session/32cb4132-b7a4-11e5-9f48-005056bc06d1/nvnv5a/2/4025/index.m3u8?token=856c257a18bd62624c4fe5f44523a7a6_1452521555_1452521555&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Joiz
-http://62.65.140.154:80/session/330ca122-b7a4-11e5-8925-005056bc49ac/nvnv5a/2/1172/index.m3u8?token=edb91c914b9aeafb33a0a6b6c012d545_1452521556_1452521556&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Kabel1chHD
-http://62.65.140.148:80/session/33513616-b7a4-11e5-ae56-005056bc06d1/nvnv5a/1/1039/index.m3u8?token=203993ff57fa17a59764042809dcca80_1452521556_1452521556&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,KiKaHD
-http://62.65.140.215:80/session/338e9fb0-b7a4-11e5-89a4-005056bc1a52/nvnv5a/1/1116/index.m3u8?token=966b8449d3825b402b71482337f44bf3_1452521557_1452521557&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,LA7
-http://62.65.140.151:80/session/33d2ee0e-b7a4-11e5-a0f7-005056bc49ac/nvnv5a/2/3027/index.m3u8?token=cc68a3a53acc7c11a46cab5dc69de0af_1452521557_1452521557&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,LaTele
-http://62.65.140.148:80/session/3426b80e-b7a4-11e5-ba59-005056bc06d1/nvnv5a/2/2043/index.m3u8?token=aed5e725b05f6fdaf174cd4a1b42bbb7_1452521557_1452521557&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,LemanBleu
-http://62.65.140.155:80/session/34790082-b7a4-11e5-b507-005056bc06d1/nvnv5a/2/2044/index.m3u8?token=39758be8b95657a87b2e62f67c6974aa_1452521558_1452521558&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,M6HD
-http://62.65.140.214:80/session/34ae4aa8-b7a4-11e5-bfae-005056bc1a52/nvnv5a/2/2026/index.m3u8?token=241236e90daa44e06c05cb653c564f96_1452521558_1452521558&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,MDR
-http://62.65.140.150:80/session/34e97344-b7a4-11e5-a4cc-005056bc1a52/nvnv5a/1/1069/index.m3u8?token=f9946cd6404bf0c9b362f21461a56eb7_1452521559_1452521559&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,MTVit
-http://62.65.140.155:80/session/35260a2a-b7a4-11e5-b3d4-005056bc1a52/nvnv5a/2/3009/index.m3u8?token=20ae2baf1cf480a65b03025dc831d03c_1452521559_1452521559&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,MTV
-http://62.65.140.149:80/session/35543a44-b7a4-11e5-90ea-005056bc1a52/nvnv5a/1/1033/index.m3u8?token=7bd19a4063ffce6f5502612dd573687c_1452521560_1452521560&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,n-tv
-http://62.65.140.149:80/session/358fb218-b7a4-11e5-945b-005056bc49ac/nvnv5a/1/1025/index.m3u8?token=b84f37ddc40420127ad9697f20bf1f32_1452521560_1452521560&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,NDRHD
-http://62.65.140.217:80/session/35c7aa42-b7a4-11e5-b66d-005056bc1a52/nvnv5a/1/1115/index.m3u8?token=b6f8b9d8912a755f21de9bd3ae78f6d1_1452521560_1452521560&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Nick
-http://62.65.140.148:80/session/35fc96ee-b7a4-11e5-a11c-005056bc49ac/nvnv5a/1/1004/index.m3u8?token=7f593c4c7c62477174e3be4a08806d67_1452521561_1452521561&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Nick
-http://62.65.140.151:80/session/362937f8-b7a4-11e5-884a-005056bc06d1/nvnv5a/1/1034/index.m3u8?token=92f60e02045d92c424c6b004b3e8e5a8_1452521561_1452521561&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,ORF1HD
-http://62.65.140.153:80/session/365ab530-b7a4-11e5-8671-005056bc06d1/nvnv5a/1/1010/index.m3u8?token=437f413d9b6f1e9da2babd62736d51f1_1452521561_1452521561&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,ORF2HD
-http://62.65.140.155:80/session/3689b57e-b7a4-11e5-a41d-005056bc06d1/nvnv5a/1/1011/index.m3u8?token=ebb509309be8dff3cea3d07b9cd05e31_1452521562_1452521562&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,PHOENIXHD
-http://62.65.140.215:80/session/36bcc2b6-b7a4-11e5-834c-005056bc06d1/nvnv5a/1/1122/index.m3u8?token=a8e88e32df60bc0d3596384d509792b9_1452521562_1452521562&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Pro7chHD
-http://62.65.140.212:80/session/36eb3830-b7a4-11e5-ad4f-005056bc06d1/nvnv5a/1/1037/index.m3u8?token=1d8773c06bee12c8a353dd5b38ed759c_1452521562_1452521562&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Pro7Maxx
-http://62.65.140.219:80/session/371f30ae-b7a4-11e5-bb50-005056bc06d1/nvnv5a/1/1041/index.m3u8?token=0372af0d1a9ca7718a2cd5113ef86fd0_1452521562_1452521562&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Puls8
-http://62.65.140.155:80/session/375af404-b7a4-11e5-9fb1-005056bc1a52/nvnv5a/2/1053/index.m3u8?token=79f03024e3edf54efe52ced7969b1b9f_1452521563_1452521563&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Rai1
-http://62.65.140.216:80/session/37910ba2-b7a4-11e5-8edb-005056bc06d1/nvnv5a/2/3003/index.m3u8?token=9e0dab9501be22a4d6cf27de034c9a54_1452521563_1452521563&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Rai2
-http://62.65.140.155:80/session/37c69d3a-b7a4-11e5-a16f-005056bc06d1/nvnv5a/2/3004/index.m3u8?token=6cc8608a04fed8fd2cfc2d02be3113d3_1452521564_1452521564&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Rai3
-http://62.65.140.150:80/session/37f6193e-b7a4-11e5-b1d6-005056bc06d1/nvnv5a/2/3005/index.m3u8?token=7de57881dba374a89a1734b55ff7ddd2_1452521564_1452521564&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RaiNews24
-http://62.65.140.149:80/session/38342134-b7a4-11e5-9152-005056bc06d1/nvnv5a/2/3018/index.m3u8?token=bf8f5b50cf49659a9b226c0ee2c342e2_1452521564_1452521564&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RaiSport1
-http://62.65.140.148:80/session/386653c0-b7a4-11e5-b195-005056bc49ac/nvnv5a/2/3021/index.m3u8?token=dc641a778d5ff26179cf16d67764526e_1452521565_1452521565&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Rete4HD
-http://62.65.140.217:80/session/38a566d2-b7a4-11e5-87a5-005056bc1a52/nvnv5a/2/3032/index.m3u8?token=33fe9fa6c868260a8ed594322f02a5ed_1452521565_1452521565&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RSILA1HD
-http://62.65.140.151:80/session/38e0ba70-b7a4-11e5-bc72-005056bc1a52/nvnv5a/2/3045/index.m3u8?token=9474f9030f1072eaeb4a52ef90e0992e_1452521565_1452521565&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RSILA2HD
-http://62.65.140.217:80/session/391a1cfc-b7a4-11e5-bc33-005056bc1a52/nvnv5a/2/3046/index.m3u8?token=4e261d8810f3589f64af47850d656b89_1452521566_1452521566&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RTL2chHD
-http://62.65.140.215:80/session/394c817e-b7a4-11e5-ae22-005056bc06d1/nvnv5a/1/1024/index.m3u8?token=e6f0cdd9677073f22eb97e426092c4e0_1452521566_1452521566&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RTL1025
-http://62.65.140.150:80/session/3987ca18-b7a4-11e5-9578-005056bc49ac/nvnv5a/2/3010/index.m3u8?token=f74e0760b4eb95d60980686adb123adc_1452521567_1452521567&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RTLchHD
-http://62.65.140.152:80/session/39bc22ae-b7a4-11e5-8c7b-005056bc06d1/nvnv5a/1/1020/index.m3u8?token=ea4126bb2c4e7a5f372de0e185a8e1b5_1452521567_1452521567&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RTLNitroHD
-http://62.65.140.215:80/session/39fe843c-b7a4-11e5-98da-005056bc06d1/nvnv5a/1/1027/index.m3u8?token=f76f47fb0ff2d50e6806777ac7b06136_1452521567_1452521567&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RTPi
-http://62.65.140.152:80/session/3a39a6fc-b7a4-11e5-a1c1-005056bc06d1/nvnv5a/2/5001/index.m3u8?token=37bd380ddc78508c76eec8650095290c_1452521568_1452521568&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RTS1HD
-http://62.65.140.216:80/session/3a6afca2-b7a4-11e5-b806-005056bc1a52/nvnv5a/2/2034/index.m3u8?token=66e068dd2abac5c137b53f94a5436a0b_1452521568_1452521568&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,RTS2HD
-http://62.65.140.153:80/session/3aa15b8a-b7a4-11e5-a652-005056bc49ac/nvnv5a/2/2035/index.m3u8?token=337eff34c084d28ebe0059584adc73e8_1452521568_1452521568&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,S-RTLchHD
-http://62.65.140.148:80/session/3acc6e60-b7a4-11e5-a685-005056bc49ac/nvnv5a/1/1023/index.m3u8?token=571e1296106b7794cd1e285c3d2b0b78_1452521569_1452521569&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,S1
-http://62.65.140.148:80/session/3afc0508-b7a4-11e5-965b-005056bc49ac/nvnv5a/1/1035/index.m3u8?token=c243572a869b2fcf715ddea48cb27b6a_1452521569_1452521569&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Sat.1chHD
-http://62.65.140.214:80/session/3b296b1a-b7a4-11e5-939b-005056bc1a52/nvnv5a/1/1038/index.m3u8?token=8505f134cfc465e4b4ab74a8031deff0_1452521569_1452521569&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,ServusTVHD
-http://62.65.140.153:80/session/3b6648fa-b7a4-11e5-90ae-005056bc49ac/nvnv5a/1/1012/index.m3u8?token=b52fa2bf238d2dda5255a0dc609a3f13_1452521570_1452521570&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,sixxHD
-http://62.65.140.218:80/session/3b99b3de-b7a4-11e5-88a9-005056bc1a52/nvnv5a/1/1040/index.m3u8?token=537718b16fecd6b0e5e0fceaa2d48e75_1452521570_1452521570&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Sport1
-http://62.65.140.153:80/session/3bc878a4-b7a4-11e5-88b1-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=dab380745831f82e6a895fb60b293f19_1452521570_1452521570&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,SRF1HD
-http://62.65.140.155:80/session/3bfc622c-b7a4-11e5-9d54-005056bc1a52/nvnv5a/1/1008/index.m3u8?token=e5c29bad979f3c9e1183fb59492b19c9_1452521571_1452521571&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,SRF2HD
-http://62.65.140.151:80/session/3c2f5de4-b7a4-11e5-afaa-005056bc1a52/nvnv5a/1/1009/index.m3u8?token=c5bf9d86583250e38df6b80838123ecc_1452521571_1452521571&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,SRFi
-http://62.65.140.214:80/session/3c69f3be-b7a4-11e5-8574-005056bc06d1/nvnv5a/1/1003/index.m3u8?token=b6a6fda41d8a8daa0d143d979f535929_1452521571_1452521571&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,StarTV
-http://62.65.140.217:80/session/3ca0b2f0-b7a4-11e5-b255-005056bc1a52/nvnv5a/1/1107/index.m3u8?token=8548b53051f1bc62aa12b20dbeacbe36_1452521572_1452521572&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,SWR-BW-HD
-http://62.65.140.151:80/session/3cda97a4-b7a4-11e5-9a91-005056bc06d1/nvnv5a/1/1114/index.m3u8?token=8140228743f8cbb575b0da037ecb84c0_1452521572_1452521572&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,TBasel
-http://62.65.140.218:80/session/3d131836-b7a4-11e5-b286-005056bc06d1/nvnv5a/1/1135/index.m3u8?token=c31028d804d85eb64f0624bdd6b57118_1452521573_1452521573&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,TBärn
-http://62.65.140.155:80/session/3d4eb058-b7a4-11e5-8423-005056bc1a52/nvnv5a/1/1137/index.m3u8?token=ddbc9a42dc090e3995aa86f713a4f1f4_1452521573_1452521573&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Tele1
-http://62.65.140.214:80/session/3d92ff6a-b7a4-11e5-9aac-005056bc49ac/nvnv5a/1/1128/index.m3u8?token=b1dd8e5341fd4c7cfdf8e6fe4ef9fcb3_1452521573_1452521573&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,Tele5
-http://62.65.140.219:80/session/3dc3e88c-b7a4-11e5-8822-005056bc06d1/nvnv5a/1/1090/index.m3u8?token=03e75f532250fc50d82c81ffa6307126_1452521574_1452521574&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,TeleBielingue
-http://62.65.140.149:80/session/3e1ef5a6-b7a4-11e5-9b29-005056bc1a52/nvnv5a/2/2040/index.m3u8?token=b405361e1061664ad2776c48109c0931_1452521574_1452521574&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,TeleM1
-http://62.65.140.152:80/session/3e5dcc68-b7a4-11e5-97ca-005056bc06d1/nvnv5a/1/1132/index.m3u8?token=368b14d6d6df825049851e5acbc132cb_1452521575_1452521575&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,TeleTicino
-http://62.65.140.216:80/session/3eb014a0-b7a4-11e5-90f2-005056bc1a52/nvnv5a/2/3036/index.m3u8?token=353ba1014f095868ce015e5e66778235_1452521575_1452521575&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,TeleTop
-http://62.65.140.219:80/session/3ee8615c-b7a4-11e5-b7f7-005056bc06d1/nvnv5a/1/1129/index.m3u8?token=27cec23052b874f3036588acddfdf06e_1452521576_1452521576&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,TF1HD
-http://62.65.140.213:80/session/3f49651a-b7a4-11e5-8536-005056bc49ac/nvnv5a/2/2027/index.m3u8?token=62f9bbc00bf1f680cb3bdd97aa1bcd4e_1452521576_1452521576&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,TRT1
-http://62.65.140.150:80/session/3f85abce-b7a4-11e5-98fe-005056bc1a52/nvnv5a/2/5030/index.m3u8?token=8ec0ca1864005ddfcd71a1c1bd3ec87b_1452521577_1452521577&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0,TSO
-http://62.65.140.154:80/session/3fe77dfe-b7a4-11e5-b98f-005056bc1a52/nvnv5a/1/1130/index.m3u8?token=d2edfc3d3c8f02c1818bc34ec51fb3ee_1452521577_1452521577&p=127|X-Forwarded-For=85.2.146.35
-
-#EXTINF:-1,[I][B][COLOR red] ------------------ REMARQUE IMPORTANTE ------------------[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[I][B][COLOR white]Toutes les streams peuvent etre trouves gratuitement sur internet.[/COLOR][/B][/I]
-
-
-
-#EXTINF:-1,[I][B][COLOR white]Nous ne avons pas aucune serveur ou diffuse aucun type de signal.[/COLOR][/B][/I]
-
-
-
-#EXTINF:-1,[I][B][COLOR white]Tous ces streams sont le resultat de nombreuses heures[/COLOR][/B][/I]
-
-
-
-#EXTINF:-1,[I][B][COLOR white] de recherche sur Internet.[/COLOR][/B][/I]
-
-
-
-#EXTINF:-1,[I][B][COLOR white]Nous tenons egalement a remercier tous les utilisateurs qui ont contribue[/COLOR][/B][/I]
-
-
-
-#EXTINF:-1,[I][B][COLOR white]avec un petit don. Ce sont les petits gestes qui font la difference.[/COLOR][/B][/I]
-
-
-
-#EXTINF:-1,[I][B][COLOR orange]------------------- WE ONLY SHARE! --------------------[/COLOR][/B][/I]
-
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
+#EXTINF:0 group-title="WebTV-FR",3+HD
+http://62.65.140.150:80/session/a7057336-b959-11e5-8a7f-005056bc49ac/nvnv5a/1/1013/index.m3u8?token=e4caf2e6f9bfe05d55c055dc6b324777_1452709440_1452709440&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",3satHD
+http://62.65.140.219:80/session/a742ea2c-b959-11e5-b9a1-005056bc49ac/nvnv5a/1/1117/index.m3u8?token=bcb178eef7c4a8116d12ae6f6ee270ad_1452709441_1452709441&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",4+HD
+http://62.65.140.152:80/session/a77e0ab2-b959-11e5-9335-005056bc06d1/nvnv5a/1/1031/index.m3u8?token=1a3b26d82a9ddd3fc8f136e62dad743d_1452709441_1452709441&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",5+
+http://62.65.140.149:80/session/a7bbe0e4-b959-11e5-897c-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=096b3920affe5921de0e9a2773b8b11f_1452709441_1452709441&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",AlJazeeraEn
+http://62.65.140.154:80/session/a7fa0aa4-b959-11e5-9aab-005056bc06d1/nvnv5a/2/4013/index.m3u8?token=0277cad2d9298a638071eb7c44d5dceb_1452709442_1452709442&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",AnixeHD
+http://62.65.140.150:80/session/a847a69c-b959-11e5-a697-005056bc1a52/nvnv5a/1/1134/index.m3u8?token=e874667bfadf04201d3184baaadb7ee8_1452709442_1452709442&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",ARDHD
+http://62.65.140.215:80/session/a8848738-b959-11e5-bacb-005056bc1a52/nvnv5a/2/1165/index.m3u8?token=6c6f50a6de5ce8700cb6815d8e2007f2_1452709443_1452709443&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",ArteFrHD
+http://62.65.140.217:80/session/a8dd40b2-b959-11e5-9856-005056bc1a52/nvnv5a/2/2029/index.m3u8?token=3b4caf7c1cdecad1ac96c410c8fbf995_1452709443_1452709443&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",ArteHD
+http://62.65.140.154:80/session/a915e160-b959-11e5-94cb-005056bc06d1/nvnv5a/1/1150/index.m3u8?token=fcee37a4adc0bd4892388572525c1227_1452709444_1452709444&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",BBC1HD
+http://62.65.140.214:80/session/a951c0e0-b959-11e5-bb1e-005056bc1a52/nvnv5a/2/4017/index.m3u8?token=52552ab7e15a3f0fa545b748208c5f5c_1452709444_1452709444&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",BBC2HD
+http://62.65.140.219:80/session/a98d484a-b959-11e5-b725-005056bc1a52/nvnv5a/2/4012/index.m3u8?token=d716173102218912946f25f03b160d5d_1452709445_1452709445&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",BBC3
+http://62.65.140.212:80/session/a9e43358-b959-11e5-9aac-005056bc49ac/nvnv5a/2/4008/index.m3u8?token=7f5a769a75e693f25ca63fe15dbb0795_1452709445_1452709445&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",BBCwn
+http://62.65.140.218:80/session/aa2affa4-b959-11e5-87a5-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=dda52aba04785f106900a84cf15fe369_1452709446_1452709446&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",BRHD
+http://62.65.140.150:80/session/aa6701d4-b959-11e5-9484-005056bc06d1/nvnv5a/1/1112/index.m3u8?token=957660be1f6e8d259107d33ce8e292aa_1452709446_1452709446&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Canal9
+http://62.65.140.214:80/session/aac27758-b959-11e5-913d-005056bc49ac/nvnv5a/2/2041/index.m3u8?token=3be5ea49aa2a755ba15c73241b19c5d5_1452709446_1452709446&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",CanalAlpha
+http://62.65.140.155:80/session/ab1241ac-b959-11e5-adf3-005056bc49ac/nvnv5a/2/2045/index.m3u8?token=45622268527058172837b1f534d0bc00_1452709447_1452709447&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Canale5HD
+http://62.65.140.152:80/session/ab4bf7f8-b959-11e5-8963-005056bc49ac/nvnv5a/2/3026/index.m3u8?token=a7175c6ab903a35c09c752bb4265389c_1452709447_1452709447&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Chan4
+http://62.65.140.219:80/session/ab85d5e0-b959-11e5-8868-005056bc49ac/nvnv5a/2/4022/index.m3u8?token=885ea9a7c13b0f087c30b59b1007994f_1452709448_1452709448&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",CHTVHD
+http://62.65.140.216:80/session/abbaf496-b959-11e5-b6c7-005056bc06d1/nvnv5a/1/1032/index.m3u8?token=32c5827ee4ac8c9cf3031dd4c22f4d55_1452709448_1452709448&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Cielo
+http://62.65.140.214:80/session/abfc6098-b959-11e5-8146-005056bc49ac/nvnv5a/2/3041/index.m3u8?token=b6b311880db5d5f66a2f423ffa64acdd_1452709449_1452709449&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",CNBC
+http://62.65.140.215:80/session/ac49ae48-b959-11e5-9d84-005056bc49ac/nvnv5a/2/4001/index.m3u8?token=0a7cf0aef6be1be29e52019496905ca7_1452709449_1452709449&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",CNN
+http://62.65.140.155:80/session/ac84247e-b959-11e5-8998-005056bc1a52/nvnv5a/2/4002/index.m3u8?token=5334be2d23b6202f3baa4af8ab4f1010_1452709450_1452709450&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",D8
+http://62.65.140.215:80/session/acbcf90c-b959-11e5-b1f5-005056bc06d1/nvnv5a/2/2018/index.m3u8?token=9cbe0f62c23aa4f4d83013f9be0b933d_1452709450_1452709450&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",DeluxeMusic
+http://62.65.140.217:80/session/ad1d52c0-b959-11e5-b099-005056bc06d1/nvnv5a/1/1153/index.m3u8?token=7d2673a2debe908cbb16783618cb8aa3_1452709450_1452709450&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",DisneyChannel
+http://62.65.140.149:80/session/ad526802-b959-11e5-966b-005056bc49ac/nvnv5a/1/1124/index.m3u8?token=830dbe0e8724db7555b621bbc34edab4_1452709451_1452709451&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",DMAX
+http://62.65.140.151:80/session/ad8532c8-b959-11e5-9537-005056bc49ac/nvnv5a/1/1018/index.m3u8?token=d4941010fe09da145b64e6523e0eaa72_1452709451_1452709451&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",EuNews-e
+http://62.65.140.153:80/session/adecdf72-b959-11e5-9742-005056bc49ac/nvnv5a/1/104903/index.m3u8?token=2f62790a9a662335dfd3f834d91a4e8e_1452709452_1452709452&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",EuNews-f
+http://62.65.140.212:80/session/ae33734c-b959-11e5-af40-005056bc06d1/nvnv5a/1/104901/index.m3u8?token=6d5a9a0646c72a2e8ef7a148f2f06912_1452709452_1452709452&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",EuNews-i
+http://62.65.140.217:80/session/ae90666a-b959-11e5-baed-005056bc49ac/nvnv5a/1/104902/index.m3u8?token=04936541bdd73b68af1c16be4836a6b2_1452709453_1452709453&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",EuNews
+http://62.65.140.154:80/session/aecfde80-b959-11e5-860b-005056bc1a52/nvnv5a/1/1049/index.m3u8?token=84ad7d7144eb80cf6350fc4ca3b7f061_1452709453_1452709453&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",EuSp
+http://62.65.140.215:80/session/af08a490-b959-11e5-845d-005056bc1a52/nvnv5a/1/1051/index.m3u8?token=698e46d0529e52247349359254ca3783_1452709454_1452709454&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Film4
+http://62.65.140.148:80/session/af4376ce-b959-11e5-9f07-005056bc06d1/nvnv5a/2/4023/index.m3u8?token=efa757c97c2536e1f982a0583075ac70_1452709454_1452709454&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Fr2HD
+http://62.65.140.148:80/session/af846c7e-b959-11e5-9ca1-005056bc06d1/nvnv5a/2/2028/index.m3u8?token=eaaae69bb64d1b4c72ea923b14c56c26_1452709455_1452709455&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Fr3
+http://62.65.140.150:80/session/afbbb7c4-b959-11e5-9961-005056bc49ac/nvnv5a/2/2008/index.m3u8?token=6411ddace039d736f1e295e8b6c892f9_1452709455_1452709455&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Fr4
+http://62.65.140.152:80/session/affb7b8e-b959-11e5-b7f6-005056bc1a52/nvnv5a/2/2009/index.m3u8?token=595ebb804a22ddc440985183de3604eb_1452709455_1452709455&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Fr5
+http://62.65.140.155:80/session/b04107a8-b959-11e5-a494-005056bc49ac/nvnv5a/2/2010/index.m3u8?token=e1e011ab94ff4e8703713a4866563f6c_1452709456_1452709456&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Fr24
+http://62.65.140.212:80/session/b096cdaa-b959-11e5-9cc2-005056bc49ac/nvnv5a/2/2007/index.m3u8?token=9befac8d66fd7548f156b3287a93c5e9_1452709456_1452709456&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",FrO
+http://62.65.140.214:80/session/b0d0d400-b959-11e5-961b-005056bc1a52/nvnv5a/2/2015/index.m3u8?token=be910c57f5995a25ba5989af813d64fe_1452709457_1452709457&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Gulli
+http://62.65.140.217:80/session/b1151d68-b959-11e5-9812-005056bc06d1/nvnv5a/2/2011/index.m3u8?token=6784de66aff303391e52f97c86684c33_1452709457_1452709457&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Italia1HD
+http://62.65.140.153:80/session/b1528a04-b959-11e5-9a08-005056bc06d1/nvnv5a/2/3028/index.m3u8?token=17f51e8d4e03f4b9166cc3195d8ddf0a_1452709458_1452709458&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",ITV1HD
+http://62.65.140.215:80/session/b1876e9a-b959-11e5-8c8a-005056bc06d1/nvnv5a/2/4018/index.m3u8?token=105571f32a4e4c07c809ed32dc2e2de0_1452709458_1452709458&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",ITV2
+http://62.65.140.215:80/session/b1dacda6-b959-11e5-b494-005056bc49ac/nvnv5a/2/4005/index.m3u8?token=fe050495ba6ed15f8348c25b4a79a78a_1452709458_1452709458&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",ITV3
+http://62.65.140.150:80/session/b233e044-b959-11e5-aad5-005056bc06d1/nvnv5a/2/4025/index.m3u8?token=46306b022985ee41f645738a7d537c0b_1452709459_1452709459&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Joiz
+http://62.65.140.218:80/session/b27ed180-b959-11e5-8130-005056bc1a52/nvnv5a/2/1172/index.m3u8?token=863fc2de51f0312fdaab61d080eccba4_1452709459_1452709459&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Kabel1chHD
+http://62.65.140.212:80/session/b2b1552e-b959-11e5-a5e1-005056bc49ac/nvnv5a/1/1039/index.m3u8?token=2dbc99d333ee52dbd9d6c560b488a4a8_1452709460_1452709460&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",KiKaHD
+http://62.65.140.215:80/session/b2ed5d62-b959-11e5-aa67-005056bc49ac/nvnv5a/1/1116/index.m3u8?token=b3c78df817fda4a3195a9539195827e9_1452709460_1452709460&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",LA7
+http://62.65.140.150:80/session/b32aa41a-b959-11e5-944b-005056bc1a52/nvnv5a/2/3027/index.m3u8?token=3cc6436b79e06d86bceaae7bb63dcd4e_1452709461_1452709461&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",LaTele
+http://62.65.140.212:80/session/b38f789a-b959-11e5-b747-005056bc06d1/nvnv5a/2/2043/index.m3u8?token=2ab1672e7756f14c035794d7315bee1f_1452709461_1452709461&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",LemanBleu
+http://62.65.140.155:80/session/b3ead4a6-b959-11e5-bc1f-005056bc06d1/nvnv5a/2/2044/index.m3u8?token=3f607a0fc8a20228a2e55fe8b34d81e5_1452709462_1452709462&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",M6HD
+http://62.65.140.150:80/session/b427d464-b959-11e5-bb50-005056bc06d1/nvnv5a/2/2026/index.m3u8?token=889900a75afd8e640fa671295ea63bee_1452709462_1452709462&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",MDR
+http://62.65.140.149:80/session/b4610c5c-b959-11e5-ade1-005056bc1a52/nvnv5a/1/1069/index.m3u8?token=739d3879dfd8bd29ca0dacbe268f5ee0_1452709463_1452709463&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",MTVit
+http://62.65.140.216:80/session/b49ce4b6-b959-11e5-aac5-005056bc1a52/nvnv5a/2/3009/index.m3u8?token=74942634712495d46211050c04fed686_1452709463_1452709463&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",MTV
+http://62.65.140.152:80/session/b4df7db2-b959-11e5-83b8-005056bc1a52/nvnv5a/1/1033/index.m3u8?token=7d45468f87cb9608d44b969f586142eb_1452709463_1452709463&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",n-tv
+http://62.65.140.149:80/session/b51e3bba-b959-11e5-9577-005056bc1a52/nvnv5a/1/1025/index.m3u8?token=af1041e8f4121f5764cbd3046c5ca2a1_1452709464_1452709464&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",NDRHD
+http://62.65.140.217:80/session/b556caca-b959-11e5-8851-005056bc49ac/nvnv5a/1/1115/index.m3u8?token=e389cce408ec82b77f6b5f993436738c_1452709464_1452709464&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",NickCH
+http://62.65.140.213:80/session/b592124c-b959-11e5-a7c7-005056bc06d1/nvnv5a/1/1034/index.m3u8?token=eaa3859e60067b4032480b2f6a03f795_1452709465_1452709465&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Nick
+http://62.65.140.148:80/session/b5c5d762-b959-11e5-a93e-005056bc1a52/nvnv5a/1/1004/index.m3u8?token=2534ae18395f217e7808f3795128ecfb_1452709465_1452709465&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",ORF1HD
+http://62.65.140.217:80/session/b61022a4-b959-11e5-b29d-005056bc49ac/nvnv5a/1/1010/index.m3u8?token=ff97a8a99c49612599ef545c3313890f_1452709466_1452709466&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",ORF2HD
+http://62.65.140.216:80/session/b64ae8f8-b959-11e5-8dc5-005056bc1a52/nvnv5a/1/1011/index.m3u8?token=fda8bd93657f646ca60a86cb064740af_1452709466_1452709466&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",PHOENIXHD
+http://62.65.140.151:80/session/b67bdd50-b959-11e5-acae-005056bc49ac/nvnv5a/1/1122/index.m3u8?token=aaaa1feb49eca8812cd71b5ccf489961_1452709466_1452709466&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Pro7chHD
+http://62.65.140.152:80/session/b6ac2ab4-b959-11e5-a00d-005056bc06d1/nvnv5a/1/1037/index.m3u8?token=003fd6cadda022f0e8172ff992320a51_1452709467_1452709467&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Pro7Maxx
+http://62.65.140.219:80/session/b6eecf72-b959-11e5-82e3-005056bc1a52/nvnv5a/1/1041/index.m3u8?token=27a7a34c0e9be365c3fb8bd45717922e_1452709467_1452709467&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Puls8
+http://62.65.140.218:80/session/b724ac0a-b959-11e5-8dd4-005056bc1a52/nvnv5a/2/1053/index.m3u8?token=fc32f7a572eb98e534da028f508d75db_1452709467_1452709467&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Rai1
+http://62.65.140.153:80/session/b7601e16-b959-11e5-992f-005056bc49ac/nvnv5a/2/3003/index.m3u8?token=3ec7ac99b1aa6b8d773778e44d8c3309_1452709468_1452709468&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Rai2
+http://62.65.140.219:80/session/b79ef208-b959-11e5-b524-005056bc06d1/nvnv5a/2/3004/index.m3u8?token=c9c2b48616045dc4467e812f01bc71d6_1452709468_1452709468&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Rai3
+http://62.65.140.217:80/session/b7c992f6-b959-11e5-be20-005056bc1a52/nvnv5a/2/3005/index.m3u8?token=c2f3d6c9bb367881e434967179684d42_1452709468_1452709468&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RaiNews24
+http://62.65.140.213:80/session/b81ab6fe-b959-11e5-919d-005056bc1a52/nvnv5a/2/3018/index.m3u8?token=c8e8084a29ec3b5af5ba6c35fa3433d0_1452709469_1452709469&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RaiSport1
+http://62.65.140.212:80/session/b85831a0-b959-11e5-b423-005056bc49ac/nvnv5a/2/3021/index.m3u8?token=6c1a2707f28b5477f3508348b4670733_1452709469_1452709469&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Rete4HD
+http://62.65.140.217:80/session/b8936aae-b959-11e5-aa93-005056bc06d1/nvnv5a/2/3032/index.m3u8?token=be61dd6a46b81d009be8a4f39155cf8a_1452709470_1452709470&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RSILA1HD
+http://62.65.140.151:80/session/b8d1a350-b959-11e5-bf46-005056bc06d1/nvnv5a/2/3045/index.m3u8?token=1329cda184abc5f5c659c9503e4279c1_1452709470_1452709470&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RSILA2HD
+http://62.65.140.151:80/session/b90c02ac-b959-11e5-bfae-005056bc1a52/nvnv5a/2/3046/index.m3u8?token=cf3dfefb8d46d150e3f70bca5a0400e1_1452709471_1452709471&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RTL2chHD
+http://62.65.140.151:80/session/b943aa40-b959-11e5-a23f-005056bc1a52/nvnv5a/1/1024/index.m3u8?token=239e70efe0f01e077f8473f7688450d4_1452709471_1452709471&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RTL1025
+http://62.65.140.217:80/session/b994245c-b959-11e5-bacf-005056bc06d1/nvnv5a/2/3010/index.m3u8?token=e6c6f3e5de118004db60096eeca5502d_1452709471_1452709471&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RTLchHD
+http://62.65.140.216:80/session/b9c5b544-b959-11e5-9b29-005056bc1a52/nvnv5a/1/1020/index.m3u8?token=25e1205cc51db8efe7d2b513933c4ea0_1452709472_1452709472&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RTLNitroHD
+http://62.65.140.216:80/session/b9fbd3b8-b959-11e5-a4c7-005056bc49ac/nvnv5a/1/1027/index.m3u8?token=d13d4f75719a601ce0494fb39b277bbb_1452709472_1452709472&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RTPi
+http://62.65.140.216:80/session/ba367e64-b959-11e5-8177-005056bc1a52/nvnv5a/2/5001/index.m3u8?token=2bb732e67486743036d9c7b9628bbaa0_1452709473_1452709473&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RTS1HD
+http://62.65.140.152:80/session/ba696522-b959-11e5-aea7-005056bc1a52/nvnv5a/2/2034/index.m3u8?token=1c8f69277c646f84314e1c79c7956f5a_1452709473_1452709473&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",RTS2HD
+http://62.65.140.217:80/session/baa292f2-b959-11e5-a1b6-005056bc1a52/nvnv5a/2/2035/index.m3u8?token=6a56721e718ee8cb895f4f3ddd7bceb6_1452709473_1452709473&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",S-RTLchHD
+http://62.65.140.148:80/session/bad7ed4e-b959-11e5-ae56-005056bc06d1/nvnv5a/1/1023/index.m3u8?token=123c5005ea90279324c0eec3eded20e4_1452709474_1452709474&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",S1
+http://62.65.140.148:80/session/bb17f6dc-b959-11e5-ac53-005056bc49ac/nvnv5a/1/1035/index.m3u8?token=5337e6975685f8e72c651b870beafd7a_1452709474_1452709474&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Sat.1chHD
+http://62.65.140.150:80/session/bb468768-b959-11e5-99ea-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=40de211f9c42fba6d1f6f95e65e73010_1452709474_1452709474&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",ServusTVHD
+http://62.65.140.151:80/session/bb8b72a6-b959-11e5-93dd-005056bc49ac/nvnv5a/1/1012/index.m3u8?token=680a2d1c3b0dae89cdc713023e44443e_1452709475_1452709475&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",sixxHD
+http://62.65.140.154:80/session/bbbae5b8-b959-11e5-8dcf-005056bc49ac/nvnv5a/1/1040/index.m3u8?token=06b57c2696f9f005cf367d1257ff7200_1452709475_1452709475&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Sport1
+http://62.65.140.217:80/session/bbf7db9e-b959-11e5-815b-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=a1dc66c4057b800c7c7e43828899b77c_1452709475_1452709475&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",SRF1HD
+http://62.65.140.150:80/session/bc29a570-b959-11e5-ad3a-005056bc1a52/nvnv5a/1/1008/index.m3u8?token=c62f9aa0caabf8785fdc294beea08d02_1452709476_1452709476&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",SRF2HD
+http://62.65.140.217:80/session/bc5df32a-b959-11e5-ba60-005056bc1a52/nvnv5a/1/1009/index.m3u8?token=a31c405939cc0ef3ad49ba734c951164_1452709476_1452709476&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",SRFi
+http://62.65.140.213:80/session/bc9483b8-b959-11e5-bd0b-005056bc1a52/nvnv5a/1/1003/index.m3u8?token=ba322c5a12e99169bb766cfa9c52d18d_1452709476_1452709476&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",StarTV
+http://62.65.140.148:80/session/bce14dce-b959-11e5-8ea8-005056bc1a52/nvnv5a/1/1107/index.m3u8?token=3146859cad4480933dd8b0136f2298b7_1452709477_1452709477&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",SWR-BW-HD
+http://62.65.140.151:80/session/bd21fcac-b959-11e5-9578-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=902988c1a37f92885c5869a8202a5bf7_1452709477_1452709477&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",TBasel
+http://62.65.140.154:80/session/bd630bfc-b959-11e5-a1d7-005056bc06d1/nvnv5a/1/1135/index.m3u8?token=2ff0481e729e42df2e28d9dd5bf42435_1452709478_1452709478&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",TBärn
+http://62.65.140.219:80/session/bd9fc3c6-b959-11e5-af9c-005056bc49ac/nvnv5a/1/1137/index.m3u8?token=22c458afcd11a1d51646ee6bec71a5ed_1452709478_1452709478&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Tele1
+http://62.65.140.219:80/session/bde6a5b6-b959-11e5-a961-005056bc1a52/nvnv5a/1/1128/index.m3u8?token=ce44a50394502b49c7217b014dfbb9aa_1452709479_1452709479&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",Tele5
+http://62.65.140.213:80/session/be4279f4-b959-11e5-9022-005056bc1a52/nvnv5a/1/1090/index.m3u8?token=0f8e4151c2fb4ec6305f08f0dc03a433_1452709479_1452709479&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",TeleBielingue
+http://62.65.140.151:80/session/be9d77b4-b959-11e5-a510-005056bc1a52/nvnv5a/2/2040/index.m3u8?token=981ec53b35a459b9fe9f9d688ba1ba08_1452709480_1452709480&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",TeleM1
+http://62.65.140.219:80/session/bedb1948-b959-11e5-9518-005056bc06d1/nvnv5a/1/1132/index.m3u8?token=d3f60d4258ff62b7be4822020a1ec206_1452709480_1452709480&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",TeleTicino
+http://62.65.140.148:80/session/bf3f9fbc-b959-11e5-b451-005056bc1a52/nvnv5a/2/3036/index.m3u8?token=f677dd47e1d8e93a3a548dbc7615fc05_1452709481_1452709481&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",TeleTop
+http://62.65.140.214:80/session/bfa1ac20-b959-11e5-9afa-005056bc06d1/nvnv5a/1/1129/index.m3u8?token=84ab0493631d0b0d9ba9aa366e41a1ab_1452709481_1452709481&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",TF1HD
+http://62.65.140.213:80/session/bfdfdc34-b959-11e5-af45-005056bc1a52/nvnv5a/2/2027/index.m3u8?token=8354cf3f2078ba451ecc809569363564_1452709482_1452709482&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",TRT1
+http://62.65.140.218:80/session/c0371d8c-b959-11e5-b738-005056bc49ac/nvnv5a/2/5030/index.m3u8?token=a3e7576669f281703690b8c6c8096c18_1452709482_1452709482&p=127|X-Forwarded-For=85.2.146.35
+#EXTINF:0 group-title="WebTV-FR",TSO
+http://62.65.140.218:80/session/c08b951a-b959-11e5-9541-005056bc1a52/nvnv5a/1/1130/index.m3u8?token=8a93b562a3651aebde5347fc26e2ff77_1452709483_1452709483&p=127|X-Forwarded-For=85.2.146.35
 
 #EXTINF:-1,[I][B][COLOR yellow]---? Chaines Temporaires ?---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-
-#EXTINF:-1,FR-TF1_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/56.ts
-#EXTINF:-1,FR-FRANCE_2HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/64.ts
-#EXTINF:-1,FR-FRANCE_3HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/65.ts
-#EXTINF:-1,FR-France_4
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/66.ts
-#EXTINF:-1,FR-France_5
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/67.ts
-#EXTINF:-1,FR-France_O
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1557.ts
-#EXTINF:-1,FR-M6_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/55.ts
-#EXTINF:-1,FR-ARTE
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/197.ts
-#EXTINF:-1,FR- W9
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/68.ts
-#EXTINF:-1,D8 -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/214.ts
-#EXTINF:-1,FR- TEVA
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1276.ts
-#EXTINF:-1,FR-Canal+HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/53.ts
-#EXTINF:-1,FR-CANAL+SPORT_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/73.ts
-#EXTINF:-1,FR-CANAL+SERIE_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/797.ts
-#EXTINF:-1,FR-CANAL+FAMILY_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/960.ts
-#EXTINF:-1,FR-Canal+Decale_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/959.ts
-#EXTINF:-1,FR-Canal+Cinema_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/961.ts
-#EXTINF:-1,FR- CINE+ Émotion HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/72.ts
-#EXTINF:-1,FR-CINE+Frisson_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/70.ts
-#EXTINF:-1,FR-Ciné+Premier_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1268.ts
-#EXTINF:-1,FR-CINE+FAMIZ
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/71.ts
-#EXTINF:-1,CINE+ CLUB -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/793.ts
-#EXTINF:-1,FR-CINE+CLASSIC
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/794.ts
-#EXTINF:-1,FR- SERIE CLUB HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1280.ts
-#EXTINF:-1,FR- OCS MAX HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/792.ts
-#EXTINF:-1,FR-OCS_GEANT_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/795.ts
-#EXTINF:-1,FR- OCS CITY HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/796.ts
-#EXTINF:-1,13eme Rue -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/202.ts
-#EXTINF:-1,SYFY HD -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/201.ts
-#EXTINF:-1,Paris Premiere -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/199.ts
-#EXTINF:-1,FR-6ter_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1084.ts
-#EXTINF:-1,FR-Numero23
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1325.ts
-#EXTINF:-1,CHERIE 25 -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1187.ts
-#EXTINF:-1,FR-ACTION_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/168.ts
-#EXTINF:-1,HD 1 -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1188.ts
-#EXTINF:-1,FR_Gulli
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1318.ts
-#EXTINF:-1,FR: Tv Breizh
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1558.ts
-#EXTINF:-1,FR: TELETOON +
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1546.ts
-#EXTINF:-1,FR: EuroNews
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1549.ts
-#EXTINF:-1,FR-Disney_XD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1554.ts
-#EXTINF:-1,FR- VOYAGE TV HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1541.ts
-#EXTINF:-1,FR-TMC_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1565.ts
-#EXTINF:-1,FR-TCM_Cinema_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1641.ts
-#EXTINF:-1,FR-Planete_A&E_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1950.ts
-#EXTINF:-1,FR-OCS_CHOC_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1852.ts
-#EXTINF:-1,FR- NT1
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1312.ts
-#EXTINF:-1,FR- MCM POP
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1547.ts
-#EXTINF:-1,FR- MA CHAINE SPORT HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1835.ts
-#EXTINF:-1,FR- M6 Music HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1548.ts
-#EXTINF:-1,FR-KOMBAT_SPORT
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1642.ts
-#EXTINF:-1,FR- JUNE HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1951.ts
-#EXTINF:-1,FR- INFOSPORT
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1326.ts
-#EXTINF:-1,FR- I-Tele
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1316.ts
-#EXTINF:-1,FR- France 24 HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1550.ts
-#EXTINF:-1,FR- FOOT+ 24/24
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/798.ts
-#EXTINF:-1,FR- EUROSPORT 2 HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1542.ts
-#EXTINF:-1,FR-DISCOVERY_SCIENCE
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1567.ts
-#EXTINF:-1,FR-Comedie+
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1321.ts
-#EXTINF:-1,FR- Canal J
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1653.ts
-#EXTINF:-1,FR- BoomeRang
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1652.ts
-#EXTINF:-1,FR_BFM_TV
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1320.ts
-#EXTINF:-1,FR- RTS 2 HD Suisse
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1302.ts
-#EXTINF:-1,FR- RTS 1HD Suisse
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1301.ts
-#EXTINF:-1,FR-BEINSPORT_1HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1154.ts
-#EXTINF:-1,FR-BEINSPORT_2HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1155.ts
-#EXTINF:-1,FR-BEINSPORT_3HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1156.ts
-#EXTINF:-1,FR-EUROSPORT_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/569.ts
-#EXTINF:-1,L'equipe 21 -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/588.ts
-#EXTINF:-1,FR:Ushuaia.HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/177.ts
-#EXTINF:-1,FR- SCIENCE&VIE
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/188.ts
-#EXTINF:-1,FR-National_GEO
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/187.ts
-#EXTINF:-1,FR-Planete+_CI
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/190.ts
-#EXTINF:-1,FR- Planete +
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/189.ts
-#EXTINF:-1,FR-Nat-Geo_Wild_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1129.ts
-#EXTINF:-1,FR- HISTOIRE
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1041.ts
-#EXTINF:-1,FR-Toute_l’Histoire
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1287.ts
-#EXTINF:-1,FR-Discovery_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1281.ts
-#EXTINF:-1,Fr- ANIMAUX HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/169.ts
-#EXTINF:-1,FR- Trek
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1292.ts
-#EXTINF:-1,FR- Chasse et Pêche
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1279.ts
-#EXTINF:-1,FR- RMC DECOUVERTE
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1300.ts
-#EXTINF:-1,FR-NRJ
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1310.ts
-#EXTINF:-1,AB1 -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1130.ts
-#EXTINF:-1,FR-RTL9_HD
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1039.ts
-#EXTINF:-1,RTL TVI HD BELG -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1313.ts
-#EXTINF:-1,RTL Club BELG -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1314.ts
-#EXTINF:-1,RTL Club  -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1315.ts
-#EXTINF:-1,La Une HD BELG -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1322.ts
-#EXTINF:-1,La Trois BELG -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1324.ts
-#EXTINF:-1,La Deux BELG -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1323.ts
-#EXTINF:-1,FR- CARTOON NETWORK
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1267.ts
-#EXTINF:-1,FR-Disney_Junior
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/194.ts
-#EXTINF:-1,FR-Disney_Cinema
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/192.ts
-#EXTINF:-1,FR- Disney Channel
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/191.ts
-#EXTINF:-1,FR- MANGA
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1309.ts
-#EXTINF:-1,Clubbing HD -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1308.ts
-#EXTINF:-1,VH1 -FR
-http://maxspeed.from-me.org:8000/live/Ant0n/ant0n/1042.ts
-
-
-
-#EXTINF:0,FR:EURONEWS
+#EXTINF:0 group-title="WebTV-FR 1",FR:EURONEWS
 http://cdn.step-tv.com:8000/live/ch/ch/247.m3u8
-#EXTINF:0,FR:FRANCE24
+#EXTINF:0 group-title="WebTV-FR 1",FR:FRANCE24
 http://cdn.step-tv.com:8000/live/ch/ch/227.m3u8
-#EXTINF:0,FR:BFM
+#EXTINF:0 group-title="WebTV-FR 1",FR:BFM
 http://cdn.step-tv.com:8000/live/ch/ch/246.m3u8
-#EXTINF:0,FR:TV5_MONDE
+#EXTINF:0 group-title="WebTV-FR 1",FR:TV5_MONDE
 http://cdn.step-tv.com:8000/live/ch/ch/513.m3u8
-#EXTINF:0,FR:ITELE
+#EXTINF:0 group-title="WebTV-FR 1",FR:ITELE
 http://cdn.step-tv.com:8000/live/ch/ch/1747.m3u8
-#EXTINF:0,FR:ARTE
+#EXTINF:0 group-title="WebTV-FR 1",FR:ARTE
 http://cdn.step-tv.com:8000/live/ch/ch/248.m3u8
-#EXTINF:0,FR:TF1
+#EXTINF:0 group-title="WebTV-FR 1",FR:TF1
 http://cdn.step-tv.com:8000/live/ch/ch/214.m3u8
-#EXTINF:0,FR:M6
+#EXTINF:0 group-title="WebTV-FR 1",FR:M6
 http://cdn.step-tv.com:8000/live/ch/ch/215.m3u8
-#EXTINF:0,FR:W9
+#EXTINF:0 group-title="WebTV-FR 1",FR:W9
 http://cdn.step-tv.com:8000/live/ch/ch/216.m3u8
-#EXTINF:0,FR:FRANCE2
+#EXTINF:0 group-title="WebTV-FR 1",FR:FRANCE2
 http://cdn.step-tv.com:8000/live/ch/ch/217.m3u8
-#EXTINF:0,FR:FRANCE3
+#EXTINF:0 group-title="WebTV-FR 1",FR:FRANCE3
 http://cdn.step-tv.com:8000/live/ch/ch/218.m3u8
-#EXTINF:0,FR:FRANCE4
+#EXTINF:0 group-title="WebTV-FR 1",FR:FRANCE4
 http://cdn.step-tv.com:8000/live/ch/ch/219.m3u8
-#EXTINF:0,FR:FRANCE5
+#EXTINF:0 group-title="WebTV-FR 1",FR:FRANCE5
 http://cdn.step-tv.com:8000/live/ch/ch/220.m3u8
-#EXTINF:0,FR:FRANCE_O
+#EXTINF:0 group-title="WebTV-FR 1",FR:FRANCE_O
 http://cdn.step-tv.com:8000/live/ch/ch/221.m3u8
-#EXTINF:0,FR:CANAL+
+#EXTINF:0 group-title="WebTV-FR 1",FR:CANAL+
 http://cdn.step-tv.com:8000/live/ch/ch/445.m3u8
-#EXTINF:0,FR:CANAL+CINEMA
+#EXTINF:0 group-title="WebTV-FR 1",FR:CANAL+CINEMA
 http://cdn.step-tv.com:8000/live/ch/ch/193.m3u8
-#EXTINF:0,FR:CANAL+FAMILY
+#EXTINF:0 group-title="WebTV-FR 1",FR:CANAL+FAMILY
 http://cdn.step-tv.com:8000/live/ch/ch/194.m3u8
-#EXTINF:0,FR:CANAL+SPORT
+#EXTINF:0 group-title="WebTV-FR 1",FR:CANAL+SPORT
 http://cdn.step-tv.com:8000/live/ch/ch/446.m3u8
-#EXTINF:0,FR:CANAL+_DECALE
+#EXTINF:0 group-title="WebTV-FR 1",FR:CANAL+_DECALE
 http://cdn.step-tv.com:8000/live/ch/ch/1825.m3u8
-#EXTINF:0,FR:CANAL+SERIES
+#EXTINF:0 group-title="WebTV-FR 1",FR:CANAL+SERIES
 http://cdn.step-tv.com:8000/live/ch/ch/195.m3u8
-#EXTINF:0,FR:CINE+PREMIER
+#EXTINF:0 group-title="WebTV-FR 1",FR:CINE+PREMIER
 http://cdn.step-tv.com:8000/live/ch/ch/207.m3u8
-#EXTINF:0,FR:CINE+FRISSON
+#EXTINF:0 group-title="WebTV-FR 1",FR:CINE+FRISSON
 http://cdn.step-tv.com:8000/live/ch/ch/200.m3u8
-#EXTINF:0,FR:CINE+FAMIZ
+#EXTINF:0 group-title="WebTV-FR 1",FR:CINE+FAMIZ
 http://cdn.step-tv.com:8000/live/ch/ch/210.m3u8
-#EXTINF:0,FR:CINE+EMOTION
+#EXTINF:0 group-title="WebTV-FR 1",FR:CINE+EMOTION
 http://cdn.step-tv.com:8000/live/ch/ch/209.m3u8
-#EXTINF:0,FR:CINE_CLASSIC
+#EXTINF:0 group-title="WebTV-FR 1",FR:CINE_CLASSIC
 http://cdn.step-tv.com:8000/live/ch/ch/1827.m3u8
-#EXTINF:0,FR:OCS_MAX
+#EXTINF:0 group-title="WebTV-FR 1",FR:OCS_MAX
 http://cdn.step-tv.com:8000/live/ch/ch/196.m3u8
-#EXTINF:0,FR:OCS_GEANTS
+#EXTINF:0 group-title="WebTV-FR 1",FR:OCS_GEANTS
 http://cdn.step-tv.com:8000/live/ch/ch/198.m3u8
-#EXTINF:0,FR:OCS_CHOC
+#EXTINF:0 group-title="WebTV-FR 1",FR:OCS_CHOC
 http://cdn.step-tv.com:8000/live/ch/ch/197.m3u8
-#EXTINF:0,FR:ACTION
+#EXTINF:0 group-title="WebTV-FR 1",FR:ACTION
 http://cdn.step-tv.com:8000/live/ch/ch/213.m3u8
-#EXTINF:0,FR:13EME_RUE
+#EXTINF:0 group-title="WebTV-FR 1",FR:13EME_RUE
 http://cdn.step-tv.com:8000/live/ch/ch/224.m3u8
-#EXTINF:0,FR:TV_BREIZH
+#EXTINF:0 group-title="WebTV-FR 1",FR:TV_BREIZH
 http://cdn.step-tv.com:8000/live/ch/ch/1828.m3u8
-#EXTINF:0,FR:RMC_DECOUVERTE
+#EXTINF:0 group-title="WebTV-FR 1",FR:RMC_DECOUVERTE
 http://cdn.step-tv.com:8000/live/ch/ch/1812.m3u8
-#EXTINF:0,FR:SYFY
+#EXTINF:0 group-title="WebTV-FR 1",FR:SYFY
 http://cdn.step-tv.com:8000/live/ch/ch/228.m3u8
-#EXTINF:0,FR:SERIE_CLUB
+#EXTINF:0 group-title="WebTV-FR 1",FR:SERIE_CLUB
 http://cdn.step-tv.com:8000/live/ch/ch/237.m3u8
-#EXTINF:0,FR:RTS_UN
+#EXTINF:0 group-title="WebTV-FR 1",FR:RTS_UN
 http://cdn.step-tv.com:8000/live/ch/ch/241.m3u8
-#EXTINF:0,FR:RTS_DEUX
+#EXTINF:0 group-title="WebTV-FR 1",FR:RTS_DEUX
 http://cdn.step-tv.com:8000/live/ch/ch/242.m3u8
-#EXTINF:0,FR:CHERIE25
+#EXTINF:0 group-title="WebTV-FR 1",FR:CHERIE25
 http://cdn.step-tv.com:8000/live/ch/ch/1386.m3u8
-#EXTINF:0,FR:D8
+#EXTINF:0 group-title="WebTV-FR 1",FR:D8
 http://cdn.step-tv.com:8000/live/ch/ch/1782.m3u8
-#EXTINF:0,FR:PARIS_PREMIERE
+#EXTINF:0 group-title="WebTV-FR 1",FR:PARIS_PREMIERE
 http://cdn.step-tv.com:8000/live/ch/ch/223.m3u8
-#EXTINF:0,FR:NORMANDIE_TV
+#EXTINF:0 group-title="WebTV-FR 1",FR:NORMANDIE_TV
 http://cdn.step-tv.com:8000/live/ch/ch/249.m3u8
-#EXTINF:0,FR:COMEDIE
+#EXTINF:0 group-title="WebTV-FR 1",FR:COMEDIE
 http://cdn.step-tv.com:8000/live/ch/ch/225.m3u8
-#EXTINF:0,FR:D17
+#EXTINF:0 group-title="WebTV-FR 1",FR:D17
 http://cdn.step-tv.com:8000/live/ch/ch/208.m3u8
-#EXTINF:0,FR:RTL9
+#EXTINF:0 group-title="WebTV-FR 1",FR:RTL9
 http://cdn.step-tv.com:8000/live/ch/ch/222.m3u8
-#EXTINF:0,FR:TMC
+#EXTINF:0 group-title="WebTV-FR 1",FR:TMC
 http://cdn.step-tv.com:8000/live/ch/ch/251.m3u8
-#EXTINF:0,FR:TEVA
+#EXTINF:0 group-title="WebTV-FR 1",FR:TEVA
 http://cdn.step-tv.com:8000/live/ch/ch/244.m3u8
-#EXTINF:0,FR:EQUIPE21
+#EXTINF:0 group-title="WebTV-FR 1",FR:EQUIPE21
 http://cdn.step-tv.com:8000/live/ch/ch/1750.m3u8
-#EXTINF:0,FR:FOOT+24/24
+#EXTINF:0 group-title="WebTV-FR 1",FR:FOOT+24/24
 http://cdn.step-tv.com:8000/live/ch/ch/263.m3u8
-#EXTINF:0,FR:NT1
+#EXTINF:0 group-title="WebTV-FR 1",FR:NT1
 http://cdn.step-tv.com:8000/live/ch/ch/226.m3u8
-#EXTINF:0,FR:NRJ12
+#EXTINF:0 group-title="WebTV-FR 1",FR:NRJ12
 http://cdn.step-tv.com:8000/live/ch/ch/253.m3u8
-#EXTINF:0,FR:E!
+#EXTINF:0 group-title="WebTV-FR 1",FR:E!
 http://cdn.step-tv.com:8000/live/ch/ch/1829.m3u8
-#EXTINF:0,FR:AB1
+#EXTINF:0 group-title="WebTV-FR 1",FR:AB1
 http://cdn.step-tv.com:8000/live/ch/ch/231.m3u8
-#EXTINF:0,FR:6TER
+#EXTINF:0 group-title="WebTV-FR 1",FR:6TER
 http://cdn.step-tv.com:8000/live/ch/ch/203.m3u8
-#EXTINF:0,FR:WEO
+#EXTINF:0 group-title="WebTV-FR 1",FR:WEO
 http://cdn.step-tv.com:8000/live/ch/ch/243.m3u8
-#EXTINF:0,FR:DISNEY_CHANNEL
+#EXTINF:0 group-title="WebTV-FR 1",FR:DISNEY_CHANNEL
 http://cdn.step-tv.com:8000/live/ch/ch/254.m3u8
-#EXTINF:0,FR:DISNEY_JUNIOR
+#EXTINF:0 group-title="WebTV-FR 1",FR:DISNEY_JUNIOR
 http://cdn.step-tv.com:8000/live/ch/ch/511.m3u8
-#EXTINF:0,FR:GULLI
+#EXTINF:0 group-title="WebTV-FR 1",FR:GULLI
 http://cdn.step-tv.com:8000/live/ch/ch/258.m3u8
-#EXTINF:0,FR:CARTOON_NETWORK
+#EXTINF:0 group-title="WebTV-FR 1",FR:CARTOON_NETWORK
 http://cdn.step-tv.com:8000/live/ch/ch/257.m3u8
-#EXTINF:0,FR:CANALJ
+#EXTINF:0 group-title="WebTV-FR 1",FR:CANALJ
 http://cdn.step-tv.com:8000/live/ch/ch/11.m3u8
-#EXTINF:0,FR:BOOMERANG
+#EXTINF:0 group-title="WebTV-FR 1",FR:BOOMERANG
 http://cdn.step-tv.com:8000/live/ch/ch/256.m3u8
-#EXTINF:0,FR:BOING
+#EXTINF:0 group-title="WebTV-FR 1",FR:BOING
 http://cdn.step-tv.com:8000/live/ch/ch/235.m3u8
-#EXTINF:0,FR:MANGA
+#EXTINF:0 group-title="WebTV-FR 1",FR:MANGA
 http://cdn.step-tv.com:8000/live/ch/ch/259.m3u8
-#EXTINF:0,FR:LA_TELE
+#EXTINF:0 group-title="WebTV-FR 1",FR:LA_TELE
 http://cdn.step-tv.com:8000/live/ch/ch/1729.m3u8
-#EXTINF:0,FR:HISTOIRE
+#EXTINF:0 group-title="WebTV-FR 1",FR:HISTOIRE
 http://cdn.step-tv.com:8000/live/ch/ch/1694.m3u8
-#EXTINF:0,FR:M6_MUSIC
+#EXTINF:0 group-title="WebTV-FR 1",FR:M6_MUSIC
 http://cdn.step-tv.com:8000/live/ch/ch/204.m3u8
-#EXTINF:0,FR:BEIN_SPORTS_HD1
+#EXTINF:0 group-title="WebTV-FR 1",FR:BEIN_SPORTS_HD1
 http://cdn.step-tv.com:8000/live/ch/ch/190.m3u8
-#EXTINF:0,FR:BEIN_SPORTS_HD2
+#EXTINF:0 group-title="WebTV-FR 1",FR:BEIN_SPORTS_HD2
 http://cdn.step-tv.com:8000/live/ch/ch/191.m3u8
-#EXTINF:0,FR:BEIN_SPORTS_HD3
+#EXTINF:0 group-title="WebTV-FR 1",FR:BEIN_SPORTS_HD3
 http://cdn.step-tv.com:8000/live/ch/ch/192.m3u8
-#EXTINF:0,FR:EUROSPORT1
+#EXTINF:0 group-title="WebTV-FR 1",FR:EUROSPORT1
 http://cdn.step-tv.com:8000/live/ch/ch/858.m3u8
-#EXTINF:0,FR:EUROSPORT2
+#EXTINF:0 group-title="WebTV-FR 1",FR:EUROSPORT2
 http://cdn.step-tv.com:8000/live/ch/ch/260.m3u8
-#EXTINF:0,FR:INFOSPORT+
+#EXTINF:0 group-title="WebTV-FR 1",FR:INFOSPORT+
 http://cdn.step-tv.com:8000/live/ch/ch/199.m3u8
-#EXTINF:0,FR:MA_CHAINE_SPORT
+#EXTINF:0 group-title="WebTV-FR 1",FR:MA_CHAINE_SPORT
 http://cdn.step-tv.com:8000/live/ch/ch/262.m3u8
-#EXTINF:0,FR:DISCOVERY_SCIENCE
+#EXTINF:0 group-title="WebTV-FR 1",FR:DISCOVERY_SCIENCE
 http://cdn.step-tv.com:8000/live/ch/ch/230.m3u8
-#EXTINF:0,FR:DISCOVERY_HD
+#EXTINF:0 group-title="WebTV-FR 1",FR:DISCOVERY_HD
 http://cdn.step-tv.com:8000/live/ch/ch/232.m3u8
-#EXTINF:0,FR:SCIENCES&VIE
+#EXTINF:0 group-title="WebTV-FR 1",FR:SCIENCES&VIE
 http://cdn.step-tv.com:8000/live/ch/ch/229.m3u8
-#EXTINF:0,FR:NATGEO_WILD
+#EXTINF:0 group-title="WebTV-FR 1",FR:NATGEO_WILD
 http://cdn.step-tv.com:8000/live/ch/ch/233.m3u8
-#EXTINF:0,FR:NATGEO
+#EXTINF:0 group-title="WebTV-FR 1",FR:NATGEO
 http://cdn.step-tv.com:8000/live/ch/ch/234.m3u8
-#EXTINF:0,FR:PLANETE+_CI
+#EXTINF:0 group-title="WebTV-FR 1",FR:PLANETE+_CI
 http://cdn.step-tv.com:8000/live/ch/ch/239.m3u8
-#EXTINF:0,FR:CHASSE_ET_PECHE
+#EXTINF:0 group-title="WebTV-FR 1",FR:CHASSE_ET_PECHE
 http://cdn.step-tv.com:8000/live/ch/ch/212.m3u8
-#EXTINF:0,FR:TOUTE_L'HISTOIRE
+#EXTINF:0 group-title="WebTV-FR 1",FR:TOUTE_L'HISTOIRE
 http://cdn.step-tv.com:8000/live/ch/ch/1830.m3u8
-#EXTINF:0,FR:TELETOON+1
+#EXTINF:0 group-title="WebTV-FR 1",FR:TELETOON+1
 http://cdn.step-tv.com:8000/live/ch/ch/1689.m3u8
-#EXTINF:0,FR:PLANETE_A&E
+#EXTINF:0 group-title="WebTV-FR 1",FR:PLANETE_A&E
 http://cdn.step-tv.com:8000/live/ch/ch/1744.m3u8
-#EXTINF:0,FR:PLANETE+
+#EXTINF:0 group-title="WebTV-FR 1",FR:PLANETE+
 http://cdn.step-tv.com:8000/live/ch/ch/240.m3u8
-#EXTINF:0,FR:PLANETE+_THALASSA
+#EXTINF:0 group-title="WebTV-FR 1",FR:PLANETE+_THALASSA
 http://cdn.step-tv.com:8000/live/ch/ch/1826.m3u8
-#EXTINF:0,FR:ANIMAUX
+#EXTINF:0 group-title="WebTV-FR 1",FR:ANIMAUX
 http://cdn.step-tv.com:8000/live/ch/ch/236.m3u8
-#EXTINF:0,FR:USHUAIA_TV
+#EXTINF:0 group-title="WebTV-FR 1",FR:USHUAIA_TV
 http://cdn.step-tv.com:8000/live/ch/ch/206.m3u8
-#EXTINF:0,FR:VOYAGE
+#EXTINF:0 group-title="WebTV-FR 1",FR:VOYAGE
 http://cdn.step-tv.com:8000/live/ch/ch/205.m3u8
-#EXTINF:0,BE:LA_UNE
+#EXTINF:0 group-title="WebTV-FR 1",BE:LA_UNE
 http://cdn.step-tv.com:8000/live/ch/ch/507.m3u8
-#EXTINF:0,BE:LA_DEUX
+#EXTINF:0 group-title="WebTV-FR 1",BE:LA_DEUX
 http://cdn.step-tv.com:8000/live/ch/ch/202.m3u8
-#EXTINF:0,BE:LA_TROIS
+#EXTINF:0 group-title="WebTV-FR 1",BE:LA_TROIS
 http://cdn.step-tv.com:8000/live/ch/ch/201.m3u8
-#EXTINF:0,BE:CLUB_RTL
+#EXTINF:0 group-title="WebTV-FR 1",BE:CLUB_RTL
 http://cdn.step-tv.com:8000/live/ch/ch/510.m3u8
-#EXTINF:0,BE:RTL_TVI
+#EXTINF:0 group-title="WebTV-FR 1",BE:RTL_TVI
 http://cdn.step-tv.com:8000/live/ch/ch/508.m3u8
-#EXTINF:0,BE:PLUG_RTL
+#EXTINF:0 group-title="WebTV-FR 1",BE:PLUG_RTL
 http://cdn.step-tv.com:8000/live/ch/ch/509.m3u8
-#EXTINF:0,BE:EEN
+#EXTINF:0 group-title="WebTV-FR 1",BE:EEN
 http://cdn.step-tv.com:8000/live/ch/ch/1765.m3u8
-#EXTINF:0,BE:CANVAS
+#EXTINF:0 group-title="WebTV-FR 1",BE:CANVAS
 http://cdn.step-tv.com:8000/live/ch/ch/1764.m3u8
-#EXTINF:0,BE:TVLUX
+#EXTINF:0 group-title="WebTV-FR 1",BE:TVLUX
 http://cdn.step-tv.com:8000/live/ch/ch/1727.m3u8
-#EXTINF:0,BE:TELE_VESDRE
+#EXTINF:0 group-title="WebTV-FR 1",BE:TELE_VESDRE
 http://cdn.step-tv.com:8000/live/ch/ch/1728.m3u8
-#EXTINF:0,BE:JIM_TV
+#EXTINF:0 group-title="WebTV-FR 1",BE:JIM_TV
 http://cdn.step-tv.com:8000/live/ch/ch/1726.m3u8
 
+#EXTINF:-1 group-title="WebTV-FR 2",FR: TF1 HD
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/684.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: FRANCE 4 HD
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/687.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: FRANCE 3 HD
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/686.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: FRANCE 2 HD
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/685.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Weo HD
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/243.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Vevo ROCK TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/231.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Vevo Music TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/227.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Vevo Hip Hop TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/228.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Rouge TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/248.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: PTC
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/209.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: OUI TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/230.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: NRJ TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/233.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: MONACO INFOS
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/211.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: MFM TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/222.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: M6 MUSIC
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/226.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: M6
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/196.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: La Tele
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/247.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Grand Lille TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/249.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: GONG
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/220.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Euronews
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/207.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Enorme TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/218.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Digital Congo
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/236.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: CNA
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/251.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Clubbing TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/224.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: BFM TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/202.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: BFM Business
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/203.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Best Music HD
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/223.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Assemblée Nationale
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/213.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Afrique Media Tv
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/205.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: Afric Nigeria TV
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/240.m3u8
+#EXTINF:-1 group-title="WebTV-FR 2",FR: 6ter
+http://sa-iptv.no-ip.ca:8000/live/tnt/tnt/197.m3u8
 
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1,CINE+ FAMIZ
-http://82.135.224.135:88/udp/239.255.2.10:1234
-#EXTINF:-1,TCM CINEMA HD
-http://82.135.224.135:88/udp/239.255.2.15:1234
-#EXTINF:-1,DISCOVERY HD
-http://82.135.224.135:88/udp/239.255.2.14:1234
-#EXTINF:-1,GOLF+ HD
-http://82.135.224.135:88/udp/239.255.2.16:1234
-#EXTINF:-1,BRAVA HD
-http://82.135.224.135:88/udp/239.255.2.17:1234
-#EXTINF:-1,J-ONE HD
-http://82.135.224.135:88/udp/239.255.2.18:1234
-#EXTINF:-1,MCS BIEN ETRE
-http://82.135.224.135:88/udp/239.255.2.19:1234
-#EXTINF:-1,CINE+ PREMIER HD
-http://82.135.224.135:88/udp/239.255.2.20:1234
-#EXTINF:-1,USHUAIA TV HD
-http://82.135.224.135:88/udp/239.255.2.21:1234
-#EXTINF:-1,PLANETE+ HD
-http://82.135.224.135:88/udp/239.255.2.23:1234
-#EXTINF:-1,C+ DEPORT HD
-http://82.135.224.135:88/udp/239.255.2.34:1234
-
-
-#EXTINF:-1,MT-France 3 (FR)
-http://213.136.90.30:8000/live/christop/christop/9285.m3u8
-#EXTINF:-1,MT-France 24 (FR)
-http://213.136.90.30:8000/live/christop/christop/9286.m3u8
- 
-#EXTINF:-1,[COLOR yellow][I][B]FR/GE/UK/IT[/B][/I][/COLOR] [COLOR white][I][B] - Copiez et collez le [COLOR yellow]Playlist URL[/COLOR] dans PVR Simple Client ou Playlist Loader.[/B][/I][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,[COLOR white][I][B]Les deux autres liens contient le Logos et EPG des chaines,[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR white][I][B]et doivent etre places dans PVR Simple Client.[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR white][I][B]Les chaines sont de nationalites differentes et sont classes par ordre alphabetique.[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR white][I][B]Malheureusement, il est la seule facon de voir les chaines.[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR orange][I][B]Tous ces streams peuvent être trouvés gratuitement sur Internet....[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI M3U Playlist URL:[/COLOR] [COLOR white]http://snurl.com/marcello[/COLOR]
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI CHANNELS LOGOS:[/COLOR] [COLOR white]http://logo.tvip.ga[/COLOR]
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
+#EXTINF:-1 group-title="WebTV-FR 3",FR: Canal
+http://painel.soeu.ws:8000/live/leila/leila/753.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: TF1 HD
+http://painel.soeu.ws:8000/live/leila/leila/742.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: France 2
+http://painel.soeu.ws:8000/live/leila/leila/750.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: France 3
+http://painel.soeu.ws:8000/live/leila/leila/749.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: France 4
+http://painel.soeu.ws:8000/live/leila/leila/748.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: France 5
+http://painel.soeu.ws:8000/live/leila/leila/747.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: France O
+http://painel.soeu.ws:8000/live/leila/leila/746.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: NRJ 12
+http://painel.soeu.ws:8000/live/leila/leila/743.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: M6
+http://painel.soeu.ws:8000/live/leila/leila/744.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: Eurosport 1
+http://painel.soeu.ws:8000/live/leila/leila/751.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: Canal  Sport
+http://painel.soeu.ws:8000/live/leila/leila/752.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: Bein Sports 1
+http://painel.soeu.ws:8000/live/leila/leila/756.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: Bein Sports 2
+http://painel.soeu.ws:8000/live/leila/leila/755.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: Bein Sports 3
+http://painel.soeu.ws:8000/live/leila/leila/754.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: W9
+http://painel.soeu.ws:8000/live/leila/leila/741.m3u8
+#EXTINF:-1 group-title="WebTV-FR 3",FR: InfoSport
+http://painel.soeu.ws:8000/live/leila/leila/745.m3u8
  
 #EXTINF:-1,[COLOR pink][I][B]CHAINES - TV CLUB[/B][/I][/COLOR] [B] - Creer un compte sur le site (www.teleclub.fr) d avoir acces a toutes les chaines[/B]
 http://0.0.0.0:1234
@@ -746,109 +557,79 @@ http://tvclub.fr/ch15.m3u8
 #EXTINF:-1 tvg-id="FXTV.ut.cx" tvg-name="FXTV" tvg-logo="16.png" group-title="tel" ,[COLOR orange]16[/COLOR] SFX (Reserve)
 http://tvclub.fr/ch16.m3u8
  
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
- 
 #EXTINF:-1,[I][B][COLOR yellow]--- Generalistes ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-name="France 2" tvg-logo="france2.png" group-title="WebTV-FR",France 2
+#EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-name="France 2" tvg-logo="france2.png" group-title="WebTV-FR Generale",France 2
 http://live.francetv.fr/simulcast/France_2/hls_v1/index.m3u8
-#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-name="France 3" tvg-logo="france3.png" group-title="WebTV-FR",France 3
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-name="France 3" tvg-logo="france3.png" group-title="WebTV-FR Generale",France 3
 http://live.francetv.fr/simulcast/France_3/hls_v1/index.m3u8
-#EXTINF:-1 tvg-id="FRA4.kazer.org" tvg-name="France 4" tvg-logo="france4.png" group-title="WebTV-FR",France 4
+#EXTINF:-1 tvg-id="FRA4.kazer.org" tvg-name="France 4" tvg-logo="france4.png" group-title="WebTV-FR Generale",France 4
 http://live.francetv.fr/simulcast/France_4/hls_v1/index.m3u8
-#EXTINF:-1 tvg-id="FRA5.kazer.org" tvg-name="France 5" tvg-logo="france5.png" group-title="WebTV-FR",France 5
+#EXTINF:-1 tvg-id="FRA5.kazer.org" tvg-name="France 5" tvg-logo="france5.png" group-title="WebTV-FR Generale",France 5
 http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8
-#EXTINF:-1 tvg-id="ART1.kazer.org" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV-FR",Arte
+#EXTINF:-1 tvg-id="ART1.kazer.org" tvg-name="Arte" tvg-logo="arte.png" group-title="WebTV-FR Generale",Arte
 http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1 tvg-id="M61.kazer.org" tvg-name="M6" tvg-logo="m6.png" group-title="WebTV-FR",M6
+#EXTINF:-1 tvg-id="M61.kazer.org" tvg-name="M6" tvg-logo="m6.png" group-title="WebTV-FR Generale",M6
 http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8
-#EXTINF:-1 tvg-id="M61.kazer.org" tvg-name="M6" tvg-logo="m6.png" group-title="WebTV-FR",M6
+#EXTINF:-1 tvg-id="M61.kazer.org" tvg-name="M6" tvg-logo="m6.png" group-title="WebTV-FR Generale",M6
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
-#EXTINF:-1 tvg-id="W91.kazer.org" tvg-name="W9" tvg-logo="w9.png" group-title="WebTV-FR",W9
+#EXTINF:-1 tvg-id="W91.kazer.org" tvg-name="W9" tvg-logo="w9.png" group-title="WebTV-FR Generale",W9
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-#EXTINF:-1 tvg-id="6TER.kazer.org" tvg-name="6TER" tvg-logo="6ter.png" group-title="WebTV-FR",6Ter
+#EXTINF:-1 tvg-id="6TER.kazer.org" tvg-name="6TER" tvg-logo="6ter.png" group-title="WebTV-FR Generale",6Ter
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="m6music.png" group-title="WebTV-FR",M6 Music
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="m6music.png" group-title="WebTV-FR Generale",M6 Music
 https://sslhls.m6tv.cdn.sfr.net/m6_music_hits_hls_aes.m3u8
-#EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-name="NRJ12" tvg-logo="nrj12.png" group-title="WebTV-FR",NRJ 12
+#EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-name="NRJ12" tvg-logo="nrj12.png" group-title="WebTV-FR Generale",NRJ 12
 http://stream.live-tv-direct.com:8009/apple/nrj/nrj/nrj12hi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="itele" tvg-logo="itele.png" group-title="WebTV-FR",I Télé
+#EXTINF:-1 tvg-id="" tvg-name="itele" tvg-logo="itele.png" group-title="WebTV-FR Generale",I Télé
 http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="euronews.png" group-title="WebTV-FR",Euronews
+#EXTINF:-1 tvg-id="" tvg-name="euronews" tvg-logo="euronews.png" group-title="WebTV-FR Generale",Euronews
 http://streaming-hub.com/stream/euronews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zouzous" tvg-logo="zouzous.png" group-title="WebTV-FR",Zouzous
+#EXTINF:-1 tvg-id="" tvg-name="Zouzous" tvg-logo="zouzous.png" group-title="WebTV-FR Generale",Zouzous
 http://medias2.francetv.fr/playlists/zouzous/zouzous_tablettes.m3u8|X-Forwarded-For=2.1.109.65
-#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="gulli.png" group-title="WebTV-FR",Gulli
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="gulli.png" group-title="WebTV-FR Generale",Gulli
 http://streaming-hub.com/stream/gulli.m3u8|X-Forwarded-For=85.2.194.16
-#EXTINF:-1 tvg-id="" tvg-name="Animania" tvg-logo="animania.png" group-title="WebTV-FR",Animania
+#EXTINF:-1 tvg-id="" tvg-name="Animania" tvg-logo="animania.png" group-title="WebTV-FR Generale",Animania
 http://teleclub.fr/animania.mp4
-#EXTINF:-1 tvg-id="RMC2.kazer.org" tvg-name="RMC Découverte" tvg-logo="rmcdecouverte.png" group-title="WebTV-FR",RMC Découverte
+#EXTINF:-1 tvg-id="RMC2.kazer.org" tvg-name="RMC Découverte" tvg-logo="rmcdecouverte.png" group-title="WebTV-FR Generale",RMC Découverte
 http://streaming-hub.com/stream/rmc.m3u8|X-Forwarded-For=85.4.161.88
-#EXTINF:-1 tvg-id="" tvg-name="Oui tv" tvg-logo="ouitv.png" group-title="WebTV-FR",Oui Tv
+#EXTINF:-1 tvg-id="" tvg-name="Oui tv" tvg-logo="ouitv.png" group-title="WebTV-FR Generale",Oui Tv
 http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8|X-Forwarded-For=85.6.190.45
-#EXTINF:-1 tvg-id="" tvg-name="Rouge Tv" tvg-logo="rougetv.png" group-title="WebTV-FR",Rouge Tv
+#EXTINF:-1 tvg-id="" tvg-name="Rouge Tv" tvg-logo="rougetv.png" group-title="WebTV-FR Generale",Rouge Tv
 http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vevo Music TV" tvg-logo="vevomusictv.png" group-title="WebTV-FR",Vevo Music TV
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Music TV" tvg-logo="vevomusictv.png" group-title="WebTV-FR Generale",Vevo Music TV
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vevo Hip Hop TV" tvg-logo="vevohiphoptv.png" group-title="WebTV-FR",Vevo Hip Hop TV
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Hip Hop TV" tvg-logo="vevohiphoptv.png" group-title="WebTV-FR Generale",Vevo Hip Hop TV
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vevo Rock TV" tvg-logo="vevorocktv.png" group-title="WebTV-FR",Vevo Rock TV
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Rock TV" tvg-logo="vevorocktv.png" group-title="WebTV-FR Generale",Vevo Rock TV
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Equipe 21" tvg-logo="equipe21.png" group-title="WebTV-FR",Equipe21
+#EXTINF:-1 tvg-id="" tvg-name="Equipe 21" tvg-logo="equipe21.png" group-title="WebTV-FR Generale",Equipe21
 http://streaming-hub.com/stream/lequipe21.m3u8|X-Forwarded-For=85.5.76.56
-#EXTINF:-1 tvg-id="" tvg-name="I24" tvg-logo="i24.png" group-title="WebTV-FR",I24
+#EXTINF:-1 tvg-id="" tvg-name="I24" tvg-logo="i24.png" group-title="WebTV-FR Generale",I24
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8|X-Forwarded-For=2.13.88.54
-#EXTINF:-1 tvg-id="" tvg-name="Weo" tvg-logo="weo.png" group-title="WebTV-FR",Weo
+#EXTINF:-1 tvg-id="" tvg-name="Weo" tvg-logo="weo.png" group-title="WebTV-FR Generale",Weo
 http://str81.creacast.com:80/weo/high/playlist.m3u8|X-Forwarded-For=2.7.49.178
-#EXTINF:-1 tvg-id="" tvg-name="RTL Télé Lux" tvg-logo="rtltelelux.png" group-title="WebTV-FR",RTL Télé Lux
+#EXTINF:-1 tvg-id="" tvg-name="RTL Télé Lux" tvg-logo="rtltelelux.png" group-title="WebTV-FR Generale",RTL Télé Lux
 http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8|X-Forwarded-For=2.14.105.12
 
-#EXTINF:-1, TebeSud
+#EXTINF:-1 group-title="WebTV-FR Generale", TebeSud
 rtmp://streaming1.extrazimut.net/azimutlive playpath=tytele swfUrl=http://streaming1.extrazimut.net/players/lecteurStreaming.swf?idFlash=lecteurSTRM&fichierConfig=&serveurFMS=1&applicationFMS=live&autostart=true&&video=tytele&autorisePleinEcran=y&%20largeurJS=500&hauteurJS=380 swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Tele+TY+%28France%29&idtv=3132&TVSESS=79c599fca55625978118f3ae865e86d9
  
-#EXTINF:-1, LA CHAINE NORMANDIE
+#EXTINF:-1 group-title="WebTV-FR Generale", LA CHAINE NORMANDIE
 rtmp://live.lachainenormande.fr:80/live/lcn/livestream
  
-#EXTINF:-1, TV Rennes
+#EXTINF:-1 group-title="WebTV-FR Generale", TV Rennes
 http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
  
-#EXTINF:-1 , Mirabelle TV
+#EXTINF:-1 group-title="WebTV-FR Generale", Mirabelle TV
 http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
  
-#EXTINF:-1, Yvelines Premiere
+#EXTINF:-1 group-title="WebTV-FR Generale", Yvelines Premiere
 http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8
- 
- 
-#EXTINF:-1,[I][B][COLOR yellow]--- Enfants ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,[I][B][COLOR red]OFF[/COLOR][/B][/I]
-
-
-#EXTINF:-1,[I][B][COLOR yellow]--- Serie et Cinema ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
-#EXTINF:-1,[I][B][COLOR red]OFF[/COLOR][/B][/I]
-
- 
-#EXTINF:-1,[I][B][COLOR yellow]--- Sport ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
- 
-#EXTINF:-1, Eurosport 1 (opt2)
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-
-
- 
-#EXTINF:-1,[I][B][COLOR yellow]---Documentaires ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
 
 #EXTINF:-1, Weo
 rtmp://str82.creacast.com:80/weo/high
- 
- 
-#EXTINF:-1,[I][B][COLOR yellow]--- Divertissement ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
  
 #EXTINF:0, Enorme TV
 http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
@@ -858,10 +639,6 @@ rtsp://ec.playmedia.fr:1935/gong-base/live
 
 #EXTINF:-1, HITBOX (jeux video)
 http://api.hitbox.tv/player/hls/ectvlol.m3u8
- 
- 
-#EXTINF:-1,[I][B][COLOR yellow]--- Musique ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
  
 #EXTINF:-1,Trace Urban
 http://stream01.yamgo.com/iPhone/broadcast/trace_tv_urban-tablet.3gp.m3u8
@@ -926,7 +703,6 @@ http://tv.ut.cx/musicbox80.mp4
 #EXTINF:0,Music Box
 http://tv.ut.cx/musicbox.mp4
  
- 
 #EXTINF:-1,[I][B][COLOR yellow]---- Infos ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
@@ -967,68 +743,6 @@ rtmp://streaming06.axeweb.be:1935/live/direct.stream
 #EXTINF:-1,Assemblée Nationale
 http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
  
- 
-#EXTINF:-1,[I][B][COLOR yellow]--- Africaines (FR) ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
- 
- 
-#EXTINF:0,AfricaBox Series
-http://chkg.tdf-cdn.com/8037/index.m3u8
-#EXTINF:0,Crtv (CMR)
-rtmp://188.40.139.8/live//mycrtv.stream
-#EXTINF:0,Vox Africa
-rtmp://208.75.224.165:1935/map-voxafrica/myStream.sdp
-#EXTINF:0,Canal 2 International (CMR)
-rtmp://188.40.139.8/live//c2.stream
-#EXTINF:0,Canal 2 Info (CMR)
-http://canal2-p.cdn.hexaglobe.net/streaming/canal2_c2info/canal2info_fre_480p.sdp.m3u8
-#EXTINF:0,Canal 2 Music (CMR)
-rtmp://188.40.139.8/live//c2music.stream
-#EXTINF:0,Canal 2 Movies (CMR)
-rtmp://188.40.139.8/live//c2movie.stream
-#EXTINF:0,Equinoxe Television (CMR)
-rtmp://myafricanmega3.tulix.tv:1935/map-equinoxe/map-equinoxe
-#EXTINF:0,STV
-rtmp://188.40.139.8/live//stv2.stream
-#EXTINF:0,VISION 4 (CMR)
-rtmp://83.167.34.11:1935/live playpath=VISION4
-#EXTINF:0,Boom tv(CMR)
-rtmp://83.167.34.11:1935/live playpath=BOOMTV
-#EXTINF:0,Nollywood FR
-rtmp://myafricanmega.tulix.tv:1935/map-nollywood/map-nollywood
-#EXTINF:0,RTI1 (CIV)
-http://178.248.214.76/rti_str-1911-4ad6f3631177846f952987a120241943/rti.stream/playlist.m3u8
-#EXTINF:0,RTI2(CIV)
-rtmp://188.40.139.8/live//rti2.stream
-#EXTINF:0,LC2 / NTV2
-http://strfla15.streamakaci.com/lc2/lc2.stream/playlist.m3u8
-#EXTINF:0,ORTB
-rtmp://188.40.139.8/live//ortb.stream
-#EXTINF:0,Gabon TV
-rtmp://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream
-#EXTINF:0,Digital Congo
-rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
-#EXTINF:0,Music Afrika
-rtmp://strfla13.streamakaci.com:1935/lc2new/ playpath=lc2 swfUrl=http://tv.filmover.com/jwp5/player.swf pageUrl=http://www.ghanatvon.com/music-africa-tv.html
-#EXTINF:0,Africa Home TV
-rtsp://dimd-s.nsacdn.com/dimd_HomeTVRepeat/HomeTV_3
-#EXTINF:0,Ortm
-http://xmaliactux.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,Afric Nigeria TV
-http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?wowzasessionid=598321747
-#EXTINF:0,NTV 2 / LC2
-rtmpt://strfla13.streamakaci.com/lc2new/<playpath>lc2 swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf pageUrl=http://www.africawebtv.com/lc2-international-et-ntv2-benin/
-#EXTINF:0,RTS 1
-rtmp://85.25.43.91/livedvr/sn/?token=play@14064079580044/ playpath=rts1236.stream swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf pageUrl=http://www.africawebtv.com/tv/sen/rts1.html
-#EXTINF:-1,DBS TV
-http://41.219.187.10:3001/3
-#EXTINF:-1,AfricaBox Series
-http://chkg.tdf-cdn.com/8037/index.m3u8 timeout=10
-#EXTINF:-1,AfricaBox TV
-http://chkg.tdf-cdn.com/8038/index.m3u8
-#EXTINF:-1,Air TV
-rtmp://stream.air-tv.tv:1935/live/web2.stream
- 
 #EXTINF:-1,[I][B][COLOR yellow]--- Autres Chaînes ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
  
@@ -1051,32 +765,19 @@ rtsp://str81.creacast.com/grandlilletv/high
 #EXTINF:-1,IL TV
 rtmp://str81.creacast.com:80/iltv/high
  
-############################################################
- 
-#EXTINF:-1,[I][B][COLOR red] Switzerland TV [/COLOR][/B][/I]
- 
-############################################################
- 
 #EXTINF:-1 ,RTS un
 http://streaming-hub.com/tv/i/rts1_1@97469/index_1300_av-b.m3u8?sd=10&rebase=on
  
 #EXTINF:,RTS Deux
 http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
  
-############################################################
- 
- #EXTINF:-1,[I][B][COLOR red]  Belgium  TV [/COLOR][/B][/I]
- 
-############################################################
- 
- 
-#EXTINF:-1 ,TÈlÈ MB
+#EXTINF:-1 ,TElE MB
 http://vm109.imust.org:1935/live/telemb-live/playlist.m3u8
  
-#EXTINF:-1 ,TÈlÈ Sambre
+#EXTINF:-1 ,TElE Sambre
 http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
  
-#EXTINF:-1 ,TÈlÈ Bruxelles
+#EXTINF:-1 ,TElE Bruxelles
 rtmp://37.187.156.238:1935/live/ playpath=live.sdp swfVfy=true live=true timeout=60
  
 #EXTINF:-1 ,TV Lux
@@ -1085,74 +786,8 @@ rtmp://wowza.tvlux.imust.org/live/tvlux-live
 #EXTINF:-1,[I][B][COLOR yellow]---? Temporare Kanale ?---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR yellow][I][B]Einige Kanale funktionieren nicht.[/B][/I][/COLOR]
-
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:15000
-#EXTINF:-1,Sky de:ZDF
-http://iptv80.ddns.net:9070/live/karimos/skype88/558.m3u8
-#EXTINF:-1,Sky de:VOX
-http://iptv80.ddns.net:9070/live/karimos/skype88/559.m3u8
-#EXTINF:-1,Sky DE Discovery Channel HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/560.m3u8
-#EXTINF:-1,Sky DE Bundesliga 1
-http://iptv80.ddns.net:9070/live/karimos/skype88/561.m3u8
-#EXTINF:-1,Sky DE National Geographic HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/562.m3u8
-#EXTINF:-1,Sky de:SUPER RTL
-http://iptv80.ddns.net:9070/live/karimos/skype88/563.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 7
-http://iptv80.ddns.net:9070/live/karimos/skype88/564.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 6
-http://iptv80.ddns.net:9070/live/karimos/skype88/565.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 5
-http://iptv80.ddns.net:9070/live/karimos/skype88/566.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 4
-http://iptv80.ddns.net:9070/live/karimos/skype88/567.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 3
-http://iptv80.ddns.net:9070/live/karimos/skype88/568.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 2
-http://iptv80.ddns.net:9070/live/karimos/skype88/569.m3u8
-#EXTINF:-1,Sky de:SPORT TIME TV 1
-http://iptv80.ddns.net:9070/live/karimos/skype88/570.m3u8
-#EXTINF:-1,Sky de:SPORT HD 2
-http://iptv80.ddns.net:9070/live/karimos/skype88/571.m3u8
-#EXTINF:-1,Sky de:SPORT HD 1
-http://iptv80.ddns.net:9070/live/karimos/skype88/572.m3u8
-#EXTINF:-1,Sky de:SKY SPORT 2
-http://iptv80.ddns.net:9070/live/karimos/skype88/573.m3u8
-#EXTINF:-1,Sky de:SKY SPORT 1
-http://iptv80.ddns.net:9070/live/karimos/skype88/574.m3u8
-#EXTINF:-1,Sky de:SKY KRIMI
-http://iptv80.ddns.net:9070/live/karimos/skype88/575.m3u8
-#EXTINF:-1,Sky de:SKY HITS
-http://iptv80.ddns.net:9070/live/karimos/skype88/576.m3u8
-#EXTINF:-1,Sky de:SKY EMOTION
-http://iptv80.ddns.net:9070/live/karimos/skype88/577.m3u8
-#EXTINF:-1,Sky de:SKY COMEDY HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/578.m3u8
-#EXTINF:-1,Sky de:SKY CINEMA  24
-http://iptv80.ddns.net:9070/live/karimos/skype88/580.m3u8
-#EXTINF:-1,Sky de:SKY CINEMA  1
-http://iptv80.ddns.net:9070/live/karimos/skype88/581.m3u8
-#EXTINF:-1,Sky de:SKY CINEMA
-http://iptv80.ddns.net:9070/live/karimos/skype88/582.m3u8
-#EXTINF:-1,Sky de:SKY ACTION HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/584.m3u8
-#EXTINF:-1,Sky de:SKY ACTION
-http://iptv80.ddns.net:9070/live/karimos/skype88/585.m3u8
-#EXTINF:-1,Sky de:SKY  ATLANTIC
-http://iptv80.ddns.net:9070/live/karimos/skype88/586.m3u8
-#EXTINF:-1,Sky de:NAT GEO WILD
-http://iptv80.ddns.net:9070/live/karimos/skype88/587.m3u8
-#EXTINF:-1,Sky de:AXN
-http://iptv80.ddns.net:9070/live/karimos/skype88/589.m3u8
-#EXTINF:-1,Sky de:ATLANTIC HD
-http://iptv80.ddns.net:9070/live/karimos/skype88/590.m3u8
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
 
 #EXTINF:-1,SKY-ACTION-HD-(Deutch)
 http://tviptv.org:50100/live/Hani/Hani/288.ts
@@ -1160,80 +795,6 @@ http://tviptv.org:50100/live/Hani/Hani/288.ts
 http://tviptv.org:50100/live/Hani/Hani/289.ts
 
 
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,RTL Deutschland
-http://iptv.hopto.org:9705/live/petro/petro/170.m3u8
-#EXTINF:-1,RTL II Deutschland
-http://iptv.hopto.org:9705/live/petro/petro/136.m3u8
-#EXTINF:-1,Super RTL
-http://iptv.hopto.org:9705/live/petro/petro/203.m3u8
-#EXTINF:-1,ZDF
-http://iptv.hopto.org:9705/live/petro/petro/95.m3u8
-#EXTINF:-1,ProSieben
-http://iptv.hopto.org:9705/live/petro/petro/202.m3u8
-#EXTINF:-1,DAS ERTES
-http://iptv.hopto.org:9705/live/petro/petro/96.m3u8
-#EXTINF:-1,VOX DE
-http://iptv.hopto.org:9705/live/petro/petro/723.m3u8
-#EXTINF:-1,PRO 7 DE
-http://iptv.hopto.org:9705/live/petro/petro/702.m3u8
-#EXTINF:-1,ATV 24
-http://iptv.hopto.org:9705/live/petro/petro/740.m3u8
-#EXTINF:-1,ARTE.DE
-http://iptv.hopto.org:9705/live/petro/petro/161.m3u8
-#EXTINF:-1,DE: 3Sat
-http://iptv.hopto.org:9705/live/petro/petro/748.m3u8
-#EXTINF:-1,DE: SRF 2
-http://iptv.hopto.org:9705/live/petro/petro/711.m3u8
-#EXTINF:-1,DE: Kika
-http://iptv.hopto.org:9705/live/petro/petro/139.m3u8
-#EXTINF:-1,DE: Kabel1
-http://iptv.hopto.org:9705/live/petro/petro/745.m3u8
-#EXTINF:-1,SAT 1
-http://iptv.hopto.org:9705/live/petro/petro/747.m3u8
-#EXTINF:-1,Orf 1
-http://iptv.hopto.org:9705/live/petro/petro/750.m3u8
-#EXTINF:-1,Orf 2
-http://iptv.hopto.org:9705/live/petro/petro/749.m3u8
-#EXTINF:-1,DE: ORF SPORT
-http://iptv.hopto.org:9705/live/petro/petro/886.m3u8
-#EXTINF:-1,Sky Germany TNT Serie HD
-http://iptv.hopto.org:9705/live/petro/petro/140.m3u8
-#EXTINF:-1,DE Sky Cinema HD
-http://iptv.hopto.org:9705/live/petro/petro/177.m3u8
-#EXTINF:-1,Sky De Krimi
-http://iptv.hopto.org:9705/live/petro/petro/148.m3u8
-#EXTINF:-1,DE: Sky  Atlantic
-http://iptv.hopto.org:9705/live/petro/petro/138.m3u8
-#EXTINF:-1,SKY DE EMOTION
-http://iptv.hopto.org:9705/live/petro/petro/218.m3u8
-#EXTINF:-1,Sky Hits DE
-http://iptv.hopto.org:9705/live/petro/petro/782.m3u8
-#EXTINF:-1,SKY ACTION DE
-http://iptv.hopto.org:9705/live/petro/petro/135.m3u8
-#EXTINF:-1,SKY COMEDY DE
-http://iptv.hopto.org:9705/live/petro/petro/813.m3u8
-#EXTINF:-1,SKY Bundesliga
-http://iptv.hopto.org:9705/live/petro/petro/71.m3u8
-#EXTINF:-1,SKY Sport 1 HD (de)
-http://iptv.hopto.org:9705/live/petro/petro/75.m3u8
-#EXTINF:-1,SKY Sport 2 HD (de)
-http://iptv.hopto.org:9705/live/petro/petro/76.m3u8
-#EXTINF:-1,DE: History
-http://iptv.hopto.org:9705/live/petro/petro/167.m3u8
-#EXTINF:-1,DE Sky Germany 13 Street HD
-http://iptv.hopto.org:9705/live/petro/petro/149.m3u8
-#EXTINF:-1,DE: Sky NatGeo Wild HD
-http://iptv.hopto.org:9705/live/petro/petro/731.m3u8
-#EXTINF:-1,National Geographic Channel Deutschland
-http://iptv.hopto.org:9705/live/petro/petro/235.m3u8
-#EXTINF:-1,DE: Sky Select 1 HD
-http://iptv.hopto.org:9705/live/petro/petro/809.m3u8
-#EXTINF:-1,Sky Select HD 2
-http://iptv.hopto.org:9705/live/petro/petro/746.m3u8
 
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
 
@@ -1762,7 +1323,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998
 #EXTINF:0,25 - Chérie 25 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=hd
-#EXTINF:0,26 - Paris Première (bas débit)
+#EXTINF:0,26 - Paris PremiEre (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213&flavour=ld
 #EXTINF:0,27 - TEVA (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404&flavour=ld
@@ -2214,7 +1775,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=267&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=958&flavour=ld
 #EXTINF:0,352 - Canal 10 Guadeloupe (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=929&flavour=ld
-#EXTINF:0,353 - Yvelines Première (bas débit)
+#EXTINF:0,353 - Yvelines PremiEre (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=895&flavour=ld
 #EXTINF:0,355 - TV SUD Camargue Cévennes (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=880&flavour=ld
@@ -2358,11 +1919,11 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=945&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1090&flavour=ld
 #EXTINF:0,486 - Beur TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=225&flavour=ld
-#EXTINF:0,487 - Berbère TV (standard)
+#EXTINF:0,487 - BerbEre TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=256&flavour=sd
-#EXTINF:0,488 - Berbère Jeunesse (standard)
+#EXTINF:0,488 - BerbEre Jeunesse (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=936&flavour=sd
-#EXTINF:0,489 - Berbère Music (standard)
+#EXTINF:0,489 - BerbEre Music (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=937&flavour=sd
 #EXTINF:0,490 - Al Ahly (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1093&flavour=ld
