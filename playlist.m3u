@@ -6,205 +6,205 @@
 #EXTINF:-1,[COLOR blue][I][B]---29-12-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --http://mafreebox.freebox.fr/freeboxtv/playlist.m3u--[/COLOR]
 #EXTM3U
-#EXTINF:0 group-title="WebTV-FR",3+HD
+#EXTINF:0 group-title="WebTV",3+HD
 http://62.65.140.150:80/session/a7057336-b959-11e5-8a7f-005056bc49ac/nvnv5a/1/1013/index.m3u8?token=e4caf2e6f9bfe05d55c055dc6b324777_1452709440_1452709440&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",3satHD
+#EXTINF:0 group-title="WebTV",3satHD
 http://62.65.140.219:80/session/a742ea2c-b959-11e5-b9a1-005056bc49ac/nvnv5a/1/1117/index.m3u8?token=bcb178eef7c4a8116d12ae6f6ee270ad_1452709441_1452709441&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",4+HD
+#EXTINF:0 group-title="WebTV",4+HD
 http://62.65.140.152:80/session/a77e0ab2-b959-11e5-9335-005056bc06d1/nvnv5a/1/1031/index.m3u8?token=1a3b26d82a9ddd3fc8f136e62dad743d_1452709441_1452709441&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",5+
+#EXTINF:0 group-title="WebTV",5+
 http://62.65.140.149:80/session/a7bbe0e4-b959-11e5-897c-005056bc1a52/nvnv5a/1/1047/index.m3u8?token=096b3920affe5921de0e9a2773b8b11f_1452709441_1452709441&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",AlJazeeraEn
+#EXTINF:0 group-title="WebTV",AlJazeeraEn
 http://62.65.140.154:80/session/a7fa0aa4-b959-11e5-9aab-005056bc06d1/nvnv5a/2/4013/index.m3u8?token=0277cad2d9298a638071eb7c44d5dceb_1452709442_1452709442&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",AnixeHD
+#EXTINF:0 group-title="WebTV",AnixeHD
 http://62.65.140.150:80/session/a847a69c-b959-11e5-a697-005056bc1a52/nvnv5a/1/1134/index.m3u8?token=e874667bfadf04201d3184baaadb7ee8_1452709442_1452709442&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",ARDHD
+#EXTINF:0 group-title="WebTV",ARDHD
 http://62.65.140.215:80/session/a8848738-b959-11e5-bacb-005056bc1a52/nvnv5a/2/1165/index.m3u8?token=6c6f50a6de5ce8700cb6815d8e2007f2_1452709443_1452709443&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",ArteFrHD
+#EXTINF:0 group-title="WebTV",ArteFrHD
 http://62.65.140.217:80/session/a8dd40b2-b959-11e5-9856-005056bc1a52/nvnv5a/2/2029/index.m3u8?token=3b4caf7c1cdecad1ac96c410c8fbf995_1452709443_1452709443&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",ArteHD
+#EXTINF:0 group-title="WebTV",ArteHD
 http://62.65.140.154:80/session/a915e160-b959-11e5-94cb-005056bc06d1/nvnv5a/1/1150/index.m3u8?token=fcee37a4adc0bd4892388572525c1227_1452709444_1452709444&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",BBC1HD
+#EXTINF:0 group-title="WebTV",BBC1HD
 http://62.65.140.214:80/session/a951c0e0-b959-11e5-bb1e-005056bc1a52/nvnv5a/2/4017/index.m3u8?token=52552ab7e15a3f0fa545b748208c5f5c_1452709444_1452709444&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",BBC2HD
+#EXTINF:0 group-title="WebTV",BBC2HD
 http://62.65.140.219:80/session/a98d484a-b959-11e5-b725-005056bc1a52/nvnv5a/2/4012/index.m3u8?token=d716173102218912946f25f03b160d5d_1452709445_1452709445&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",BBC3
+#EXTINF:0 group-title="WebTV",BBC3
 http://62.65.140.212:80/session/a9e43358-b959-11e5-9aac-005056bc49ac/nvnv5a/2/4008/index.m3u8?token=7f5a769a75e693f25ca63fe15dbb0795_1452709445_1452709445&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",BBCwn
+#EXTINF:0 group-title="WebTV",BBCwn
 http://62.65.140.218:80/session/aa2affa4-b959-11e5-87a5-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=dda52aba04785f106900a84cf15fe369_1452709446_1452709446&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",BRHD
+#EXTINF:0 group-title="WebTV",BRHD
 http://62.65.140.150:80/session/aa6701d4-b959-11e5-9484-005056bc06d1/nvnv5a/1/1112/index.m3u8?token=957660be1f6e8d259107d33ce8e292aa_1452709446_1452709446&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Canal9
+#EXTINF:0 group-title="WebTV",Canal9
 http://62.65.140.214:80/session/aac27758-b959-11e5-913d-005056bc49ac/nvnv5a/2/2041/index.m3u8?token=3be5ea49aa2a755ba15c73241b19c5d5_1452709446_1452709446&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",CanalAlpha
+#EXTINF:0 group-title="WebTV",CanalAlpha
 http://62.65.140.155:80/session/ab1241ac-b959-11e5-adf3-005056bc49ac/nvnv5a/2/2045/index.m3u8?token=45622268527058172837b1f534d0bc00_1452709447_1452709447&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Canale5HD
+#EXTINF:0 group-title="WebTV",Canale5HD
 http://62.65.140.152:80/session/ab4bf7f8-b959-11e5-8963-005056bc49ac/nvnv5a/2/3026/index.m3u8?token=a7175c6ab903a35c09c752bb4265389c_1452709447_1452709447&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Chan4
+#EXTINF:0 group-title="WebTV",Chan4
 http://62.65.140.219:80/session/ab85d5e0-b959-11e5-8868-005056bc49ac/nvnv5a/2/4022/index.m3u8?token=885ea9a7c13b0f087c30b59b1007994f_1452709448_1452709448&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",CHTVHD
+#EXTINF:0 group-title="WebTV",CHTVHD
 http://62.65.140.216:80/session/abbaf496-b959-11e5-b6c7-005056bc06d1/nvnv5a/1/1032/index.m3u8?token=32c5827ee4ac8c9cf3031dd4c22f4d55_1452709448_1452709448&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Cielo
+#EXTINF:0 group-title="WebTV",Cielo
 http://62.65.140.214:80/session/abfc6098-b959-11e5-8146-005056bc49ac/nvnv5a/2/3041/index.m3u8?token=b6b311880db5d5f66a2f423ffa64acdd_1452709449_1452709449&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",CNBC
+#EXTINF:0 group-title="WebTV",CNBC
 http://62.65.140.215:80/session/ac49ae48-b959-11e5-9d84-005056bc49ac/nvnv5a/2/4001/index.m3u8?token=0a7cf0aef6be1be29e52019496905ca7_1452709449_1452709449&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",CNN
+#EXTINF:0 group-title="WebTV",CNN
 http://62.65.140.155:80/session/ac84247e-b959-11e5-8998-005056bc1a52/nvnv5a/2/4002/index.m3u8?token=5334be2d23b6202f3baa4af8ab4f1010_1452709450_1452709450&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",D8
+#EXTINF:0 group-title="WebTV",D8
 http://62.65.140.215:80/session/acbcf90c-b959-11e5-b1f5-005056bc06d1/nvnv5a/2/2018/index.m3u8?token=9cbe0f62c23aa4f4d83013f9be0b933d_1452709450_1452709450&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",DeluxeMusic
+#EXTINF:0 group-title="WebTV",DeluxeMusic
 http://62.65.140.217:80/session/ad1d52c0-b959-11e5-b099-005056bc06d1/nvnv5a/1/1153/index.m3u8?token=7d2673a2debe908cbb16783618cb8aa3_1452709450_1452709450&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",DisneyChannel
+#EXTINF:0 group-title="WebTV",DisneyChannel
 http://62.65.140.149:80/session/ad526802-b959-11e5-966b-005056bc49ac/nvnv5a/1/1124/index.m3u8?token=830dbe0e8724db7555b621bbc34edab4_1452709451_1452709451&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",DMAX
+#EXTINF:0 group-title="WebTV",DMAX
 http://62.65.140.151:80/session/ad8532c8-b959-11e5-9537-005056bc49ac/nvnv5a/1/1018/index.m3u8?token=d4941010fe09da145b64e6523e0eaa72_1452709451_1452709451&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",EuNews-e
+#EXTINF:0 group-title="WebTV",EuNews-e
 http://62.65.140.153:80/session/adecdf72-b959-11e5-9742-005056bc49ac/nvnv5a/1/104903/index.m3u8?token=2f62790a9a662335dfd3f834d91a4e8e_1452709452_1452709452&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",EuNews-f
+#EXTINF:0 group-title="WebTV",EuNews-f
 http://62.65.140.212:80/session/ae33734c-b959-11e5-af40-005056bc06d1/nvnv5a/1/104901/index.m3u8?token=6d5a9a0646c72a2e8ef7a148f2f06912_1452709452_1452709452&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",EuNews-i
+#EXTINF:0 group-title="WebTV",EuNews-i
 http://62.65.140.217:80/session/ae90666a-b959-11e5-baed-005056bc49ac/nvnv5a/1/104902/index.m3u8?token=04936541bdd73b68af1c16be4836a6b2_1452709453_1452709453&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",EuNews
+#EXTINF:0 group-title="WebTV",EuNews
 http://62.65.140.154:80/session/aecfde80-b959-11e5-860b-005056bc1a52/nvnv5a/1/1049/index.m3u8?token=84ad7d7144eb80cf6350fc4ca3b7f061_1452709453_1452709453&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",EuSp
+#EXTINF:0 group-title="WebTV",EuSp
 http://62.65.140.215:80/session/af08a490-b959-11e5-845d-005056bc1a52/nvnv5a/1/1051/index.m3u8?token=698e46d0529e52247349359254ca3783_1452709454_1452709454&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Film4
+#EXTINF:0 group-title="WebTV",Film4
 http://62.65.140.148:80/session/af4376ce-b959-11e5-9f07-005056bc06d1/nvnv5a/2/4023/index.m3u8?token=efa757c97c2536e1f982a0583075ac70_1452709454_1452709454&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Fr2HD
+#EXTINF:0 group-title="WebTV",Fr2HD
 http://62.65.140.148:80/session/af846c7e-b959-11e5-9ca1-005056bc06d1/nvnv5a/2/2028/index.m3u8?token=eaaae69bb64d1b4c72ea923b14c56c26_1452709455_1452709455&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Fr3
+#EXTINF:0 group-title="WebTV",Fr3
 http://62.65.140.150:80/session/afbbb7c4-b959-11e5-9961-005056bc49ac/nvnv5a/2/2008/index.m3u8?token=6411ddace039d736f1e295e8b6c892f9_1452709455_1452709455&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Fr4
+#EXTINF:0 group-title="WebTV",Fr4
 http://62.65.140.152:80/session/affb7b8e-b959-11e5-b7f6-005056bc1a52/nvnv5a/2/2009/index.m3u8?token=595ebb804a22ddc440985183de3604eb_1452709455_1452709455&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Fr5
+#EXTINF:0 group-title="WebTV",Fr5
 http://62.65.140.155:80/session/b04107a8-b959-11e5-a494-005056bc49ac/nvnv5a/2/2010/index.m3u8?token=e1e011ab94ff4e8703713a4866563f6c_1452709456_1452709456&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Fr24
+#EXTINF:0 group-title="WebTV",Fr24
 http://62.65.140.212:80/session/b096cdaa-b959-11e5-9cc2-005056bc49ac/nvnv5a/2/2007/index.m3u8?token=9befac8d66fd7548f156b3287a93c5e9_1452709456_1452709456&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",FrO
+#EXTINF:0 group-title="WebTV",FrO
 http://62.65.140.214:80/session/b0d0d400-b959-11e5-961b-005056bc1a52/nvnv5a/2/2015/index.m3u8?token=be910c57f5995a25ba5989af813d64fe_1452709457_1452709457&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Gulli
+#EXTINF:0 group-title="WebTV",Gulli
 http://62.65.140.217:80/session/b1151d68-b959-11e5-9812-005056bc06d1/nvnv5a/2/2011/index.m3u8?token=6784de66aff303391e52f97c86684c33_1452709457_1452709457&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Italia1HD
+#EXTINF:0 group-title="WebTV",Italia1HD
 http://62.65.140.153:80/session/b1528a04-b959-11e5-9a08-005056bc06d1/nvnv5a/2/3028/index.m3u8?token=17f51e8d4e03f4b9166cc3195d8ddf0a_1452709458_1452709458&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",ITV1HD
+#EXTINF:0 group-title="WebTV",ITV1HD
 http://62.65.140.215:80/session/b1876e9a-b959-11e5-8c8a-005056bc06d1/nvnv5a/2/4018/index.m3u8?token=105571f32a4e4c07c809ed32dc2e2de0_1452709458_1452709458&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",ITV2
+#EXTINF:0 group-title="WebTV",ITV2
 http://62.65.140.215:80/session/b1dacda6-b959-11e5-b494-005056bc49ac/nvnv5a/2/4005/index.m3u8?token=fe050495ba6ed15f8348c25b4a79a78a_1452709458_1452709458&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",ITV3
+#EXTINF:0 group-title="WebTV",ITV3
 http://62.65.140.150:80/session/b233e044-b959-11e5-aad5-005056bc06d1/nvnv5a/2/4025/index.m3u8?token=46306b022985ee41f645738a7d537c0b_1452709459_1452709459&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Joiz
+#EXTINF:0 group-title="WebTV",Joiz
 http://62.65.140.218:80/session/b27ed180-b959-11e5-8130-005056bc1a52/nvnv5a/2/1172/index.m3u8?token=863fc2de51f0312fdaab61d080eccba4_1452709459_1452709459&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Kabel1chHD
+#EXTINF:0 group-title="WebTV",Kabel1chHD
 http://62.65.140.212:80/session/b2b1552e-b959-11e5-a5e1-005056bc49ac/nvnv5a/1/1039/index.m3u8?token=2dbc99d333ee52dbd9d6c560b488a4a8_1452709460_1452709460&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",KiKaHD
+#EXTINF:0 group-title="WebTV",KiKaHD
 http://62.65.140.215:80/session/b2ed5d62-b959-11e5-aa67-005056bc49ac/nvnv5a/1/1116/index.m3u8?token=b3c78df817fda4a3195a9539195827e9_1452709460_1452709460&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",LA7
+#EXTINF:0 group-title="WebTV",LA7
 http://62.65.140.150:80/session/b32aa41a-b959-11e5-944b-005056bc1a52/nvnv5a/2/3027/index.m3u8?token=3cc6436b79e06d86bceaae7bb63dcd4e_1452709461_1452709461&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",LaTele
+#EXTINF:0 group-title="WebTV",LaTele
 http://62.65.140.212:80/session/b38f789a-b959-11e5-b747-005056bc06d1/nvnv5a/2/2043/index.m3u8?token=2ab1672e7756f14c035794d7315bee1f_1452709461_1452709461&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",LemanBleu
+#EXTINF:0 group-title="WebTV",LemanBleu
 http://62.65.140.155:80/session/b3ead4a6-b959-11e5-bc1f-005056bc06d1/nvnv5a/2/2044/index.m3u8?token=3f607a0fc8a20228a2e55fe8b34d81e5_1452709462_1452709462&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",M6HD
+#EXTINF:0 group-title="WebTV",M6HD
 http://62.65.140.150:80/session/b427d464-b959-11e5-bb50-005056bc06d1/nvnv5a/2/2026/index.m3u8?token=889900a75afd8e640fa671295ea63bee_1452709462_1452709462&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",MDR
+#EXTINF:0 group-title="WebTV",MDR
 http://62.65.140.149:80/session/b4610c5c-b959-11e5-ade1-005056bc1a52/nvnv5a/1/1069/index.m3u8?token=739d3879dfd8bd29ca0dacbe268f5ee0_1452709463_1452709463&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",MTVit
+#EXTINF:0 group-title="WebTV",MTVit
 http://62.65.140.216:80/session/b49ce4b6-b959-11e5-aac5-005056bc1a52/nvnv5a/2/3009/index.m3u8?token=74942634712495d46211050c04fed686_1452709463_1452709463&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",MTV
+#EXTINF:0 group-title="WebTV",MTV
 http://62.65.140.152:80/session/b4df7db2-b959-11e5-83b8-005056bc1a52/nvnv5a/1/1033/index.m3u8?token=7d45468f87cb9608d44b969f586142eb_1452709463_1452709463&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",n-tv
+#EXTINF:0 group-title="WebTV",n-tv
 http://62.65.140.149:80/session/b51e3bba-b959-11e5-9577-005056bc1a52/nvnv5a/1/1025/index.m3u8?token=af1041e8f4121f5764cbd3046c5ca2a1_1452709464_1452709464&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",NDRHD
+#EXTINF:0 group-title="WebTV",NDRHD
 http://62.65.140.217:80/session/b556caca-b959-11e5-8851-005056bc49ac/nvnv5a/1/1115/index.m3u8?token=e389cce408ec82b77f6b5f993436738c_1452709464_1452709464&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",NickCH
+#EXTINF:0 group-title="WebTV",NickCH
 http://62.65.140.213:80/session/b592124c-b959-11e5-a7c7-005056bc06d1/nvnv5a/1/1034/index.m3u8?token=eaa3859e60067b4032480b2f6a03f795_1452709465_1452709465&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Nick
+#EXTINF:0 group-title="WebTV",Nick
 http://62.65.140.148:80/session/b5c5d762-b959-11e5-a93e-005056bc1a52/nvnv5a/1/1004/index.m3u8?token=2534ae18395f217e7808f3795128ecfb_1452709465_1452709465&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",ORF1HD
+#EXTINF:0 group-title="WebTV",ORF1HD
 http://62.65.140.217:80/session/b61022a4-b959-11e5-b29d-005056bc49ac/nvnv5a/1/1010/index.m3u8?token=ff97a8a99c49612599ef545c3313890f_1452709466_1452709466&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",ORF2HD
+#EXTINF:0 group-title="WebTV",ORF2HD
 http://62.65.140.216:80/session/b64ae8f8-b959-11e5-8dc5-005056bc1a52/nvnv5a/1/1011/index.m3u8?token=fda8bd93657f646ca60a86cb064740af_1452709466_1452709466&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",PHOENIXHD
+#EXTINF:0 group-title="WebTV",PHOENIXHD
 http://62.65.140.151:80/session/b67bdd50-b959-11e5-acae-005056bc49ac/nvnv5a/1/1122/index.m3u8?token=aaaa1feb49eca8812cd71b5ccf489961_1452709466_1452709466&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Pro7chHD
+#EXTINF:0 group-title="WebTV",Pro7chHD
 http://62.65.140.152:80/session/b6ac2ab4-b959-11e5-a00d-005056bc06d1/nvnv5a/1/1037/index.m3u8?token=003fd6cadda022f0e8172ff992320a51_1452709467_1452709467&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Pro7Maxx
+#EXTINF:0 group-title="WebTV",Pro7Maxx
 http://62.65.140.219:80/session/b6eecf72-b959-11e5-82e3-005056bc1a52/nvnv5a/1/1041/index.m3u8?token=27a7a34c0e9be365c3fb8bd45717922e_1452709467_1452709467&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Puls8
+#EXTINF:0 group-title="WebTV",Puls8
 http://62.65.140.218:80/session/b724ac0a-b959-11e5-8dd4-005056bc1a52/nvnv5a/2/1053/index.m3u8?token=fc32f7a572eb98e534da028f508d75db_1452709467_1452709467&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Rai1
+#EXTINF:0 group-title="WebTV",Rai1
 http://62.65.140.153:80/session/b7601e16-b959-11e5-992f-005056bc49ac/nvnv5a/2/3003/index.m3u8?token=3ec7ac99b1aa6b8d773778e44d8c3309_1452709468_1452709468&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Rai2
+#EXTINF:0 group-title="WebTV",Rai2
 http://62.65.140.219:80/session/b79ef208-b959-11e5-b524-005056bc06d1/nvnv5a/2/3004/index.m3u8?token=c9c2b48616045dc4467e812f01bc71d6_1452709468_1452709468&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Rai3
+#EXTINF:0 group-title="WebTV",Rai3
 http://62.65.140.217:80/session/b7c992f6-b959-11e5-be20-005056bc1a52/nvnv5a/2/3005/index.m3u8?token=c2f3d6c9bb367881e434967179684d42_1452709468_1452709468&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RaiNews24
+#EXTINF:0 group-title="WebTV",RaiNews24
 http://62.65.140.213:80/session/b81ab6fe-b959-11e5-919d-005056bc1a52/nvnv5a/2/3018/index.m3u8?token=c8e8084a29ec3b5af5ba6c35fa3433d0_1452709469_1452709469&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RaiSport1
+#EXTINF:0 group-title="WebTV",RaiSport1
 http://62.65.140.212:80/session/b85831a0-b959-11e5-b423-005056bc49ac/nvnv5a/2/3021/index.m3u8?token=6c1a2707f28b5477f3508348b4670733_1452709469_1452709469&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Rete4HD
+#EXTINF:0 group-title="WebTV",Rete4HD
 http://62.65.140.217:80/session/b8936aae-b959-11e5-aa93-005056bc06d1/nvnv5a/2/3032/index.m3u8?token=be61dd6a46b81d009be8a4f39155cf8a_1452709470_1452709470&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RSILA1HD
+#EXTINF:0 group-title="WebTV",RSILA1HD
 http://62.65.140.151:80/session/b8d1a350-b959-11e5-bf46-005056bc06d1/nvnv5a/2/3045/index.m3u8?token=1329cda184abc5f5c659c9503e4279c1_1452709470_1452709470&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RSILA2HD
+#EXTINF:0 group-title="WebTV",RSILA2HD
 http://62.65.140.151:80/session/b90c02ac-b959-11e5-bfae-005056bc1a52/nvnv5a/2/3046/index.m3u8?token=cf3dfefb8d46d150e3f70bca5a0400e1_1452709471_1452709471&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RTL2chHD
+#EXTINF:0 group-title="WebTV",RTL2chHD
 http://62.65.140.151:80/session/b943aa40-b959-11e5-a23f-005056bc1a52/nvnv5a/1/1024/index.m3u8?token=239e70efe0f01e077f8473f7688450d4_1452709471_1452709471&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RTL1025
+#EXTINF:0 group-title="WebTV",RTL1025
 http://62.65.140.217:80/session/b994245c-b959-11e5-bacf-005056bc06d1/nvnv5a/2/3010/index.m3u8?token=e6c6f3e5de118004db60096eeca5502d_1452709471_1452709471&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RTLchHD
+#EXTINF:0 group-title="WebTV",RTLchHD
 http://62.65.140.216:80/session/b9c5b544-b959-11e5-9b29-005056bc1a52/nvnv5a/1/1020/index.m3u8?token=25e1205cc51db8efe7d2b513933c4ea0_1452709472_1452709472&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RTLNitroHD
+#EXTINF:0 group-title="WebTV",RTLNitroHD
 http://62.65.140.216:80/session/b9fbd3b8-b959-11e5-a4c7-005056bc49ac/nvnv5a/1/1027/index.m3u8?token=d13d4f75719a601ce0494fb39b277bbb_1452709472_1452709472&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RTPi
+#EXTINF:0 group-title="WebTV",RTPi
 http://62.65.140.216:80/session/ba367e64-b959-11e5-8177-005056bc1a52/nvnv5a/2/5001/index.m3u8?token=2bb732e67486743036d9c7b9628bbaa0_1452709473_1452709473&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RTS1HD
+#EXTINF:0 group-title="WebTV",RTS1HD
 http://62.65.140.152:80/session/ba696522-b959-11e5-aea7-005056bc1a52/nvnv5a/2/2034/index.m3u8?token=1c8f69277c646f84314e1c79c7956f5a_1452709473_1452709473&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",RTS2HD
+#EXTINF:0 group-title="WebTV",RTS2HD
 http://62.65.140.217:80/session/baa292f2-b959-11e5-a1b6-005056bc1a52/nvnv5a/2/2035/index.m3u8?token=6a56721e718ee8cb895f4f3ddd7bceb6_1452709473_1452709473&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",S-RTLchHD
+#EXTINF:0 group-title="WebTV",S-RTLchHD
 http://62.65.140.148:80/session/bad7ed4e-b959-11e5-ae56-005056bc06d1/nvnv5a/1/1023/index.m3u8?token=123c5005ea90279324c0eec3eded20e4_1452709474_1452709474&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",S1
+#EXTINF:0 group-title="WebTV",S1
 http://62.65.140.148:80/session/bb17f6dc-b959-11e5-ac53-005056bc49ac/nvnv5a/1/1035/index.m3u8?token=5337e6975685f8e72c651b870beafd7a_1452709474_1452709474&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Sat.1chHD
+#EXTINF:0 group-title="WebTV",Sat.1chHD
 http://62.65.140.150:80/session/bb468768-b959-11e5-99ea-005056bc06d1/nvnv5a/1/1038/index.m3u8?token=40de211f9c42fba6d1f6f95e65e73010_1452709474_1452709474&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",ServusTVHD
+#EXTINF:0 group-title="WebTV",ServusTVHD
 http://62.65.140.151:80/session/bb8b72a6-b959-11e5-93dd-005056bc49ac/nvnv5a/1/1012/index.m3u8?token=680a2d1c3b0dae89cdc713023e44443e_1452709475_1452709475&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",sixxHD
+#EXTINF:0 group-title="WebTV",sixxHD
 http://62.65.140.154:80/session/bbbae5b8-b959-11e5-8dcf-005056bc49ac/nvnv5a/1/1040/index.m3u8?token=06b57c2696f9f005cf367d1257ff7200_1452709475_1452709475&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Sport1
+#EXTINF:0 group-title="WebTV",Sport1
 http://62.65.140.217:80/session/bbf7db9e-b959-11e5-815b-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=a1dc66c4057b800c7c7e43828899b77c_1452709475_1452709475&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",SRF1HD
+#EXTINF:0 group-title="WebTV",SRF1HD
 http://62.65.140.150:80/session/bc29a570-b959-11e5-ad3a-005056bc1a52/nvnv5a/1/1008/index.m3u8?token=c62f9aa0caabf8785fdc294beea08d02_1452709476_1452709476&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",SRF2HD
+#EXTINF:0 group-title="WebTV",SRF2HD
 http://62.65.140.217:80/session/bc5df32a-b959-11e5-ba60-005056bc1a52/nvnv5a/1/1009/index.m3u8?token=a31c405939cc0ef3ad49ba734c951164_1452709476_1452709476&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",SRFi
+#EXTINF:0 group-title="WebTV",SRFi
 http://62.65.140.213:80/session/bc9483b8-b959-11e5-bd0b-005056bc1a52/nvnv5a/1/1003/index.m3u8?token=ba322c5a12e99169bb766cfa9c52d18d_1452709476_1452709476&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",StarTV
+#EXTINF:0 group-title="WebTV",StarTV
 http://62.65.140.148:80/session/bce14dce-b959-11e5-8ea8-005056bc1a52/nvnv5a/1/1107/index.m3u8?token=3146859cad4480933dd8b0136f2298b7_1452709477_1452709477&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",SWR-BW-HD
+#EXTINF:0 group-title="WebTV",SWR-BW-HD
 http://62.65.140.151:80/session/bd21fcac-b959-11e5-9578-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=902988c1a37f92885c5869a8202a5bf7_1452709477_1452709477&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",TBasel
+#EXTINF:0 group-title="WebTV",TBasel
 http://62.65.140.154:80/session/bd630bfc-b959-11e5-a1d7-005056bc06d1/nvnv5a/1/1135/index.m3u8?token=2ff0481e729e42df2e28d9dd5bf42435_1452709478_1452709478&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",TBärn
+#EXTINF:0 group-title="WebTV",TBärn
 http://62.65.140.219:80/session/bd9fc3c6-b959-11e5-af9c-005056bc49ac/nvnv5a/1/1137/index.m3u8?token=22c458afcd11a1d51646ee6bec71a5ed_1452709478_1452709478&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Tele1
+#EXTINF:0 group-title="WebTV",Tele1
 http://62.65.140.219:80/session/bde6a5b6-b959-11e5-a961-005056bc1a52/nvnv5a/1/1128/index.m3u8?token=ce44a50394502b49c7217b014dfbb9aa_1452709479_1452709479&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",Tele5
+#EXTINF:0 group-title="WebTV",Tele5
 http://62.65.140.213:80/session/be4279f4-b959-11e5-9022-005056bc1a52/nvnv5a/1/1090/index.m3u8?token=0f8e4151c2fb4ec6305f08f0dc03a433_1452709479_1452709479&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",TeleBielingue
+#EXTINF:0 group-title="WebTV",TeleBielingue
 http://62.65.140.151:80/session/be9d77b4-b959-11e5-a510-005056bc1a52/nvnv5a/2/2040/index.m3u8?token=981ec53b35a459b9fe9f9d688ba1ba08_1452709480_1452709480&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",TeleM1
+#EXTINF:0 group-title="WebTV",TeleM1
 http://62.65.140.219:80/session/bedb1948-b959-11e5-9518-005056bc06d1/nvnv5a/1/1132/index.m3u8?token=d3f60d4258ff62b7be4822020a1ec206_1452709480_1452709480&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",TeleTicino
+#EXTINF:0 group-title="WebTV",TeleTicino
 http://62.65.140.148:80/session/bf3f9fbc-b959-11e5-b451-005056bc1a52/nvnv5a/2/3036/index.m3u8?token=f677dd47e1d8e93a3a548dbc7615fc05_1452709481_1452709481&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",TeleTop
+#EXTINF:0 group-title="WebTV",TeleTop
 http://62.65.140.214:80/session/bfa1ac20-b959-11e5-9afa-005056bc06d1/nvnv5a/1/1129/index.m3u8?token=84ab0493631d0b0d9ba9aa366e41a1ab_1452709481_1452709481&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",TF1HD
+#EXTINF:0 group-title="WebTV",TF1HD
 http://62.65.140.213:80/session/bfdfdc34-b959-11e5-af45-005056bc1a52/nvnv5a/2/2027/index.m3u8?token=8354cf3f2078ba451ecc809569363564_1452709482_1452709482&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",TRT1
+#EXTINF:0 group-title="WebTV",TRT1
 http://62.65.140.218:80/session/c0371d8c-b959-11e5-b738-005056bc49ac/nvnv5a/2/5030/index.m3u8?token=a3e7576669f281703690b8c6c8096c18_1452709482_1452709482&p=127|X-Forwarded-For=85.2.146.35
-#EXTINF:0 group-title="WebTV-FR",TSO
+#EXTINF:0 group-title="WebTV",TSO
 http://62.65.140.218:80/session/c08b951a-b959-11e5-9541-005056bc1a52/nvnv5a/1/1130/index.m3u8?token=8a93b562a3651aebde5347fc26e2ff77_1452709483_1452709483&p=127|X-Forwarded-For=85.2.146.35
 
 #EXTINF:-1,[I][B][COLOR yellow]---? Chaines Temporaires ?---[/COLOR][/B][/I]
@@ -788,6 +788,91 @@ http://0.0.0.0:1234
 
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:15000
+
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: RTL2
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5555.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: Super-RTL
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5532.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: VOX
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5531.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: ARTE
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5563.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local De: ZDF
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5529.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: KIKA
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5559.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: KABEL-1
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5560.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-SWR
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5534.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: WDR-HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5530.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",------ KINO ------
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/3670.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY Cinema
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5550.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-Cinema 1
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5549.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY Cinema 24
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5548.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: Sky-Action
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5552.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-EMOTION
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5547.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY Hits HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5545.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-HITS
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5546.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",------- UNTERHALTUNG ------
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/3671.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY Krimi
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5544.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-13TH-STREET
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5553.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: sky-13-streat
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5554.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-TNT-SERIE
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5533.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: disney-juniore
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5561.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",------ SPORT DE ------
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/3673.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: Sky-Sport-1HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5535.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: Sky-Bundesliga-HD-1
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5551.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",------ KULTUR ------
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/3674.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: NAT-GEO-WILD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5556.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: Nat-Geo-HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5557.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: NAT-GEO
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5558.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: DISCOVERY-CHANNEL
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5562.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Discovery
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/3651.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",ARD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/3534.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Deutsche Welle
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/3533.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-SELECT-1HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5542.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-SELECT-2HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5541.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-SELECT-3HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5540.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-SELECT-4HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5539.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-SELECT-5HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5538.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-SELECT-6HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5537.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-SELECT-7HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5536.m3u8
+#EXTINF:-1 group-title="WebTV-DE 1",Local DE: SKY-SELCT-8-HD
+http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5543.m3u8
 
 #EXTINF:-1,SKY-ACTION-HD-(Deutch)
 http://tviptv.org:50100/live/Hani/Hani/288.ts
