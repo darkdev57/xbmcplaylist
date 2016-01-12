@@ -789,8 +789,6 @@ http://0.0.0.0:1234
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:15000
 
-#EXTINF:-1 group-title="WebTV-DE 1",Local DE: RTL2
-http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5555.m3u8
 #EXTINF:-1 group-title="WebTV-DE 1",Local DE: Super-RTL
 http://iptv-diabolik2015.dyndns.org:8000/live/hubert/hubert/5532.m3u8
 #EXTINF:-1 group-title="WebTV-DE 1",Local DE: VOX
@@ -879,61 +877,75 @@ http://tviptv.org:50100/live/Hani/Hani/288.ts
 #EXTINF:-1,NAT-GEO-WILD-HD-(Deutch)
 http://tviptv.org:50100/live/Hani/Hani/289.ts
 
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR yellow][I][B]DE/FR/UK/IT [/B][/I][/COLOR] [COLOR white][I][B]- Kopieren und Einfugen der [COLOR yellow]Playlist URL[/COLOR] in PVR Simple Client oder Playlist Loader.[/B][/I][/COLOR]
+#EXTINF:-1 group-title="WebTV-DE 2",[I][B][COLOR green]--- DEUTSCH-KANALE - Alternative Liste ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
 
-
-#EXTINF:-1,[COLOR white][I][B]Die beiden anderen Links enthalt die Logos und das EPG der Kanale,[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR white][I][B]und sollte in der PVR Simple Client platziert werden.[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR white][I][B]Die Kanale sind unterschiedlicher Nationalitaten und sind in alphabetischer Reihenfolge geordnet.[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR white][I][B]Leider ist es die einzige Moglichkeit, um die Kanale zu sehen.[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR orange][I][B]Alle diese Streams können frei über das Internet gefunden werden...[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
-
-
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI M3U Playlist URL:[/COLOR] [COLOR white]http://snurl.com/marcello[/COLOR]
-
-
-
-#EXTINF:-1,[COLOR yellow]XBMC/KODI CHANNELS LOGOS:[/COLOR] [COLOR white]http://logo.tvip.ga[/COLOR]
-
-
-
-#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1 group-title="WebTV-DE 2",PRO 7
+http://217.147.40.118:8080/udp/233.97.20.41:1234
+#EXTINF:-1 group-title="WebTV-DE 2",SAT 1
+http://217.147.40.118:8080/udp/233.97.20.42:1234
+#EXTINF:-1 group-title="WebTV-DE 2",TVP Polonia
+http://217.147.40.118:8080/udp/233.97.20.43:1234
+#EXTINF:-1 group-title="WebTV-DE 2",RTL
+http://217.147.40.118:8080/udp/233.97.20.44:1234
+#EXTINF:-1 group-title="WebTV-DE 2",VOX
+http://217.147.40.118:8080/udp/233.97.20.45:1234
+#EXTINF:-1 group-title="WebTV-DE 2",RTL 2
+http://217.147.40.118:8080/udp/233.97.20.46:1234
+#EXTINF:-1 group-title="WebTV-DE 2",Super RTL
+http://217.147.40.118:8080/udp/233.97.20.47:1234
+#EXTINF:-1 group-title="WebTV-DE 2",n-tv
+http://217.147.40.118:8080/udp/233.97.20.48:1234
+#EXTINF:-1 group-title="WebTV-DE 2",TELE 5
+http://217.147.40.118:8080/udp/233.97.20.49:1234
+#EXTINF:-1 group-title="WebTV-DE 2",Sixx
+http://217.147.40.118:8080/udp/233.97.20.51:1234
+#EXTINF:-1 group-title="WebTV-DE 2",Kabel 1
+http://217.147.40.118:8080/udp/233.97.20.52:1234
+#EXTINF:-1 group-title="WebTV-DE 2",N-24
+http://217.147.40.118:8080/udp/233.97.20.53:1234
+#EXTINF:-1 group-title="WebTV-DE 2",MTV Europe
+http://217.147.40.118:8080/udp/233.97.20.54:1234
+#EXTINF:-1 group-title="WebTV-DE 2",Mezzo
+http://217.147.40.118:8080/udp/233.97.20.56:1234
+#EXTINF:-1 group-title="WebTV-DE 2",Sport 1
+http://217.147.40.118:8080/udp/233.97.20.55:1234
 
 
+#EXTINF:-1 group-title="WebTV-DE 2",[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
 
-
-#EXTINF:-1,[I][B][COLOR green]--- DEUTSCH-KANALE - Alternative Liste ---[/COLOR][/B][/I]
-http://0.0.0.0:1234
-
+#EXTINF:-1 group-title="WebTV-DE 2",RTL
+http://212.236.22.235:10812
+#EXTINF:-1 group-title="WebTV-DE 2",RTL2
+http://212.236.22.235:12310
+#EXTINF:-1 group-title="WebTV-DE 2",RTL Nitro
+http://212.236.22.235:12307
+#EXTINF:-1 group-title="WebTV-DE 2",Super RTL
+http://212.236.22.235:12309
+#EXTINF:-1 group-title="WebTV-DE 2",Kika
+http://212.236.22.235:10510
+#EXTINF:-1 group-title="WebTV-DE 2",Orf1
+http://212.236.22.235:11001
+#EXTINF:-1 group-title="WebTV-DE 2",Orf 2
+http://212.236.22.235:11002
+#EXTINF:-1 group-title="WebTV-DE 2",Vox
+http://212.236.22.235:11003
+#EXTINF:-1 group-title="WebTV-DE 2",ZDF
+http://212.236.22.235:11006
+#EXTINF:-1 group-title="WebTV-DE 2",Kabel 1
+http://212.236.22.235:11005
+#EXTINF:-1 group-title="WebTV-DE 2",3Sat
+http://212.236.22.235:12207
+#EXTINF:-1 group-title="WebTV-DE 2",NTV
+http://212.236.22.235:12308
+#EXTINF:-1 group-title="WebTV-DE 2",Eurosport
+http://212.236.22.235:10814
 
 #EXTINF:0002 tvg-id="daserste.de" group-title="DE Hauptsender" tvg-logo="609281.png", [COLOR gold]Das Erste[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=71565725
 #EXTINF:0003 tvg-id="zdf.de" group-title="DE Hauptsender" tvg-logo="520869.png", [COLOR gold]ZDF[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=89460817
-
 
 #EXTINF:0014 tvg-id="servustv.de" group-title="DE Hauptsender" tvg-logo="506777.png", [COLOR gold]ServusTV HD[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=91552152
@@ -1013,7 +1025,6 @@ http://api.iptv.ink/pl.m3u8?ch=40925356
 http://hls.tv.iptv.ink/orf3at@510154.m3u8|X-Forwarded-For=93.82.18.55
 #EXTINF:0068 tvg-id="orfsportplus.at" group-title="AT Sport" tvg-logo="722628.png", [COLOR orange]ORF Sport+[/COLOR]
 http://hls.tv.iptv.ink/orfsportplusat@722628.m3u8|X-Forwarded-For=93.82.18.55
-
 
 #EXTINF:-1,[COLOR yellow]--- Andere deutsche Kanale ---[/COLOR]
 http://0.0.0.0:1234
@@ -1294,1111 +1305,1885 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1,Deutsche Welle (U.S.A)
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 
-#EXTINF:-1,[I][B][COLOR yellow]---Chaine FreeBox---[/COLOR][/B][/I]
+#EXTINF:0 group-title="Chaines FreeBox",[I][B][COLOR yellow]---Chaine FreeBox---[/COLOR][/B][/I]
 http://0.0.0.0:1234
-#EXTINF:0,2 - France 2 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",2 - France 2 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
-#EXTINF:0,2 - France 2 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",2 - France 2 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=ld
-#EXTINF:0,2 - France 2 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",2 - France 2 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd
-#EXTINF:0,2 - France 2 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",2 - France 2 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201
-#EXTINF:0,3 - France 3 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",3 - France 3 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
-#EXTINF:0,3 - France 3 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",3 - France 3 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=sd
-#EXTINF:0,3 - France 3 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",3 - France 3 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=ld
-#EXTINF:0,3 - France 3 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",3 - France 3 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202
-#EXTINF:0,5 - France 5 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",5 - France 5 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203
-#EXTINF:0,5 - France 5 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",5 - France 5 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=hd
-#EXTINF:0,5 - France 5 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",5 - France 5 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=sd
-#EXTINF:0,7 - Arte (standard)
+#EXTINF:0 group-title="Chaines FreeBox",7 - Arte (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=sd
-#EXTINF:0,7 - Arte (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",7 - Arte (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=ld
-#EXTINF:0,7 - Arte (HD)
+#EXTINF:0 group-title="Chaines FreeBox",7 - Arte (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=hd
-#EXTINF:0,7 - Arte (auto)
+#EXTINF:0 group-title="Chaines FreeBox",7 - Arte (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
-#EXTINF:0,8 - D8 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",8 - D8 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=sd
-#EXTINF:0,10 - TMC (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",10 - TMC (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497&flavour=ld
-#EXTINF:0,10 - TMC (HD)
+#EXTINF:0 group-title="Chaines FreeBox",10 - TMC (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497&flavour=hd
-#EXTINF:0,10 - TMC (standard)
+#EXTINF:0 group-title="Chaines FreeBox",10 - TMC (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497&flavour=sd
-#EXTINF:0,10 - TMC (auto)
+#EXTINF:0 group-title="Chaines FreeBox",10 - TMC (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497
-#EXTINF:0,11 - NT1 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",11 - NT1 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374&flavour=sd
-#EXTINF:0,11 - NT1 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",11 - NT1 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374&flavour=ld
-#EXTINF:0,11 - NT1 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",11 - NT1 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374&flavour=hd
-#EXTINF:0,11 - NT1 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",11 - NT1 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374
-#EXTINF:0,12 - NRJ 12 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",12 - NRJ 12 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=hd
-#EXTINF:0,12 - NRJ 12 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",12 - NRJ 12 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=sd
-#EXTINF:0,12 - NRJ 12 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",12 - NRJ 12 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=ld
-#EXTINF:0,12 - NRJ 12 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",12 - NRJ 12 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375
-#EXTINF:0,13 - La Chaîne Parlementaire (auto)
+#EXTINF:0 group-title="Chaines FreeBox",13 - La Chaîne Parlementaire (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226
-#EXTINF:0,13 - La Chaîne Parlementaire (standard)
+#EXTINF:0 group-title="Chaines FreeBox",13 - La Chaîne Parlementaire (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226&flavour=sd
-#EXTINF:0,13 - La Chaîne Parlementaire (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",13 - La Chaîne Parlementaire (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226&flavour=ld
-#EXTINF:0,14 - France 4 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",14 - France 4 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=ld
-#EXTINF:0,14 - France 4 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",14 - France 4 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=hd
-#EXTINF:0,14 - France 4 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",14 - France 4 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=sd
-#EXTINF:0,14 - France 4 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",14 - France 4 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376
-#EXTINF:0,15 - BFM TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",15 - BFM TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=sd
-#EXTINF:0,15 - BFM TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",15 - BFM TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=ld
-#EXTINF:0,15 - BFM TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",15 - BFM TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=hd
-#EXTINF:0,15 - BFM TV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",15 - BFM TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400
-#EXTINF:0,16 - iTELE (standard)
+#EXTINF:0 group-title="Chaines FreeBox",16 - iTELE (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=679&flavour=sd
-#EXTINF:0,17 - D17 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",17 - D17 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678&flavour=hd
-#EXTINF:0,17 - D17 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",17 - D17 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678&flavour=sd
-#EXTINF:0,17 - D17 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",17 - D17 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678
-#EXTINF:0,19 - France Ô (standard)
+#EXTINF:0 group-title="Chaines FreeBox",19 - France Ô (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=238&flavour=sd
-#EXTINF:0,21 - L'Equipe 21 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",21 - L'Equipe 21 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994&flavour=ld
-#EXTINF:0,21 - L'Equipe 21 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",21 - L'Equipe 21 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994
-#EXTINF:0,21 - L'Equipe 21 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",21 - L'Equipe 21 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994&flavour=hd
-#EXTINF:0,23 - Numéro 23 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",23 - Numéro 23 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996&flavour=ld
-#EXTINF:0,23 - Numéro 23 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",23 - Numéro 23 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996
-#EXTINF:0,23 - Numéro 23 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",23 - Numéro 23 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996&flavour=hd
-#EXTINF:0,24 - RMC Découverte (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",24 - RMC Découverte (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997&flavour=ld
-#EXTINF:0,24 - RMC Découverte (auto)
+#EXTINF:0 group-title="Chaines FreeBox",24 - RMC Découverte (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997
-#EXTINF:0,24 - RMC Découverte (HD)
+#EXTINF:0 group-title="Chaines FreeBox",24 - RMC Découverte (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997&flavour=hd
-#EXTINF:0,25 - Chérie 25 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",25 - Chérie 25 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=ld
-#EXTINF:0,25 - Chérie 25 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",25 - Chérie 25 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998
-#EXTINF:0,25 - Chérie 25 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",25 - Chérie 25 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=hd
-#EXTINF:0,26 - Paris PremiEre (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",26 - Paris PremiEre (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213&flavour=ld
-#EXTINF:0,27 - TEVA (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",27 - TEVA (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404&flavour=ld
-#EXTINF:0,28 - RTL9 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",28 - RTL9 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=ld
-#EXTINF:0,28 - RTL9 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",28 - RTL9 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=hd
-#EXTINF:0,28 - RTL9 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",28 - RTL9 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210
-#EXTINF:0,29 - QVC (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",29 - QVC (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121&flavour=ld
-#EXTINF:0,29 - QVC (auto)
+#EXTINF:0 group-title="Chaines FreeBox",29 - QVC (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121
-#EXTINF:0,29 - QVC (HD)
+#EXTINF:0 group-title="Chaines FreeBox",29 - QVC (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121&flavour=hd
-#EXTINF:0,34 - Action (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",34 - Action (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242&flavour=ld
-#EXTINF:0,34 - Action (HD)
+#EXTINF:0 group-title="Chaines FreeBox",34 - Action (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242&flavour=hd
-#EXTINF:0,34 - Action (auto)
+#EXTINF:0 group-title="Chaines FreeBox",34 - Action (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242
-#EXTINF:0,35 - Ciné Polar (HD)
+#EXTINF:0 group-title="Chaines FreeBox",35 - Ciné Polar (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=244&flavour=hd
-#EXTINF:0,35 - Ciné Polar (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",35 - Ciné Polar (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=244&flavour=ld
-#EXTINF:0,35 - Ciné Polar (auto)
+#EXTINF:0 group-title="Chaines FreeBox",35 - Ciné Polar (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=244
-#EXTINF:0,36 - Ciné FX (HD)
+#EXTINF:0 group-title="Chaines FreeBox",36 - Ciné FX (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=243&flavour=hd
-#EXTINF:0,36 - Ciné FX (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",36 - Ciné FX (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=243&flavour=ld
-#EXTINF:0,36 - Ciné FX (auto)
+#EXTINF:0 group-title="Chaines FreeBox",36 - Ciné FX (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=243
-#EXTINF:0,38 - Vivolta (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",38 - Vivolta (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=940&flavour=ld
-#EXTINF:0,39 - AB 1 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",39 - AB 1 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=ld
-#EXTINF:0,39 - AB 1 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",39 - AB 1 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=hd
-#EXTINF:0,39 - AB 1 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",39 - AB 1 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211
-#EXTINF:0,56 - Paramount Channel (HD)
+#EXTINF:0 group-title="Chaines FreeBox",56 - Paramount Channel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050&flavour=hd
-#EXTINF:0,56 - Paramount Channel (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",56 - Paramount Channel (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050&flavour=ld
-#EXTINF:0,56 - Paramount Channel (auto)
+#EXTINF:0 group-title="Chaines FreeBox",56 - Paramount Channel (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050
-#EXTINF:0,60 - M6 Music (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",60 - M6 Music (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=430&flavour=ld
-#EXTINF:0,61 - Game One (HD)
+#EXTINF:0 group-title="Chaines FreeBox",61 - Game One (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=hd
-#EXTINF:0,61 - Game One (standard)
+#EXTINF:0 group-title="Chaines FreeBox",61 - Game One (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=sd
-#EXTINF:0,61 - Game One (auto)
+#EXTINF:0 group-title="Chaines FreeBox",61 - Game One (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220
-#EXTINF:0,63 - Trace Tropical (HD)
+#EXTINF:0 group-title="Chaines FreeBox",63 - Trace Tropical (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769&flavour=hd
-#EXTINF:0,63 - Trace Tropical (standard)
+#EXTINF:0 group-title="Chaines FreeBox",63 - Trace Tropical (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769&flavour=sd
-#EXTINF:0,63 - Trace Tropical (auto)
+#EXTINF:0 group-title="Chaines FreeBox",63 - Trace Tropical (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769
-#EXTINF:0,64 - Trace Urban (HD)
+#EXTINF:0 group-title="Chaines FreeBox",64 - Trace Urban (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228&flavour=hd
-#EXTINF:0,64 - Trace Urban (standard)
+#EXTINF:0 group-title="Chaines FreeBox",64 - Trace Urban (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228&flavour=sd
-#EXTINF:0,64 - Trace Urban (auto)
+#EXTINF:0 group-title="Chaines FreeBox",64 - Trace Urban (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228
-#EXTINF:0,66 - Game One Music HD (HD)
+#EXTINF:0 group-title="Chaines FreeBox",66 - Game One Music HD (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=799&flavour=hd
-#EXTINF:0,67 - Virgin Radio TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",67 - Virgin Radio TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1071&flavour=ld
-#EXTINF:0,68 - Mezzo (standard)
+#EXTINF:0 group-title="Chaines FreeBox",68 - Mezzo (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=265&flavour=sd
-#EXTINF:0,69 - Mezzo Live HD (HD)
+#EXTINF:0 group-title="Chaines FreeBox",69 - Mezzo Live HD (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=858&flavour=hd
-#EXTINF:0,70 - MCM (standard)
+#EXTINF:0 group-title="Chaines FreeBox",70 - MCM (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=621&flavour=sd
-#EXTINF:0,71 - MCM TOP (standard)
+#EXTINF:0 group-title="Chaines FreeBox",71 - MCM TOP (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=622&flavour=sd
-#EXTINF:0,72 - RFM TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",72 - RFM TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=623&flavour=sd
-#EXTINF:0,73 - Clubbing TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",73 - Clubbing TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767&flavour=ld
-#EXTINF:0,73 - Clubbing TV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",73 - Clubbing TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767
-#EXTINF:0,73 - Clubbing TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",73 - Clubbing TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767&flavour=hd
-#EXTINF:0,74 - Melody (standard)
+#EXTINF:0 group-title="Chaines FreeBox",74 - Melody (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=237&flavour=sd
-#EXTINF:0,75 - Trace Toca (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",75 - Trace Toca (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1137&flavour=ld
-#EXTINF:0,76 - Trace Gospel (auto)
+#EXTINF:0 group-title="Chaines FreeBox",76 - Trace Gospel (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1136
-#EXTINF:0,76 - Trace Gospel (HD)
+#EXTINF:0 group-title="Chaines FreeBox",76 - Trace Gospel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1136&flavour=hd
-#EXTINF:0,76 - Trace Gospel (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",76 - Trace Gospel (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1136&flavour=ld
-#EXTINF:0,78 - Fox News (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",78 - Fox News (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1073&flavour=ld
-#EXTINF:0,79 - TV5 Monde (standard)
+#EXTINF:0 group-title="Chaines FreeBox",79 - TV5 Monde (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=sd
-#EXTINF:0,79 - TV5 Monde (auto)
+#EXTINF:0 group-title="Chaines FreeBox",79 - TV5 Monde (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206
-#EXTINF:0,79 - TV5 Monde (HD)
+#EXTINF:0 group-title="Chaines FreeBox",79 - TV5 Monde (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=hd
-#EXTINF:0,80 - BFM Business (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",80 - BFM Business (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=ld
-#EXTINF:0,80 - BFM Business (auto)
+#EXTINF:0 group-title="Chaines FreeBox",80 - BFM Business (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897
-#EXTINF:0,80 - BFM Business (HD)
+#EXTINF:0 group-title="Chaines FreeBox",80 - BFM Business (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=hd
-#EXTINF:0,81 - Euronews Int (standard)
+#EXTINF:0 group-title="Chaines FreeBox",81 - Euronews Int (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=949&flavour=sd
-#EXTINF:0,82 - Euronews (standard)
+#EXTINF:0 group-title="Chaines FreeBox",82 - Euronews (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=205&flavour=sd
-#EXTINF:0,83 - Bloomberg TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",83 - Bloomberg TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=207&flavour=sd
-#EXTINF:0,85 - Al Jazeera International (standard)
+#EXTINF:0 group-title="Chaines FreeBox",85 - Al Jazeera International (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=494&flavour=sd
-#EXTINF:0,87 - Sky News International (standard)
+#EXTINF:0 group-title="Chaines FreeBox",87 - Sky News International (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=355&flavour=sd
-#EXTINF:0,88 - i24 News (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",88 - i24 News (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1048&flavour=ld
-#EXTINF:0,89 - CNBC (standard)
+#EXTINF:0 group-title="Chaines FreeBox",89 - CNBC (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=208&flavour=sd
-#EXTINF:0,90 - LCP - Assemblée Nationale 24h/24 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",90 - LCP - Assemblée Nationale 24h/24 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688&flavour=sd
-#EXTINF:0,91 - Public Sénat (standard)
+#EXTINF:0 group-title="Chaines FreeBox",91 - Public Sénat (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=sd
-#EXTINF:0,92 - Campagnes TV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",92 - Campagnes TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1029
-#EXTINF:0,92 - Campagnes TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",92 - Campagnes TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1029&flavour=hd
-#EXTINF:0,92 - Campagnes TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",92 - Campagnes TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1029&flavour=ld
-#EXTINF:0,94 - Arretsurimages.tv (standard)
+#EXTINF:0 group-title="Chaines FreeBox",94 - Arretsurimages.tv (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=738&flavour=sd
-#EXTINF:0,95 - France 24 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",95 - France 24 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=sd
-#EXTINF:0,96 - France 24 English (standard)
+#EXTINF:0 group-title="Chaines FreeBox",96 - France 24 English (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=740&flavour=sd
-#EXTINF:0,97 - France 24 Arab (standard)
+#EXTINF:0 group-title="Chaines FreeBox",97 - France 24 Arab (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=741&flavour=sd
-#EXTINF:0,116 - GONG (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",116 - GONG (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045&flavour=ld
-#EXTINF:0,116 - GONG (auto)
+#EXTINF:0 group-title="Chaines FreeBox",116 - GONG (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045
-#EXTINF:0,116 - GONG (HD)
+#EXTINF:0 group-title="Chaines FreeBox",116 - GONG (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045&flavour=hd
-#EXTINF:0,117 - KZTV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",117 - KZTV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=801&flavour=ld
-#EXTINF:0,117 - KZTV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",117 - KZTV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=801
-#EXTINF:0,117 - KZTV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",117 - KZTV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=801&flavour=hd
-#EXTINF:0,118 - BET (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",118 - BET (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135&flavour=ld
-#EXTINF:0,118 - BET (auto)
+#EXTINF:0 group-title="Chaines FreeBox",118 - BET (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135
-#EXTINF:0,118 - BET (HD)
+#EXTINF:0 group-title="Chaines FreeBox",118 - BET (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135&flavour=hd
-#EXTINF:0,119 - Game One +1 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",119 - Game One +1 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=979&flavour=ld
-#EXTINF:0,120 - Star 24 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",120 - Star 24 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1111&flavour=hd
-#EXTINF:0,120 - Star 24 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",120 - Star 24 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1111&flavour=ld
-#EXTINF:0,120 - Star 24 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",120 - Star 24 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1111
-#EXTINF:0,121 - Lucky Jack (HD)
+#EXTINF:0 group-title="Chaines FreeBox",121 - Lucky Jack (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891&flavour=hd
-#EXTINF:0,121 - Lucky Jack (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",121 - Lucky Jack (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891&flavour=ld
-#EXTINF:0,121 - Lucky Jack (auto)
+#EXTINF:0 group-title="Chaines FreeBox",121 - Lucky Jack (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891
-#EXTINF:0,122 - Men's Up TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",122 - Men's Up TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=878&flavour=ld
-#EXTINF:0,123 - Nolife (auto)
+#EXTINF:0 group-title="Chaines FreeBox",123 - Nolife (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=658
-#EXTINF:0,123 - Nolife (HD)
+#EXTINF:0 group-title="Chaines FreeBox",123 - Nolife (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=658&flavour=hd
-#EXTINF:0,123 - Nolife (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",123 - Nolife (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=658&flavour=ld
-#EXTINF:0,124 - GONG MAX (auto)
+#EXTINF:0 group-title="Chaines FreeBox",124 - GONG MAX (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813
-#EXTINF:0,124 - GONG MAX (HD)
+#EXTINF:0 group-title="Chaines FreeBox",124 - GONG MAX (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813&flavour=hd
-#EXTINF:0,124 - GONG MAX (standard)
+#EXTINF:0 group-title="Chaines FreeBox",124 - GONG MAX (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813&flavour=sd
-#EXTINF:0,125 - Enorme TV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",125 - Enorme TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1037
-#EXTINF:0,125 - Enorme TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",125 - Enorme TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1037&flavour=hd
-#EXTINF:0,125 - Enorme TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",125 - Enorme TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1037&flavour=ld
-#EXTINF:0,126 - Mangas (auto)
+#EXTINF:0 group-title="Chaines FreeBox",126 - Mangas (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=253
-#EXTINF:0,126 - Mangas (HD)
+#EXTINF:0 group-title="Chaines FreeBox",126 - Mangas (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=253&flavour=hd
-#EXTINF:0,126 - Mangas (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",126 - Mangas (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=253&flavour=ld
-#EXTINF:0,127 - FTV HD (HD)
+#EXTINF:0 group-title="Chaines FreeBox",127 - FTV HD (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=454&flavour=hd
-#EXTINF:0,128 - Ginx (standard)
+#EXTINF:0 group-title="Chaines FreeBox",128 - Ginx (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=618&flavour=sd
-#EXTINF:0,130 - Eurochannel (HD)
+#EXTINF:0 group-title="Chaines FreeBox",130 - Eurochannel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=959&flavour=hd
-#EXTINF:0,131 - Fashion TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",131 - Fashion TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=221&flavour=sd
-#EXTINF:0,132 - World Fashion (standard)
+#EXTINF:0 group-title="Chaines FreeBox",132 - World Fashion (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=724&flavour=sd
-#EXTINF:0,134 - ECTV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",134 - ECTV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1082&flavour=ld
-#EXTINF:0,136 - Trace Sport Stars (auto)
+#EXTINF:0 group-title="Chaines FreeBox",136 - Trace Sport Stars (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=965
-#EXTINF:0,136 - Trace Sport Stars (HD)
+#EXTINF:0 group-title="Chaines FreeBox",136 - Trace Sport Stars (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=965&flavour=hd
-#EXTINF:0,136 - Trace Sport Stars (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",136 - Trace Sport Stars (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=965&flavour=ld
-#EXTINF:0,137 - Equidia Live (auto)
+#EXTINF:0 group-title="Chaines FreeBox",137 - Equidia Live (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=212
-#EXTINF:0,137 - Equidia Live (HD)
+#EXTINF:0 group-title="Chaines FreeBox",137 - Equidia Live (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=212&flavour=hd
-#EXTINF:0,137 - Equidia Live (standard)
+#EXTINF:0 group-title="Chaines FreeBox",137 - Equidia Live (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=212&flavour=sd
-#EXTINF:0,139 - Fight Box HD (HD)
+#EXTINF:0 group-title="Chaines FreeBox",139 - Fight Box HD (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=969&flavour=hd
-#EXTINF:0,140 - Sport 365 TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",140 - Sport 365 TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=982&flavour=hd
-#EXTINF:0,143 - AB Moteurs (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",143 - AB Moteurs (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222&flavour=ld
-#EXTINF:0,143 - AB Moteurs (HD)
+#EXTINF:0 group-title="Chaines FreeBox",143 - AB Moteurs (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222&flavour=hd
-#EXTINF:0,143 - AB Moteurs (auto)
+#EXTINF:0 group-title="Chaines FreeBox",143 - AB Moteurs (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222
-#EXTINF:0,145 - Motorvision (HD)
+#EXTINF:0 group-title="Chaines FreeBox",145 - Motorvision (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1127&flavour=hd
-#EXTINF:0,148 - Premiere Futebol Clube (standard)
+#EXTINF:0 group-title="Chaines FreeBox",148 - Premiere Futebol Clube (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=755&flavour=sd
-#EXTINF:0,149 - Golf Channel (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",149 - Golf Channel (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=892&flavour=ld
-#EXTINF:0,149 - Golf Channel (auto)
+#EXTINF:0 group-title="Chaines FreeBox",149 - Golf Channel (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=892
-#EXTINF:0,149 - Golf Channel (HD)
+#EXTINF:0 group-title="Chaines FreeBox",149 - Golf Channel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=892&flavour=hd
-#EXTINF:0,150 - Ikono (HD)
+#EXTINF:0 group-title="Chaines FreeBox",150 - Ikono (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1072&flavour=hd
-#EXTINF:0,151 - Travel Channel (standard)
+#EXTINF:0 group-title="Chaines FreeBox",151 - Travel Channel (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=772&flavour=sd
-#EXTINF:0,152 - Purescreens Nature HD (HD)
+#EXTINF:0 group-title="Chaines FreeBox",152 - Purescreens Nature HD (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=825&flavour=hd
-#EXTINF:0,153 - Nautical Channel (standard)
+#EXTINF:0 group-title="Chaines FreeBox",153 - Nautical Channel (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255&flavour=sd
-#EXTINF:0,153 - Nautical Channel (auto)
+#EXTINF:0 group-title="Chaines FreeBox",153 - Nautical Channel (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255
-#EXTINF:0,153 - Nautical Channel (HD)
+#EXTINF:0 group-title="Chaines FreeBox",153 - Nautical Channel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255&flavour=hd
-#EXTINF:0,154 - Ouatch TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",154 - Ouatch TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1076&flavour=ld
-#EXTINF:0,154 - Ouatch TV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",154 - Ouatch TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1076
-#EXTINF:0,154 - Ouatch TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",154 - Ouatch TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1076&flavour=hd
-#EXTINF:0,155 - Trek (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",155 - Trek (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=ld
-#EXTINF:0,155 - Trek (HD)
+#EXTINF:0 group-title="Chaines FreeBox",155 - Trek (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=hd
-#EXTINF:0,155 - Trek (auto)
+#EXTINF:0 group-title="Chaines FreeBox",155 - Trek (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252
-#EXTINF:0,157 - Luxe.TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",157 - Luxe.TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460&flavour=hd
-#EXTINF:0,157 - Luxe.TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",157 - Luxe.TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460&flavour=sd
-#EXTINF:0,157 - Luxe.TV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",157 - Luxe.TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460
-#EXTINF:0,158 - Histoire (standard)
+#EXTINF:0 group-title="Chaines FreeBox",158 - Histoire (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=sd
-#EXTINF:0,159 - Toute l'Histoire (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",159 - Toute l'Histoire (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=ld
-#EXTINF:0,159 - Toute l'Histoire (HD)
+#EXTINF:0 group-title="Chaines FreeBox",159 - Toute l'Histoire (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=hd
-#EXTINF:0,159 - Toute l'Histoire (auto)
+#EXTINF:0 group-title="Chaines FreeBox",159 - Toute l'Histoire (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250
-#EXTINF:0,160 - Animaux (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",160 - Animaux (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=ld
-#EXTINF:0,160 - Animaux (HD)
+#EXTINF:0 group-title="Chaines FreeBox",160 - Animaux (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=hd
-#EXTINF:0,160 - Animaux (auto)
+#EXTINF:0 group-title="Chaines FreeBox",160 - Animaux (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248
-#EXTINF:0,161 - Chasse et pêche (HD)
+#EXTINF:0 group-title="Chaines FreeBox",161 - Chasse et pêche (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=249&flavour=hd
-#EXTINF:0,161 - Chasse et pêche (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",161 - Chasse et pêche (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=249&flavour=ld
-#EXTINF:0,161 - Chasse et pêche (auto)
+#EXTINF:0 group-title="Chaines FreeBox",161 - Chasse et pêche (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=249
-#EXTINF:0,162 - Science & Vie TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",162 - Science & Vie TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=hd
-#EXTINF:0,162 - Science & Vie TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",162 - Science & Vie TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=ld
-#EXTINF:0,162 - Science & Vie TV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",162 - Science & Vie TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251
-#EXTINF:0,163 - Demain.tv (standard)
+#EXTINF:0 group-title="Chaines FreeBox",163 - Demain.tv (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=227&flavour=sd
-#EXTINF:0,164 - KTO (standard)
+#EXTINF:0 group-title="Chaines FreeBox",164 - KTO (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=223&flavour=sd
-#EXTINF:0,165 - MyZen.tv (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",165 - MyZen.tv (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=770&flavour=ld
-#EXTINF:0,165 - MyZen.tv (auto)
+#EXTINF:0 group-title="Chaines FreeBox",165 - MyZen.tv (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=770
-#EXTINF:0,165 - MyZen.tv (HD)
+#EXTINF:0 group-title="Chaines FreeBox",165 - MyZen.tv (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=770&flavour=hd
-#EXTINF:0,167 - 3A Telesud (standard)
+#EXTINF:0 group-title="Chaines FreeBox",167 - 3A Telesud (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=356&flavour=sd
-#EXTINF:0,168 - The Museum Channel (HD)
+#EXTINF:0 group-title="Chaines FreeBox",168 - The Museum Channel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=906&flavour=hd
-#EXTINF:0,169 - Souvenirs from Earth (auto)
+#EXTINF:0 group-title="Chaines FreeBox",169 - Souvenirs from Earth (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710
-#EXTINF:0,169 - Souvenirs from Earth (HD)
+#EXTINF:0 group-title="Chaines FreeBox",169 - Souvenirs from Earth (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710&flavour=hd
-#EXTINF:0,169 - Souvenirs from Earth (standard)
+#EXTINF:0 group-title="Chaines FreeBox",169 - Souvenirs from Earth (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710&flavour=sd
-#EXTINF:0,196 - Astro Center TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",196 - Astro Center TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=415&flavour=sd
-#EXTINF:0,197 - M6 Boutique & Co (auto)
+#EXTINF:0 group-title="Chaines FreeBox",197 - M6 Boutique & Co (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=359
-#EXTINF:0,197 - M6 Boutique & Co (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",197 - M6 Boutique & Co (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=359&flavour=ld
-#EXTINF:0,197 - M6 Boutique & Co (standard)
+#EXTINF:0 group-title="Chaines FreeBox",197 - M6 Boutique & Co (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=359&flavour=sd
-#EXTINF:0,198 - Best of Shopping (auto)
+#EXTINF:0 group-title="Chaines FreeBox",198 - Best of Shopping (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=358
-#EXTINF:0,198 - Best of Shopping (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",198 - Best of Shopping (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=358&flavour=ld
-#EXTINF:0,198 - Best of Shopping (standard)
+#EXTINF:0 group-title="Chaines FreeBox",198 - Best of Shopping (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=358&flavour=sd
-#EXTINF:0,199 - Ma Chaîne Etudiante (standard)
+#EXTINF:0 group-title="Chaines FreeBox",199 - Ma Chaîne Etudiante (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=831&flavour=sd
-#EXTINF:0,203 - C Music (standard)
+#EXTINF:0 group-title="Chaines FreeBox",203 - C Music (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=683&flavour=sd
-#EXTINF:0,204 - VH1 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",204 - VH1 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=233&flavour=sd
-#EXTINF:0,205 - VH1 Classic (standard)
+#EXTINF:0 group-title="Chaines FreeBox",205 - VH1 Classic (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=232&flavour=sd
-#EXTINF:0,206 - Brava HD (HD)
+#EXTINF:0 group-title="Chaines FreeBox",206 - Brava HD (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=820&flavour=hd
-#EXTINF:0,208 - Rock TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",208 - Rock TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=759&flavour=ld
-#EXTINF:0,210 - Jukebox (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",210 - Jukebox (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=758&flavour=ld
-#EXTINF:0,211 - Deluxe Lounge HD (HD)
+#EXTINF:0 group-title="Chaines FreeBox",211 - Deluxe Lounge HD (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=887&flavour=hd
-#EXTINF:0,212 - BeBlack (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",212 - BeBlack (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=918&flavour=ld
-#EXTINF:0,213 - J4T (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",213 - J4T (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=981&flavour=ld
-#EXTINF:0,214 - OFIVE (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",214 - OFIVE (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=910&flavour=ld
-#EXTINF:0,300 - France 3 (HD)
+#EXTINF:0 group-title="Chaines FreeBox",300 - France 3 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
-#EXTINF:0,300 - France 3 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",300 - France 3 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=sd
-#EXTINF:0,300 - France 3 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",300 - France 3 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=ld
-#EXTINF:0,300 - France 3 (auto)
+#EXTINF:0 group-title="Chaines FreeBox",300 - France 3 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202
-#EXTINF:0,301 - France 3 Alpes (standard)
+#EXTINF:0 group-title="Chaines FreeBox",301 - France 3 Alpes (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=283&flavour=sd
-#EXTINF:0,302 - France 3 Alsace (standard)
+#EXTINF:0 group-title="Chaines FreeBox",302 - France 3 Alsace (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=280&flavour=sd
-#EXTINF:0,303 - France 3 Aquitaine (standard)
+#EXTINF:0 group-title="Chaines FreeBox",303 - France 3 Aquitaine (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=284&flavour=sd
-#EXTINF:0,304 - France 3 Auvergne (standard)
+#EXTINF:0 group-title="Chaines FreeBox",304 - France 3 Auvergne (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=285&flavour=sd
-#EXTINF:0,305 - France 3 Basse-Normandie (standard)
+#EXTINF:0 group-title="Chaines FreeBox",305 - France 3 Basse-Normandie (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=298&flavour=sd
-#EXTINF:0,306 - France 3 Bourgogne (standard)
+#EXTINF:0 group-title="Chaines FreeBox",306 - France 3 Bourgogne (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=279&flavour=sd
-#EXTINF:0,307 - France 3 Bretagne (standard)
+#EXTINF:0 group-title="Chaines FreeBox",307 - France 3 Bretagne (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=286&flavour=sd
-#EXTINF:0,308 - France 3 Centre (standard)
+#EXTINF:0 group-title="Chaines FreeBox",308 - France 3 Centre (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=287&flavour=sd
-#EXTINF:0,309 - France 3 Champagne-Ardenne (standard)
+#EXTINF:0 group-title="Chaines FreeBox",309 - France 3 Champagne-Ardenne (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=288&flavour=sd
-#EXTINF:0,310 - France 3 Corse Via Stella (standard)
+#EXTINF:0 group-title="Chaines FreeBox",310 - France 3 Corse Via Stella (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=289&flavour=sd
-#EXTINF:0,311 - France 3 Côte-d'Azur (standard)
+#EXTINF:0 group-title="Chaines FreeBox",311 - France 3 Côte-d'Azur (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=290&flavour=sd
-#EXTINF:0,312 - France 3 Franche-Comté (standard)
+#EXTINF:0 group-title="Chaines FreeBox",312 - France 3 Franche-Comté (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=291&flavour=sd
-#EXTINF:0,313 - France 3 Haute-Normandie (standard)
+#EXTINF:0 group-title="Chaines FreeBox",313 - France 3 Haute-Normandie (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=297&flavour=sd
-#EXTINF:0,314 - France 3 Languedoc-Roussillon (standard)
+#EXTINF:0 group-title="Chaines FreeBox",314 - France 3 Languedoc-Roussillon (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=292&flavour=sd
-#EXTINF:0,315 - France 3 Limousin (standard)
+#EXTINF:0 group-title="Chaines FreeBox",315 - France 3 Limousin (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=293&flavour=sd
-#EXTINF:0,316 - France 3 Lorraine (standard)
+#EXTINF:0 group-title="Chaines FreeBox",316 - France 3 Lorraine (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=294&flavour=sd
-#EXTINF:0,317 - France 3 Midi Pyrénées (standard)
+#EXTINF:0 group-title="Chaines FreeBox",317 - France 3 Midi Pyrénées (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=295&flavour=sd
-#EXTINF:0,318 - France 3 Nord Pas-de-Calais (standard)
+#EXTINF:0 group-title="Chaines FreeBox",318 - France 3 Nord Pas-de-Calais (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=296&flavour=sd
-#EXTINF:0,319 - France 3 Paris Ile-de-France (standard)
+#EXTINF:0 group-title="Chaines FreeBox",319 - France 3 Paris Ile-de-France (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=257&flavour=sd
-#EXTINF:0,320 - France 3 Pays de Loire (standard)
+#EXTINF:0 group-title="Chaines FreeBox",320 - France 3 Pays de Loire (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=299&flavour=sd
-#EXTINF:0,321 - France 3 Picardie (standard)
+#EXTINF:0 group-title="Chaines FreeBox",321 - France 3 Picardie (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=300&flavour=sd
-#EXTINF:0,322 - France 3 Poitou-Charentes (standard)
+#EXTINF:0 group-title="Chaines FreeBox",322 - France 3 Poitou-Charentes (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=301&flavour=sd
-#EXTINF:0,323 - France 3 Provence-Alpes (standard)
+#EXTINF:0 group-title="Chaines FreeBox",323 - France 3 Provence-Alpes (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=302&flavour=sd
-#EXTINF:0,324 - France 3 Rhône-Alpes (standard)
+#EXTINF:0 group-title="Chaines FreeBox",324 - France 3 Rhône-Alpes (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=303&flavour=sd
-#EXTINF:0,330 - Grand Lille TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",330 - Grand Lille TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=826&flavour=sd
-#EXTINF:0,332 - TV7 Bordeaux (standard)
+#EXTINF:0 group-title="Chaines FreeBox",332 - TV7 Bordeaux (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=268&flavour=sd
-#EXTINF:0,333 - 8 Mont-Blanc (standard)
+#EXTINF:0 group-title="Chaines FreeBox",333 - 8 Mont-Blanc (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=319&flavour=sd
-#EXTINF:0,334 - TéléGrenoble (standard)
+#EXTINF:0 group-title="Chaines FreeBox",334 - TéléGrenoble (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=423&flavour=sd
-#EXTINF:0,335 - Telif (standard)
+#EXTINF:0 group-title="Chaines FreeBox",335 - Telif (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=360&flavour=sd
-#EXTINF:0,336 - La Locale (standard)
+#EXTINF:0 group-title="Chaines FreeBox",336 - La Locale (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=363&flavour=sd
-#EXTINF:0,337 - La Chaîne Normande (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",337 - La Chaîne Normande (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1125&flavour=ld
-#EXTINF:0,338 - Télénantes Nantes 7 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",338 - Télénantes Nantes 7 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=389&flavour=sd
-#EXTINF:0,339 - La Chaîne Marseille (standard)
+#EXTINF:0 group-title="Chaines FreeBox",339 - La Chaîne Marseille (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=414&flavour=sd
-#EXTINF:0,341 - TV Tours (standard)
+#EXTINF:0 group-title="Chaines FreeBox",341 - TV Tours (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=493&flavour=sd
-#EXTINF:0,343 - BFM Business Paris (standard)
+#EXTINF:0 group-title="Chaines FreeBox",343 - BFM Business Paris (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=898&flavour=sd
-#EXTINF:0,344 - IDF 1 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",344 - IDF 1 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=689&flavour=sd
-#EXTINF:0,345 - Locales Ile de France (standard)
+#EXTINF:0 group-title="Chaines FreeBox",345 - Locales Ile de France (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=756&flavour=sd
-#EXTINF:0,346 - Alsace 20 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",346 - Alsace 20 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=753&flavour=sd
-#EXTINF:0,348 - TV Fil 78 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",348 - TV Fil 78 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=855&flavour=ld
-#EXTINF:0,349 - Wéo (standard)
+#EXTINF:0 group-title="Chaines FreeBox",349 - Wéo (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=832&flavour=sd
-#EXTINF:0,350 - TLM (standard)
+#EXTINF:0 group-title="Chaines FreeBox",350 - TLM (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=267&flavour=sd
-#EXTINF:0,351 - Valenciennes TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",351 - Valenciennes TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=958&flavour=ld
-#EXTINF:0,352 - Canal 10 Guadeloupe (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",352 - Canal 10 Guadeloupe (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=929&flavour=ld
-#EXTINF:0,353 - Yvelines PremiEre (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",353 - Yvelines PremiEre (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=895&flavour=ld
-#EXTINF:0,355 - TV SUD Camargue Cévennes (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",355 - TV SUD Camargue Cévennes (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=880&flavour=ld
-#EXTINF:0,356 - Mirabelle TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",356 - Mirabelle TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=907&flavour=ld
-#EXTINF:0,357 - Vosges Television (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",357 - Vosges Television (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=900&flavour=ld
-#EXTINF:0,358 - TV SUD Montpellier (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",358 - TV SUD Montpellier (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=930&flavour=ld
-#EXTINF:0,359 - Maritima TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",359 - Maritima TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=951&flavour=ld
-#EXTINF:0,360 - TV Vendée (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",360 - TV Vendée (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=964&flavour=ld
-#EXTINF:0,363 - TNA (standard)
+#EXTINF:0 group-title="Chaines FreeBox",363 - TNA (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=482&flavour=sd
-#EXTINF:0,364 - TVR (auto)
+#EXTINF:0 group-title="Chaines FreeBox",364 - TVR (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063
-#EXTINF:0,364 - TVR (HD)
+#EXTINF:0 group-title="Chaines FreeBox",364 - TVR (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063&flavour=hd
-#EXTINF:0,364 - TVR (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",364 - TVR (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063&flavour=ld
-#EXTINF:0,365 - Tébésud (auto)
+#EXTINF:0 group-title="Chaines FreeBox",365 - Tébésud (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1064
-#EXTINF:0,365 - Tébésud (HD)
+#EXTINF:0 group-title="Chaines FreeBox",365 - Tébésud (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1064&flavour=hd
-#EXTINF:0,365 - Tébésud (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",365 - Tébésud (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1064&flavour=ld
-#EXTINF:0,366 - Tébéo (auto)
+#EXTINF:0 group-title="Chaines FreeBox",366 - Tébéo (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1065
-#EXTINF:0,366 - Tébéo (HD)
+#EXTINF:0 group-title="Chaines FreeBox",366 - Tébéo (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1065&flavour=hd
-#EXTINF:0,366 - Tébéo (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",366 - Tébéo (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1065&flavour=ld
-#EXTINF:0,367 - D!CI TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",367 - D!CI TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1066&flavour=ld
-#EXTINF:0,368 - MFM TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",368 - MFM TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1067&flavour=ld
-#EXTINF:0,368 - MFM TV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",368 - MFM TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1067
-#EXTINF:0,368 - MFM TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",368 - MFM TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1067&flavour=hd
-#EXTINF:0,369 - Télé Antilles (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",369 - Télé Antilles (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1084&flavour=ld
-#EXTINF:0,370 - TL7 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",370 - TL7 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1108&flavour=ld
-#EXTINF:0,371 - TVPI (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",371 - TVPI (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1107&flavour=ld
-#EXTINF:0,373 - Azur TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",373 - Azur TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1130&flavour=ld
-#EXTINF:0,420 - God TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",420 - God TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=386&flavour=sd
-#EXTINF:0,421 - Noursat (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",421 - Noursat (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1069&flavour=ld
-#EXTINF:0,422 - Daystar (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",422 - Daystar (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1141&flavour=ld
-#EXTINF:0,426 - BBC Entertainment (standard)
+#EXTINF:0 group-title="Chaines FreeBox",426 - BBC Entertainment (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=413&flavour=sd
-#EXTINF:0,430 - UbizNews (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",430 - UbizNews (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1110&flavour=ld
-#EXTINF:0,432 - TPA (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",432 - TPA (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1115&flavour=ld
-#EXTINF:0,433 - TNH (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",433 - TNH (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1129&flavour=ld
-#EXTINF:0,436 - HLive (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",436 - HLive (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1126&flavour=ld
-#EXTINF:0,446 - B-One TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",446 - B-One TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1085&flavour=ld
-#EXTINF:0,447 - Maïsha TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",447 - Maïsha TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1086&flavour=ld
-#EXTINF:0,448 - Sen TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",448 - Sen TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1087&flavour=ld
-#EXTINF:0,449 - TVT (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",449 - TVT (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1088&flavour=ld
-#EXTINF:0,450 - RTB (standard)
+#EXTINF:0 group-title="Chaines FreeBox",450 - RTB (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=774&flavour=sd
-#EXTINF:0,451 - ORTB (standard)
+#EXTINF:0 group-title="Chaines FreeBox",451 - ORTB (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=810&flavour=sd
-#EXTINF:0,452 - TFM (standard)
+#EXTINF:0 group-title="Chaines FreeBox",452 - TFM (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=960&flavour=sd
-#EXTINF:0,453 - Canal 2 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",453 - Canal 2 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=781&flavour=sd
-#EXTINF:0,454 - CRTV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",454 - CRTV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=782&flavour=sd
-#EXTINF:0,455 - STV2 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",455 - STV2 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=783&flavour=sd
-#EXTINF:0,456 - Equinoxe TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",456 - Equinoxe TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=833&flavour=sd
-#EXTINF:0,457 - Trace Africa (standard)
+#EXTINF:0 group-title="Chaines FreeBox",457 - Trace Africa (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=963&flavour=sd
-#EXTINF:0,458 - Télé Congo (standard)
+#EXTINF:0 group-title="Chaines FreeBox",458 - Télé Congo (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=784&flavour=sd
-#EXTINF:0,460 - Nollywood (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",460 - Nollywood (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=800&flavour=ld
-#EXTINF:0,461 - RTI 1 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",461 - RTI 1 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=941&flavour=sd
-#EXTINF:0,462 - Gabon Télévision (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",462 - Gabon Télévision (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=916&flavour=ld
-#EXTINF:0,463 - RTG (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",463 - RTG (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=917&flavour=ld
-#EXTINF:0,464 - Gospel Music TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",464 - Gospel Music TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1116&flavour=ld
-#EXTINF:0,465 - ORTM (standard)
+#EXTINF:0 group-title="Chaines FreeBox",465 - ORTM (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=785&flavour=sd
-#EXTINF:0,466 - 2STV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",466 - 2STV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=786&flavour=sd
-#EXTINF:0,467 - RTS (standard)
+#EXTINF:0 group-title="Chaines FreeBox",467 - RTS (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=787&flavour=sd
-#EXTINF:0,469 - Africable (standard)
+#EXTINF:0 group-title="Chaines FreeBox",469 - Africable (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=788&flavour=sd
-#EXTINF:0,470 - SUD1ere (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",470 - SUD1ere (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1068&flavour=ld
-#EXTINF:0,471 - TVM (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",471 - TVM (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1124&flavour=ld
-#EXTINF:0,472 - ORTC (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",472 - ORTC (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=888&flavour=ld
-#EXTINF:0,473 - MBC Sat (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",473 - MBC Sat (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1123&flavour=ld
-#EXTINF:0,474 - Telekreol (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",474 - Telekreol (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1120&flavour=ld
-#EXTINF:0,475 - Vox Africa (standard)
+#EXTINF:0 group-title="Chaines FreeBox",475 - Vox Africa (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=773&flavour=sd
-#EXTINF:0,476 - Africabox (standard)
+#EXTINF:0 group-title="Chaines FreeBox",476 - Africabox (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=811&flavour=sd
-#EXTINF:0,477 - OutreMer 5 TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",477 - OutreMer 5 TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=468&flavour=sd
-#EXTINF:0,478 - MBOA TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",478 - MBOA TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=837&flavour=ld
-#EXTINF:0,479 - LBC Sat (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",479 - LBC Sat (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1099&flavour=ld
-#EXTINF:0,480 - Medi1TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",480 - Medi1TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=730&flavour=sd
-#EXTINF:0,481 - Canal Algérie (standard)
+#EXTINF:0 group-title="Chaines FreeBox",481 - Canal Algérie (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=274&flavour=sd
-#EXTINF:0,482 - Algérie 3 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",482 - Algérie 3 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=943&flavour=ld
-#EXTINF:0,483 - Algérie 5 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",483 - Algérie 5 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=944&flavour=ld
-#EXTINF:0,484 - Tamazight TV4 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",484 - Tamazight TV4 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=945&flavour=ld
-#EXTINF:0,485 - Al Erth Al Nabawi (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",485 - Al Erth Al Nabawi (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1090&flavour=ld
-#EXTINF:0,486 - Beur TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",486 - Beur TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=225&flavour=ld
-#EXTINF:0,487 - BerbEre TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",487 - BerbEre TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=256&flavour=sd
-#EXTINF:0,488 - BerbEre Jeunesse (standard)
+#EXTINF:0 group-title="Chaines FreeBox",488 - BerbEre Jeunesse (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=936&flavour=sd
-#EXTINF:0,489 - BerbEre Music (standard)
+#EXTINF:0 group-title="Chaines FreeBox",489 - BerbEre Music (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=937&flavour=sd
-#EXTINF:0,490 - Al Ahly (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",490 - Al Ahly (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1093&flavour=ld
-#EXTINF:0,491 - Al Resalah (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",491 - Al Resalah (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=922&flavour=ld
-#EXTINF:0,492 - Rotana Aflam (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",492 - Rotana Aflam (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1094&flavour=ld
-#EXTINF:0,493 - Rotana Cinema (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",493 - Rotana Cinema (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=920&flavour=ld
-#EXTINF:0,494 - Rotana Clip (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",494 - Rotana Clip (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=923&flavour=ld
-#EXTINF:0,495 - Rotana Khalijia (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",495 - Rotana Khalijia (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=921&flavour=ld
-#EXTINF:0,496 - Rotana Masriya (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",496 - Rotana Masriya (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1095&flavour=ld
-#EXTINF:0,497 - Rotana Music Channel (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",497 - Rotana Music Channel (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=924&flavour=ld
-#EXTINF:0,498 - Rotana Classic (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",498 - Rotana Classic (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=925&flavour=ld
-#EXTINF:0,499 - CCTV-Documentaire (standard)
+#EXTINF:0 group-title="Chaines FreeBox",499 - CCTV-Documentaire (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=948&flavour=sd
-#EXTINF:0,500 - CCTV4 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",500 - CCTV4 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=469&flavour=sd
-#EXTINF:0,501 - CCTV-News (standard)
+#EXTINF:0 group-title="Chaines FreeBox",501 - CCTV-News (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=479&flavour=sd
-#EXTINF:0,502 - CCTV F (standard)
+#EXTINF:0 group-title="Chaines FreeBox",502 - CCTV F (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=480&flavour=sd
-#EXTINF:0,503 - CCTV Divertissement (standard)
+#EXTINF:0 group-title="Chaines FreeBox",503 - CCTV Divertissement (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=470&flavour=sd
-#EXTINF:0,504 - La chaîne chinoise (standard)
+#EXTINF:0 group-title="Chaines FreeBox",504 - La chaîne chinoise (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=471&flavour=sd
-#EXTINF:0,505 - Beijing TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",505 - Beijing TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=472&flavour=sd
-#EXTINF:0,506 - Shanghai Dragon TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",506 - Shanghai Dragon TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=473&flavour=sd
-#EXTINF:0,507 - La chaîne internationale de Jiangsu (standard)
+#EXTINF:0 group-title="Chaines FreeBox",507 - La chaîne internationale de Jiangsu (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=474&flavour=sd
-#EXTINF:0,508 - Hunan Satellite TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",508 - Hunan Satellite TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=475&flavour=sd
-#EXTINF:0,509 - Xiamen Star TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",509 - Xiamen Star TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=476&flavour=sd
-#EXTINF:0,510 - Zhejiang Star TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",510 - Zhejiang Star TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=477&flavour=sd
-#EXTINF:0,511 - Guangdong Southern TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",511 - Guangdong Southern TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=478&flavour=sd
-#EXTINF:0,512 - Phoenix Infonews (standard)
+#EXTINF:0 group-title="Chaines FreeBox",512 - Phoenix Infonews (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=481&flavour=sd
-#EXTINF:0,513 - Phoenix Chinese News and Entertainment (standard)
+#EXTINF:0 group-title="Chaines FreeBox",513 - Phoenix Chinese News and Entertainment (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=266&flavour=sd
-#EXTINF:0,514 - Zee TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",514 - Zee TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=420&flavour=sd
-#EXTINF:0,515 - Zee Cinema (standard)
+#EXTINF:0 group-title="Chaines FreeBox",515 - Zee Cinema (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=421&flavour=sd
-#EXTINF:0,516 - Arirang (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",516 - Arirang (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=894&flavour=ld
-#EXTINF:0,517 - Mandarin TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",517 - Mandarin TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1131&flavour=hd
-#EXTINF:0,517 - Mandarin TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",517 - Mandarin TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1131&flavour=ld
-#EXTINF:0,517 - Mandarin TV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",517 - Mandarin TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1131
-#EXTINF:0,518 - B4U Music (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",518 - B4U Music (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=904&flavour=ld
-#EXTINF:0,521 - TV Romania (standard)
+#EXTINF:0 group-title="Chaines FreeBox",521 - TV Romania (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=318&flavour=sd
-#EXTINF:0,522 - Pro TV Int. (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",522 - Pro TV Int. (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=961&flavour=ld
-#EXTINF:0,523 - Antena 3 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",523 - Antena 3 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1101&flavour=ld
-#EXTINF:0,524 - Atres Series (auto)
+#EXTINF:0 group-title="Chaines FreeBox",524 - Atres Series (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1102
-#EXTINF:0,524 - Atres Series (HD)
+#EXTINF:0 group-title="Chaines FreeBox",524 - Atres Series (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1102&flavour=hd
-#EXTINF:0,524 - Atres Series (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",524 - Atres Series (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1102&flavour=ld
-#EXTINF:0,525 - Sol Musica (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",525 - Sol Musica (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1103&flavour=ld
-#EXTINF:0,526 - TV3 Cataluna (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",526 - TV3 Cataluna (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1104&flavour=ld
-#EXTINF:0,527 - Galicia TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",527 - Galicia TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1105&flavour=ld
-#EXTINF:0,528 - ETB Sat (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",528 - ETB Sat (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=371&flavour=ld
-#EXTINF:0,529 - MIS (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",529 - MIS (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1106&flavour=ld
-#EXTINF:0,531 - Telesur (standard)
+#EXTINF:0 group-title="Chaines FreeBox",531 - Telesur (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=729&flavour=sd
-#EXTINF:0,532 - Ritmoson Latino (standard)
+#EXTINF:0 group-title="Chaines FreeBox",532 - Ritmoson Latino (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=407&flavour=sd
-#EXTINF:0,533 - De pelicula (standard)
+#EXTINF:0 group-title="Chaines FreeBox",533 - De pelicula (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=408&flavour=sd
-#EXTINF:0,534 - TL Novelas (standard)
+#EXTINF:0 group-title="Chaines FreeBox",534 - TL Novelas (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=409&flavour=sd
-#EXTINF:0,535 - Canal de las Estrellas (standard)
+#EXTINF:0 group-title="Chaines FreeBox",535 - Canal de las Estrellas (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=410&flavour=sd
-#EXTINF:0,536 - Telehit (standard)
+#EXTINF:0 group-title="Chaines FreeBox",536 - Telehit (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=411&flavour=sd
-#EXTINF:0,537 - TVE I (standard)
+#EXTINF:0 group-title="Chaines FreeBox",537 - TVE I (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=306&flavour=sd
-#EXTINF:0,538 - Canal 24 Horas (standard)
+#EXTINF:0 group-title="Chaines FreeBox",538 - Canal 24 Horas (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=307&flavour=sd
-#EXTINF:0,542 - Antenna 1 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",542 - Antenna 1 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=771&flavour=sd
-#EXTINF:0,543 - Rai Uno (standard)
+#EXTINF:0 group-title="Chaines FreeBox",543 - Rai Uno (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=309&flavour=sd
-#EXTINF:0,544 - Rai Due (standard)
+#EXTINF:0 group-title="Chaines FreeBox",544 - Rai Due (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=314&flavour=sd
-#EXTINF:0,545 - Rai Tre (standard)
+#EXTINF:0 group-title="Chaines FreeBox",545 - Rai Tre (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=315&flavour=sd
-#EXTINF:0,546 - Mediaset Italia (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",546 - Mediaset Italia (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=839&flavour=ld
-#EXTINF:0,551 - TVN 24 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",551 - TVN 24 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=794&flavour=sd
-#EXTINF:0,552 - Tamazight TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",552 - Tamazight TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1138&flavour=ld
-#EXTINF:0,553 - Al Magharibia (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",553 - Al Magharibia (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1142&flavour=ld
-#EXTINF:0,554 - IMED TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",554 - IMED TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=838&flavour=ld
-#EXTINF:0,555 - Ennahar (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",555 - Ennahar (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1070&flavour=ld
-#EXTINF:0,556 - SkyTurk (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",556 - SkyTurk (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=913&flavour=ld
-#EXTINF:0,557 - Ulusal Kanal (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",557 - Ulusal Kanal (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=914&flavour=ld
-#EXTINF:0,558 - Arriyadia (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",558 - Arriyadia (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=908&flavour=ld
-#EXTINF:0,559 - Canal Atlas (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",559 - Canal Atlas (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1139&flavour=ld
-#EXTINF:0,560 - TV Polonia (standard)
+#EXTINF:0 group-title="Chaines FreeBox",560 - TV Polonia (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=278&flavour=sd
-#EXTINF:0,562 - TVP Info (standard)
+#EXTINF:0 group-title="Chaines FreeBox",562 - TVP Info (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=486&flavour=sd
-#EXTINF:0,563 - ITVN (standard)
+#EXTINF:0 group-title="Chaines FreeBox",563 - ITVN (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=795&flavour=sd
-#EXTINF:0,564 - 2M Maroc (standard)
+#EXTINF:0 group-title="Chaines FreeBox",564 - 2M Maroc (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=272&flavour=sd
-#EXTINF:0,565 - TVM Europe (standard)
+#EXTINF:0 group-title="Chaines FreeBox",565 - TVM Europe (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=273&flavour=sd
-#EXTINF:0,566 - El Hiwar Ettounsi (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",566 - El Hiwar Ettounsi (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1133&flavour=ld
-#EXTINF:0,567 - Télévision Tunisienne (standard)
+#EXTINF:0 group-title="Chaines FreeBox",567 - Télévision Tunisienne (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=277&flavour=sd
-#EXTINF:0,568 - Al Masriya (standard)
+#EXTINF:0 group-title="Chaines FreeBox",568 - Al Masriya (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=275&flavour=sd
-#EXTINF:0,569 - Al Jazeera (standard)
+#EXTINF:0 group-title="Chaines FreeBox",569 - Al Jazeera (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=276&flavour=sd
-#EXTINF:0,570 - Jeem TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",570 - Jeem TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=412&flavour=sd
-#EXTINF:0,572 - ART Cinema (standard)
+#EXTINF:0 group-title="Chaines FreeBox",572 - ART Cinema (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=327&flavour=sd
-#EXTINF:0,573 - ART Aflam 1 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",573 - ART Aflam 1 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=328&flavour=sd
-#EXTINF:0,574 - Art Hekayat (standard)
+#EXTINF:0 group-title="Chaines FreeBox",574 - Art Hekayat (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=330&flavour=sd
-#EXTINF:0,575 - Iqraa (standard)
+#EXTINF:0 group-title="Chaines FreeBox",575 - Iqraa (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=331&flavour=sd
-#EXTINF:0,576 - ART Aflam 2 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",576 - ART Aflam 2 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=332&flavour=sd
-#EXTINF:0,577 - Cima (standard)
+#EXTINF:0 group-title="Chaines FreeBox",577 - Cima (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=333&flavour=sd
-#EXTINF:0,578 - Baraem (standard)
+#EXTINF:0 group-title="Chaines FreeBox",578 - Baraem (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=750&flavour=sd
-#EXTINF:0,579 - LBC Europe (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",579 - LBC Europe (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=335&flavour=ld
-#EXTINF:0,580 - ART Hekayat 2 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",580 - ART Hekayat 2 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=336&flavour=sd
-#EXTINF:0,581 - O'TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",581 - O'TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=685&flavour=sd
-#EXTINF:0,582 - Powertürk TV (HD)
+#EXTINF:0 group-title="Chaines FreeBox",582 - Powertürk TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=489&flavour=hd
-#EXTINF:0,582 - Powertürk TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",582 - Powertürk TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=489&flavour=sd
-#EXTINF:0,582 - Powertürk TV (auto)
+#EXTINF:0 group-title="Chaines FreeBox",582 - Powertürk TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=489
-#EXTINF:0,583 - TRT1 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",583 - TRT1 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=490&flavour=sd
-#EXTINF:0,584 - Kanal D (standard)
+#EXTINF:0 group-title="Chaines FreeBox",584 - Kanal D (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=463&flavour=sd
-#EXTINF:0,585 - Star TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",585 - Star TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=464&flavour=sd
-#EXTINF:0,586 - TRT Cocuk (standard)
+#EXTINF:0 group-title="Chaines FreeBox",586 - TRT Cocuk (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=798&flavour=sd
-#EXTINF:0,588 - ATV Avrupa (standard)
+#EXTINF:0 group-title="Chaines FreeBox",588 - ATV Avrupa (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=467&flavour=sd
-#EXTINF:0,589 - Kanal 24 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",589 - Kanal 24 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=435&flavour=sd
-#EXTINF:0,590 - TRT INT (standard)
+#EXTINF:0 group-title="Chaines FreeBox",590 - TRT INT (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=369&flavour=sd
-#EXTINF:0,591 - Kanal 7 INT (standard)
+#EXTINF:0 group-title="Chaines FreeBox",591 - Kanal 7 INT (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=370&flavour=sd
-#EXTINF:0,592 - Samanyolu TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",592 - Samanyolu TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=391&flavour=sd
-#EXTINF:0,593 - TVT (standard)
+#EXTINF:0 group-title="Chaines FreeBox",593 - TVT (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=436&flavour=sd
-#EXTINF:0,594 - Hilal TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",594 - Hilal TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=446&flavour=sd
-#EXTINF:0,595 - TV5 Turkey (standard)
+#EXTINF:0 group-title="Chaines FreeBox",595 - TV5 Turkey (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=447&flavour=sd
-#EXTINF:0,596 - TGRT EU (standard)
+#EXTINF:0 group-title="Chaines FreeBox",596 - TGRT EU (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=465&flavour=sd
-#EXTINF:0,597 - TV8 Int (standard)
+#EXTINF:0 group-title="Chaines FreeBox",597 - TV8 Int (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=700&flavour=sd
-#EXTINF:0,598 - NTV Avrupa (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",598 - NTV Avrupa (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1109&flavour=ld
-#EXTINF:0,600 - Halk TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",600 - Halk TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1046&flavour=ld
-#EXTINF:0,601 - GeoTV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",601 - GeoTV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=702&flavour=sd
-#EXTINF:0,602 - GeoNews (standard)
+#EXTINF:0 group-title="Chaines FreeBox",602 - GeoNews (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=703&flavour=sd
-#EXTINF:0,603 - B4U Movies (standard)
+#EXTINF:0 group-title="Chaines FreeBox",603 - B4U Movies (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=704&flavour=sd
-#EXTINF:0,606 - Vietnam VTV4 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",606 - Vietnam VTV4 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=723&flavour=sd
-#EXTINF:0,607 - CTN (standard)
+#EXTINF:0 group-title="Chaines FreeBox",607 - CTN (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=708&flavour=sd
-#EXTINF:0,608 - TVK (standard)
+#EXTINF:0 group-title="Chaines FreeBox",608 - TVK (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=709&flavour=sd
-#EXTINF:0,609 - KBS (standard)
+#EXTINF:0 group-title="Chaines FreeBox",609 - KBS (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=761&flavour=sd
-#EXTINF:0,614 - The Israeli Network (standard)
+#EXTINF:0 group-title="Chaines FreeBox",614 - The Israeli Network (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=462&flavour=sd
-#EXTINF:0,616 - Arte Allemand (standard)
+#EXTINF:0 group-title="Chaines FreeBox",616 - Arte Allemand (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=270&flavour=sd
-#EXTINF:0,617 - DW-TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",617 - DW-TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=312&flavour=sd
-#EXTINF:0,618 - RTL (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",618 - RTL (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=985&flavour=ld
-#EXTINF:0,619 - RTL2 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",619 - RTL2 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=986&flavour=ld
-#EXTINF:0,620 - Super RTL (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",620 - Super RTL (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=987&flavour=ld
-#EXTINF:0,621 - RTL Nitro (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",621 - RTL Nitro (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=988&flavour=ld
-#EXTINF:0,622 - Vox (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",622 - Vox (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=989&flavour=ld
-#EXTINF:0,623 - ProSieben (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",623 - ProSieben (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=990&flavour=ld
-#EXTINF:0,624 - Sat1 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",624 - Sat1 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=991&flavour=ld
-#EXTINF:0,625 - NTV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",625 - NTV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=992&flavour=ld
-#EXTINF:0,626 - N24 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",626 - N24 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1089&flavour=ld
-#EXTINF:0,627 - SIC (standard)
+#EXTINF:0 group-title="Chaines FreeBox",627 - SIC (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=484&flavour=sd
-#EXTINF:0,628 - SIC Noticias (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",628 - SIC Noticias (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1038&flavour=ld
-#EXTINF:0,629 - TVI International (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",629 - TVI International (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1039&flavour=ld
-#EXTINF:0,631 - A Bola TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",631 - A Bola TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1041&flavour=ld
-#EXTINF:0,632 - Porto Canal (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",632 - Porto Canal (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1042&flavour=ld
-#EXTINF:0,633 - Baby TV (portugais) (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",633 - Baby TV (portugais) (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1043&flavour=ld
-#EXTINF:0,635 - Canal Q (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",635 - Canal Q (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1049&flavour=ld
-#EXTINF:0,636 - TVI  Ficcao (standard)
+#EXTINF:0 group-title="Chaines FreeBox",636 - TVI  Ficcao (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1059&flavour=sd
-#EXTINF:0,637 - RTPi (standard)
+#EXTINF:0 group-title="Chaines FreeBox",637 - RTPi (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=388&flavour=sd
-#EXTINF:0,638 - TV Globo Internacional (standard)
+#EXTINF:0 group-title="Chaines FreeBox",638 - TV Globo Internacional (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=722&flavour=sd
-#EXTINF:0,639 - Deepam (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",639 - Deepam (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=903&flavour=ld
-#EXTINF:0,640 - Kuwait TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",640 - Kuwait TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=717&flavour=sd
-#EXTINF:0,643 - Yemen TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",643 - Yemen TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=715&flavour=sd
-#EXTINF:0,644 - Dubai TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",644 - Dubai TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=748&flavour=sd
-#EXTINF:0,645 - Abu Dhabi TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",645 - Abu Dhabi TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=749&flavour=sd
-#EXTINF:0,648 - Jordan Satellite Channel (standard)
+#EXTINF:0 group-title="Chaines FreeBox",648 - Jordan Satellite Channel (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=718&flavour=sd
-#EXTINF:0,650 - Armenia Public TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",650 - Armenia Public TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=380&flavour=sd
-#EXTINF:0,651 - Armenia TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",651 - Armenia TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=751&flavour=sd
-#EXTINF:0,652 - Shant TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",652 - Shant TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=752&flavour=sd
-#EXTINF:0,653 - Rossiya 24 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",653 - Rossiya 24 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=792&flavour=sd
-#EXTINF:0,654 - Murr TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",654 - Murr TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=843&flavour=ld
-#EXTINF:0,655 - NBN (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",655 - NBN (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=844&flavour=ld
-#EXTINF:0,656 - Future TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",656 - Future TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=845&flavour=ld
-#EXTINF:0,657 - Nessma (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",657 - Nessma (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=957&flavour=ld
-#EXTINF:0,658 - Al Jadeed (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",658 - Al Jadeed (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=846&flavour=ld
-#EXTINF:0,661 - AlMajd Holy Quran (standard)
+#EXTINF:0 group-title="Chaines FreeBox",661 - AlMajd Holy Quran (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=807&flavour=sd
-#EXTINF:0,662 - Almajd Al Hadeeth Al Nabawy (standard)
+#EXTINF:0 group-title="Chaines FreeBox",662 - Almajd Al Hadeeth Al Nabawy (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=808&flavour=sd
-#EXTINF:0,663 - AlMajd Space Channel (standard)
+#EXTINF:0 group-title="Chaines FreeBox",663 - AlMajd Space Channel (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=809&flavour=sd
-#EXTINF:0,664 - Iqraa Int (HD)
+#EXTINF:0 group-title="Chaines FreeBox",664 - Iqraa Int (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1035&flavour=hd
-#EXTINF:0,665 - Azhari TV (standard)
+#EXTINF:0 group-title="Chaines FreeBox",665 - Azhari TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=817&flavour=sd
-#EXTINF:0,666 - Mazzika (standard)
+#EXTINF:0 group-title="Chaines FreeBox",666 - Mazzika (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=876&flavour=sd
-#EXTINF:0,667 - Melody Aflam (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",667 - Melody Aflam (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=881&flavour=ld
-#EXTINF:0,668 - Melody Drama (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",668 - Melody Drama (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=882&flavour=ld
-#EXTINF:0,669 - Samira TV (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",669 - Samira TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1132&flavour=ld
-#EXTINF:0,670 - MBC Masr (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",670 - MBC Masr (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=884&flavour=ld
-#EXTINF:0,671 - MBC Drama (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",671 - MBC Drama (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1091&flavour=ld
-#EXTINF:0,672 - MBC 3 (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",672 - MBC 3 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=902&flavour=ld
-#EXTINF:0,673 - MBC (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",673 - MBC (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=334&flavour=ld
-#EXTINF:0,674 - Al Arabiya (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",674 - Al Arabiya (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1092&flavour=ld
-#EXTINF:0,680 - NHK (standard)
+#EXTINF:0 group-title="Chaines FreeBox",680 - NHK (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812&flavour=sd
-#EXTINF:0,680 - NHK (auto)
+#EXTINF:0 group-title="Chaines FreeBox",680 - NHK (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812
-#EXTINF:0,680 - NHK (HD)
+#EXTINF:0 group-title="Chaines FreeBox",680 - NHK (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812&flavour=hd
-#EXTINF:0,681 - JSTV 1 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",681 - JSTV 1 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=814&flavour=sd
-#EXTINF:0,682 - JSTV 2 (standard)
+#EXTINF:0 group-title="Chaines FreeBox",682 - JSTV 2 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=815&flavour=sd
-#EXTINF:0,684 - NTD Television (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",684 - NTD Television (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=912&flavour=ld
-#EXTINF:0,685 - Star Vijay (standard)
+#EXTINF:0 group-title="Chaines FreeBox",685 - Star Vijay (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=968&flavour=sd
-#EXTINF:0,686 - Star Life OK (standard)
+#EXTINF:0 group-title="Chaines FreeBox",686 - Star Life OK (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=821&flavour=sd
-#EXTINF:0,687 - Star Jalsha (standard)
+#EXTINF:0 group-title="Chaines FreeBox",687 - Star Jalsha (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=822&flavour=sd
-#EXTINF:0,688 - Star plus (standard)
+#EXTINF:0 group-title="Chaines FreeBox",688 - Star plus (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=823&flavour=sd
-#EXTINF:0,689 - Star gold (standard)
+#EXTINF:0 group-title="Chaines FreeBox",689 - Star gold (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=824&flavour=sd
-#EXTINF:0,690 - RTV Pink Plus (standard)
+#EXTINF:0 group-title="Chaines FreeBox",690 - RTV Pink Plus (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=439&flavour=sd
-#EXTINF:0,691 - RTV Pink Extra (standard)
+#EXTINF:0 group-title="Chaines FreeBox",691 - RTV Pink Extra (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=440&flavour=sd
-#EXTINF:0,692 - Pink Film (standard)
+#EXTINF:0 group-title="Chaines FreeBox",692 - Pink Film (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=889&flavour=sd
-#EXTINF:0,693 - Pink Music (standard)
+#EXTINF:0 group-title="Chaines FreeBox",693 - Pink Music (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=890&flavour=sd
-#EXTINF:0,695 - Russia Today (standard)
+#EXTINF:0 group-title="Chaines FreeBox",695 - Russia Today (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=726&flavour=sd
-#EXTINF:0,695 - Russia Today (auto)
+#EXTINF:0 group-title="Chaines FreeBox",695 - Russia Today (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=726
-#EXTINF:0,695 - Russia Today (HD)
+#EXTINF:0 group-title="Chaines FreeBox",695 - Russia Today (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=726&flavour=hd
-#EXTINF:0,696 - Russia Today Espanol (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",696 - Russia Today Espanol (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=856&flavour=ld
-#EXTINF:0,696 - Russia Today Espanol (auto)
+#EXTINF:0 group-title="Chaines FreeBox",696 - Russia Today Espanol (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=856
-#EXTINF:0,696 - Russia Today Espanol (HD)
+#EXTINF:0 group-title="Chaines FreeBox",696 - Russia Today Espanol (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=856&flavour=hd
-#EXTINF:0,697 - Record Internacional (standard)
+#EXTINF:0 group-title="Chaines FreeBox",697 - Record Internacional (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=728&flavour=sd
-#EXTINF:0,697 - Record Internacional (auto)
+#EXTINF:0 group-title="Chaines FreeBox",697 - Record Internacional (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=728
-#EXTINF:0,697 - Record Internacional (HD)
+#EXTINF:0 group-title="Chaines FreeBox",697 - Record Internacional (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=728&flavour=hd
-#EXTINF:0,698 - Russian Al Yaum (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",698 - Russian Al Yaum (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=899&flavour=ld
-#EXTINF:0,699 - Record News (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",699 - Record News (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=909&flavour=ld
-#EXTINF:0,700 - Karusel (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",700 - Karusel (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=919&flavour=ld
-#EXTINF:0,701 - Channel 1 Russia (standard)
+#EXTINF:0 group-title="Chaines FreeBox",701 - Channel 1 Russia (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=357&flavour=sd
-#EXTINF:0,702 - CTC (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",702 - CTC (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1117&flavour=ld
-#EXTINF:0,703 - TNT Comedy (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",703 - TNT Comedy (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1118&flavour=ld
-#EXTINF:0,704 - RTR Planeta (standard)
+#EXTINF:0 group-title="Chaines FreeBox",704 - RTR Planeta (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=317&flavour=sd
-#EXTINF:0,705 - TV1000 Kino (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",705 - TV1000 Kino (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1119&flavour=ld
-#EXTINF:0,706 - Dom Kino (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",706 - Dom Kino (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=840&flavour=ld
-#EXTINF:0,707 - Muzika Pervoyo (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",707 - Muzika Pervoyo (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=841&flavour=ld
-#EXTINF:0,708 - Vremya (bas débit)
+#EXTINF:0 group-title="Chaines FreeBox",708 - Vremya (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=842&flavour=ld
+
+#EXTINF:0 group-title="Chaines Orange",[I][B][COLOR yellow]---Chaine Orange---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:0 group-title="Chaines Orange",000. MOSA 2 Page 1  (DRM)
+rtp://@232.0.2.120:8200
+#EXTINF:0 group-title="Chaines Orange",000. MOSA 2 Page 2  (DRM)
+rtp://@232.0.2.121:8200
+#EXTINF:0 group-title="Chaines Orange",000. MOSA 2 Page 3  (DRM)
+rtp://@232.0.2.122:8200
+#EXTINF:0 group-title="Chaines Orange",000. MOSA 2 Page 4  (DRM)
+rtp://@232.0.2.123:8200
+#EXTINF:0 group-title="Chaines Orange",000. MOSA 2 Page 5  (DRM)
+rtp://@232.0.2.124:8200
+#EXTINF:0 group-title="Chaines Orange",001. TF1
+rtp://@232.0.9.5:8200
+#EXTINF:0 group-title="Chaines Orange",001. TF1	(DRM)
+rtp://@232.0.2.187:8200
+#EXTINF:0 group-title="Chaines Orange",001. TF1 HD	(DRM)
+rtp://@232.0.2.140:8200
+#EXTINF:0 group-title="Chaines Orange",002. France 2
+rtp://@232.0.2.180:8200
+#EXTINF:0 group-title="Chaines Orange",002. FRANCE2 HD
+rtp://@232.0.2.141:8200
+#EXTINF:0 group-title="Chaines Orange",003. France 3
+rtp://@232.0.1.181:8200
+#EXTINF:0 group-title="Chaines Orange",003. FRANCE 3 HD
+rtp://@232.0.2.142:8200
+#EXTINF:0 group-title="Chaines Orange",004. Canal +
+rtp://@232.0.5.55:8200
+#EXTINF:0 group-title="Chaines Orange",004. Canal+ HD
+rtp://@232.0.6.13:8200
+#EXTINF:0 group-title="Chaines Orange",005. France 5
+rtp://@232.0.2.182:8200
+#EXTINF:0 group-title="Chaines Orange",005. FRANCE 5 HD
+rtp://@232.0.2.109:8200
+#EXTINF:0 group-title="Chaines Orange",006. M6
+rtp://@232.0.7.33:8200
+#EXTINF:0 group-title="Chaines Orange",006. M6
+rtp://@232.0.7.35:8200
+#EXTINF:0 group-title="Chaines Orange",006. M6	(DRM)
+rtp://@232.0.2.185:8200
+#EXTINF:0 group-title="Chaines Orange",006. M6 HD (DRM)
+rtp://@232.0.2.143:8200
+#EXTINF:0 group-title="Chaines Orange",006. M6 HD
+rtp://@232.0.9.137:8200
+#EXTINF:0 group-title="Chaines Orange",007. ARTE
+rtp://@232.0.2.183:8200
+#EXTINF:0 group-title="Chaines Orange",007. ARTE HD  (DRM)
+rtp://@232.0.2.146:8200
+#EXTINF:0 group-title="Chaines Orange",008. D8
+rtp://@232.0.2.192:8200
+#EXTINF:0 group-title="Chaines Orange",008. D8 HD	(DRM)
+rtp://@232.0.2.147:8200
+#EXTINF:0 group-title="Chaines Orange",009. W9	(DRM)
+rtp://@232.0.2.188:8200
+#EXTINF:0 group-title="Chaines Orange",009. W9 HD  (DRM)
+rtp://@232.0.2.148:8200
+#EXTINF:0 group-title="Chaines Orange",009. W9 HD
+rtp://@232.0.7.39:8200
+#EXTINF:0 group-title="Chaines Orange",010. TMC	(DRM)
+rtp://@232.0.2.184:8200
+#EXTINF:0 group-title="Chaines Orange",011. NT 1
+rtp://@232.0.2.193:8200
+#EXTINF:0 group-title="Chaines Orange",012. NRJ 12
+rtp://@232.0.2.194:8200
+#EXTINF:0 group-title="Chaines Orange",012. NRJ12 HD
+rtp://@232.0.2.44:8200
+#EXTINF:0 group-title="Chaines Orange",013. LCP_PS
+rtp://@232.0.1.21:8200
+#EXTINF:0 group-title="Chaines Orange",014. France 4
+rtp://@232.0.2.195:8200
+#EXTINF:0 group-title="Chaines Orange",014. FRANCE 4 HD
+rtp://@232.0.2.108:8200
+#EXTINF:0 group-title="Chaines Orange",015. BFM TV
+rtp://@232.0.2.197:8200
+#EXTINF:0 group-title="Chaines Orange",015. BFM TV HD
+rtp://@232.0.2.49:8200
+#EXTINF:0 group-title="Chaines Orange",016. I>Télé
+rtp://@232.0.5.58:8200
+#EXTINF:0 group-title="Chaines Orange",017. D17
+rtp://@232.0.2.196:8200
+#EXTINF:0 group-title="Chaines Orange",018. GULLI (DRM)
+rtp://@232.0.2.186:8200
+#EXTINF:0 group-title="Chaines Orange",019. France O
+rtp://@232.0.1.24:8200
+#EXTINF:0 group-title="Chaines Orange",020. HD1 HD (DRM)
+rtp://@232.0.2.210:8200
+#EXTINF:0 group-title="Chaines Orange",20. HD1 (DRM)
+rtp://@232.0.2.220:8200
+#EXTINF:0 group-title="Chaines Orange",021. L'Equipe 21 HD
+rtp://@232.0.2.211:8200
+#EXTINF:0 group-title="Chaines Orange",021. L'Equipe 21
+rtp://@232.0.2.221:8200
+#EXTINF:0 group-title="Chaines Orange",022. 6ter HD (DRM)
+rtp://@232.0.2.212:8200
+#EXTINF:0 group-title="Chaines Orange",22. 6ter (DRM)
+rtp://@232.0.2.222:8200
+#EXTINF:0 group-title="Chaines Orange",023. Numéro 23 HD    (DRM)
+rtp://@232.0.2.213:8200
+#EXTINF:0 group-title="Chaines Orange",023. Numéro 23 (DRM)
+rtp://@232.0.2.223:8200
+#EXTINF:0 group-title="Chaines Orange",024. RMC Découverte HD  (DRM)
+rtp://@232.0.2.214:8200
+#EXTINF:0 group-title="Chaines Orange",24. RMC Découverte (DRM)
+rtp://@232.0.2.224:8200
+#EXTINF:0 group-title="Chaines Orange",025. Chérie 25 HD    (DRM)
+rtp://@232.0.2.215:8200
+#EXTINF:0 group-title="Chaines Orange",025. Chérie 25    (DRM)
+rtp://@232.0.2.225:8200
+#EXTINF:0 group-title="Chaines Orange",029. OCS On Demand
+rtp://@232.0.1.82:8200
+#EXTINF:0 group-title="Chaines Orange",024. Orange cine max  (DRM)
+rtp://@232.0.1.157:8200
+#EXTINF:0 group-title="Chaines Orange",024. ORANGE Cinemax HD  (DRM)
+rtp://@232.0.2.145:8200
+#EXTINF:0 group-title="Chaines Orange",025. Orange cine happy  (DRM)
+rtp://@232.0.1.158:8200
+#EXTINF:0 group-title="Chaines Orange",026. Orange cine choc  (DRM)
+rtp://@232.0.1.159:8200
+#EXTINF:0 group-title="Chaines Orange",027. Orange cine novo  (DRM)
+rtp://@232.0.1.160:8200
+#EXTINF:0 group-title="Chaines Orange",028. Orange cine geants  (DRM)
+rtp://@232.0.1.161:8200
+#EXTINF:0 group-title="Chaines Orange",029. VOD a la carte  (DRM)
+rtp://@232.0.1.219:8200
+#EXTINF:0 group-title="Chaines Orange",030. Liberty TV
+rtp://@232.0.1.35:8200
+#EXTINF:0 group-title="Chaines Orange",032. USHUAIA  (DRM)
+rtp://@232.0.1.200:8200
+#EXTINF:0 group-title="Chaines Orange",032. USHUAIA HD  (DRM)
+rtp://@232.0.2.106:8200
+#EXTINF:0 group-title="Chaines Orange",033. Escales  (DRM)
+rtp://@232.0.5.199:8200
+#EXTINF:0 group-title="Chaines Orange",034. Encyclopedia  (DRM)
+rtp://@232.0.1.108:8200
+#EXTINF:0 group-title="Chaines Orange",035. Animaux  (DRM)
+rtp://@232.0.5.198:8200
+#EXTINF:0 group-title="Chaines Orange",036. Toute l histoire  (DRM)
+rtp://@232.0.1.105:8200
+#EXTINF:0 group-title="Chaines Orange",037. Chasse et Peche  (DRM)
+rtp://@232.0.1.103:8200
+#EXTINF:0 group-title="Chaines Orange",038. HISTOIRE  (DRM)
+rtp://@232.0.1.114:8200
+#EXTINF:0 group-title="Chaines Orange",041. CANAL+ CINEMA  (DRM)
+rtp://@232.0.5.158:8200
+#EXTINF:0 group-title="Chaines Orange",041. CANAL+ CINEMA HD  (DRM)
+rtp://@232.0.6.3:8200
+#EXTINF:0 group-title="Chaines Orange",042. CANAL+ SPORT  (DRM)
+rtp://@232.0.5.160:8200
+#EXTINF:0 group-title="Chaines Orange",042. CANAL+ SPORT HD  (DRM)
+rtp://@232.0.6.2:8200
+#EXTINF:0 group-title="Chaines Orange",043. CANAL+ FAMILY  (DRM)
+rtp://@232.0.5.67:8200
+#EXTINF:0 group-title="Chaines Orange",043. CANAL+ FAMILY HD  (DRM)
+rtp://@232.0.6.5:8200
+#EXTINF:0 group-title="Chaines Orange",044. CANAL+ DECALE
+rtp://@232.0.5.159:8200
+#EXTINF:0 group-title="Chaines Orange",044. CANAL+ DECALE HD
+rtp://@232.0.6.4:8200
+#EXTINF:0 group-title="Chaines Orange",045. Teva  (DRM)
+rtp://@232.0.1.153:8200
+#EXTINF:0 group-title="Chaines Orange",045. Teva HD (DRM)
+rtp://@232.0.2.41:8200
+#EXTINF:0 group-title="Chaines Orange",045. TEVA HD
+rtp://@232.0.7.36:8200
+#EXTINF:0 group-title="Chaines Orange",048. Paris Première  (DRM)
+rtp://@232.0.1.146:8200
+#EXTINF:0 group-title="Chaines Orange",048. Paris Première  HD (DRM)
+rtp://@232.0.2.40:8200
+#EXTINF:0 group-title="Chaines Orange",049. RTL9  (DRM)
+rtp://@232.0.1.100:8200
+#EXTINF:0 group-title="Chaines Orange",050. AB1  (DRM)
+rtp://@232.0.1.101:8200
+#EXTINF:0 group-title="Chaines Orange",051. JIMMY WS  (DRM)
+rtp://@232.0.5.78:8200
+#EXTINF:0 group-title="Chaines Orange",052. TV BREIZH  (DRM)
+rtp://@232.0.1.131:8200
+#EXTINF:0 group-title="Chaines Orange",053. Game One  (DRM)
+rtp://@232.0.1.78:8200
+#EXTINF:0 group-title="Chaines Orange",054. MCM  (DRM)
+rtp://@232.0.5.142:8200
+#EXTINF:0 group-title="Chaines Orange",055. E! Entertainment  (DRM)
+rtp://@232.0.5.175:8200
+#EXTINF:0 group-title="Chaines Orange",056. KZ SD  (DRM)
+rtp://@232.0.1.205:8200
+#EXTINF:0 group-title="Chaines Orange",056. KZ HD  (DRM)
+rtp://@232.0.2.104:8200
+#EXTINF:0 group-title="Chaines Orange",057. TV5 Monde
+rtp://@232.0.1.13:8200
+#EXTINF:0 group-title="Chaines Orange",058. Salon Nautique  (DRM)
+rtp://@232.0.1.74:8200
+#EXTINF:0 group-title="Chaines Orange",060. SVOD 24/24 Jeunesse
+rtp://@232.0.1.83:8200
+#EXTINF:0 group-title="Chaines Orange",061. Disney Channel  (DRM)
+rtp://@232.0.1.213:8200
+#EXTINF:0 group-title="Chaines Orange",061. Disney Channel HD (DRM)
+rtp://@232.0.2.45:8200
+#EXTINF:0 group-title="Chaines Orange",062. Disney Channel + 1  (DRM)
+rtp://@232.0.1.199:8200
+#EXTINF:0 group-title="Chaines Orange",062. Disney Channel + 1  (DRM)
+rtp://@232.0.1.168:8200
+#EXTINF:0 group-title="Chaines Orange",063. Boomerang  (DRM)
+rtp://@232.0.5.76:8200
+#EXTINF:0 group-title="Chaines Orange",064. Mangas  (DRM)
+rtp://@232.0.1.107:8200
+#EXTINF:0 group-title="Chaines Orange",065. Baby TV  (DRM)
+rtp://@232.0.1.130:8200
+#EXTINF:0 group-title="Chaines Orange",066. Piwi  (DRM)
+rtp://@232.0.5.69:8200
+#EXTINF:0 group-title="Chaines Orange",067. TéléTOON  (DRM)
+rtp://@232.0.5.70:8200
+#EXTINF:0 group-title="Chaines Orange",068. Kids & Co-Francais  (DRM)
+rtp://@232.0.1.90:8200
+#EXTINF:0 group-title="Chaines Orange",069. BOING TV  (DRM)
+rtp://@232.0.1.62:8200
+#EXTINF:0 group-title="Chaines Orange",070. Equidia Live  (DRM)
+rtp://@232.0.1.81:8200
+#EXTINF:0 group-title="Chaines Orange",071. EQUIDIA LIFE
+rtp://@232.0.2.129:8200
+#EXTINF:0 group-title="Chaines Orange",072. AB Moteurs  (DRM)
+rtp://@232.0.5.87:8200
+#EXTINF:0 group-title="Chaines Orange",075. EUROSPORT HD  (DRM)
+rtp://@232.0.2.107:8200
+#EXTINF:0 group-title="Chaines Orange",075. EUROSPORT  (DRM)
+rtp://@232.0.2.134:8200
+#EXTINF:0 group-title="Chaines Orange",076. TRACE SPORT HD  (DRM)
+rtp://@232.0.2.105:8200
+#EXTINF:0 group-title="Chaines Orange",076. TRACE SPORT  (DRM)
+rtp://@232.0.2.126:8200
+#EXTINF:0 group-title="Chaines Orange",077. Motors TV  (DRM)
+rtp://@232.0.5.193:8200
+#EXTINF:0 group-title="Chaines Orange",079. Sport+  (DRM)
+rtp://@232.0.5.59:8200
+#EXTINF:0 group-title="Chaines Orange",080. EUROSPORT 2  (DRM)
+rtp://@232.0.2.135:8200
+#EXTINF:0 group-title="Chaines Orange",081. Ma CHAINE SPORT  (DRM)
+rtp://@232.0.5.77:8200
+#EXTINF:0 group-title="Chaines Orange",082. Ma Chaine Sport Extreme  (DRM)
+rtp://@232.0.2.29:8200
+#EXTINF:0 group-title="Chaines Orange",083. ESPN Classic  (DRM)
+rtp://@232.0.5.201:8200
+#EXTINF:0 group-title="Chaines Orange",085. GOLF CHANNEL  (DRM)
+rtp://@232.0.2.31:8200
+#EXTINF:0 group-title="Chaines Orange",085. GOLF CHANNEL HD  (DRM)
+rtp://@232.0.2.84:8200
+#EXTINF:0 group-title="Chaines Orange",086. Yacht and Sail  (DRM)
+rtp://@232.0.5.57:8200
+#EXTINF:0 group-title="Chaines Orange",094. OLTV  (DRM)
+rtp://@232.0.1.145:8200
+#EXTINF:0 group-title="Chaines Orange",095. Girondins TV  (DRM)
+rtp://@232.0.1.144:8200
+#EXTINF:0 group-title="Chaines Orange",096. OM TV  (DRM)
+rtp://@232.0.1.143:8200
+#EXTINF:0 group-title="Chaines Orange",100. Barker OCS
+rtp://@232.0.1.77:8200
+#EXTINF:0 group-title="Chaines Orange",102. Action  (DRM)
+rtp://@232.0.5.197:8200
+#EXTINF:0 group-title="Chaines Orange",103. Ciné Polar  (DRM)
+rtp://@232.0.5.95:8200
+#EXTINF:0 group-title="Chaines Orange",104. Ciné FX  (DRM)
+rtp://@232.0.5.94:8200
+#EXTINF:0 group-title="Chaines Orange",105. Cinécinéma Star  (DRM)
+rtp://@232.0.5.61:8200
+#EXTINF:0 group-title="Chaines Orange",106. Cinécinéma Classic  (DRM)
+rtp://@232.0.5.65:8200
+#EXTINF:0 group-title="Chaines Orange",107. Cinécinéma Club  (DRM)
+rtp://@232.0.5.62:8200
+#EXTINF:0 group-title="Chaines Orange",108. TCM  (DRM)
+rtp://@232.0.1.136:8200
+#EXTINF:0 group-title="Chaines Orange",120. Fashion TV
+rtp://@232.0.1.32:8200
+#EXTINF:0 group-title="Chaines Orange",122. NO LIFE
+rtp://@232.0.1.170:8200
+#EXTINF:0 group-title="Chaines Orange",123. Melody Zen
+rtp://@232.0.2.16:8200
+#EXTINF:0 group-title="Chaines Orange",123. MELODY ZEN HD
+rtp://@232.0.2.82:8200
+#EXTINF:0 group-title="Chaines Orange",124. MEN'S UP
+rtp://@232.0.2.232:8200
+#EXTINF:0 group-title="Chaines Orange",125. SOUVENIR FROM EARTH
+rtp://@232.0.1.59:8200
+#EXTINF:0 group-title="Chaines Orange",125. Souvenir From Earth HD
+rtp://@232.0.2.85:8200
+#EXTINF:0 group-title="Chaines Orange",126. MONTAGNE TV
+rtp://@232.0.2.73:8200
+#EXTINF:0 group-title="Chaines Orange",127. Stylia  (DRM)
+rtp://@232.0.1.133:8200
+#EXTINF:0 group-title="Chaines Orange",128. VIVOLTA  (DRM)
+rtp://@232.0.1.210:8200
+#EXTINF:0 group-title="Chaines Orange",130. SVOD 24/24 Music
+rtp://@232.0.1.84:8200
+#EXTINF:0 group-title="Chaines Orange",131. TRACE TV  (DRM)
+rtp://@232.0.1.26:8200
+#EXTINF:0 group-title="Chaines Orange",131. TRACE TV HD
+rtp://@232.0.2.102:8200
+#EXTINF:0 group-title="Chaines Orange",132. NRJ Hits  (DRM)
+rtp://@232.0.1.56:8200
+#EXTINF:0 group-title="Chaines Orange",133. CLUBBING TV
+rtp://@232.0.2.75:8200
+#EXTINF:0 group-title="Chaines Orange",134. OFIVE TV
+rtp://@232.0.2.233:8200
+#EXTINF:0 group-title="Chaines Orange",135. BEBLACK
+rtp://@232.0.2.139:8200
+#EXTINF:0 group-title="Chaines Orange",136. M6 Music Hits  (DRM)
+rtp://@232.0.1.164:8200
+#EXTINF:0 group-title="Chaines Orange",137. M6 Music Club  (DRM)
+rtp://@232.0.1.165:8200
+#EXTINF:0 group-title="Chaines Orange",138. M6 Music Black  (DRM)
+rtp://@232.0.1.166:8200
+#EXTINF:0 group-title="Chaines Orange",139. MCM Top  (DRM)
+rtp://@232.0.5.144:8200
+#EXTINF:0 group-title="Chaines Orange",140. MCM Pop  (DRM)
+rtp://@232.0.5.143:8200
+#EXTINF:0 group-title="Chaines Orange",141. TRACE TROPICAL  (DRM)
+rtp://@232.0.5.156:8200
+#EXTINF:0 group-title="Chaines Orange",143. Game One Music sd  (DRM)
+rtp://@232.0.2.1:8200
+#EXTINF:0 group-title="Chaines Orange",143. GAME One Music HD  (DRM)
+rtp://@232.0.2.86:8200
+#EXTINF:0 group-title="Chaines Orange",144. BRAVA  (DRM)
+rtp://@232.0.2.20:8200
+#EXTINF:0 group-title="Chaines Orange",144. BRAVA HD  (DRM)
+rtp://@232.0.6.25:8208
+#EXTINF:0 group-title="Chaines Orange",145. MEZZO  (DRM)
+rtp://@232.0.1.204:8200
+#EXTINF:0 group-title="Chaines Orange",145. Mezzo Live SD  (DRM)
+rtp://@232.0.2.22:8200
+#EXTINF:0 group-title="Chaines Orange",146. Mezzo Live HD  (DRM)
+rtp://@232.0.2.103:8200
+#EXTINF:0 group-title="Chaines Orange",147. UNITEL CLASSICA SD  (DRM)
+rtp://@232.0.1.140:8200
+#EXTINF:0 group-title="Chaines Orange",147. UNITEL CLASSICA HD  (DRM)
+rtp://@232.0.2.81:8200
+#EXTINF:0 group-title="Chaines Orange",148. TELE MELODY  (DRM)
+rtp://@232.0.2.15:8200
+#EXTINF:0 group-title="Chaines Orange",149. LCI  (DRM)
+rtp://@232.0.1.113:8200
+#EXTINF:0 group-title="Chaines Orange",150. France-24_Francais  (DRM)
+rtp://@232.0.1.79:8200
+#EXTINF:0 group-title="Chaines Orange",151. EuroNews
+rtp://@232.0.1.25:8200
+#EXTINF:0 group-title="Chaines Orange",152. LCP 24 24
+rtp://@232.0.1.91:8200
+#EXTINF:0 group-title="Chaines Orange",153. Public Senat
+rtp://@232.0.1.61:8200
+#EXTINF:0 group-title="Chaines Orange",154. BFM Business
+rtp://@232.0.1.138:8200
+#EXTINF:0 group-title="Chaines Orange",154. BFM BUSINESS HD
+rtp://@232.0.2.88:8200
+#EXTINF:0 group-title="Chaines Orange",155. SKYNEWS INTERNATIONAL
+rtp://@232.0.1.65:8200
+#EXTINF:0 group-title="Chaines Orange",156. CNN
+rtp://@232.0.1.3:8200
+#EXTINF:0 group-title="Chaines Orange",157. CNBC
+rtp://@232.0.1.73:8200
+#EXTINF:0 group-title="Chaines Orange",158. BBC World
+rtp://@232.0.1.33:8200
+#EXTINF:0 group-title="Chaines Orange",159. France-24_English
+rtp://@232.0.1.85:8200
+#EXTINF:0 group-title="Chaines Orange",160. France24 Arabe
+rtp://@232.0.1.97:8200
+#EXTINF:0 group-title="Chaines Orange",161. Al Jazeera
+rtp://@232.0.1.51:8200
+#EXTINF:0 group-title="Chaines Orange",162. Medi 1 Sat
+rtp://@232.0.1.52:8200
+#EXTINF:0 group-title="Chaines Orange",163. Guysen TV
+rtp://@232.0.1.70:8200
+#EXTINF:0 group-title="Chaines Orange",164. AL JAZEERA UK
+rtp://@232.0.1.99:8200
+#EXTINF:0 group-title="Chaines Orange",165. BLOOMBERG EUROPE
+rtp://@232.0.1.68:8200
+#EXTINF:0 group-title="Chaines Orange",166. AFRICA 24
+rtp://@232.0.2.234:8200
+#EXTINF:0 group-title="Chaines Orange",167. NHK WORLD HD
+rtp://@232.0.2.80:8200
+#EXTINF:0 group-title="Chaines Orange",170. Ma Chaine Etudiante
+rtp://@232.0.1.92:8200
+#EXTINF:0 group-title="Chaines Orange",171. Demain
+rtp://@232.0.1.31:8200
+#EXTINF:0 group-title="Chaines Orange",172. KTO
+rtp://@232.0.1.47:8200
+#EXTINF:0 group-title="Chaines Orange",173. TNA
+rtp://@232.0.1.71:8200
+#EXTINF:0 group-title="Chaines Orange",180. BLUE HUSTLER  (DRM)
+rtp://@232.0.2.132:8200
+#EXTINF:0 group-title="Chaines Orange",181. HUSTLER  (DRM)
+rtp://@232.0.2.128:8200
+#EXTINF:0 group-title="Chaines Orange",182. XXL
+rtp://@232.0.5.194:8200
+#EXTINF:0 group-title="Chaines Orange",183. DORCEL  (DRM)
+rtp://@232.0.5.56:8200
+#EXTINF:0 group-title="Chaines Orange",184. PRIVATE SPICE  (DRM)
+rtp://@232.0.5.104:8200
+#EXTINF:0 group-title="Chaines Orange",185. COLMAX  (DRM)
+rtp://@232.0.2.133:8200
+#EXTINF:0 group-title="Chaines Orange",186. PENTHOUSE-1 SD  (DRM)
+rtp://@232.0.2.70:8200
+#EXTINF:0 group-title="Chaines Orange",186. PENTHOUSE-1 HD  (DRM)
+rtp://@232.0.2.100:8200
+#EXTINF:0 group-title="Chaines Orange",187. PENTHOUSE-2 SD  (DRM)
+rtp://@232.0.2.72:8200
+#EXTINF:0 group-title="Chaines Orange",187. PENTHOUSE-2 HD  (DRM)
+rtp://@232.0.2.101:8200
+#EXTINF:0 group-title="Chaines Orange",188. Pink TV  (DRM)
+rtp://@232.0.5.174:8200
+#EXTINF:0 group-title="Chaines Orange",189. MAN X  (DRM)
+rtp://@232.0.1.208:8200
+#EXTINF:0 group-title="Chaines Orange",191. M6 Boutique  (DRM)
+rtp://@232.0.1.48:8200
+#EXTINF:0 group-title="Chaines Orange",192. Best-of-Shopping  (DRM)
+rtp://@232.0.1.49:8200
+#EXTINF:0 group-title="Chaines Orange",193. Astrocenter
+rtp://@232.0.1.53:8200
+#EXTINF:0 group-title="Chaines Orange",194. LUCKY JACK
+rtp://@232.0.2.32:8200
+#EXTINF:0 group-title="Chaines Orange",195. POCKER CHANNEL
+rtp://@232.0.1.37:8200
+#EXTINF:0 group-title="Chaines Orange",210. NRJ Paris  (DRM)
+rtp://@232.0.1.72:8200
+#EXTINF:0 group-title="Chaines Orange",211. TV8 Mont Blanc
+rtp://@232.0.1.46:8200
+#EXTINF:0 group-title="Chaines Orange",213. Telif
+rtp://@232.0.1.54:8200
+#EXTINF:0 group-title="Chaines Orange",214. Locale 1
+rtp://@232.0.8.1:8200
+#EXTINF:0 group-title="Chaines Orange",215. Locale 2
+rtp://@232.0.8.2:8200
+#EXTINF:0 group-title="Chaines Orange",216. Locale 3
+rtp://@232.0.8.3:8200
+#EXTINF:0 group-title="Chaines Orange",240. TELE GRENOBLE
+rtp://@232.0.1.201:8200
+#EXTINF:0 group-title="Chaines Orange",241. IDF1
+rtp://@232.0.1.203:8200
+#EXTINF:0 group-title="Chaines Orange",242. VOSGES TV
+rtp://@232.0.1.202:8200
+#EXTINF:0 group-title="Chaines Orange",243. Tele Locale Provence
+rtp://@232.0.1.211:8200
+#EXTINF:0 group-title="Chaines Orange",244. Mirabelle TV
+rtp://@232.0.1.212:8200
+#EXTINF:0 group-title="Chaines Orange",245. TVR
+rtp://@232.0.1.220:8200
+#EXTINF:0 group-title="Chaines Orange",246. Tébéo
+rtp://@232.0.1.221:8200
+#EXTINF:0 group-title="Chaines Orange",247. Télénantes
+rtp://@232.0.1.222:8200
+#EXTINF:0 group-title="Chaines Orange",248. TV7
+rtp://@232.0.1.223:8200
+#EXTINF:0 group-title="Chaines Orange",249. WEO
+rtp://@232.0.1.224:8200
+#EXTINF:0 group-title="Chaines Orange",250. GrandLille
+rtp://@232.0.1.225:8200
+#EXTINF:0 group-title="Chaines Orange",251. Alsace 20
+rtp://@232.0.1.226:8200
+#EXTINF:0 group-title="Chaines Orange",252. TV Sud
+rtp://@232.0.1.227:8200
+#EXTINF:0 group-title="Chaines Orange",253. Voo TV
+rtp://@232.0.1.228:8200
+#EXTINF:0 group-title="Chaines Orange",254. TLM
+rtp://@232.0.1.229:8200
+#EXTINF:0 group-title="Chaines Orange",255. Canal 10 Guadeloupe
+rtp://@232.0.1.112:8200
+#EXTINF:0 group-title="Chaines Orange",300. F3 ALPES
+rtp://@232.0.1.182:8200
+#EXTINF:0 group-title="Chaines Orange",301. F3 ALSACE
+rtp://@232.0.2.23:8200
+#EXTINF:0 group-title="Chaines Orange",302. F3 AQUITAINE
+rtp://@232.0.1.177:8200
+#EXTINF:0 group-title="Chaines Orange",303. F3 AUVERGNE
+rtp://@232.0.1.179:8200
+#EXTINF:0 group-title="Chaines Orange",304. F3 BASSE NORMANDIE
+rtp://@232.0.1.178:8200
+#EXTINF:0 group-title="Chaines Orange",305. F3 BOURGOGNE
+rtp://@232.0.1.181:8200
+#EXTINF:0 group-title="Chaines Orange",306. F3 BRETAGNE
+rtp://@232.0.2.25:8200
+#EXTINF:0 group-title="Chaines Orange",307. F3 CENTRE
+rtp://@232.0.1.191:8200
+#EXTINF:0 group-title="Chaines Orange",308. F3 CHAMPAGNE ARDENNE
+rtp://@232.0.1.194:8200
+#EXTINF:0 group-title="Chaines Orange",309. F3 CORSE VIA STELLA
+rtp://@232.0.1.180:8200
+#EXTINF:0 group-title="Chaines Orange",310. F3 COTE D'AZUR
+rtp://@232.0.1.190:8200
+#EXTINF:0 group-title="Chaines Orange",311. F3 FRANCHE COMTE
+rtp://@232.0.1.176:8200
+#EXTINF:0 group-title="Chaines Orange",312. F3 HAUTE NORMANDIE
+rtp://@232.0.1.195:8200
+#EXTINF:0 group-title="Chaines Orange",313. F3 LANGUEDOC
+rtp://@232.0.1.187:8200
+#EXTINF:0 group-title="Chaines Orange",314. F3 LIMOUSIN
+rtp://@232.0.1.184:8200
+#EXTINF:0 group-title="Chaines Orange",315. F3 LORRAINE
+rtp://@232.0.1.188:8200
+#EXTINF:0 group-title="Chaines Orange",316. F3 MIDI-PYRENEES
+rtp://@232.0.2.24:8200
+#EXTINF:0 group-title="Chaines Orange",317. F3 NORD P. CALAIS
+rtp://@232.0.1.183:8200
+#EXTINF:0 group-title="Chaines Orange",318. F3 PARIS IDF
+rtp://@232.0.1.192:8200
+#EXTINF:0 group-title="Chaines Orange",319. F3 PAYS DE LA LOIRE
+rtp://@232.0.1.189:8200
+#EXTINF:0 group-title="Chaines Orange",320. F3 PICARDIE
+rtp://@232.0.1.174:8200
+#EXTINF:0 group-title="Chaines Orange",321. F3 POITOU CHARENTES
+rtp://@232.0.1.193:8200
+#EXTINF:0 group-title="Chaines Orange",322. F3 PROVENCE ALPES
+rtp://@232.0.1.186:8200
+#EXTINF:0 group-title="Chaines Orange",323. F3 RHONES ALPES
+rtp://@232.0.1.185:8200
+#EXTINF:0 group-title="Chaines Orange",333. LIVE 3D
+rtp://@232.0.2.86:8200
+#EXTINF:0 group-title="Chaines Orange",398. AIDE ABO Barker EMM
+rtp://@232.0.2.60:8200
+#EXTINF:0 group-title="Chaines Orange",410. BBC PRIME  (DRM)
+rtp://@232.0.1.171:8200
+#EXTINF:0 group-title="Chaines Orange",411. E! ENTERTAINMENT UK  (DRM)
+rtp://@232.0.2.19:8200
+#EXTINF:0 group-title="Chaines Orange",412. ESPN America HD (DRM)
+rtp://@232.0.2.43:8200
+#EXTINF:0 group-title="Chaines Orange",413. TCM VO  (DRM)
+rtp://@232.0.1.169:8200
+#EXTINF:0 group-title="Chaines Orange",414. Travel Channel  (DRM)
+rtp://@232.0.1.167:8200
+#EXTINF:0 group-title="Chaines Orange",415. STYLE  (DRM)
+rtp://@232.0.2.18:8200
+#EXTINF:0 group-title="Chaines Orange",416. Kids & Co-UK  (DRM)
+rtp://@232.0.1.173:8200
+#EXTINF:0 group-title="Chaines Orange",417. Boomerang UK  (DRM)
+rtp://@232.0.1.168:8200
+#EXTINF:0 group-title="Chaines Orange",418. Fox News  (DRM)
+rtp://@232.0.1.172:8200
+#EXTINF:0 group-title="Chaines Orange",423. Deutche Welle
+rtp://@232.0.1.34:8200
+#EXTINF:0 group-title="Chaines Orange",424. ARTE ALLEMAND
+rtp://@232.0.2.14:8200
+#EXTINF:0 group-title="Chaines Orange",425. ARD  (DRM)
+rtp://@232.0.2.5:8200
+#EXTINF:0 group-title="Chaines Orange",426. ZDF  (DRM)
+rtp://@232.0.2.6:8200
+#EXTINF:0 group-title="Chaines Orange",427. RTL Television  (DRM)
+rtp://@232.0.2.9:8200
+#EXTINF:0 group-title="Chaines Orange",428. SAT-1  (DRM)
+rtp://@232.0.2.10:8200
+#EXTINF:0 group-title="Chaines Orange",429. KIKA  (DRM)
+rtp://@232.0.2.11:8200
+#EXTINF:0 group-title="Chaines Orange",430. N-TV  (DRM)
+rtp://@232.0.2.12:8200
+#EXTINF:0 group-title="Chaines Orange",431. SWR  (DRM)
+rtp://@232.0.2.13:8200
+#EXTINF:0 group-title="Chaines Orange",435. TVE International
+rtp://@232.0.1.6:8200
+#EXTINF:0 group-title="Chaines Orange",436. Antenna 3
+rtp://@232.0.2.3:8200
+#EXTINF:0 group-title="Chaines Orange",443. Rede TV
+rtp://@232.0.1.66:8200
+#EXTINF:0 group-title="Chaines Orange",445. RTPI
+rtp://@232.0.1.36:8200
+#EXTINF:0 group-title="Chaines Orange",446. RECORDS NEWS
+rtp://@232.0.1.23:8200
+#EXTINF:0 group-title="Chaines Orange",447. SIC  (DRM)
+rtp://@232.0.1.141:8200
+#EXTINF:0 group-title="Chaines Orange",448. TV RECORD  (DRM)
+rtp://@232.0.1.142:8200
+#EXTINF:0 group-title="Chaines Orange",449. Kids & Co-Portugais  (DRM)
+rtp://@232.0.1.98:8200
+#EXTINF:0 group-title="Chaines Orange",450. RAI ITALIA
+rtp://@232.0.1.76:8200
+#EXTINF:0 group-title="Chaines Orange",451. RAI UNO  (DRM)
+rtp://@232.0.1.147:8200
+#EXTINF:0 group-title="Chaines Orange",452. RAI DUE  (DRM)
+rtp://@232.0.1.148:8200
+#EXTINF:0 group-title="Chaines Orange",453. RAI TRE  (DRM)
+rtp://@232.0.1.149:8200
+#EXTINF:0 group-title="Chaines Orange",454. RAI STORIA  (DRM)
+rtp://@232.0.1.150:8200
+#EXTINF:0 group-title="Chaines Orange",455. RAI SCUOLA EDUCAZIONE  (DRM)
+rtp://@232.0.1.151:8200
+#EXTINF:0 group-title="Chaines Orange",456. RAI NEWS 24  (DRM)
+rtp://@232.0.1.152:8200
+#EXTINF:0 group-title="Chaines Orange",457. Mediaset Italia  (DRM)
+rtp://@232.0.2.2:8200
+#EXTINF:0 group-title="Chaines Orange",460. TV Polonia
+rtp://@232.0.1.45:8200
+#EXTINF:0 group-title="Chaines Orange",461. TVP Historia  (DRM)
+rtp://@232.0.1.86:8200
+#EXTINF:0 group-title="Chaines Orange",462. TVP Kultura  (DRM)
+rtp://@232.0.1.87:8200
+#EXTINF:0 group-title="Chaines Orange",463. TVP Info  (DRM)
+rtp://@232.0.1.89:8200
+#EXTINF:0 group-title="Chaines Orange",464. ITVN  (DRM)
+rtp://@232.0.1.88:8200
+#EXTINF:0 group-title="Chaines Orange",465. SHANT TV
+rtp://@232.0.1.215:8200
+#EXTINF:0 group-title="Chaines Orange",466. Armenia one
+rtp://@232.0.1.96:8200
+#EXTINF:0 group-title="Chaines Orange",468. RTR PLANETA
+rtp://@232.0.2.76:8200
+#EXTINF:0 group-title="Chaines Orange",469. Channel 1 Russie
+rtp://@232.0.1.55:8200
+#EXTINF:0 group-title="Chaines Orange",470. Duna TV
+rtp://@232.0.1.93:8200
+#EXTINF:0 group-title="Chaines Orange",471. TVRI
+rtp://@232.0.1.67:8200
+#EXTINF:0 group-title="Chaines Orange",472. TRT TURK
+rtp://@232.0.1.63:8200
+#EXTINF:0 group-title="Chaines Orange",473. SKY TURK
+rtp://@232.0.2.65:8200
+#EXTINF:0 group-title="Chaines Orange",481. SHOWTURK  (DRM)
+rtp://@232.0.2.68:8200
+#EXTINF:0 group-title="Chaines Orange",482. LIG TV  (DRM)
+rtp://@232.0.2.66:8200
+#EXTINF:0 group-title="Chaines Orange",483. TURKMAX  (DRM)
+rtp://@232.0.2.67:8200
+#EXTINF:0 group-title="Chaines Orange",484. IZ TV  (DRM)
+rtp://@232.0.1.64:8200
+#EXTINF:0 group-title="Chaines Orange",485. POWER TURK  (DRM)
+rtp://@232.0.2.69:8200
+#EXTINF:0 group-title="Chaines Orange",487. Al Arabiya
+rtp://@232.0.1.75:8200
+#EXTINF:0 group-title="Chaines Orange",488. DUBAI TV
+rtp://@232.0.1.44:8200
+#EXTINF:0 group-title="Chaines Orange",489. NESSMA TV
+rtp://@232.0.1.137:8200
+#EXTINF:0 group-title="Chaines Orange",490. 2M Maroc
+rtp://@232.0.1.38:8200
+#EXTINF:0 group-title="Chaines Orange",491. AL ALOUA
+rtp://@232.0.1.80:8200
+#EXTINF:0 group-title="Chaines Orange",492. Canal Algerie
+rtp://@232.0.1.39:8200
+#EXTINF:0 group-title="Chaines Orange",493. Television Tunisienne 1
+rtp://@232.0.1.40:8200
+#EXTINF:0 group-title="Chaines Orange",494. MBC  (DRM)
+rtp://@232.0.1.126:8200
+#EXTINF:0 group-title="Chaines Orange",495. ROTANA CINEMA  (DRM)
+rtp://@232.0.1.128:8200
+#EXTINF:0 group-title="Chaines Orange",496. ROTANA ZAMAN  (DRM)
+rtp://@232.0.1.129:8200
+#EXTINF:0 group-title="Chaines Orange",497. ROTANA KHALEEJIAH  (DRM)
+rtp://@232.0.1.127:8200
+#EXTINF:0 group-title="Chaines Orange",498. IQRAA TV  (DRM)
+rtp://@232.0.2.7:8200
+#EXTINF:0 group-title="Chaines Orange",499. Baraem TV  (DRM)
+rtp://@232.0.2.28:8200
+#EXTINF:0 group-title="Chaines Orange",500. Al Jazeera Children  (DRM)
+rtp://@232.0.2.27:8200
+#EXTINF:0 group-title="Chaines Orange",501. ROTANA CLIP  (DRM)
+rtp://@232.0.1.124:8200
+#EXTINF:0 group-title="Chaines Orange",502. ROTANA MOUSSICA  (DRM)
+rtp://@232.0.1.125:8200
+#EXTINF:0 group-title="Chaines Orange",503. EL RESALAH  (DRM)
+rtp://@232.0.1.206:8200
+#EXTINF:0 group-title="Chaines Orange",504. LBC EUROPE  (DRM)
+rtp://@232.0.2.8:8200
+#EXTINF:0 group-title="Chaines Orange",505. MTV Liban  (DRM)
+rtp://@232.0.1.102:8200
+#EXTINF:0 group-title="Chaines Orange",506. OTV Libanon  (DRM)
+rtp://@232.0.1.104:8200
+#EXTINF:0 group-title="Chaines Orange",507. AL JADEED  (DRM)
+rtp://@232.0.1.106:8200
+#EXTINF:0 group-title="Chaines Orange",508. MELODY AFLAM  (DRM)
+rtp://@232.0.1.111:8200
+#EXTINF:0 group-title="Chaines Orange",509. MELODY DRAMA 2  (DRM)
+rtp://@232.0.1.132:8200
+#EXTINF:0 group-title="Chaines Orange",510. Moga Comedy TV  (DRM)
+rtp://@232.0.1.110:8200
+#EXTINF:0 group-title="Chaines Orange",511. AL AAN  (DRM)
+rtp://@232.0.1.109:8200
+#EXTINF:0 group-title="Chaines Orange",512. Berbere tv  (DRM)
+rtp://@232.0.1.156:8200
+#EXTINF:0 group-title="Chaines Orange",513. Berbere Jeunesse  (DRM)
+rtp://@232.0.1.162:8200
+#EXTINF:0 group-title="Chaines Orange",514. Berbere Musique  (DRM)
+rtp://@232.0.1.163:8200
+#EXTINF:0 group-title="Chaines Orange",515. CCTV F
+rtp://@232.0.1.57:8200
+#EXTINF:0 group-title="Chaines Orange",516. Beijing  (DRM)
+rtp://@232.0.1.116:8200
+#EXTINF:0 group-title="Chaines Orange",517. CCTV Divertissement  (DRM)
+rtp://@232.0.1.117:8200
+#EXTINF:0 group-title="Chaines Orange",518. China Movie  (DRM)
+rtp://@232.0.1.118:8200
+#EXTINF:0 group-title="Chaines Orange",519. Shangai Dragon TV  (DRM)
+rtp://@232.0.1.119:8200
+#EXTINF:0 group-title="Chaines Orange",520. Hunan Satellite TV  (DRM)
+rtp://@232.0.1.120:8200
+#EXTINF:0 group-title="Chaines Orange",521. Guangdong Southern TV  (DRM)
+rtp://@232.0.1.121:8200
+#EXTINF:0 group-title="Chaines Orange",522. Phoenix CNE  (DRM)
+rtp://@232.0.1.122:8200
+#EXTINF:0 group-title="Chaines Orange",523. CCTV 4  (DRM)
+rtp://@232.0.1.123:8200
+#EXTINF:0 group-title="Chaines Orange",526. VOX AFRICA
+rtp://@232.0.1.217:8200
+#EXTINF:0 group-title="Chaines Orange",527. CANAL 3 MONDE
+rtp://@232.0.1.216:8200
+#EXTINF:0 group-title="Chaines Orange",530. 3A Telesud
+rtp://@232.0.1.94:8200
+#EXTINF:0 group-title="Chaines Orange",531. RTS  (DRM)
+rtp://@232.0.2.33:8200
+#EXTINF:0 group-title="Chaines Orange",532. 2S TV  (DRM)
+rtp://@232.0.2.34:8200
+#EXTINF:0 group-title="Chaines Orange",533. ORTM  (DRM)
+rtp://@232.0.2.35:8200
+#EXTINF:0 group-title="Chaines Orange",534. TCI  (DRM)
+rtp://@232.0.2.36:8200
+#EXTINF:0 group-title="Chaines Orange",535. CRTV  (DRM)
+rtp://@232.0.2.37:8200
+#EXTINF:0 group-title="Chaines Orange",536. RTB  (DRM)
+rtp://@232.0.2.38:8200
+#EXTINF:0 group-title="Chaines Orange",537. TELECONGO  (DRM)
+rtp://@232.0.2.39:8200
+#EXTINF:0 group-title="Chaines Orange",538. ORTB  (DRM)
+rtp://@232.0.2.4:8200
+#EXTINF:0 group-title="Chaines Orange",539. RTG1  (DRM)
+rtp://@232.0.2.30:8200
+#EXTINF:0 group-title="Chaines Orange",540. AFRICABLE  (DRM)
+rtp://@232.0.1.209:8200
+#EXTINF:0 group-title="Chaines Orange",541. RTNC  (DRM)
+rtp://@232.0.1.50:8200
+#EXTINF:0 group-title="Chaines Orange",542. Canal 2 International  (DRM)
+rtp://@232.0.1.29:8200
+#EXTINF:0 group-title="Chaines Orange",543. LCF  (DRM)
+rtp://@232.0.1.41:8200
+#EXTINF:0 group-title="Chaines Orange",544. RTG  (DRM)
+rtp://@232.0.1.30:8200
+#EXTINF:0 group-title="Chaines Orange",547. Walf TV  (DRM)
+rtp://@232.0.2.26:8200
+#EXTINF:0 group-title="Chaines Orange",548. AFRICA BOX  (DRM)
+rtp://@232.0.1.95:8200
+#EXTINF:0 group-title="Chaines Orange",549. EUROSTAR
+rtp://@232.0.1.43:8200
+#EXTINF:0 group-title="Chaines Orange",999. Be In Sport 1 (DRM)
+rtp://@232.0.9.3:8200
+
+#EXTINF:0 group-title="Chaine Sfr",[I][B][COLOR yellow]---Chaine Sfr---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+#EXTINF:0 group-title="Chaine Sfr",France 2
+http://80.118.196.219/webtv-asx.cgi?channel=france_2
+#EXTINF:0 group-title="Chaine Sfr",France 3
+http://80.118.196.219/webtv-asx.cgi?channel=france_3
+#EXTINF:0 group-title="Chaine Sfr",France 5
+http://80.118.196.219/webtv-asx.cgi?channel=france_5
+#EXTINF:0 group-title="Chaine Sfr",Arte
+http://80.118.196.219/webtv-asx.cgi?channel=arte
+#EXTINF:0 group-title="Chaine Sfr",Direct 8
+http://80.118.196.219/webtv-asx.cgi?channel=direct_8
+#EXTINF:0 group-title="Chaine Sfr",NT1
+http://80.118.196.219/webtv-asx.cgi?channel=nt1
+#EXTINF:0 group-title="Chaine Sfr",NRJ 12
+http://80.118.196.219/webtv-asx.cgi?channel=nrj12
+#EXTINF:0 group-title="Chaine Sfr",La chaine parlementaire
+http://80.118.196.219/webtv-asx.cgi?channel=lcp
+#EXTINF:0 group-title="Chaine Sfr",France 4
+http://80.118.196.219/webtv-asx.cgi?channel=france_4
+#EXTINF:0 group-title="Chaine Sfr",BFM TV
+http://80.118.196.219/webtv-asx.cgi?channel=bfm_tv
+#EXTINF:0 group-title="Chaine Sfr",TV5
+http://80.118.196.219/webtv-asx.cgi?channel=tv5_monde
+#EXTINF:0 group-title="Chaine Sfr",France o
+http://80.118.196.219/webtv-asx.cgi?channel=france_o
+#EXTINF:0 group-title="Chaine Sfr",Euronews
+http://80.118.196.219/webtv-asx.cgi?channel=euronews
+#EXTINF:0 group-title="Chaine Sfr",Aljazeera
+http://80.118.196.219/webtv-asx.cgi?channel=aljazeera
+#EXTINF:0 group-title="Chaine Sfr",Liberty TV
+http://80.118.196.219/webtv-asx.cgi?channel=liberty_tv
+#EXTINF:0 group-title="Chaine Sfr",Beur TV
+http://80.118.196.219/webtv-asx.cgi?channel=beur_tv
+#EXTINF:0 group-title="Chaine Sfr",NRJ Hits
+http://80.118.196.219/webtv-asx.cgi?channel=nrj_hits
+#EXTINF:0 group-title="Chaine Sfr",KTO
+http://80.118.196.219/webtv-asx.cgi?channel=kto
+#EXTINF:0 group-title="Chaine Sfr",Apsara
+http://80.118.196.219/webtv-asx.cgi?channel=apsara
