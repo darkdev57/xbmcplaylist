@@ -9,110 +9,106 @@
 #EXTINF:-1,[I][B][COLOR yellow]---? Chaines Temporaires ?---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-#EXTINF:-1 group-title="WebTV-FR 1",FR:W9
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/408.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Teva HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2599.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:TF1 HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/407.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Teletoon
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2329.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Disney CH HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2199.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:RTL 9
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2320.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:MFM
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2319.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:13 Rue
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2322.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Tiji
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2336.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:M6 Music
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2165.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Planete +
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/406.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Planete+ CI HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/405.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:France 2
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/404.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:EUROSPORT 1
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2198.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:BFM
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2343.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Discove Science HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2612.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:National Geographic
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/403.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Science & Vie
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2344.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Canal+ HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2340.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Canal J
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2597.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Canal+ Sport HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/400.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Canal+  Series
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/399.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Canal  Family
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/401.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Canal  Cinema
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/397.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Boing
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2608.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Bein Sport 3 HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/201.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Bein Sport 2 HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/200.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Bein Sport 1 HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/199.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Animaux
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2206.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Foot+
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2606.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR: NATIONAL GEO WILD HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2614.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Boomerang
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2339.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Cine Plus Premier
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2601.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Canal+ Famiz HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2600.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR: Cine  Emotion HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2602.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Canal+ Frisson
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2603.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Canal+ Classic HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2604.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:CANAL SPORT
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2332.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR: CANAL FAMILYHD()
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2324.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Cine FX
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2325.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:CANAL+ CINEMA HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2323.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Weo
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2341.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:OSC Max
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2318.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:France 4
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2317.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:France 3
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2316.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Syfy
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2315.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Action
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2337.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR :Science & Vie
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2615.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR : Planete+ Thalase   HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2611.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR : OCS City hd
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2598.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR : National Geographique channel
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2613.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FR:Serie Club HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/2605.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",TF1
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/1.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",France 2
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/2.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",France 3
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/3.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",France 4
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/4.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",France 5
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/5.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",FRANCE O
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/15.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",arte
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/24.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",M6
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/6.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",canal +
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/55.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Canal + Decale
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/22.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Canal + Family
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/150.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",canal + cinema
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/10.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Canal + Series
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/224.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Canal + Sport
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/7.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Ocs Choc
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/248.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",6TER
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/95.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",HD1
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/100.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",D8
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/40.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",D17
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/27.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",W9
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/57.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",RTL 9
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/34.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",TMC
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/47.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",NT1
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/173.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",NUMERO 23
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/154.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",nrj 12
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/23.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",cherie 25
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/8.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",RMC DECOUVERTE
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/83.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",VOYAGE
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/159.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Planet +
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/81.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Planete-ci
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/139.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",NAT GEO FR
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/223.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Discovery
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/182.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Discovery Science
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/29.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Nat Geo Wild FR
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/215.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Chasse & Peche
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/51.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",RTS un
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/180.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",RTS deux
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/181.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",GULLI
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/48.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",TV5 monde
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/160.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",France 24 fr
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/142.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",BFM TV
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/9.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",EuroNews
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/74.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",I tele
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/26.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",TELE MB
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/54.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Rouge
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/30.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",enorme tv
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/157.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",weo
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/21.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",GRAND LILLE TV
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/33.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",foot +24/24
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/146.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",Infosport+
+http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/109.m3u8
  
 #EXTINF:-1,[COLOR pink][I][B]CHAINES - TV CLUB[/B][/I][/COLOR] [B] - Creer un compte sur le site (www.teleclub.fr) d avoir acces a toutes les chaines[/B]
 http://0.0.0.0:1234
