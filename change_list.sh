@@ -1,6 +1,7 @@
 #!/bin/sh
 for i in {1..100}; do ping -c1 www.google.com &> /dev/null && break; done
-curl -s https://raw.githubusercontent.com/darkdev57/xbmcplaylist/master/playlist.m3u > /storage/playlist_new.m3u
+#curl -s https://raw.githubusercontent.com/darkdev57/xbmcplaylist/master/playlist.m3u > /storage/playlist_new.m3u
+curl -s http://kodilive.eu/tv/ > /storage/playlist_new.m3u
 #curl -s https://raw.githubusercontent.com/darkdev57/xbmcplaylist/master/playlist.m3u > /storage/playlist.m3u
 chmod 744 /storage/playlist_new.m3u
 #chmod 744 /storage/playlist.m3u
