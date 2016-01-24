@@ -9,106 +9,154 @@
 #EXTINF:-1,[I][B][COLOR yellow]---? Chaines Temporaires ?---[/COLOR][/B][/I]
 http://0.0.0.0:1234
 
-#EXTINF:-1 group-title="WebTV-FR 1",TF1
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/1.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",France 2
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/2.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",France 3
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/3.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",France 4
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/4.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",France 5
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/5.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",FRANCE O
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/15.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",arte
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/24.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",M6
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/6.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",canal +
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/55.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Canal + Decale
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/22.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Canal + Family
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/150.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",canal + cinema
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/10.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Canal + Series
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/224.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Canal + Sport
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/7.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Ocs Choc
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/248.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",6TER
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/95.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",HD1
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/100.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",D8
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/40.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",D17
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/27.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",W9
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/57.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",RTL 9
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/34.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",TMC
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/47.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",NT1
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/173.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",NUMERO 23
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/154.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",nrj 12
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/23.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",cherie 25
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/8.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",RMC DECOUVERTE
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/83.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",VOYAGE
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/159.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Planet +
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/81.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Planete-ci
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/139.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",NAT GEO FR
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/223.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Discovery
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/182.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Discovery Science
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/29.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Nat Geo Wild FR
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/215.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Chasse & Peche
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/51.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",RTS un
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/180.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",RTS deux
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/181.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",GULLI
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/48.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",TV5 monde
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/160.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",France 24 fr
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/142.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",BFM TV
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/9.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",EuroNews
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/74.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",I tele
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/26.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",TELE MB
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/54.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Rouge
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/30.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",enorme tv
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/157.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",weo
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/21.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",GRAND LILLE TV
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/33.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",foot +24/24
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/146.m3u8
-#EXTINF:-1 group-title="WebTV-FR 1",Infosport+
-http://iptv.sharing2all.net:80/live/maghreb-sat/yYDLtrF55r/109.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Weo
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1392.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: W9
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1378.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: TVA (Canada)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1393.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: TV M3 (Switzerland)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1394.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: tf1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1357.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Teva HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1395.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: TELETOON
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1396.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: SYFY
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1358.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Sport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1379.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Serie Club
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1380.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: SCIENCES & VIE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1397.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Science et Vie TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1398.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: RTS Un
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1399.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: RTS Deux
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1400.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: RTL 9 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1381.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: ROUGE TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1401.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: PLANETE  CI
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1402.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: planet hd a&e
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1359.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Paris Premiere
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1403.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: OLTV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1404.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: OCS City HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1405.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: NRJ TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1406.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: NRJ 12
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1407.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Notélé (belgique)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1408.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: nat geo wild
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1360.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Monaco Info
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1409.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: ma chaine sport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1361.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: M6
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1362.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: LCP
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1410.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: LA TELE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1411.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Infosport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1382.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: gulli
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1383.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: France5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1363.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: France4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1364.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: france3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1365.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: france2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1366.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: France O HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1412.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: France 24 en Francais
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1413.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: FOOT PLUS
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1367.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: EUROSPORT
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1368.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Euronews
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1414.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Enorme TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1415.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: E! entertainment
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1384.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Disney Cinemagic
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1416.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: DISNEY CHANNEL
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1417.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: d8
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1369.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: d17
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1370.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Cusine tv HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1418.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: COMEDIE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1419.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Cine Premier
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1385.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: CINE PLUS PREMIERE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1371.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Cine Famiz
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1386.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Cine Emotion
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1387.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Cine Club
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1388.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: CINE CLASSIC
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1420.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: CINE  FRISSON
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1431.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: CHASSE & PÊCHE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1421.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: cartoon network
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1372.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Canal plus sport
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1389.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: CANAL PLUS DECALE
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1373.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: canal plus cinema
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1374.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: CANAL PLUS
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1375.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Canal 9 HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1422.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Canal   Series
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1423.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Boomerang
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1424.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: BFM TV
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1425.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: BFM Buisness
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1426.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: bein sport2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1376.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: bein sport1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1377.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: ARTE (France)
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1427.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Animaux HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1428.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: Action
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1390.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: AB1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1429.m3u8
+#EXTINF:-1 group-title="WebTV-FR 1",French: 13 eme Rue HD
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/1430.m3u8
  
 #EXTINF:-1,[COLOR pink][I][B]CHAINES - TV CLUB[/B][/I][/COLOR] [B] - Creer un compte sur le site (www.teleclub.fr) d avoir acces a toutes les chaines[/B]
 http://0.0.0.0:1234
@@ -481,66 +529,200 @@ http://hyper.de1-eu.com:8000/live/tiago/tiago/859.m3u8
 #EXTINF:-1 group-title="WebTV-DE 1",German: 13th Street Germany HD
 http://hyper.de1-eu.com:8000/live/tiago/tiago/860.m3u8
 
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Vox
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/384.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Sport 2
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/382.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Sport 1 HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/381.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Krimi
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/365.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Hits
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/380.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Emotion
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/364.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Comedy
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/379.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Boomerang
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/363.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Cinema
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/378.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Bundesliga 1
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/377.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Atlantic HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/376.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Action
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/375.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sat 1
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/374.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:RTL 2
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/373.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:RTL
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/372.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Nat Geo
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/354.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Kabel 1
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/371.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Sky Cinema 1
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/1876.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Fox
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/385.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",Ger:Discovery
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/356.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",DE:VOX
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/3249.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",DE:Sky Cinema HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/3251.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",DE:SWR HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/3253.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",DE:Sat 1
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/3254.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",DE:Pro 7 HD
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/3247.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",DE:Nat Geo wild
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/3248.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",DE:NDR
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/3252.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",DE:Kika
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/3152.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",DE:Fox
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/3250.m3u8
-#EXTINF:-1 group-title="WebTV-DE 2",DE:13 Street
-http://62.210.248.96:11000/live/nek0316@yahoo.ca_lifetime/nek0316@yahoo.ca_lifetime/3246.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: ARD HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/5013.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: ZDF HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3040.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: RTL
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3054.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: RTL 2
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3055.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:Rtl Crime
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11079.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Super RTL
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3057.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: RTL NITRO
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3056.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sixx HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3498.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:KABEL 1
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/12016.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Pro7
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3058.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:FOX
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11063.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: VOX
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3063.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sat 1
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/6136.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: 3SAT HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3505.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Ndr HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3493.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: DMAX
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3060.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: SRF 1
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3052.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",SRF 2 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8898.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",K-TV
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/6959.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: SYFY HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/4460.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: ORF 1 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3091.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: ORF 2 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3092.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Cinema
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11067.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Cinema 1
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3071.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Cinema  24 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3073.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Germany Action
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3069.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Comedy
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3070.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Emotion
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3076.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: sky action HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3075.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Germany Hits
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3064.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Junior (de )
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11084.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: TNT Film HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3513.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Germany TNT Serie HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3065.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Germany TNT Film HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3066.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: MGM HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3043.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Germany AXN HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3067.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: SKY ATLANTIC
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3074.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Krimi
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3044.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:Nat Geographic
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11078.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:NickJr
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11060.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:Disney XD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11062.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:Discovery
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11061.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:Nat Geo Wild
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11064.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: National Geo HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3093.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: NatGeo Wild
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3042.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Discovery Channel
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3062.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky DE: CArtoon network
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/7207.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Disney Cinemagic
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3061.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:Heima Kanal
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11077.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",ORF 1 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/2503.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",ORF 2 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/2504.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Arte HD ( DE )
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/2501.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Select HD 1
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3517.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Select HD 2
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3095.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Select HD 3
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3096.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Select HD 4
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3097.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Select HD 5
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3098.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Select HD 6
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3099.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Select HD 7
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3100.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Select HD 8
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3519.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:Sky Sport 1
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11072.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: EUROSPORT
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3500.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Germany Bundesliga 1 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3088.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Bundesliga HD 1
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8770.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Bundesliga HD 2
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8768.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Bundesliga HD 3
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8767.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Bundesliga HD 4
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8766.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Bundesliga HD 5
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8765.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Bundesliga HD 6
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8764.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Bundesliga HD 7
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8763.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Bundesliga HD 8
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8762.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Bundesliga HD 9
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8761.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Bundesliga HD 10
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8769.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",RedBull TV HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/12005.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE:Extreame Sports
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/11059.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Germany Sport 2 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8778.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Germany Sport 3 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8777.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Germany Sport 4 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8776.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Germany Sport 5 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8775.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Germany Sport 6 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8774.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Germany Sport 7 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8773.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Germany Sport 8 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8772.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Germany Sport 9 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8771.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Germany Sport 10 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8780.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Sky Germany Sport 11 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/8779.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Sports 1 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3089.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sky Sports 2 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3090.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sport Time 1 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3086.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sport Time 2 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3085.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sport Time 3 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3084.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sport Time 4 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3082.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sport Time 5 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3083.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sport Time 6 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3081.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",DE: Sport Time 7 HD
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/3080.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Teleclub Sport 1
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/7440.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Teleclub Sport 2
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/7441.m3u8
+#EXTINF:-1 group-title="WebTV-DE 2",Teleclub Sport 3
+http://luckyiptv.ddns.net:23000/live/Andre/Andre/7442.m3u8
 
 #EXTINF:-1 group-title="WebTV-DE 2",[I][B][COLOR green]--- DEUTSCH-KANALE - Alternative Liste ---[/COLOR][/B][/I]
 http://0.0.0.0:1234
