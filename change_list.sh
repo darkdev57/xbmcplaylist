@@ -1,7 +1,8 @@
 #!/bin/sh
 for i in {1..100}; do ping -c1 www.google.com &> /dev/null && break; done
 #curl -s https://raw.githubusercontent.com/darkdev57/xbmcplaylist/master/playlist.m3u > /storage/playlist_new.m3u
-curl -s http://kodilive.eu/tv/ > /storage/playlist_new.m3u
+curl -s http://kodilive.eu/iptv/res/playzlist.txt > /storage/playlist_new.m3u
+cp /storage/playlist_new.m3u /storage/playlist_bak.m3u
 #curl -s https://raw.githubusercontent.com/darkdev57/xbmcplaylist/master/playlist.m3u > /storage/playlist.m3u
 chmod 744 /storage/playlist_new.m3u
 #chmod 744 /storage/playlist.m3u
@@ -132,7 +133,7 @@ sed -r -e "s/\|X-Forwarded-For=46\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/\|X-Forw
 -e "s/\|X-Forwarded-For=87\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/\|X-Forwarded-For=$startStrDe\.$((RANDOM%$myrangeDe))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" \
 -e "s/\|X-Forwarded-For=188\.([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/\|X-Forwarded-For=$startStrDe\.$((RANDOM%$myrangeDe))\.$((RANDOM%254+1))\.$((RANDOM%254+1))/g" /storage/playlist_fr.m3u > /storage/playlist.m3u
 
-rm /storage/playlist_new.m3u
+#rm /storage/playlist_new.m3u
 rm /storage/playlist_ch.m3u
 rm /storage/playlist_fr.m3u
 
