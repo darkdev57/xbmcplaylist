@@ -1,0 +1,1107 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-logo="france2.png" tvg-name="france2" group-title="Freebox-HD",France 2 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd
+#EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-logo="france2.png" tvg-name="france2" group-title="Freebox-SD",France 2 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
+#EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-logo="france2.png" tvg-name="france2" group-title="Freebox-SD",France 2 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=ld
+#EXTINF:-1 tvg-id="FRA2.kazer.org" tvg-logo="france2.png" tvg-name="france2" group-title="Freebox-Auto",France 2 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-logo="france3.png" tvg-name="france3" group-title="Freebox-SD",France 3 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=ld
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-logo="france3.png" tvg-name="france3" group-title="Freebox-HD",France 3 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-logo="france3.png" tvg-name="france3" group-title="Freebox-SD",France 3 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=sd
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-logo="france3.png" tvg-name="france3" group-title="Freebox-Auto",France 3 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202
+#EXTINF:-1 tvg-id="FRA5.kazer.org" tvg-logo="france5.png" tvg-name="france5" group-title="Freebox-SD",France 5 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=sd
+#EXTINF:-1 tvg-id="FRA5.kazer.org" tvg-logo="france5.png" tvg-name="france5" group-title="Freebox-Auto",France 5 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203
+#EXTINF:-1 tvg-id="FRA5.kazer.org" tvg-logo="france5.png" tvg-name="france5" group-title="Freebox-HD",France 5 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=hd
+#EXTINF:-1 tvg-id="ART1.kazer.org" tvg-logo="arte.png" tvg-name="arte" group-title="Freebox-HD",Arte (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=hd
+#EXTINF:-1 tvg-id="ART1.kazer.org" tvg-logo="arte.png" tvg-name="arte" group-title="Freebox-SD",Arte (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=sd
+#EXTINF:-1 tvg-id="ART1.kazer.org" tvg-logo="arte.png" tvg-name="arte" group-title="Freebox-SD",Arte (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=ld
+#EXTINF:-1 tvg-id="ART1.kazer.org" tvg-logo="arte.png" tvg-name="arte" group-title="Freebox-Auto",Arte (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
+#EXTINF:-1 tvg-id="" tvg-logo="d8.png" tvg-name="d8" group-title="Freebox-SD",D8 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tmc.png" tvg-name="tmc" group-title="Freebox-SD",TMC (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tmc.png" tvg-name="tmc" group-title="Freebox-SD",TMC (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tmc.png" tvg-name="tmc" group-title="Freebox-HD",TMC (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="tmc.png" tvg-name="tmc" group-title="Freebox-Auto",TMC (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497
+#EXTINF:-1 tvg-id="" tvg-logo="nt1.png" tvg-name="nt1" group-title="Freebox-HD",NT1 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="nt1.png" tvg-name="nt1" group-title="Freebox-SD",NT1 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="nt1.png" tvg-name="nt1" group-title="Freebox-SD",NT1 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="nt1.png" tvg-name="nt1" group-title="Freebox-Auto",NT1 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374
+#EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-logo="nrj12.png" tvg-name="nrj12" group-title="Freebox-SD",NRJ 12 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=ld
+#EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-logo="nrj12.png" tvg-name="nrj12" group-title="Freebox-HD",NRJ 12 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=hd
+#EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-logo="nrj12.png" tvg-name="nrj12" group-title="Freebox-SD",NRJ 12 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=sd
+#EXTINF:-1 tvg-id="NRJ1.kazer.org" tvg-logo="nrj12.png" tvg-name="nrj12" group-title="Freebox-Auto",NRJ 12 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375
+#EXTINF:-1 tvg-id="" tvg-logo="lacha?neparlementaire.png" tvg-name="lacha?neparlementaire" group-title="Freebox-SD",La Cha?ne Parlementaire (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="lacha?neparlementaire.png" tvg-name="lacha?neparlementaire" group-title="Freebox-Auto",La Cha?ne Parlementaire (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226
+#EXTINF:-1 tvg-id="" tvg-logo="lacha?neparlementaire.png" tvg-name="lacha?neparlementaire" group-title="Freebox-SD",La Cha?ne Parlementaire (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226&flavour=sd
+#EXTINF:-1 tvg-id="FRA4.kazer.org" tvg-logo="france4.png" tvg-name="france4" group-title="Freebox-SD",France 4 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=sd
+#EXTINF:-1 tvg-id="FRA4.kazer.org" tvg-logo="france4.png" tvg-name="france4" group-title="Freebox-SD",France 4 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=ld
+#EXTINF:-1 tvg-id="FRA4.kazer.org" tvg-logo="france4.png" tvg-name="france4" group-title="Freebox-HD",France 4 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=hd
+#EXTINF:-1 tvg-id="FRA4.kazer.org" tvg-logo="france4.png" tvg-name="france4" group-title="Freebox-Auto",France 4 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376
+#EXTINF:-1 tvg-id="" tvg-logo="bfmtv.png" tvg-name="bfmtv" group-title="Freebox-HD",BFM TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="bfmtv.png" tvg-name="bfmtv" group-title="Freebox-SD",BFM TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="bfmtv.png" tvg-name="bfmtv" group-title="Freebox-SD",BFM TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="bfmtv.png" tvg-name="bfmtv" group-title="Freebox-Auto",BFM TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400
+#EXTINF:-1 tvg-id="" tvg-logo="itele.png" tvg-name="itele" group-title="Freebox-SD",iTELE (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=679&flavour=sd
+#EXTINF:-1 tvg-id="EUR2.kazer.org" tvg-logo="d17.png" tvg-name="d17" group-title="Freebox-Auto",D17 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678
+#EXTINF:-1 tvg-id="EUR2.kazer.org" tvg-logo="d17.png" tvg-name="d17" group-title="Freebox-HD",D17 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678&flavour=hd
+#EXTINF:-1 tvg-id="EUR2.kazer.org" tvg-logo="d17.png" tvg-name="d17" group-title="Freebox-SD",D17 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france?.png" tvg-name="france?" group-title="Freebox-SD",France ? (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=238&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="l'equipe21.png" tvg-name="l'equipe21" group-title="Freebox-HD",L'Equipe 21 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="l'equipe21.png" tvg-name="l'equipe21" group-title="Freebox-SD",L'Equipe 21 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="l'equipe21.png" tvg-name="l'equipe21" group-title="Freebox-Auto",L'Equipe 21 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994
+#EXTINF:-1 tvg-id="" tvg-logo="num?ro23.png" tvg-name="num?ro23" group-title="Freebox-HD",Num?ro 23 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="num?ro23.png" tvg-name="num?ro23" group-title="Freebox-SD",Num?ro 23 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="num?ro23.png" tvg-name="num?ro23" group-title="Freebox-Auto",Num?ro 23 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996
+#EXTINF:-1 tvg-id="" tvg-logo="rmcd?couverte.png" tvg-name="rmcd?couverte" group-title="Freebox-HD",RMC D?couverte (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="rmcd?couverte.png" tvg-name="rmcd?couverte" group-title="Freebox-SD",RMC D?couverte (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rmcd?couverte.png" tvg-name="rmcd?couverte" group-title="Freebox-Auto",RMC D?couverte (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997
+#EXTINF:-1 tvg-id="" tvg-logo="ch?rie25.png" tvg-name="ch?rie25" group-title="Freebox-HD",Ch?rie 25 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="ch?rie25.png" tvg-name="ch?rie25" group-title="Freebox-SD",Ch?rie 25 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="ch?rie25.png" tvg-name="ch?rie25" group-title="Freebox-Auto",Ch?rie 25 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998
+#EXTINF:-1 tvg-id="" tvg-logo="parispremi?re.png" tvg-name="parispremi?re" group-title="Freebox-SD",Paris Premi?re (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="teva.png" tvg-name="teva" group-title="Freebox-SD",TEVA (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404&flavour=ld
+#EXTINF:-1 tvg-id="RTL2.kazer.org" tvg-logo="rtl9.png" tvg-name="rtl9" group-title="Freebox-SD",RTL9 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=ld
+#EXTINF:-1 tvg-id="RTL2.kazer.org" tvg-logo="rtl9.png" tvg-name="rtl9" group-title="Freebox-HD",RTL9 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=hd
+#EXTINF:-1 tvg-id="RTL2.kazer.org" tvg-logo="rtl9.png" tvg-name="rtl9" group-title="Freebox-Auto",RTL9 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210
+#EXTINF:-1 tvg-id="" tvg-logo="qvc.png" tvg-name="qvc" group-title="Freebox-HD",QVC (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="qvc.png" tvg-name="qvc" group-title="Freebox-SD",QVC (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="qvc.png" tvg-name="qvc" group-title="Freebox-Auto",QVC (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121
+#EXTINF:-1 tvg-id="" tvg-logo="action.png" tvg-name="action" group-title="Freebox-HD",Action (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="action.png" tvg-name="action" group-title="Freebox-SD",Action (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="action.png" tvg-name="action" group-title="Freebox-Auto",Action (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242
+#EXTINF:-1 tvg-id="" tvg-logo="cin?polar.png" tvg-name="cin?polar" group-title="Freebox-Auto",Cin? Polar (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=244
+#EXTINF:-1 tvg-id="" tvg-logo="cin?polar.png" tvg-name="cin?polar" group-title="Freebox-HD",Cin? Polar (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=244&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="cin?polar.png" tvg-name="cin?polar" group-title="Freebox-SD",Cin? Polar (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=244&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="cin?fx.png" tvg-name="cin?fx" group-title="Freebox-Auto",Cin? FX (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=243
+#EXTINF:-1 tvg-id="" tvg-logo="cin?fx.png" tvg-name="cin?fx" group-title="Freebox-HD",Cin? FX (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=243&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="cin?fx.png" tvg-name="cin?fx" group-title="Freebox-SD",Cin? FX (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=243&flavour=ld
+#EXTINF:-1 tvg-id="VIV1.kazer.org" tvg-logo="vivolta.png" tvg-name="vivolta" group-title="Freebox-SD",Vivolta (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=940&flavour=ld
+#EXTINF:-1 tvg-id="AB11.kazer.org" tvg-logo="ab1.png" tvg-name="ab1" group-title="Freebox-HD",AB 1 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=hd
+#EXTINF:-1 tvg-id="AB11.kazer.org" tvg-logo="ab1.png" tvg-name="ab1" group-title="Freebox-SD",AB 1 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=ld
+#EXTINF:-1 tvg-id="AB11.kazer.org" tvg-logo="ab1.png" tvg-name="ab1" group-title="Freebox-Auto",AB 1 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211
+#EXTINF:-1 tvg-id="" tvg-logo="paramountchannel.png" tvg-name="paramountchannel" group-title="Freebox-Auto",Paramount Channel (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050
+#EXTINF:-1 tvg-id="" tvg-logo="paramountchannel.png" tvg-name="paramountchannel" group-title="Freebox-HD",Paramount Channel (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="paramountchannel.png" tvg-name="paramountchannel" group-title="Freebox-SD",Paramount Channel (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="m6music.png" tvg-name="m6music" group-title="Freebox-SD",M6 Music (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=430&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="gameone.png" tvg-name="gameone" group-title="Freebox-Auto",Game One (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220
+#EXTINF:-1 tvg-id="" tvg-logo="gameone.png" tvg-name="gameone" group-title="Freebox-HD",Game One (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="gameone.png" tvg-name="gameone" group-title="Freebox-SD",Game One (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tracetropical.png" tvg-name="tracetropical" group-title="Freebox-Auto",Trace Tropical (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769
+#EXTINF:-1 tvg-id="" tvg-logo="tracetropical.png" tvg-name="tracetropical" group-title="Freebox-HD",Trace Tropical (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="tracetropical.png" tvg-name="tracetropical" group-title="Freebox-SD",Trace Tropical (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="traceurban.png" tvg-name="traceurban" group-title="Freebox-Auto",Trace Urban (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228
+#EXTINF:-1 tvg-id="" tvg-logo="traceurban.png" tvg-name="traceurban" group-title="Freebox-HD",Trace Urban (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="traceurban.png" tvg-name="traceurban" group-title="Freebox-SD",Trace Urban (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="gameonemusichd.png" tvg-name="gameonemusichd" group-title="Freebox-HD",Game One Music HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=799&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="virginradiotv.png" tvg-name="virginradiotv" group-title="Freebox-SD",Virgin Radio TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1071&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mezzo.png" tvg-name="mezzo" group-title="Freebox-SD",Mezzo (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=265&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="mezzolivehd.png" tvg-name="mezzolivehd" group-title="Freebox-HD",Mezzo Live HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=858&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="mcm.png" tvg-name="mcm" group-title="Freebox-SD",MCM (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=621&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="mcmtop.png" tvg-name="mcmtop" group-title="Freebox-SD",MCM TOP (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=622&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="rfmtv.png" tvg-name="rfmtv" group-title="Freebox-SD",RFM TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=623&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="clubbingtv.png" tvg-name="clubbingtv" group-title="Freebox-HD",Clubbing TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="clubbingtv.png" tvg-name="clubbingtv" group-title="Freebox-SD",Clubbing TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="clubbingtv.png" tvg-name="clubbingtv" group-title="Freebox-Auto",Clubbing TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767
+#EXTINF:-1 tvg-id="" tvg-logo="melody.png" tvg-name="melody" group-title="Freebox-SD",Melody (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=237&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tracetoca.png" tvg-name="tracetoca" group-title="Freebox-SD",Trace Toca (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1137&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tracegospel.png" tvg-name="tracegospel" group-title="Freebox-SD",Trace Gospel (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1136&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tracegospel.png" tvg-name="tracegospel" group-title="Freebox-Auto",Trace Gospel (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1136
+#EXTINF:-1 tvg-id="" tvg-logo="tracegospel.png" tvg-name="tracegospel" group-title="Freebox-HD",Trace Gospel (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1136&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="foxnews.png" tvg-name="foxnews" group-title="Freebox-SD",Fox News (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1073&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tv5monde.png" tvg-name="tv5monde" group-title="Freebox-HD",TV5 Monde (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="tv5monde.png" tvg-name="tv5monde" group-title="Freebox-SD",TV5 Monde (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tv5monde.png" tvg-name="tv5monde" group-title="Freebox-Auto",TV5 Monde (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206
+#EXTINF:-1 tvg-id="" tvg-logo="bfmbusiness.png" tvg-name="bfmbusiness" group-title="Freebox-HD",BFM Business (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="bfmbusiness.png" tvg-name="bfmbusiness" group-title="Freebox-SD",BFM Business (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="bfmbusiness.png" tvg-name="bfmbusiness" group-title="Freebox-Auto",BFM Business (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897
+#EXTINF:-1 tvg-id="" tvg-logo="euronewsint.png" tvg-name="euronewsint" group-title="Freebox-SD",Euronews Int (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=949&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="euronews.png" tvg-name="euronews" group-title="Freebox-SD",Euronews (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=205&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="bloombergtv.png" tvg-name="bloombergtv" group-title="Freebox-SD",Bloomberg TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=207&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="aljazeerainternational.png" tvg-name="aljazeerainternational" group-title="Freebox-SD",Al Jazeera International (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=494&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="skynewsinternational.png" tvg-name="skynewsinternational" group-title="Freebox-SD",Sky News International (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=355&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="i24news.png" tvg-name="i24news" group-title="Freebox-SD",i24 News (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1048&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="cnbc.png" tvg-name="cnbc" group-title="Freebox-SD",CNBC (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=208&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="lcp-assembl?enationale24h/24.png" tvg-name="lcp-assembl?enationale24h/24" group-title="Freebox-SD",LCP - Assembl?e Nationale 24h/24 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="publics?nat.png" tvg-name="publics?nat" group-title="Freebox-SD",Public S?nat (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="campagnestv.png" tvg-name="campagnestv" group-title="Freebox-SD",Campagnes TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1029&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="campagnestv.png" tvg-name="campagnestv" group-title="Freebox-Auto",Campagnes TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1029
+#EXTINF:-1 tvg-id="" tvg-logo="campagnestv.png" tvg-name="campagnestv" group-title="Freebox-HD",Campagnes TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1029&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="arretsurimagestv.png" tvg-name="arretsurimagestv" group-title="Freebox-SD",Arretsurimages.tv (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=738&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france24.png" tvg-name="france24" group-title="Freebox-SD",France 24 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france24english.png" tvg-name="france24english" group-title="Freebox-SD",France 24 English (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=740&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france24arab.png" tvg-name="france24arab" group-title="Freebox-SD",France 24 Arab (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=741&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="gong.png" tvg-name="gong" group-title="Freebox-HD",GONG (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="gong.png" tvg-name="gong" group-title="Freebox-SD",GONG (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="gong.png" tvg-name="gong" group-title="Freebox-Auto",GONG (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045
+#EXTINF:-1 tvg-id="" tvg-logo="kztv.png" tvg-name="kztv" group-title="Freebox-HD",KZTV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=801&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="kztv.png" tvg-name="kztv" group-title="Freebox-SD",KZTV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=801&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="kztv.png" tvg-name="kztv" group-title="Freebox-Auto",KZTV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=801
+#EXTINF:-1 tvg-id="" tvg-logo="bet.png" tvg-name="bet" group-title="Freebox-HD",BET (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="bet.png" tvg-name="bet" group-title="Freebox-SD",BET (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="bet.png" tvg-name="bet" group-title="Freebox-Auto",BET (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135
+#EXTINF:-1 tvg-id="" tvg-logo="gameone+1.png" tvg-name="gameone+1" group-title="Freebox-SD",Game One +1 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=979&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="star24.png" tvg-name="star24" group-title="Freebox-Auto",Star 24 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1111
+#EXTINF:-1 tvg-id="" tvg-logo="star24.png" tvg-name="star24" group-title="Freebox-HD",Star 24 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1111&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="star24.png" tvg-name="star24" group-title="Freebox-SD",Star 24 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1111&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="luckyjack.png" tvg-name="luckyjack" group-title="Freebox-Auto",Lucky Jack (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891
+#EXTINF:-1 tvg-id="" tvg-logo="luckyjack.png" tvg-name="luckyjack" group-title="Freebox-HD",Lucky Jack (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="luckyjack.png" tvg-name="luckyjack" group-title="Freebox-SD",Lucky Jack (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="men'suptv.png" tvg-name="men'suptv" group-title="Freebox-SD",Men's Up TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=878&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="nolife.png" tvg-name="nolife" group-title="Freebox-SD",Nolife (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=658&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="nolife.png" tvg-name="nolife" group-title="Freebox-Auto",Nolife (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=658
+#EXTINF:-1 tvg-id="" tvg-logo="nolife.png" tvg-name="nolife" group-title="Freebox-HD",Nolife (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=658&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="gongmax.png" tvg-name="gongmax" group-title="Freebox-SD",GONG MAX (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="gongmax.png" tvg-name="gongmax" group-title="Freebox-Auto",GONG MAX (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813
+#EXTINF:-1 tvg-id="" tvg-logo="gongmax.png" tvg-name="gongmax" group-title="Freebox-HD",GONG MAX (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="enormetv.png" tvg-name="enormetv" group-title="Freebox-SD",Enorme TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1037&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="enormetv.png" tvg-name="enormetv" group-title="Freebox-Auto",Enorme TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1037
+#EXTINF:-1 tvg-id="" tvg-logo="enormetv.png" tvg-name="enormetv" group-title="Freebox-HD",Enorme TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1037&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="mangas.png" tvg-name="mangas" group-title="Freebox-SD",Mangas (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=253&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mangas.png" tvg-name="mangas" group-title="Freebox-Auto",Mangas (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=253
+#EXTINF:-1 tvg-id="" tvg-logo="mangas.png" tvg-name="mangas" group-title="Freebox-HD",Mangas (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=253&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="ftvhd.png" tvg-name="ftvhd" group-title="Freebox-HD",FTV HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=454&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="ginx.png" tvg-name="ginx" group-title="Freebox-SD",Ginx (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=618&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="eurochannel.png" tvg-name="eurochannel" group-title="Freebox-HD",Eurochannel (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=959&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="fashiontv.png" tvg-name="fashiontv" group-title="Freebox-SD",Fashion TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=221&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="worldfashion.png" tvg-name="worldfashion" group-title="Freebox-SD",World Fashion (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=724&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="ectv.png" tvg-name="ectv" group-title="Freebox-SD",ECTV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1082&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tracesportstars.png" tvg-name="tracesportstars" group-title="Freebox-SD",Trace Sport Stars (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=965&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tracesportstars.png" tvg-name="tracesportstars" group-title="Freebox-Auto",Trace Sport Stars (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=965
+#EXTINF:-1 tvg-id="" tvg-logo="tracesportstars.png" tvg-name="tracesportstars" group-title="Freebox-HD",Trace Sport Stars (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=965&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="equidialive.png" tvg-name="equidialive" group-title="Freebox-SD",Equidia Live (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=212&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="equidialive.png" tvg-name="equidialive" group-title="Freebox-Auto",Equidia Live (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=212
+#EXTINF:-1 tvg-id="" tvg-logo="equidialive.png" tvg-name="equidialive" group-title="Freebox-HD",Equidia Live (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=212&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="fightboxhd.png" tvg-name="fightboxhd" group-title="Freebox-HD",Fight Box HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=969&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="sport365tv.png" tvg-name="sport365tv" group-title="Freebox-HD",Sport 365 TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=982&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="abmoteurs.png" tvg-name="abmoteurs" group-title="Freebox-SD",AB Moteurs (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="abmoteurs.png" tvg-name="abmoteurs" group-title="Freebox-HD",AB Moteurs (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="abmoteurs.png" tvg-name="abmoteurs" group-title="Freebox-Auto",AB Moteurs (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222
+#EXTINF:-1 tvg-id="" tvg-logo="motorvision.png" tvg-name="motorvision" group-title="Freebox-HD",Motorvision (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1127&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="premierefutebolclube.png" tvg-name="premierefutebolclube" group-title="Freebox-SD",Premiere Futebol Clube (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=755&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="golfchannel.png" tvg-name="golfchannel" group-title="Freebox-HD",Golf Channel (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=892&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="golfchannel.png" tvg-name="golfchannel" group-title="Freebox-SD",Golf Channel (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=892&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="golfchannel.png" tvg-name="golfchannel" group-title="Freebox-Auto",Golf Channel (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=892
+#EXTINF:-1 tvg-id="" tvg-logo="ikono.png" tvg-name="ikono" group-title="Freebox-HD",Ikono (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1072&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="travelchannel.png" tvg-name="travelchannel" group-title="Freebox-SD",Travel Channel (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=772&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="purescreensnaturehd.png" tvg-name="purescreensnaturehd" group-title="Freebox-HD",Purescreens Nature HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=825&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="nauticalchannel.png" tvg-name="nauticalchannel" group-title="Freebox-HD",Nautical Channel (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="nauticalchannel.png" tvg-name="nauticalchannel" group-title="Freebox-SD",Nautical Channel (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="nauticalchannel.png" tvg-name="nauticalchannel" group-title="Freebox-Auto",Nautical Channel (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255
+#EXTINF:-1 tvg-id="" tvg-logo="ouatchtv.png" tvg-name="ouatchtv" group-title="Freebox-HD",Ouatch TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1076&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="ouatchtv.png" tvg-name="ouatchtv" group-title="Freebox-SD",Ouatch TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1076&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="ouatchtv.png" tvg-name="ouatchtv" group-title="Freebox-Auto",Ouatch TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1076
+#EXTINF:-1 tvg-id="" tvg-logo="trek.png" tvg-name="trek" group-title="Freebox-HD",Trek (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="trek.png" tvg-name="trek" group-title="Freebox-SD",Trek (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="trek.png" tvg-name="trek" group-title="Freebox-Auto",Trek (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252
+#EXTINF:-1 tvg-id="" tvg-logo="luxetv.png" tvg-name="luxetv" group-title="Freebox-Auto",Luxe.TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460
+#EXTINF:-1 tvg-id="" tvg-logo="luxetv.png" tvg-name="luxetv" group-title="Freebox-HD",Luxe.TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="luxetv.png" tvg-name="luxetv" group-title="Freebox-SD",Luxe.TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="histoire.png" tvg-name="histoire" group-title="Freebox-SD",Histoire (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="toutel'histoire.png" tvg-name="toutel'histoire" group-title="Freebox-SD",Toute l'Histoire (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="toutel'histoire.png" tvg-name="toutel'histoire" group-title="Freebox-HD",Toute l'Histoire (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="toutel'histoire.png" tvg-name="toutel'histoire" group-title="Freebox-Auto",Toute l'Histoire (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250
+#EXTINF:-1 tvg-id="" tvg-logo="animaux.png" tvg-name="animaux" group-title="Freebox-HD",Animaux (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="animaux.png" tvg-name="animaux" group-title="Freebox-SD",Animaux (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="animaux.png" tvg-name="animaux" group-title="Freebox-Auto",Animaux (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248
+#EXTINF:-1 tvg-id="" tvg-logo="chasseetp?che.png" tvg-name="chasseetp?che" group-title="Freebox-Auto",Chasse et p?che (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=249
+#EXTINF:-1 tvg-id="" tvg-logo="chasseetp?che.png" tvg-name="chasseetp?che" group-title="Freebox-HD",Chasse et p?che (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=249&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="chasseetp?che.png" tvg-name="chasseetp?che" group-title="Freebox-SD",Chasse et p?che (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=249&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="science&vietv.png" tvg-name="science&vietv" group-title="Freebox-Auto",Science & Vie TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251
+#EXTINF:-1 tvg-id="" tvg-logo="science&vietv.png" tvg-name="science&vietv" group-title="Freebox-HD",Science & Vie TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="science&vietv.png" tvg-name="science&vietv" group-title="Freebox-SD",Science & Vie TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="demaintv.png" tvg-name="demaintv" group-title="Freebox-SD",Demain.tv (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=227&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="kto.png" tvg-name="kto" group-title="Freebox-SD",KTO (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=223&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="myzentv.png" tvg-name="myzentv" group-title="Freebox-HD",MyZen.tv (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=770&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="myzentv.png" tvg-name="myzentv" group-title="Freebox-SD",MyZen.tv (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=770&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="myzentv.png" tvg-name="myzentv" group-title="Freebox-Auto",MyZen.tv (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=770
+#EXTINF:-1 tvg-id="" tvg-logo="3atelesud.png" tvg-name="3atelesud" group-title="Freebox-SD",3A Telesud (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=356&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="themuseumchannel.png" tvg-name="themuseumchannel" group-title="Freebox-HD",The Museum Channel (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=906&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="souvenirsfromearth.png" tvg-name="souvenirsfromearth" group-title="Freebox-SD",Souvenirs from Earth (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="souvenirsfromearth.png" tvg-name="souvenirsfromearth" group-title="Freebox-Auto",Souvenirs from Earth (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710
+#EXTINF:-1 tvg-id="" tvg-logo="souvenirsfromearth.png" tvg-name="souvenirsfromearth" group-title="Freebox-HD",Souvenirs from Earth (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="astrocentertv.png" tvg-name="astrocentertv" group-title="Freebox-SD",Astro Center TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=415&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="m6boutique&co.png" tvg-name="m6boutique&co" group-title="Freebox-SD",M6 Boutique & Co (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=359&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="m6boutique&co.png" tvg-name="m6boutique&co" group-title="Freebox-Auto",M6 Boutique & Co (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=359
+#EXTINF:-1 tvg-id="" tvg-logo="m6boutique&co.png" tvg-name="m6boutique&co" group-title="Freebox-SD",M6 Boutique & Co (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=359&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="bestofshopping.png" tvg-name="bestofshopping" group-title="Freebox-SD",Best of Shopping (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=358&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="bestofshopping.png" tvg-name="bestofshopping" group-title="Freebox-Auto",Best of Shopping (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=358
+#EXTINF:-1 tvg-id="" tvg-logo="bestofshopping.png" tvg-name="bestofshopping" group-title="Freebox-SD",Best of Shopping (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=358&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="macha?neetudiante.png" tvg-name="macha?neetudiante" group-title="Freebox-SD",Ma Cha?ne Etudiante (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=831&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="cmusic.png" tvg-name="cmusic" group-title="Freebox-SD",C Music (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=683&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="vh1.png" tvg-name="vh1" group-title="Freebox-SD",VH1 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=233&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="vh1classic.png" tvg-name="vh1classic" group-title="Freebox-SD",VH1 Classic (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=232&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="bravahd.png" tvg-name="bravahd" group-title="Freebox-HD",Brava HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=820&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="rocktv.png" tvg-name="rocktv" group-title="Freebox-SD",Rock TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=759&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="jukebox.png" tvg-name="jukebox" group-title="Freebox-SD",Jukebox (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=758&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="deluxeloungehd.png" tvg-name="deluxeloungehd" group-title="Freebox-HD",Deluxe Lounge HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=887&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="beblack.png" tvg-name="beblack" group-title="Freebox-SD",BeBlack (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=918&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="j4t.png" tvg-name="j4t" group-title="Freebox-SD",J4T (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=981&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="ofive.png" tvg-name="ofive" group-title="Freebox-SD",OFIVE (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=910&flavour=ld
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-logo="france3.png" tvg-name="france3" group-title="Freebox-SD",France 3 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=ld
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-logo="france3.png" tvg-name="france3" group-title="Freebox-HD",France 3 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-logo="france3.png" tvg-name="france3" group-title="Freebox-SD",France 3 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=sd
+#EXTINF:-1 tvg-id="FRA3.kazer.org" tvg-logo="france3.png" tvg-name="france3" group-title="Freebox-Auto",France 3 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202
+#EXTINF:-1 tvg-id="" tvg-logo="france3alpes.png" tvg-name="france3alpes" group-title="Freebox-SD",France 3 Alpes (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=283&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3alsace.png" tvg-name="france3alsace" group-title="Freebox-SD",France 3 Alsace (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=280&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3aquitaine.png" tvg-name="france3aquitaine" group-title="Freebox-SD",France 3 Aquitaine (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=284&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3auvergne.png" tvg-name="france3auvergne" group-title="Freebox-SD",France 3 Auvergne (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=285&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3basse-normandie.png" tvg-name="france3basse-normandie" group-title="Freebox-SD",France 3 Basse-Normandie (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=298&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3bourgogne.png" tvg-name="france3bourgogne" group-title="Freebox-SD",France 3 Bourgogne (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=279&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3bretagne.png" tvg-name="france3bretagne" group-title="Freebox-SD",France 3 Bretagne (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=286&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3centre.png" tvg-name="france3centre" group-title="Freebox-SD",France 3 Centre (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=287&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3champagne-ardenne.png" tvg-name="france3champagne-ardenne" group-title="Freebox-SD",France 3 Champagne-Ardenne (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=288&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3corseviastella.png" tvg-name="france3corseviastella" group-title="Freebox-SD",France 3 Corse Via Stella (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=289&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3c?te-d'azur.png" tvg-name="france3c?te-d'azur" group-title="Freebox-SD",France 3 C?te-d'Azur (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=290&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3franche-comt?.png" tvg-name="france3franche-comt?" group-title="Freebox-SD",France 3 Franche-Comt? (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=291&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3haute-normandie.png" tvg-name="france3haute-normandie" group-title="Freebox-SD",France 3 Haute-Normandie (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=297&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3languedoc-roussillon.png" tvg-name="france3languedoc-roussillon" group-title="Freebox-SD",France 3 Languedoc-Roussillon (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=292&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3limousin.png" tvg-name="france3limousin" group-title="Freebox-SD",France 3 Limousin (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=293&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3lorraine.png" tvg-name="france3lorraine" group-title="Freebox-SD",France 3 Lorraine (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=294&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3midipyr?n?es.png" tvg-name="france3midipyr?n?es" group-title="Freebox-SD",France 3 Midi Pyr?n?es (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=295&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3nordpas-de-calais.png" tvg-name="france3nordpas-de-calais" group-title="Freebox-SD",France 3 Nord Pas-de-Calais (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=296&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3parisile-de-france.png" tvg-name="france3parisile-de-france" group-title="Freebox-SD",France 3 Paris Ile-de-France (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=257&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3paysdeloire.png" tvg-name="france3paysdeloire" group-title="Freebox-SD",France 3 Pays de Loire (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=299&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3picardie.png" tvg-name="france3picardie" group-title="Freebox-SD",France 3 Picardie (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=300&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3poitou-charentes.png" tvg-name="france3poitou-charentes" group-title="Freebox-SD",France 3 Poitou-Charentes (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=301&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3provence-alpes.png" tvg-name="france3provence-alpes" group-title="Freebox-SD",France 3 Provence-Alpes (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=302&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="france3rh?ne-alpes.png" tvg-name="france3rh?ne-alpes" group-title="Freebox-SD",France 3 Rh?ne-Alpes (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=303&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="grandlilletv.png" tvg-name="grandlilletv" group-title="Freebox-SD",Grand Lille TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=826&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tv7bordeaux.png" tvg-name="tv7bordeaux" group-title="Freebox-SD",TV7 Bordeaux (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=268&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="8mont-blanc.png" tvg-name="8mont-blanc" group-title="Freebox-SD",8 Mont-Blanc (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=319&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="t?l?grenoble.png" tvg-name="t?l?grenoble" group-title="Freebox-SD",T?l?Grenoble (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=423&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="telif.png" tvg-name="telif" group-title="Freebox-SD",Telif (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=360&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="lalocale.png" tvg-name="lalocale" group-title="Freebox-SD",La Locale (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=363&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="lacha?nenormande.png" tvg-name="lacha?nenormande" group-title="Freebox-SD",La Cha?ne Normande (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1125&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="t?l?nantesnantes7.png" tvg-name="t?l?nantesnantes7" group-title="Freebox-SD",T?l?nantes Nantes 7 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=389&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="lacha?nemarseille.png" tvg-name="lacha?nemarseille" group-title="Freebox-SD",La Cha?ne Marseille (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=414&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tvtours.png" tvg-name="tvtours" group-title="Freebox-SD",TV Tours (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=493&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="bfmbusinessparis.png" tvg-name="bfmbusinessparis" group-title="Freebox-SD",BFM Business Paris (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=898&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="idf1.png" tvg-name="idf1" group-title="Freebox-SD",IDF 1 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=689&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="localesiledefrance.png" tvg-name="localesiledefrance" group-title="Freebox-SD",Locales Ile de France (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=756&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="alsace20.png" tvg-name="alsace20" group-title="Freebox-SD",Alsace 20 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=753&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tvfil78.png" tvg-name="tvfil78" group-title="Freebox-SD",TV Fil 78 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=855&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="w?o.png" tvg-name="w?o" group-title="Freebox-SD",W?o (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=832&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tlm.png" tvg-name="tlm" group-title="Freebox-SD",TLM (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=267&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="valenciennestv.png" tvg-name="valenciennestv" group-title="Freebox-SD",Valenciennes TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=958&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="canal10guadeloupe.png" tvg-name="canal10guadeloupe" group-title="Freebox-SD",Canal 10 Guadeloupe (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=929&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="yvelinespremi?re.png" tvg-name="yvelinespremi?re" group-title="Freebox-SD",Yvelines Premi?re (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=895&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvsudcamarguec?vennes.png" tvg-name="tvsudcamarguec?vennes" group-title="Freebox-SD",TV SUD Camargue C?vennes (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=880&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mirabelletv.png" tvg-name="mirabelletv" group-title="Freebox-SD",Mirabelle TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=907&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="vosgestelevision.png" tvg-name="vosgestelevision" group-title="Freebox-SD",Vosges Television (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=900&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvsudmontpellier.png" tvg-name="tvsudmontpellier" group-title="Freebox-SD",TV SUD Montpellier (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=930&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="maritimatv.png" tvg-name="maritimatv" group-title="Freebox-SD",Maritima TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=951&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvvend?e.png" tvg-name="tvvend?e" group-title="Freebox-SD",TV Vend?e (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=964&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tna.png" tvg-name="tna" group-title="Freebox-SD",TNA (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=482&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tvr.png" tvg-name="tvr" group-title="Freebox-SD",TVR (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvr.png" tvg-name="tvr" group-title="Freebox-Auto",TVR (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063
+#EXTINF:-1 tvg-id="" tvg-logo="tvr.png" tvg-name="tvr" group-title="Freebox-HD",TVR (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="t?b?sud.png" tvg-name="t?b?sud" group-title="Freebox-SD",T?b?sud (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1064&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="t?b?sud.png" tvg-name="t?b?sud" group-title="Freebox-Auto",T?b?sud (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1064
+#EXTINF:-1 tvg-id="" tvg-logo="t?b?sud.png" tvg-name="t?b?sud" group-title="Freebox-HD",T?b?sud (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1064&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="t?b?o.png" tvg-name="t?b?o" group-title="Freebox-SD",T?b?o (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1065&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="t?b?o.png" tvg-name="t?b?o" group-title="Freebox-Auto",T?b?o (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1065
+#EXTINF:-1 tvg-id="" tvg-logo="t?b?o.png" tvg-name="t?b?o" group-title="Freebox-HD",T?b?o (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1065&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="dcitv.png" tvg-name="dcitv" group-title="Freebox-SD",D!CI TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1066&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mfmtv.png" tvg-name="mfmtv" group-title="Freebox-HD",MFM TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1067&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="mfmtv.png" tvg-name="mfmtv" group-title="Freebox-SD",MFM TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1067&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mfmtv.png" tvg-name="mfmtv" group-title="Freebox-Auto",MFM TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1067
+#EXTINF:-1 tvg-id="" tvg-logo="t?l?antilles.png" tvg-name="t?l?antilles" group-title="Freebox-SD",T?l? Antilles (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1084&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tl7.png" tvg-name="tl7" group-title="Freebox-SD",TL7 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1108&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvpi.png" tvg-name="tvpi" group-title="Freebox-SD",TVPI (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1107&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="azurtv.png" tvg-name="azurtv" group-title="Freebox-SD",Azur TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1130&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="godtv.png" tvg-name="godtv" group-title="Freebox-SD",God TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=386&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="noursat.png" tvg-name="noursat" group-title="Freebox-SD",Noursat (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1069&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="daystar.png" tvg-name="daystar" group-title="Freebox-SD",Daystar (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1141&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="bbcentertainment.png" tvg-name="bbcentertainment" group-title="Freebox-SD",BBC Entertainment (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=413&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="ubiznews.png" tvg-name="ubiznews" group-title="Freebox-SD",UbizNews (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1110&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tpa.png" tvg-name="tpa" group-title="Freebox-SD",TPA (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1115&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tnh.png" tvg-name="tnh" group-title="Freebox-SD",TNH (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1129&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="hlive.png" tvg-name="hlive" group-title="Freebox-SD",HLive (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1126&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="antennea.png" tvg-name="antennea" group-title="Freebox-SD",Antenne A (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1143&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="b-onetv.png" tvg-name="b-onetv" group-title="Freebox-SD",B-One TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1085&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="ma?shatv.png" tvg-name="ma?shatv" group-title="Freebox-SD",Ma?sha TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1086&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="sentv.png" tvg-name="sentv" group-title="Freebox-SD",Sen TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1087&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvt.png" tvg-name="tvt" group-title="Freebox-SD",TVT (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1088&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rtb.png" tvg-name="rtb" group-title="Freebox-SD",RTB (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=774&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="ortb.png" tvg-name="ortb" group-title="Freebox-SD",ORTB (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=810&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tfm.png" tvg-name="tfm" group-title="Freebox-SD",TFM (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=960&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="canal2.png" tvg-name="canal2" group-title="Freebox-SD",Canal 2 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=781&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="crtv.png" tvg-name="crtv" group-title="Freebox-SD",CRTV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=782&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="stv2.png" tvg-name="stv2" group-title="Freebox-SD",STV2 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=783&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="equinoxetv.png" tvg-name="equinoxetv" group-title="Freebox-SD",Equinoxe TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=833&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="traceafrica.png" tvg-name="traceafrica" group-title="Freebox-SD",Trace Africa (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=963&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="t?l?congo.png" tvg-name="t?l?congo" group-title="Freebox-SD",T?l? Congo (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=784&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="nollywood.png" tvg-name="nollywood" group-title="Freebox-SD",Nollywood (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=800&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rti1.png" tvg-name="rti1" group-title="Freebox-SD",RTI 1 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=941&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="gabont?l?vision.png" tvg-name="gabont?l?vision" group-title="Freebox-SD",Gabon T?l?vision (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=916&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rtg.png" tvg-name="rtg" group-title="Freebox-SD",RTG (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=917&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="gospelmusictv.png" tvg-name="gospelmusictv" group-title="Freebox-SD",Gospel Music TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1116&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="ortm.png" tvg-name="ortm" group-title="Freebox-SD",ORTM (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=785&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="2stv.png" tvg-name="2stv" group-title="Freebox-SD",2STV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=786&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="rts.png" tvg-name="rts" group-title="Freebox-SD",RTS (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=787&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="africable.png" tvg-name="africable" group-title="Freebox-SD",Africable (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=788&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="sud1ere.png" tvg-name="sud1ere" group-title="Freebox-SD",SUD1ere (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1068&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvm.png" tvg-name="tvm" group-title="Freebox-SD",TVM (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1124&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="ortc.png" tvg-name="ortc" group-title="Freebox-SD",ORTC (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=888&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mbcsat.png" tvg-name="mbcsat" group-title="Freebox-SD",MBC Sat (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1123&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="telekreol.png" tvg-name="telekreol" group-title="Freebox-SD",Telekreol (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1120&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="voxafrica.png" tvg-name="voxafrica" group-title="Freebox-SD",Vox Africa (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=773&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="africabox.png" tvg-name="africabox" group-title="Freebox-SD",Africabox (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=811&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="outremer5tv.png" tvg-name="outremer5tv" group-title="Freebox-SD",OutreMer 5 TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=468&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="mboatv.png" tvg-name="mboatv" group-title="Freebox-SD",MBOA TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=837&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="lbcsat.png" tvg-name="lbcsat" group-title="Freebox-SD",LBC Sat (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1099&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="medi1tv.png" tvg-name="medi1tv" group-title="Freebox-SD",Medi1TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=730&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="canalalg?rie.png" tvg-name="canalalg?rie" group-title="Freebox-SD",Canal Alg?rie (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=274&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="alg?rie3.png" tvg-name="alg?rie3" group-title="Freebox-SD",Alg?rie 3 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=943&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="alg?rie5.png" tvg-name="alg?rie5" group-title="Freebox-SD",Alg?rie 5 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=944&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tamazighttv4.png" tvg-name="tamazighttv4" group-title="Freebox-SD",Tamazight TV4 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=945&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="alerthalnabawi.png" tvg-name="alerthalnabawi" group-title="Freebox-SD",Al Erth Al Nabawi (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1090&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="beurtv.png" tvg-name="beurtv" group-title="Freebox-SD",Beur TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=225&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="berb?retv.png" tvg-name="berb?retv" group-title="Freebox-SD",Berb?re TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=256&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="berb?rejeunesse.png" tvg-name="berb?rejeunesse" group-title="Freebox-SD",Berb?re Jeunesse (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=936&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="berb?remusic.png" tvg-name="berb?remusic" group-title="Freebox-SD",Berb?re Music (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=937&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="alahly.png" tvg-name="alahly" group-title="Freebox-SD",Al Ahly (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1093&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="alresalah.png" tvg-name="alresalah" group-title="Freebox-SD",Al Resalah (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=922&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rotanaaflam.png" tvg-name="rotanaaflam" group-title="Freebox-SD",Rotana Aflam (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1094&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rotanacinema.png" tvg-name="rotanacinema" group-title="Freebox-SD",Rotana Cinema (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=920&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rotanaclip.png" tvg-name="rotanaclip" group-title="Freebox-SD",Rotana Clip (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=923&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rotanakhalijia.png" tvg-name="rotanakhalijia" group-title="Freebox-SD",Rotana Khalijia (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=921&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rotanamasriya.png" tvg-name="rotanamasriya" group-title="Freebox-SD",Rotana Masriya (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1095&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rotanamusicchannel.png" tvg-name="rotanamusicchannel" group-title="Freebox-SD",Rotana Music Channel (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=924&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rotanaclassic.png" tvg-name="rotanaclassic" group-title="Freebox-SD",Rotana Classic (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=925&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="cctv-documentaire.png" tvg-name="cctv-documentaire" group-title="Freebox-SD",CCTV-Documentaire (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=948&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="cctv4.png" tvg-name="cctv4" group-title="Freebox-SD",CCTV4 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=469&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="cctv-news.png" tvg-name="cctv-news" group-title="Freebox-SD",CCTV-News (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=479&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="cctvf.png" tvg-name="cctvf" group-title="Freebox-SD",CCTV F (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=480&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="cctvdivertissement.png" tvg-name="cctvdivertissement" group-title="Freebox-SD",CCTV Divertissement (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=470&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="lacha?nechinoise.png" tvg-name="lacha?nechinoise" group-title="Freebox-SD",La cha?ne chinoise (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=471&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="beijingtv.png" tvg-name="beijingtv" group-title="Freebox-SD",Beijing TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=472&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="shanghaidragontv.png" tvg-name="shanghaidragontv" group-title="Freebox-SD",Shanghai Dragon TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=473&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="lacha?neinternationaledejiangsu.png" tvg-name="lacha?neinternationaledejiangsu" group-title="Freebox-SD",La cha?ne internationale de Jiangsu (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=474&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="hunansatellitetv.png" tvg-name="hunansatellitetv" group-title="Freebox-SD",Hunan Satellite TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=475&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="xiamenstartv.png" tvg-name="xiamenstartv" group-title="Freebox-SD",Xiamen Star TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=476&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="zhejiangstartv.png" tvg-name="zhejiangstartv" group-title="Freebox-SD",Zhejiang Star TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=477&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="guangdongsoutherntv.png" tvg-name="guangdongsoutherntv" group-title="Freebox-SD",Guangdong Southern TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=478&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="phoenixinfonews.png" tvg-name="phoenixinfonews" group-title="Freebox-SD",Phoenix Infonews (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=481&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="phoenixchinesenewsandentertainment.png" tvg-name="phoenixchinesenewsandentertainment" group-title="Freebox-SD",Phoenix Chinese News and Entertainment (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=266&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="zeetv.png" tvg-name="zeetv" group-title="Freebox-SD",Zee TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=420&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="zeecinema.png" tvg-name="zeecinema" group-title="Freebox-SD",Zee Cinema (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=421&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="arirang.png" tvg-name="arirang" group-title="Freebox-SD",Arirang (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=894&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mandarintv.png" tvg-name="mandarintv" group-title="Freebox-SD",Mandarin TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1131&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mandarintv.png" tvg-name="mandarintv" group-title="Freebox-Auto",Mandarin TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1131
+#EXTINF:-1 tvg-id="" tvg-logo="mandarintv.png" tvg-name="mandarintv" group-title="Freebox-HD",Mandarin TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1131&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="b4umusic.png" tvg-name="b4umusic" group-title="Freebox-SD",B4U Music (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=904&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvromania.png" tvg-name="tvromania" group-title="Freebox-SD",TV Romania (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=318&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="protvint.png" tvg-name="protvint" group-title="Freebox-SD",Pro TV Int. (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=961&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="antena3.png" tvg-name="antena3" group-title="Freebox-SD",Antena 3 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1101&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="atresseries.png" tvg-name="atresseries" group-title="Freebox-HD",Atres Series (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1102&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="atresseries.png" tvg-name="atresseries" group-title="Freebox-SD",Atres Series (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1102&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="atresseries.png" tvg-name="atresseries" group-title="Freebox-Auto",Atres Series (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1102
+#EXTINF:-1 tvg-id="" tvg-logo="solmusica.png" tvg-name="solmusica" group-title="Freebox-SD",Sol Musica (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1103&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tv3cataluna.png" tvg-name="tv3cataluna" group-title="Freebox-SD",TV3 Cataluna (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1104&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="galiciatv.png" tvg-name="galiciatv" group-title="Freebox-SD",Galicia TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1105&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="etbsat.png" tvg-name="etbsat" group-title="Freebox-SD",ETB Sat (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=371&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mis.png" tvg-name="mis" group-title="Freebox-SD",MIS (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1106&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="telesur.png" tvg-name="telesur" group-title="Freebox-SD",Telesur (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=729&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="ritmosonlatino.png" tvg-name="ritmosonlatino" group-title="Freebox-SD",Ritmoson Latino (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=407&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="depelicula.png" tvg-name="depelicula" group-title="Freebox-SD",De pelicula (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=408&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tlnovelas.png" tvg-name="tlnovelas" group-title="Freebox-SD",TL Novelas (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=409&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="canaldelasestrellas.png" tvg-name="canaldelasestrellas" group-title="Freebox-SD",Canal de las Estrellas (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=410&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="telehit.png" tvg-name="telehit" group-title="Freebox-SD",Telehit (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=411&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tvei.png" tvg-name="tvei" group-title="Freebox-SD",TVE I (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=306&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="canal24horas.png" tvg-name="canal24horas" group-title="Freebox-SD",Canal 24 Horas (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=307&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="antenna1.png" tvg-name="antenna1" group-title="Freebox-SD",Antenna 1 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=771&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="raiuno.png" tvg-name="raiuno" group-title="Freebox-SD",Rai Uno (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=309&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="raidue.png" tvg-name="raidue" group-title="Freebox-SD",Rai Due (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=314&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="raitre.png" tvg-name="raitre" group-title="Freebox-SD",Rai Tre (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=315&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="mediasetitalia.png" tvg-name="mediasetitalia" group-title="Freebox-SD",Mediaset Italia (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=839&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvn24.png" tvg-name="tvn24" group-title="Freebox-SD",TVN 24 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=794&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tamazighttv.png" tvg-name="tamazighttv" group-title="Freebox-SD",Tamazight TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1138&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="almagharibia.png" tvg-name="almagharibia" group-title="Freebox-SD",Al Magharibia (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1142&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="imedtv.png" tvg-name="imedtv" group-title="Freebox-SD",IMED TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=838&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="ennahar.png" tvg-name="ennahar" group-title="Freebox-SD",Ennahar (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1070&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="skyturk.png" tvg-name="skyturk" group-title="Freebox-SD",SkyTurk (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=913&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="ulusalkanal.png" tvg-name="ulusalkanal" group-title="Freebox-SD",Ulusal Kanal (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=914&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="arriyadia.png" tvg-name="arriyadia" group-title="Freebox-SD",Arriyadia (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=908&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="canalatlas.png" tvg-name="canalatlas" group-title="Freebox-SD",Canal Atlas (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1139&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvpolonia.png" tvg-name="tvpolonia" group-title="Freebox-SD",TV Polonia (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=278&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="itvn.png" tvg-name="itvn" group-title="Freebox-SD",ITVN (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=795&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="2mmaroc.png" tvg-name="2mmaroc" group-title="Freebox-SD",2M Maroc (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=272&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tvmeurope.png" tvg-name="tvmeurope" group-title="Freebox-SD",TVM Europe (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=273&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="elhiwarettounsi.png" tvg-name="elhiwarettounsi" group-title="Freebox-SD",El Hiwar Ettounsi (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1133&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="t?l?visiontunisienne.png" tvg-name="t?l?visiontunisienne" group-title="Freebox-SD",T?l?vision Tunisienne (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=277&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="almasriya.png" tvg-name="almasriya" group-title="Freebox-SD",Al Masriya (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=275&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="aljazeera.png" tvg-name="aljazeera" group-title="Freebox-SD",Al Jazeera (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=276&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="jeemtv.png" tvg-name="jeemtv" group-title="Freebox-SD",Jeem TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=412&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="artcinema.png" tvg-name="artcinema" group-title="Freebox-SD",ART Cinema (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=327&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="artaflam1.png" tvg-name="artaflam1" group-title="Freebox-SD",ART Aflam 1 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=328&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="arthekayat.png" tvg-name="arthekayat" group-title="Freebox-SD",Art Hekayat (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=330&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="iqraa.png" tvg-name="iqraa" group-title="Freebox-SD",Iqraa (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=331&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="artaflam2.png" tvg-name="artaflam2" group-title="Freebox-SD",ART Aflam 2 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=332&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="cima.png" tvg-name="cima" group-title="Freebox-SD",Cima (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=333&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="baraem.png" tvg-name="baraem" group-title="Freebox-SD",Baraem (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=750&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="lbceurope.png" tvg-name="lbceurope" group-title="Freebox-SD",LBC Europe (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=335&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="arthekayat2.png" tvg-name="arthekayat2" group-title="Freebox-SD",ART Hekayat 2 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=336&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="o'tv.png" tvg-name="o'tv" group-title="Freebox-SD",O'TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=685&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="powert?rktv.png" tvg-name="powert?rktv" group-title="Freebox-Auto",Powert?rk TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=489
+#EXTINF:-1 tvg-id="" tvg-logo="powert?rktv.png" tvg-name="powert?rktv" group-title="Freebox-HD",Powert?rk TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=489&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="powert?rktv.png" tvg-name="powert?rktv" group-title="Freebox-SD",Powert?rk TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=489&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="trt1.png" tvg-name="trt1" group-title="Freebox-SD",TRT1 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=490&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="kanald.png" tvg-name="kanald" group-title="Freebox-SD",Kanal D (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=463&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="startv.png" tvg-name="startv" group-title="Freebox-SD",Star TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=464&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="trtcocuk.png" tvg-name="trtcocuk" group-title="Freebox-SD",TRT Cocuk (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=798&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="atvavrupa.png" tvg-name="atvavrupa" group-title="Freebox-SD",ATV Avrupa (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=467&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="kanal24.png" tvg-name="kanal24" group-title="Freebox-SD",Kanal 24 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=435&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="trtint.png" tvg-name="trtint" group-title="Freebox-SD",TRT INT (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=369&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="kanal7int.png" tvg-name="kanal7int" group-title="Freebox-SD",Kanal 7 INT (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=370&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="samanyolutv.png" tvg-name="samanyolutv" group-title="Freebox-SD",Samanyolu TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=391&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tvt.png" tvg-name="tvt" group-title="Freebox-SD",TVT (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=436&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="hilaltv.png" tvg-name="hilaltv" group-title="Freebox-SD",Hilal TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=446&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tv5turkey.png" tvg-name="tv5turkey" group-title="Freebox-SD",TV5 Turkey (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=447&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tgrteu.png" tvg-name="tgrteu" group-title="Freebox-SD",TGRT EU (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=465&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tv8int.png" tvg-name="tv8int" group-title="Freebox-SD",TV8 Int (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=700&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="ntvavrupa.png" tvg-name="ntvavrupa" group-title="Freebox-SD",NTV Avrupa (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1109&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="halktv.png" tvg-name="halktv" group-title="Freebox-SD",Halk TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1046&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="geotv.png" tvg-name="geotv" group-title="Freebox-SD",GeoTV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=702&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="geonews.png" tvg-name="geonews" group-title="Freebox-SD",GeoNews (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=703&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="b4umovies.png" tvg-name="b4umovies" group-title="Freebox-SD",B4U Movies (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=704&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="vietnamvtv4.png" tvg-name="vietnamvtv4" group-title="Freebox-SD",Vietnam VTV4 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=723&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="ctn.png" tvg-name="ctn" group-title="Freebox-SD",CTN (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=708&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tvk.png" tvg-name="tvk" group-title="Freebox-SD",TVK (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=709&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="kbs.png" tvg-name="kbs" group-title="Freebox-SD",KBS (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=761&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="theisraelinetwork.png" tvg-name="theisraelinetwork" group-title="Freebox-SD",The Israeli Network (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=462&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="arteallemand.png" tvg-name="arteallemand" group-title="Freebox-SD",Arte Allemand (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=270&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="dw-tv.png" tvg-name="dw-tv" group-title="Freebox-SD",DW-TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=312&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="rtl.png" tvg-name="rtl" group-title="Freebox-SD",RTL (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=985&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rtl2.png" tvg-name="rtl2" group-title="Freebox-SD",RTL2 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=986&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="superrtl.png" tvg-name="superrtl" group-title="Freebox-SD",Super RTL (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=987&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rtlnitro.png" tvg-name="rtlnitro" group-title="Freebox-SD",RTL Nitro (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=988&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="vox.png" tvg-name="vox" group-title="Freebox-SD",Vox (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=989&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="prosieben.png" tvg-name="prosieben" group-title="Freebox-SD",ProSieben (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=990&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="sat1.png" tvg-name="sat1" group-title="Freebox-SD",Sat1 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=991&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="ntv.png" tvg-name="ntv" group-title="Freebox-SD",NTV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=992&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="n24.png" tvg-name="n24" group-title="Freebox-SD",N24 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1089&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="sic.png" tvg-name="sic" group-title="Freebox-SD",SIC (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=484&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="sicnoticias.png" tvg-name="sicnoticias" group-title="Freebox-SD",SIC Noticias (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1038&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tviinternational.png" tvg-name="tviinternational" group-title="Freebox-SD",TVI International (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1039&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="abolatv.png" tvg-name="abolatv" group-title="Freebox-SD",A Bola TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1041&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="portocanal.png" tvg-name="portocanal" group-title="Freebox-SD",Porto Canal (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1042&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="babytv.png" tvg-name="babytv" group-title="Freebox-SD",Baby TV (portugais) (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1043&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="canalq.png" tvg-name="canalq" group-title="Freebox-SD",Canal Q (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1049&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tvificcao.png" tvg-name="tvificcao" group-title="Freebox-SD",TVI  Ficcao (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1059&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="rtpi.png" tvg-name="rtpi" group-title="Freebox-SD",RTPi (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=388&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tvglobointernacional.png" tvg-name="tvglobointernacional" group-title="Freebox-SD",TV Globo Internacional (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=722&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="deepam.png" tvg-name="deepam" group-title="Freebox-SD",Deepam (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=903&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="kuwaittv.png" tvg-name="kuwaittv" group-title="Freebox-SD",Kuwait TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=717&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="yementv.png" tvg-name="yementv" group-title="Freebox-SD",Yemen TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=715&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="dubaitv.png" tvg-name="dubaitv" group-title="Freebox-SD",Dubai TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=748&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="abudhabitv.png" tvg-name="abudhabitv" group-title="Freebox-SD",Abu Dhabi TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=749&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="jordansatellitechannel.png" tvg-name="jordansatellitechannel" group-title="Freebox-SD",Jordan Satellite Channel (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=718&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="armeniapublictv.png" tvg-name="armeniapublictv" group-title="Freebox-SD",Armenia Public TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=380&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="armeniatv.png" tvg-name="armeniatv" group-title="Freebox-SD",Armenia TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=751&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="shanttv.png" tvg-name="shanttv" group-title="Freebox-SD",Shant TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=752&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="rossiya24.png" tvg-name="rossiya24" group-title="Freebox-SD",Rossiya 24 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=792&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="murrtv.png" tvg-name="murrtv" group-title="Freebox-SD",Murr TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=843&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="nbn.png" tvg-name="nbn" group-title="Freebox-SD",NBN (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=844&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="futuretv.png" tvg-name="futuretv" group-title="Freebox-SD",Future TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=845&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="nessma.png" tvg-name="nessma" group-title="Freebox-SD",Nessma (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=957&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="aljadeed.png" tvg-name="aljadeed" group-title="Freebox-SD",Al Jadeed (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=846&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="almajdholyquran.png" tvg-name="almajdholyquran" group-title="Freebox-SD",AlMajd Holy Quran (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=807&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="almajdalhadeethalnabawy.png" tvg-name="almajdalhadeethalnabawy" group-title="Freebox-SD",Almajd Al Hadeeth Al Nabawy (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=808&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="almajdspacechannel.png" tvg-name="almajdspacechannel" group-title="Freebox-SD",AlMajd Space Channel (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=809&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="iqraaint.png" tvg-name="iqraaint" group-title="Freebox-HD",Iqraa Int (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1035&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="azharitv.png" tvg-name="azharitv" group-title="Freebox-SD",Azhari TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=817&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="mazzika.png" tvg-name="mazzika" group-title="Freebox-SD",Mazzika (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=876&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="melodyaflam.png" tvg-name="melodyaflam" group-title="Freebox-SD",Melody Aflam (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=881&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="melodydrama.png" tvg-name="melodydrama" group-title="Freebox-SD",Melody Drama (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=882&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="samiratv.png" tvg-name="samiratv" group-title="Freebox-SD",Samira TV (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1132&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mbcmasr.png" tvg-name="mbcmasr" group-title="Freebox-SD",MBC Masr (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=884&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mbcdrama.png" tvg-name="mbcdrama" group-title="Freebox-SD",MBC Drama (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1091&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mbc3.png" tvg-name="mbc3" group-title="Freebox-SD",MBC 3 (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=902&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="mbc.png" tvg-name="mbc" group-title="Freebox-SD",MBC (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=334&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="alarabiya.png" tvg-name="alarabiya" group-title="Freebox-SD",Al Arabiya (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1092&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="nhk.png" tvg-name="nhk" group-title="Freebox-HD",NHK (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="nhk.png" tvg-name="nhk" group-title="Freebox-SD",NHK (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="nhk.png" tvg-name="nhk" group-title="Freebox-Auto",NHK (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812
+#EXTINF:-1 tvg-id="" tvg-logo="jstv1.png" tvg-name="jstv1" group-title="Freebox-SD",JSTV 1 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=814&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="jstv2.png" tvg-name="jstv2" group-title="Freebox-SD",JSTV 2 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=815&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="ntdtelevision.png" tvg-name="ntdtelevision" group-title="Freebox-SD",NTD Television (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=912&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="starvijay.png" tvg-name="starvijay" group-title="Freebox-SD",Star Vijay (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=968&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="starlifeok.png" tvg-name="starlifeok" group-title="Freebox-SD",Star Life OK (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=821&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="starjalsha.png" tvg-name="starjalsha" group-title="Freebox-SD",Star Jalsha (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=822&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="starplus.png" tvg-name="starplus" group-title="Freebox-SD",Star plus (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=823&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="stargold.png" tvg-name="stargold" group-title="Freebox-SD",Star gold (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=824&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="rtvpinkplus.png" tvg-name="rtvpinkplus" group-title="Freebox-SD",RTV Pink Plus (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=439&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="rtvpinkextra.png" tvg-name="rtvpinkextra" group-title="Freebox-SD",RTV Pink Extra (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=440&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="pinkfilm.png" tvg-name="pinkfilm" group-title="Freebox-SD",Pink Film (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=889&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="pinkmusic.png" tvg-name="pinkmusic" group-title="Freebox-SD",Pink Music (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=890&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="russiatoday.png" tvg-name="russiatoday" group-title="Freebox-HD",Russia Today (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=726&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="russiatoday.png" tvg-name="russiatoday" group-title="Freebox-SD",Russia Today (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=726&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="russiatoday.png" tvg-name="russiatoday" group-title="Freebox-Auto",Russia Today (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=726
+#EXTINF:-1 tvg-id="" tvg-logo="russiatodayespanol.png" tvg-name="russiatodayespanol" group-title="Freebox-HD",Russia Today Espanol (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=856&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="russiatodayespanol.png" tvg-name="russiatodayespanol" group-title="Freebox-SD",Russia Today Espanol (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=856&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="russiatodayespanol.png" tvg-name="russiatodayespanol" group-title="Freebox-Auto",Russia Today Espanol (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=856
+#EXTINF:-1 tvg-id="" tvg-logo="recordinternacional.png" tvg-name="recordinternacional" group-title="Freebox-HD",Record Internacional (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=728&flavour=hd
+#EXTINF:-1 tvg-id="" tvg-logo="recordinternacional.png" tvg-name="recordinternacional" group-title="Freebox-SD",Record Internacional (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=728&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="recordinternacional.png" tvg-name="recordinternacional" group-title="Freebox-Auto",Record Internacional (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=728
+#EXTINF:-1 tvg-id="" tvg-logo="russianalyaum.png" tvg-name="russianalyaum" group-title="Freebox-SD",Russian Al Yaum (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=899&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="recordnews.png" tvg-name="recordnews" group-title="Freebox-SD",Record News (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=909&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="karusel.png" tvg-name="karusel" group-title="Freebox-SD",Karusel (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=919&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="channel1russia.png" tvg-name="channel1russia" group-title="Freebox-SD",Channel 1 Russia (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=357&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="ctc.png" tvg-name="ctc" group-title="Freebox-SD",CTC (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1117&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="tntcomedy.png" tvg-name="tntcomedy" group-title="Freebox-TNT",TNT Comedy (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1118&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="rtrplaneta.png" tvg-name="rtrplaneta" group-title="Freebox-SD",RTR Planeta (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=317&flavour=sd
+#EXTINF:-1 tvg-id="" tvg-logo="tv1000kino.png" tvg-name="tv1000kino" group-title="Freebox-SD",TV1000 Kino (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1119&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="domkino.png" tvg-name="domkino" group-title="Freebox-SD",Dom Kino (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=840&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="muzikapervoyo.png" tvg-name="muzikapervoyo" group-title="Freebox-SD",Muzika Pervoyo (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=841&flavour=ld
+#EXTINF:-1 tvg-id="" tvg-logo="vremya.png" tvg-name="vremya" group-title="Freebox-SD",Vremya (bas d?bit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=842&flavour=ld
